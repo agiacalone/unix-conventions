@@ -22,6 +22,37 @@ Enforce code and documentation against three canonical sources: *The Art of Unix
 
 Load only the references needed for the task. All references are in the `references/` subdirectory of this skill.
 
+## Configuration
+
+Load preferences in this order (highest to lowest precedence):
+
+1. `.unix-conventions` in the project root
+2. `~/.config/unix-conventions/config` (user config)
+3. Skill defaults — ask
+
+Read whichever files exist and merge them, with higher-precedence files winning. If a setting is `ask` or absent in all files, follow the conflict rules below.
+
+## Conflicts Between Standards
+
+The three sources disagree on these points. **Do not assume — ask the user** unless the config file resolves it.
+
+| Conflict | POSIX | GNU | Resolution |
+|----------|-------|-----|------------|
+| `-h` option | Not reserved; tools use it for domain purposes (e.g., human-readable) | Reserved strictly for `--help` | Ask: is `-h` for help or domain use? |
+| Long options | Not defined | Required alongside short options | Ask: require long options, optional, or none? |
+| Options after operands | First non-option ends option parsing | Freely permuted | Ask: POSIX strict or GNU permutation? |
+| Shebang | `#!/bin/sh` for portability | `#!/bin/bash` when bash features used | Ask: must it be portable to non-bash? |
+| `printf` vs `echo` | Both defined; `echo` behaviour varies | Prefer `printf` | Ask: portability requirement? |
+| C indentation | Not specified | 2 spaces | Ask: gnu, kr (8-space tabs), or linux? |
+| `error()` function | Not defined | Recommended when on glibc | Ask: glibc-only acceptable? |
+
+When a conflict arises during review and no config setting covers it, stop and ask:
+
+> "This touches a conflict between [standard A] and [standard B]: [describe the conflict].
+> Which do you prefer, or should I note it as a warning without enforcing either?"
+
+Do not silently pick one. Do not assume GNU because it is more common.
+
 ## Checklists
 
 ### CLI Tool

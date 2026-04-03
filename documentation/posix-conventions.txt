@@ -1,0 +1,200 @@
+POSIX UTILITY CONVENTIONS
+A summary of IEEE Std 1003.1 (The Open Group Base Specifications)
+
+This document summarizes the utility conventions defined by POSIX. It is
+an original summary, not a reproduction of the standard. The authoritative
+text is at: https://pubs.opengroup.org/onlinepubs/9799919799/
+
+
+OPTION SYNTAX
+-------------
+
+Options are single characters preceded by a hyphen: -a, -b, -c
+
+Options that take arguments:
+  -o file       option and argument separated by whitespace
+  -ofile        option and argument adjacent (no space); both forms required
+
+Options without arguments may be clustered:
+  -abc          equivalent to -a -b -c
+
+The argument -- signals end of options. All following tokens are treated
+as operands (non-option arguments) even if they begin with a hyphen.
+
+A single - operand (not --) is conventionally used to mean standard input
+in place of a file argument.
+
+Options should precede operands. Utilities are not required to support
+options appearing after operands; portable scripts must not rely on this.
+
+Option names use lowercase letters. Digits are permitted but avoid them
+where a letter can serve. Do not use -- as a prefix for POSIX-defined
+options (that is a GNU extension).
+
+
+OPERANDS (ARGUMENTS)
+--------------------
+
+Operands follow options and their arguments. A utility must process all
+options before treating remaining tokens as operands, unless -- has been
+seen.
+
+When a utility accepts file arguments and none are given, it should read
+from standard input (the filter pattern).
+
+
+STANDARD STREAMS
+----------------
+
+  stdin  (fd 0)  Standard input
+  stdout (fd 1)  Standard output. Normal results go here.
+  stderr (fd 2)  Standard error. Diagnostic messages go here, never to
+                 stdout. A program that intermixes errors and data on
+                 stdout cannot be used in a pipeline.
+
+Diagnostic messages must be written to stderr regardless of whether stdout
+is a terminal.
+
+
+EXIT STATUS
+-----------
+
+  0       Successful completion
+  1-125   Failure. Specific meanings are utility-defined.
+  126     The command was found but could not be executed (permission error
+          or not an executable).
+  127     The command was not found.
+  128+n   Terminated by signal n (convention; not mandated by POSIX but
+          widely adopted).
+
+A utility must not exit with 0 when it fails. A utility must not exit
+with non-zero on success.
+
+When a utility processes multiple files and one fails, it should continue
+processing the remaining files and exit non-zero when done.
+
+
+ERROR MESSAGES
+--------------
+
+Error messages should identify the utility and the nature of the error:
+
+  utilityname: description
+
+When the error relates to a file:
+
+  utilityname: filename: description
+
+Messages should be brief, lowercase, without trailing period. Write them
+to stderr.
+
+
+ENVIRONMENT VARIABLES
+---------------------
+
+POSIX defines a set of standard environment variables that utilities must
+respect. The most relevant:
+
+  HOME        home directory of the invoking user
+  PATH        search path for command names
+  TMPDIR      directory for temporary files (default /tmp if absent)
+  LANG        locale name; used to set all LC_* categories at once
+  LC_ALL      overrides all other LC_* variables
+  LC_COLLATE  sort order
+  LC_CTYPE    character classification and case conversion
+  LC_MESSAGES language for diagnostic messages
+  LC_MONETARY monetary formatting
+  LC_NUMERIC  numeric formatting (decimal point, thousands separator)
+  LC_TIME     date and time formatting
+  NLSPATH     search path for message catalogs
+  PAGER       preferred paging program
+  EDITOR      preferred text editor
+  VISUAL      preferred visual (full-screen) editor
+  SHELL       pathname of the user's preferred shell
+  TERM        terminal type
+  TZ          timezone
+
+Utilities must not modify PATH, HOME, or other inherited variables except
+for documented reasons. Temporary file directories should respect TMPDIR.
+
+
+STANDARD INPUT AS DEFAULT
+--------------------------
+
+A utility that operates on files should accept zero file arguments and
+read standard input in that case. This enables use in pipelines:
+
+  cat file | utility        # reads from pipeline
+  utility file              # reads from file argument
+  utility                   # reads from stdin (interactive or piped)
+
+This is the filter pattern. Utilities that follow it compose freely.
+
+
+LOCALE AND PORTABILITY
+----------------------
+
+Utilities must not assume ASCII. Character classification (is this a
+letter? a digit?) must be done through locale-aware functions, not by
+comparing byte values.
+
+Filenames may contain any byte except NUL and slash (with slash reserved
+as the path separator). Portable filenames use only: letters, digits,
+period, hyphen, underscore. A leading hyphen can be confused with an
+option; the construct ./-file or -- -file avoids this.
+
+
+SIGNALS
+-------
+
+Utilities should handle SIGINT and SIGTERM gracefully: clean up temporary
+files and exit. A utility that catches a signal and wants to report
+termination by signal should re-raise the signal after cleanup so the
+parent process sees a signal exit status.
+
+SIGPIPE is received when a utility writes to a pipeline whose reader has
+exited. The conventional response is to exit silently with a non-zero
+status (often 1 or 141).
+
+
+TEMPORARY FILES
+---------------
+
+Temporary files must be created in TMPDIR (defaulting to /tmp). File
+names must be unpredictable to avoid symlink attacks; use mktemp(1).
+Temporary files and directories must be removed on exit, including on
+error. Use a trap to ensure cleanup.
+
+
+THE FILTER PATTERN SUMMARIZED
+------------------------------
+
+A utility that follows the filter pattern:
+
+  1. Reads from each FILE argument in sequence, if given.
+  2. Reads from standard input if no FILE arguments are given, or if
+     a FILE argument is the single character -.
+  3. Writes results to standard output.
+  4. Writes errors and warnings to standard error.
+  5. Exits 0 on success, non-zero on any error.
+
+This design allows utilities to be composed arbitrarily in pipelines and
+to be used interchangeably with files or streams.
+
+
+REFERENCES
+----------
+
+The Open Group Base Specifications Issue 8 (IEEE Std 1003.1-2024):
+  https://pubs.opengroup.org/onlinepubs/9799919799/
+
+Utility Conventions (XBD Chapter 12):
+  https://pubs.opengroup.org/onlinepubs/9799919799/basedefs/V1_chap12.html
+
+Environment Variables (XBD Chapter 8):
+  https://pubs.opengroup.org/onlinepubs/9799919799/basedefs/V1_chap08.html
+
+POSIX.1 FAQ (Austin Group, maintained by Andrew Josey, The Open Group):
+  https://www.opengroup.org/austin/papers/posix_faq.html
+  Covers the history, versioning, certification, and technical scope of
+  IEEE Std 1003.1. Useful for understanding what POSIX is and is not.

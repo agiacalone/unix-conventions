@@ -24,11 +24,13 @@ in `references/cli-conventions.md` are drawn from the POSIX Utility Conventions
 ## GNU Coding Standards
 - **Author:** Richard Stallman and the GNU Project
 - **Online:** https://www.gnu.org/prep/standards/
+- **Plain text:** https://www.gnu.org/prep/standards/standards.txt
 - **License:** GNU Free Documentation License v1.3 or later
 
-Error message format, standard options (`--help`, `--version`), Makefile targets,
-and shell scripting rules in `references/gnu-coding-standards.md` are derived from
-the GNU Coding Standards document.
+The full text is reproduced in `documentation/gnu-coding-standards.txt` under
+the terms of the GNU FDL. Error message format, standard options (`--help`,
+`--version`), Makefile targets, and shell scripting rules in
+`references/gnu-coding-standards.md` are derived from this document.
 
 ## Man Page Conventions
 - **UNIX System V man macros:** AT&T / Bell Labs tradition
