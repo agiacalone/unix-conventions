@@ -29,21 +29,21 @@ The skill loads only the reference documents relevant to the task at hand.
 ## Files
 
 ```
-unix-conventions/          skill directory
-  SKILL.md                 skill definition and checklists
-  references/
-    taoup-principles.md    the 17 Rules from TAOUP
-    cli-conventions.md     POSIX option syntax, exit codes, streams, error format
-    gnu-coding-standards.md  GNU error format, standard options, shell scripting, C style
-    man-page-format.md     man page sections, macros, writing style
+SKILL.md                   skill definition and checklists
+references/
+  taoup-principles.md      the 17 Rules from TAOUP
+  cli-conventions.md       POSIX option syntax, exit codes, streams, error format
+  gnu-coding-standards.md  GNU error format, standard options, shell scripting, C style
+  man-page-format.md       man page sections, macros, writing style
 documentation/
   taoup.md                 The Art of Unix Programming (full text, Markdown)
   taoup.pdf                The Art of Unix Programming (PDF)
   posix-conventions.txt    POSIX utility conventions summary (original)
   gnu-coding-standards.txt GNU Coding Standards (fetched from gnu.org)
+.unix-conventions.example  config template for per-project preferences
 fetch-taoup.sh             fetches and converts TAOUP HTML to Markdown
 fetch-gnu-standards.sh     fetches the GNU Coding Standards as plain text
-install.sh                 installs the skill to ~/.claude/skills/
+install.sh                 installs the skill to ~/.claude/skills/unix-conventions/
 ```
 
 ## fetch-taoup.sh
