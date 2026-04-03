@@ -1,100 +1,90 @@
 ---
 name: unix-conventions
-description: This skill should be used when reviewing or formatting code and documentation for proper Unix conventions. Triggers on requests like "review my CLI tool", "check my man page", "does this follow Unix conventions", "format my --help output", "check my error messages", "review this shell script for POSIX compliance", or "does this tool follow Unix philosophy". Covers CLI interface design, error messages, exit codes, man pages, --help/--version output, shell scripts, C code style, and Unix philosophy from TAOUP, POSIX, and GNU coding standards.
+description: Use when reviewing or writing CLI tools, shell scripts, C programs, man pages, --help output, error messages, or any artifact where Unix/POSIX/GNU conventions apply. Also use when the user asks if something "follows Unix conventions" or "Unix philosophy".
 ---
 
 # Unix Conventions
 
 ## Overview
 
-Enforce and format code and documentation to meet Unix conventions from three canonical sources: *The Art of Unix Programming* (ESR), the POSIX standard, and the GNU Coding Standards. Apply this skill to CLI tools, shell scripts, C programs, man pages, README files, `--help` output, and any other artifact where Unix tradition is relevant.
+Enforce code and documentation against three canonical sources: *The Art of Unix Programming* (ESR), POSIX, and the GNU Coding Standards.
 
-## Reference Documents
+## Task Dispatch
 
-Load these as needed based on the task:
+| Task | References to load |
+|------|--------------------|
+| Review CLI tool (options, exit codes, streams) | `cli-conventions.md`, `taoup-principles.md` |
+| Review shell script | `cli-conventions.md`, `gnu-coding-standards.md` |
+| Review C program | `gnu-coding-standards.md`, `cli-conventions.md` |
+| Write or review man page | `man-page-format.md` |
+| Review `--help` / `--version` output | `cli-conventions.md`, `gnu-coding-standards.md` |
+| Unix philosophy / design review | `taoup-principles.md` |
 
-- `references/taoup-principles.md` — The 17 Rules from *The Art of Unix Programming*; use when reviewing program design, philosophy, or overall architecture
-- `references/cli-conventions.md` — POSIX option syntax, exit codes, stream usage, error message format, `--help`/`--version` format, filter pattern; use for any CLI review
-- `references/man-page-format.md` — Standard man page sections, troff/mdoc macros, writing style; use when writing or reviewing man pages
-- `references/gnu-coding-standards.md` — GNU error format, standard options, Makefile targets, C style, shell scripting rules; use for C programs, shell scripts, and build systems
+Load only the references needed for the task. All references are in the `references/` subdirectory of this skill.
 
-## Tasks
+## Checklists
 
-### Review a CLI Tool for Unix Compliance
+### CLI Tool
 
-1. Load `references/cli-conventions.md` and `references/taoup-principles.md`
-2. Check option syntax (POSIX short, GNU long, clustering, `--` terminator)
-3. Check exit codes against convention (0=success, 1=error, 2=misuse)
-4. Verify all errors go to stderr, all data goes to stdout
-5. Check error message format: `progname: description` (lowercase, no period)
-6. Check `--help` output format and that it exits 0
-7. Check `--version` output format and that it exits 0
-8. Check for standard reserved options (`-h`, `-V`, `-v`, `-q`, `-n`, `-f`)
-9. Assess Unix philosophy: does the tool do one thing? Does it compose?
-10. Report each violation with the specific fix needed
+1. Option syntax: POSIX short (`-x`), GNU long (`--foo`), clustering, `--` terminator
+2. Exit codes: 0=success, 1=error, 2=misuse
+3. Streams: errors → stderr, data → stdout, never reversed
+4. Error format: `progname: description` (lowercase, no period)
+5. `--help`: correct format, exits 0
+6. `--version`: correct format, exits 0
+7. Reserved options: `-h/--help`, `-V/--version`, `-v/--verbose`, `-q/--quiet`, `-n/--dry-run`
+8. Rule of Silence: silent on success by default; no chatty progress output unless `-v`
+9. Unix philosophy: does one thing, composes via stdin/stdout
 
-### Review or Write a Man Page
+### Shell Script
 
-1. Load `references/man-page-format.md`
-2. Verify all required sections are present in canonical order: NAME, SYNOPSIS, DESCRIPTION, OPTIONS, EXIT STATUS, FILES, ENVIRONMENT, EXAMPLES, SEE ALSO
-3. Check NAME: exactly one line, uses `\-` in troff, lowercase description, no period
-4. Check SYNOPSIS: program name bold, meta-variables italic/underlined, brackets for optional, ellipsis for repeatable
-5. Check OPTIONS: each option in its own `.TP` block, descriptions accurate and complete
-6. Check EXIT STATUS: all non-zero codes documented
-7. Check SEE ALSO: section numbers in parentheses, alphabetical, comma-separated
-8. Check writing style: third person, present tense, terse and precise
-9. When writing a new man page, produce complete troff source using `man` macros (`.TH`, `.SH`, `.TP`, `.PP`, `.BR`, `.I`) unless mdoc is requested
+1. Shebang: `#!/bin/sh` for portable, `#!/bin/bash` only when bash features are used
+2. `set -euo pipefail` present
+3. All variable expansions quoted: `"$var"`, `"$@"`, `"${var}"`
+4. Command substitution uses `$()` not backticks
+5. Error messages go to stderr, include script name
+6. Temp files via `mktemp`, cleaned up with `trap ... EXIT`
+7. No parsing of `ls` output; use globs
+8. Exit codes correct
 
-### Review Shell Scripts
+### C Program
 
-1. Load `references/cli-conventions.md` and `references/gnu-coding-standards.md`
-2. Check shebang: `#!/bin/sh` for portability, `#!/bin/bash` only when bash features are used
-3. Check for `set -e`, `set -u` (or equivalent)
-4. Check all variable expansions are quoted: `"$var"`, `"$@"`, `"${var}"`
-5. Check command substitution uses `$(...)` not backticks
-6. Check error messages go to stderr and include the script name
-7. Check temporary file handling uses `mktemp` with `trap ... EXIT` cleanup
-8. Check exit codes
+1. All system call return values checked
+2. Error messages: `progname: description` format
+3. `progname` set from `argv[0]` (path stripped)
+4. No resource leaks: file descriptors, memory, temp files
+5. Signal handling: SIGINT, SIGTERM handled gracefully
+6. Option parsing handles `--` terminator
 
-### Review C Programs
+### Man Page
 
-1. Load `references/gnu-coding-standards.md` and `references/cli-conventions.md`
-2. Check system call return values are all checked
-3. Check error messages use `program_name: description` format
-4. Check `program_name` is set from `argv[0]` (path stripped)
-5. Check for resource leaks: unclosed file descriptors, unfreed memory, temp files
-6. Check signal handling for graceful termination
-7. Check option parsing handles `--` correctly
+1. Sections present in canonical order: NAME, SYNOPSIS, DESCRIPTION, OPTIONS, EXIT STATUS, FILES, ENVIRONMENT, EXAMPLES, SEE ALSO
+2. NAME: one line, `\-` separator, lowercase description, no period
+3. SYNOPSIS: program bold, meta-variables italic, brackets for optional, ellipsis for repeatable
+4. OPTIONS: each in its own `.TP` block
+5. EXIT STATUS: all non-zero codes documented
+6. SEE ALSO: section numbers in parens, alphabetical, comma-separated
+7. Style: third person, present tense, terse
 
-### Review `--help` or `--version` Output
+### `--help` / `--version`
 
-1. Load `references/cli-conventions.md` and `references/gnu-coding-standards.md`
-2. Apply the exact format from the reference: `Usage:` line, two-column option list, bug report contact
-3. Ensure meta-variables are uppercase: `FILE`, `DIR`, `NUM`, `PATTERN`
-4. Ensure `-h`/`--help` and `-V`/`--version` are listed last
-5. Format and return corrected output
+1. `Usage:` line with uppercase meta-variables (`FILE`, `DIR`, `NUM`)
+2. Two-column option list, `-h`/`-V` listed last
+3. Bug report contact at end
+4. Exits 0
 
-### Apply Unix Philosophy Review
-
-1. Load `references/taoup-principles.md`
-2. Assess the design against each of the 17 Rules
-3. Identify violations with clear examples from the code or design
-4. Suggest concrete changes, not abstract principles
-
-## Reporting Conventions
-
-When reporting issues, use this format:
+## Reporting Format
 
 ```
-VIOLATION: [Rule/Convention name]
+VIOLATION: [rule or convention name]
 LOCATION:  [file:line or section]
-FOUND:     [what is there now]
-EXPECTED:  [what it should be]
-FIX:       [exact correction or suggested code]
+FOUND:     [current state]
+EXPECTED:  [correct state]
+FIX:       [exact correction]
 ```
 
-Group violations by severity: errors (must fix), warnings (should fix), suggestions (consider).
+Group by severity: **errors** (must fix) → **warnings** (should fix) → **suggestions** (consider).
 
 ## Tone
 
-Be direct and technical. Man pages and Unix tools have a long tradition of precise, terse language. Prefer showing the corrected form over lengthy explanation of why it is wrong.
+Direct and technical. Show the corrected form; minimize explanation of why it is wrong.
