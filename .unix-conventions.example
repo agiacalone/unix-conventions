@@ -45,3 +45,8 @@ c_indent = ask
 # Not portable outside glibc. Only relevant for C programs.
 # yes | no | ask
 glibc_error = ask
+
+# Whether to apply the "Worse is Better" design lens during design reviews.
+# yes = always apply it; no = skip it; ask = prompt when a design tradeoff arises.
+# yes | no | ask
+worse_is_better = ask

@@ -154,6 +154,13 @@ produce consistent, well-formatted messages automatically. Use `yes` for
 Linux-only C programs. Use `no` for portable C that must compile on macOS,
 BSDs, or musl-based systems.
 
+**`worse_is_better = yes | no | ask`**
+Whether to apply the "Worse is Better" design lens (R.P. Gabriel, 1989)
+during design reviews. `yes` always applies it — implementation simplicity
+takes priority over interface elegance, and completeness is sacrificed for
+simplicity. `no` skips this lens entirely. `ask` prompts when a design
+tradeoff arises where the two approaches would give different answers.
+
 Omitting a key or setting it to `ask` causes the skill to prompt when that
 conflict arises.
 

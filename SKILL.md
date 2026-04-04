@@ -18,7 +18,7 @@ Enforce code and documentation against three canonical sources: *The Art of Unix
 | Review C program | `gnu-coding-standards.md`, `cli-conventions.md` |
 | Write or review man page | `man-page-format.md` |
 | Review `--help` / `--version` output | `cli-conventions.md`, `gnu-coding-standards.md` |
-| Unix philosophy / design review | `taoup-principles.md` |
+| Unix philosophy / design review | `taoup-principles.md`, `worse-is-better.md` |
 
 Load only the references needed for the task. All references are in the `references/` subdirectory of this skill.
 
@@ -103,6 +103,25 @@ Do not silently pick one. Do not assume GNU because it is more common.
 2. Two-column option list, `-h`/`-V` listed last
 3. Bug report contact at end
 4. Exits 0
+
+### Worse is Better Design Review
+
+Controlled by the `worse_is_better` config key (`yes | no | ask`, default: `ask`).
+
+- `yes` — always apply this lens; flag any design that favors interface elegance over implementation simplicity
+- `no` — skip this checklist entirely
+- `ask` — when a design tradeoff arises where the two approaches diverge, stop and ask: "This is a Worse is Better tradeoff: [describe it]. Apply the lens, skip it, or note it as informational?"
+
+When applying the lens:
+
+1. **Implementation simplicity** — if two designs differ in implementation complexity, prefer the simpler one even if its interface is slightly more awkward
+2. **Edge cases pushed out** — are unusual inputs rejected cleanly (error + exit 1) rather than handled with complex internal logic?
+3. **Completeness last** — are missing features documented limitations rather than half-implemented handlers?
+4. **Not a bug excuse** — correctness violations (unchecked return values, reversed streams, wrong exit codes) are bugs, not tradeoffs
+
+When a design decision pits interface elegance against implementation simplicity, note it explicitly:
+
+> "DESIGN NOTE: [option A] is simpler to implement; [option B] is cleaner to use. Worse is Better favors [option A]."
 
 ## Reporting Format
 
