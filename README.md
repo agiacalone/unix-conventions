@@ -9,6 +9,7 @@ A Claude Code skill for reviewing and writing code and documentation against Uni
 - *The Art of Unix Programming* (ESR) — the 17 Rules and Unix philosophy
 - POSIX (IEEE Std 1003.1) — option syntax, exit codes, standard streams, filter pattern
 - GNU Coding Standards — error format, standard options, shell scripting rules, C style
+- "Worse is Better" (R.P. Gabriel, 1989) — implementation simplicity as a design priority
 
 The skill applies to CLI tools, shell scripts, C programs, man pages, and `--help`/`--version` output.
 
@@ -35,6 +36,7 @@ references/
   cli-conventions.md       POSIX option syntax, exit codes, streams, error format
   gnu-coding-standards.md  GNU error format, standard options, shell scripting, C style
   man-page-format.md       man page sections, macros, writing style
+  worse-is-better.md       Gabriel's four properties and when to apply them
 documentation/
   taoup.md                 The Art of Unix Programming (full text, Markdown)
   taoup.pdf                The Art of Unix Programming (PDF)
