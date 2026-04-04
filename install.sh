@@ -7,7 +7,7 @@ INSTALL_DIR="$HOME/.claude/skills/$SKILL_NAME"
 CONFIG_DIR="$HOME/.config/unix-conventions"
 
 if [[ ! -f "$ROOT/SKILL.md" ]]; then
-    echo "${0##*/}: SKILL.md not found in $ROOT" >&2
+    printf '%s: SKILL.md not found in %s\n' "${0##*/}" "$ROOT" >&2
     exit 1
 fi
 

@@ -25,7 +25,7 @@ while getopts 'o:vh' opt; do
     esac
 done
 
-log() { [[ "$VERBOSE" -eq 1 ]] && echo "fetch-taoup: $*" >&2 || true; }
+log() { [[ "$VERBOSE" -eq 1 ]] && printf 'fetch-taoup: %s\n' "$*" >&2 || true; }
 
 cleanup() {
     rm -rf "$_TMPDIR"
@@ -40,7 +40,7 @@ log "building chapter order from index..."
 CHAPTERS=$(grep -oP 'href="\K[^"]+\.html' "$_TMPDIR/index.html" | grep -v '^http' | awk '!seen[$0]++')
 
 if [[ -z "$CHAPTERS" ]]; then
-    echo "fetch-taoup: warning: could not parse chapter order from index.html, falling back to filename order" >&2
+    printf 'fetch-taoup: warning: could not parse chapter order from index.html, falling back to filename order\n' >&2
     CHAPTERS=$(for f in "$_TMPDIR"/*.html; do basename "$f"; done | grep -v '^index\.html')
 fi
 

@@ -24,7 +24,11 @@ while getopts 'o:vh' opt; do
     esac
 done
 
-log() { [[ "$VERBOSE" -eq 1 ]] && echo "fetch-gnu-standards: $*" >&2 || true; }
+log() { [[ "$VERBOSE" -eq 1 ]] && printf 'fetch-gnu-standards: %s\n' "$*" >&2 || true; }
+
+_TMP=$(mktemp)
+trap 'rm -f "$_TMP"' EXIT
 
 log "downloading GNU Coding Standards..."
-wget -q -O "$OUT" "$URL"
+wget -q -O "$_TMP" "$URL"
+mv "$_TMP" "$OUT"
