@@ -290,12 +290,56 @@ on the bare metal, remembers binary opcodes for every machine they've ever used,
 HLLs sissy, and uses a debugger to edit code because editors are for wimps. "Real
 Programmers never use comments or write documentation: 'If it was hard to write, it should
 be hard to understand.'" Their code can awe with its fiendish brilliance even as its
-crockishness appalls. The canonical portrait is *The Story of Mel* (Appendix A of the
-Jargon File site — not captured in our documentation/jargon.md).
+crockishness appalls. The canonical portrait is *The Story of Mel* in `documentation/jargon.md`.
 
 **Reach for it when:** Writing about the tension between craft and maintainability, or
 between heroic individual brilliance and sustainable engineering — the Real Programmer
 archetype is the extreme case that illuminates both sides.
+
+### The Story of Mel
+
+Posted to Usenet by Ed Nather on May 21, 1983. The canonical account of a Real Programmer:
+Mel wrote the blackjack demo for the Royal McBee LGP-30 in raw hexadecimal machine code,
+directly on a drum-memory computer. He didn't use an assembler because "an assembler
+program would have to have been written in machine code anyway, so what was the point?" His
+crowning achievement was an inner loop that exploited the rotational latency of the drum
+to place the next instruction precisely where the read head would land — the program
+optimized itself by virtue of where its instructions lived in memory. When Nather finally
+found the loop while trying to add a feature, he discovered it had no exit condition.
+The loop ran forever, or until the power went out. Mel had considered that acceptable.
+
+The story is not about bad programming. It is about a kind of mastery so deep it becomes
+alien — code that was correct, efficient, and utterly ungrokable by anyone who hadn't
+lived inside the same machine. It ends: "I was awed. To think that, while writing his
+program, Mel had thought of the right thing to do — not just thought of it, but coded it —
+in such a way that it worked, in hardware that didn't exist yet... I take back every bad
+thing I ever said about Real Programmers."
+
+Full text in `documentation/jargon.md` under Appendices.
+
+**Reach for it when:** Writing about the outer edge of technical mastery, or the moment
+when cleverness crosses into inscrutability — every hacker knows the story and will
+understand the reference immediately.
+
+### OS and JEDGAR
+
+A story about the ITS ethos at the MIT AI Lab. ITS had a program called OS — not
+Operating System, but *Output Spy* — that let any user watch what was being printed on
+anyone else's terminal, by examining the insides of the monitor system. ITS was designed
+with almost no protection between users; surveillance was symmetric.
+
+JEDGAR (/jed´gr/, named after J. Edgar Hoover) was the counterspy: it watched the OS
+internals for anyone watching your output and notified you. If you gave it "license to
+kill," it would terminate the job of whoever was spying on you. This made life too violent,
+especially when tourists discovered it. A systems hacker eventually replaced JEDGAR with a
+program that only *pretended* to do its job — every copy had to be patched, and to this day
+no one knows how many people never realized JEDGAR had been defanged.
+
+Full text in `documentation/jargon.md` under Appendices.
+
+**Reach for it when:** Writing about surveillance, transparency, and the assumptions baked
+into a system's design — ITS's symmetric openness (anyone can watch anyone) produced both
+OS and JEDGAR, and the story illustrates how access-control philosophy shapes culture.
 
 ## How to Use This Reference
 
