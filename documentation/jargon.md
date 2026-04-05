@@ -23117,6 +23117,879 @@ The canonical unit of currency in hacker-written games. This originated in [*Zor
 
 
 
+## Welcome to the Jargon File
+
+This is the Jargon File, a comprehensive compendium of hacker slang illuminating many aspects of hackish tradition, folklore, and humor.
+
+This document (the Jargon File) is in the public domain, to be freely used, shared, and modified. There are (by intention) no legal restraints on what you can do with it, but there are traditions about its proper use to which many hackers are quite strongly attached. Please extend the courtesy of proper citation when you quote the File, ideally with a version number, as it will change and grow over time. (Examples of appropriate citation form: “Jargon File 4.4.7” or “The on-line hacker Jargon File, version 4.4.7, 29 Dec 2003”.)
+
+The Jargon File is a common heritage of the hacker culture. Over the years a number of individuals have volunteered considerable time to maintaining the File and been recognized by the net at large as editors of it. Editorial responsibilities include: to collate contributions and suggestions from others; to seek out corroborating information; to cross-reference related entries; to keep the file in a consistent format; and to announce and distribute updated versions periodically. Current volunteer editors include:
+
+Eric Raymond ``
+
+Although there is no requirement that you do so, it is considered good form to check with an editor before quoting the File in a published work or commercial product. We may have additional information that would be helpful to you and can assist you in framing your quote to reflect not only the letter of the File but its spirit as well.
+
+All contributions and suggestions about this file sent to a volunteer editor are gratefully received and will be regarded, unless otherwise labelled, as freely given donations for possible use as part of this public-domain file.
+
+From time to time a snapshot of this file has been polished, edited, and formatted for commercial publication with the cooperation of the volunteer editors and the hacker community at large. If you wish to have a bound paper copy of this file, you may find it convenient to purchase one of these. They often contain additional material not found in on-line versions. The three ‘authorized’ editions so far are described in the Revision History section; there may be more in the future.
+
+The Jargon File's online rendition uses an unusually large number of special characters. This test page lists them so you can check what your browser does with each one.
+
+glyph
+description
+
+α
+greek character alpha
+
+κ
+greek character kappa
+
+λ
+greek character lambda
+
+Λ
+greek character Lambda
+
+ν
+greek character nu
+
+ο
+greek character omicron
+
+π
+greek character pi
+
+£
+pound sterling
+
+〈
+left angle bracket
+
+〉
+right angle bracket
+
+æ
+ae ligature
+
+ß
+German sharp-s sign
+
+∼
+similarity sign
+
+⊕
+circle-plus
+
+⊗
+circle-times
+
+×
+times
+
+∅
+empty set (used for APL null)
+
+µ
+micro quantifier sign
+
+→
+right arrow
+
+⇔
+horizontal double arrow
+
+™
+trademark symbol
+
+®
+registered-trademark symbol
+
+−
+minus
+
+±
+plus-or-minus
+
+Ø
+slashed-O
+
+@
+schwa
+
+´
+acute accent
+
+·
+medial dot
+
+We normally test with the latest build of Mozilla. If some of the special characters above look wrong, your browser has bugs in its standards-conformance and you should replace it.
+
+
+---
+
+
+
+## Chapter 1. Hacker Slang and Hacker Culture
+
+This document is a collection of slang terms used by various subcultures of computer hackers. Though some technical material is included for background and flavor, it is not a technical dictionary; what we describe here is the language hackers use among themselves for fun, social communication, and technical debate.
+
+The ‘hacker culture’ is actually a loosely networked collection of subcultures that is nevertheless conscious of some important shared experiences, shared roots, and shared values. It has its own myths, heroes, villains, folk epics, in-jokes, taboos, and dreams. Because hackers as a group are particularly creative people who define themselves partly by rejection of ‘normal’ values and working habits, it has unusually rich and conscious traditions for an intentional culture less than 50 years old.
+
+As usual with slang, the special vocabulary of hackers helps hold places in the community and expresses shared values and experiences. Also as usual, *not* knowing the slang (or using it inappropriately) defines one as an outsider, a mundane, or (worst of all in hackish vocabulary) possibly even a [*suit*](S/suit.html). All human cultures use slang in this threefold way — as a tool of communication, and of inclusion, and of exclusion.
+
+Among hackers, though, slang has a subtler aspect, paralleled perhaps in the slang of jazz musicians and some kinds of fine artists but hard to detect in most technical or scientific cultures; parts of it are code for shared states of *consciousness*. There is a whole range of altered states and problem-solving mental stances basic to high-level hacking which don't fit into conventional linguistic reality any better than a Coltrane solo or one of Maurits Escher's surreal *trompe l'oeil* compositions (Escher is a favorite of hackers), and hacker slang encodes these subtleties in many unobvious ways. As a simple example, take the distinction between a [*kluge*](K/kluge.html) and an [*elegant*](E/elegant.html) solution, and the differing connotations attached to each. The distinction is not only of engineering significance; it reaches right back into the nature of the generative processes in program design and asserts something important about two different kinds of relationship between the hacker and the hack. Hacker slang is unusually rich in implications of this kind, of overtones and undertones that illuminate the hackish psyche.
+
+Hackers, as a rule, love wordplay and are very conscious and inventive in their use of language. These traits seem to be common in young children, but the conformity-enforcing machine we are pleased to call an educational system bludgeons them out of most of us before adolescence. Thus, linguistic invention in most subcultures of the modern West is a halting and largely unconscious process. Hackers, by contrast, regard slang formation and use as a game to be played for conscious pleasure. Their inventions thus display an almost unique combination of the neotenous enjoyment of language-play with the discrimination of educated and powerful intelligence. Further, the electronic media which knit them together are fluid, ‘hot’ connections, well adapted to both the dissemination of new slang and the ruthless culling of weak and superannuated specimens. The results of this process give us perhaps a uniquely intense and accelerated view of linguistic evolution in action.
+
+Hacker slang also challenges some common linguistic and anthropological assumptions. For example, in the early 1990s it became fashionable to speak of ‘low-context’ versus ‘high-context’ communication, and to classify cultures by the preferred context level of their languages and art forms. It is usually claimed that low-context communication (characterized by precision, clarity, and completeness of self-contained utterances) is typical in cultures which value logic, objectivity, individualism, and competition; by contrast, high-context communication (elliptical, emotive, nuance-filled, multi-modal, heavily coded) is associated with cultures which value subjectivity, consensus, cooperation, and tradition. What then are we to make of hackerdom, which is themed around extremely low-context interaction with computers and exhibits primarily “low-context” values, but cultivates an almost absurdly high-context slang style?
+
+The intensity and consciousness of hackish invention make a compilation of hacker slang a particularly effective window into the surrounding culture — and, in fact, this one is the latest version of an evolving compilation called the ‘Jargon File’, maintained by hackers themselves since the early 1970s. This one (like its ancestors) is primarily a lexicon, but also includes topic entries which collect background or sidelight information on hacker culture that would be awkward to try to subsume under individual slang definitions.
+
+Though the format is that of a reference volume, it is intended that the material be enjoyable to browse. Even a complete outsider should find at least a chuckle on nearly every page, and much that is amusingly thought-provoking. But it is also true that hackers use humorous wordplay to make strong, sometimes combative statements about what they feel. Some of these entries reflect the views of opposing sides in disputes that have been genuinely passionate; this is deliberate. We have not tried to moderate or pretty up these disputes; rather we have attempted to ensure that *everyone's* sacred cows get gored, impartially. Compromise is not particularly a hackish virtue, but the honest presentation of divergent viewpoints is.
+
+The reader with minimal computer background who finds some references incomprehensibly technical can safely ignore them. We have not felt it either necessary or desirable to eliminate all such; they, too, contribute flavor, and one of this document's major intended audiences — fledgling hackers already partway inside the culture — will benefit from them.
+
+A selection of longer items of hacker folklore and humor is included in [Appendix A](appendixa.html "Appendix A. Hacker Folklore"). The ‘outside’ reader's attention is particularly directed to the Portrait of J. Random Hacker in [Appendix B](appendixb.html "Appendix B. A Portrait of J. Random Hacker"). The [Bibliography](pt03.html#bibliography "Bibliography"), lists some non-technical works which have either influenced or described the hacker culture.
+
+Because hackerdom is an intentional culture (one each individual must choose by action to join), one should not be surprised that the line between description and influence can become more than a little blurred. Earlier versions of the Jargon File have played a central role in spreading hacker language and the culture that goes with it to successively larger populations, and we hope and expect that this one will do likewise.
+
+
+---
+
+
+
+# The Jargon Lexicon
+
+![](graphics/crunchly-1.png)
+
+The Crunchly saga begins here.
+
+(The next cartoon in the Crunchly saga is [73-05-18](M/math-out.html#crunchly73-05-18).)
+
+The infamous Crunchly cartoons by The Great Quux are woven into the lexicon, each next to an appropriate entry. To read them in the sequence in which they were written, [*chase pointers*](C/chase-pointers.html) from here using the ‘next cartoon’ information in the captions. A few don't have next pointers; these are vignettes from the 1973 *Crunchland* tableau spread that inaugurated the strip.
+
+Here is a framed version of the glossary.
+
+**Table of Contents**
+
+[Glossary](go01.html)
+
+
+---
+
+
+
+## Chapter 11. Other Lexicon Conventions
+
+Entries are sorted in case-blind ASCII collation order (rather than the letter-by-letter order ignoring interword spacing common in mainstream dictionaries), except that all entries beginning with nonalphabetic characters are sorted before A, except that leading dash is ignored. The case-blindness is a feature, not a bug.
+
+Prefix \*\* is used as linguists do; to mark examples of incorrect usage.
+
+We follow the ‘logical’ quoting convention described in the Writing Style section above. In addition, we reserve double quotes for actual excerpts of text or (sometimes invented) speech. Scare quotes (which mark a word being used in a nonstandard way), and philosopher's quotes (which turn an utterance into the string of letters or words that name it) are both rendered with single quotes.
+
+References such as malloc(3) and patch(1) are to Unix facilities (some of which, such as patch(1), are actually open source distributed over Usenet). The Unix manuals use `foo(n)` to refer to item foo in section (`n`) of the manual, where `n=1` is utilities, `n=2` is system calls, `n=3` is C library routines, `n=6` is games, and `n=8` (where present) is system administration utilities. Sections 4, 5, and 7 of the manuals have changed roles frequently and in any case are not referred to in any of the entries.
+
+Various abbreviations used frequently in the lexicon are summarized here:
+
+**Table 11.1. Abbreviations**
+
+abbrev.
+abbreviation
+
+adj.
+adjective
+
+adv.
+adverb
+
+alt.
+alternate
+
+cav.
+caveat
+
+conj.
+conjunction
+
+esp.
+especially
+
+excl.
+exclamation
+
+imp.
+imperative
+
+interj.
+interjection
+
+n.
+noun
+
+obs.
+obsolete
+
+pl.
+plural
+
+poss.
+possibly
+
+pref.
+prefix
+
+prob.
+probably
+
+prov.
+proverbial
+
+quant.
+quantifier
+
+suff.
+suffix
+
+syn.
+synonym (or synonymous with)
+
+v.
+verb (may be transitive or intransitive)
+
+var.
+variant
+
+vi.
+intransitive verb
+
+vt.
+transitive verb
+
+Where alternate spellings or pronunciations are given, *alt.* separates two possibilities with nearly equal distribution, while *var.* prefixes one that is markedly less common than the primary.
+
+Where a term can be attributed to a particular subculture or is known to have originated there, we have tried to so indicate. Here is a list of abbreviations used in etymologies:
+
+**Table 11.2. Origins**
+
+Amateur Packet Radio
+A technical culture of ham-radio sites using AX.25 and TCP/IP for wide-area networking and BBS systems.
+
+Berkeley
+University of California at Berkeley
+
+BBN
+Bolt, Beranek &amp; Newman
+
+Cambridge
+the university in England (not the city in Massachusetts where MIT happens to be located!)
+
+CMU
+Carnegie-Mellon University
+
+Commodore
+Commodore Business Machines
+
+DEC
+The Digital Equipment Corporation (now HP).
+
+Fairchild
+The Fairchild Instruments Palo Alto development group
+
+FidoNet
+See the FidoNet entry
+
+IBM
+International Business Machines
+
+MIT
+Massachusetts Institute of Technology; esp. the legendary MIT AI Lab culture of roughly 1971 to 1983 and its feeder groups, including the Tech Model Railroad Club
+
+NRL
+Naval Research Laboratories
+
+NYU
+New York University
+
+OED
+The Oxford English Dictionary
+
+Purdue
+Purdue University
+
+SAIL
+Stanford Artificial Intelligence Laboratory (at Stanford University)
+
+SI
+From Système International, the name for the standard abbreviations of metric nomenclature used in the sciences
+
+Stanford
+Stanford University
+
+Sun
+Sun Microsystems
+
+TMRC
+Some MITisms go back as far as the Tech Model Railroad Club (TMRC) at MIT c. 1960. Material marked TMRC is from An Abridged Dictionary of the TMRC Language, originally compiled by Pete Samson in 1959
+
+UCLA
+University of California, Los Angeles
+
+UK
+the United Kingdom (England, Wales, Scotland, Northern Ireland)
+
+Usenet
+See the Usenet entry
+
+WPI
+Worcester Polytechnic Institute, site of a very active community of PDP-10 hackers during the 1970s
+
+WWW
+The World-Wide-Web.
+
+XEROX PARC
+XEROX's Palo Alto Research Center, site of much pioneering research in user interface design and networking
+
+Yale
+Yale University
+
+Other etymology abbreviations such as [*Unix*](U/Unix.html) and [*PDP-10*](P/PDP-10.html) refer to technical cultures surrounding specific operating systems, processors, or other environments. The fact that a term is labelled with any one of these abbreviations does not necessarily mean its use is confined to that culture. In particular, many terms labelled ‘MIT’ and ‘Stanford’ are in quite general use. We have tried to give some indication of the distribution of speakers in the usage notes; however, a number of factors mentioned in the introduction conspire to make these indications less definite than might be desirable.
+
+A few new definitions attached to entries are marked \[proposed\]. These are usually generalizations suggested by editors or Usenet respondents in the process of commenting on previous definitions of those entries. These are *not* represented as established jargon.
+
+
+---
+
+
+
+## Chapter 10. Pronunciation Guide
+
+Pronunciation keys are provided in the jargon listings for all entries that are neither dictionary words pronounced as in standard English nor obvious compounds thereof. Slashes bracket phonetic pronunciations, which are to be interpreted using the following conventions:
+
+Syllables are hyphen-separated, except that an accent or back-accent follows each accented syllable (the back-accent marks a secondary accent in some words of four or more syllables). If no accent is given, the word is pronounced with equal accentuation on all syllables (this is common for abbreviations).
+
+Consonants are pronounced as in American English. The letter ‘g’ is always hard (as in “got” rather than “giant”); ‘ch’ is soft (“church” rather than “chemist”). The letter ‘j’ is the sound that occurs twice in “judge”. The letter ‘s’ is always as in “pass”, never a z sound. The digraph ‘kh’ is the guttural of “loch” or “l'chaim”. The digraph ‘gh’ is the aspirated g+h of “bughouse” or “ragheap” (rare in English).
+
+Uppercase letters are pronounced as their English letter names; thus (for example) /H-L-L/ is equivalent to /aych el el/. /Z/ may be pronounced /zee/ or /zed/ depending on your local dialect.
+
+Vowels are represented as follows:
+
+**Table 10.1. Vowels**
+
+a
+back, that
+
+ah
+father, palm (see note)
+
+ar
+far, mark
+
+aw
+flaw, caught
+
+ay
+bake, rain
+
+e
+less, men
+
+ee
+easy, ski
+
+eir
+their, software
+
+i
+trip, hit
+
+i:
+life, sky
+
+o
+block, stock (see note)
+
+oh
+flow, sew
+
+oo
+loot, through
+
+or
+more, door
+
+ow
+out, how
+
+oy
+boy, coin
+
+uh
+but, some
+
+u
+put, foot
+
+y
+yet, young
+
+yoo
+few, chew
+
+[y]oo
+/oo/ with optional fronting as in ‘news’ (/nooz/ or /nyooz/)
+
+The glyph /@/ is used for the ‘schwa’ sound of unstressed or occluded vowels.
+
+The schwa vowel is omitted in syllables containing vocalic r, l, m or n; that is, ‘kitten’ and ‘color’ would be rendered /kit'n/ and /kuhl'r/, not /kit'@n/ and /kuhl'@r/.
+
+Note that the above table reflects mainly distinctions found in standard American English (that is, the neutral dialect spoken by TV network announcers and typical of educated speech in the Upper Midwest, Chicago, Minneapolis/St. Paul and Philadelphia). However, we separate /o/ from /ah/, which tend to merge in standard American. This may help readers accustomed to accents resembling British Received Pronunciation.
+
+The intent of this scheme is to permit as many readers as possible to map the pronunciations into their local dialect by ignoring some subset of the distinctions we make. Speakers of British RP, for example, can smash terminal /r/ and all unstressed vowels. Speakers of many varieties of southern American will automatically map /o/ to /aw/; and so forth. (Standard American makes a good reference dialect for this purpose because it has crisp consonants and more vowel distinctions than other major dialects, and tends to retain distinctions between unstressed vowels. It also happens to be what your editor speaks.)
+
+Entries with a pronunciation of ‘//’ are written-only usages. (No, Unix weenies, this does *not* mean ‘pronounce like previous pronunciation’!)
+
+
+---
+
+
+
+## Chapter 4. Jargon Construction
+
+**Table of Contents**
+
+[Verb Doubling](verb-doubling.html)
+
+[Soundalike Slang](soundalike-slang.html)
+
+[The -P Convention](p-convention.html)
+
+[Overgeneralization](overgeneralization.html)
+
+[Spoken inarticulations](inarticulations.html)
+
+[Anthropomorphization](anthropomorphization.html)
+
+[Comparatives](comparatives.html)
+
+There are some standard methods of jargonification that became established quite early (i.e., before 1970), spreading from such sources as the Tech Model Railroad Club, the PDP-1 SPACEWAR hackers, and John McCarthy's original crew of LISPers. These include verb doubling, soundalike slang, the ‘-P’ convention, overgeneralization, spoken inarticulations, and anthropomorphization. Each is discussed below. We also cover the standard comparatives for design quality.
+
+Of these six, verb doubling, overgeneralization, anthropomorphization, and (especially) spoken inarticulations have become quite general; but soundalike slang is still largely confined to MIT and other large universities, and the ‘-P’ convention is found only where LISPers flourish.
+
+
+---
+
+
+
+## Overgeneralization
+
+A very conspicuous feature of jargon is the frequency with which techspeak items such as names of program tools, command language primitives, and even assembler opcodes are applied to contexts outside of computing wherever hackers find amusing analogies to them. Thus (to cite one of the best-known examples) Unix hackers often [*grep*](G/grep.html) for things rather than searching for them. Many of the lexicon entries are generalizations of exactly this kind.
+
+Hackers enjoy overgeneralization on the grammatical level as well. Many hackers love to take various words and add the wrong endings to them to make nouns and verbs, often by extending a standard rule to nonuniform cases (or vice versa). For example, because porous → porosity and generous → generosity, hackers happily generalize:
+
+- mysterious → mysteriosity
+
+- ferrous → ferrosity
+
+- obvious → obviosity
+
+- dubious → dubiosity
+
+Another class of common construction uses the suffix ‘-itude’ to abstract a quality from just about any adjective or noun. This usage arises especially in cases where mainstream English would perform the same abstraction through ‘-iness’ or ‘-ingness’. Thus:
+
+- win → winnitude (a common exclamation)
+
+- loss → lossitude
+
+- cruft → cruftitude
+
+- lame → lameitude
+
+Some hackers cheerfully reverse this transformation; they argue, for example, that the horizontal degree lines on a globe ought to be called ‘lats’ — after all, they're measuring latitude!
+
+Also, note that all nouns can be verbed. E.g.: “All nouns can be verbed”, “I'll mouse it up”, “Hang on while I clipboard it over”, “I'm grepping the files”. English as a whole is already heading in this direction (towards pure-positional grammar like Chinese); hackers are simply a bit ahead of the curve.
+
+The suffix “-full” can also be applied in generalized and fanciful ways, as in “As soon as you have more than one cachefull of data, the system starts thrashing,” or “As soon as I have more than one headfull of ideas, I start writing it all down.” A common use is “screenfull”, meaning the amount of text that will fit on one screen, usually in text mode where you have no choice as to character size. Another common form is “bufferfull”.
+
+However, hackers avoid the unimaginative verb-making techniques characteristic of marketroids, bean-counters, and the Pentagon; a hacker would never, for example, ‘productize’, ‘prioritize’, or ‘securitize’ things. Hackers have a strong aversion to bureaucratic bafflegab and regard those who use it with contempt.
+
+Similarly, all verbs can be nouned. This is only a slight overgeneralization in modern English; in hackish, however, it is good form to mark them in some standard nonstandard way. Thus:
+
+- win → winnitude, winnage
+
+- disgust → disgustitude
+
+- hack → hackification
+
+Further, note the prevalence of certain kinds of nonstandard plural forms. Some of these go back quite a ways; the TMRC Dictionary includes an entry which implies that the plural of ‘mouse’ is [*meeces*](M/meeces.html), and notes that the defined plural of ‘caboose’ is ‘cabeese’. This latter has apparently been standard (or at least a standard joke) among railfans (railroad enthusiasts) for many years
+
+On a similarly Anglo-Saxon note, almost anything ending in ‘x’ may form plurals in ‘-xen’ (see [*VAXen*](V/VAXen.html) and [*boxen*](B/boxen.html) in the main text). Even words ending in phonetic /k/ alone are sometimes treated this way; e.g., ‘soxen’ for a bunch of socks. Other funny plurals are the Hebrew-style ‘frobbotzim’ for the plural of ‘frobbozz’ (see [*frobnitz*](F/frobnitz.html)) and ‘Unices’ and ‘Twenices’ (rather than ‘Unixes’ and ‘Twenexes’; see [*Unix*](U/Unix.html), [*TWENEX*](T/TWENEX.html) in main text). But note that ‘Twenexen’ was never used, and ‘Unixen’ was seldom sighted in the wild until the year 2000, thirty years after it might logically have come into use; it has been suggested that this is because ‘-ix’ and ‘-ex’ are Latin singular endings that attract a Latinate plural. Among Perl hackers it is reported that ‘comma’ and ‘semicolon’ pluralize as ‘commata’ and ‘semicola’ respectively. Finally, it has been suggested to general approval that the plural of ‘mongoose’ ought to be ‘polygoose’.
+
+The pattern here, as with other hackish grammatical quirks, is generalization of an inflectional rule that in English is either an import or a fossil (such as the Hebrew plural ending ‘-im’, or the Anglo-Saxon plural suffix ‘-en’) to cases where it isn't normally considered to apply.
+
+This is not ‘poor grammar’, as hackers are generally quite well aware of what they are doing when they distort the language. It is grammatical creativity, a form of playfulness. It is done not to impress but to amuse, and never at the expense of clarity.
+
+
+---
+
+
+
+## Verb Doubling
+
+A standard construction in English is to double a verb and use it as an exclamation, such as “Bang, bang!” or “Quack, quack!”. Most of these are names for noises. Hackers also double verbs as a concise, sometimes sarcastic comment on what the implied subject does. Also, a doubled verb is often used to terminate a conversation, in the process remarking on the current state of affairs or what the speaker intends to do next. Typical examples involve [*win*](W/win.html), [*lose*](L/lose.html), [*hack*](H/hack.html), [*flame*](F/flame.html), [*barf*](B/barf.html), [*chomp*](C/chomp.html):
+
+> “The disk heads just crashed.” “Lose, lose.”
+>
+> “Mostly he talked about his latest crock. Flame, flame.”
+>
+> “Boy, what a bagbiter! Chomp, chomp!
+
+Some verb-doubled constructions have special meanings not immediately obvious from the verb. These have their own listings in the lexicon.
+
+The [*Usenet*](U/Usenet.html) culture has one *tripling* convention unrelated to this; the names of ‘joke’ topic groups often have a tripled last element. The first and paradigmatic example was `alt.swedish.chef.bork.bork.bork` (a *Muppet Show* reference); other infamous examples have included:
+
+- `alt.french.captain.borg.borg.borg`
+
+- `alt.wesley.crusher.die.die.die`
+
+- `comp.unix.internals.system.calls.brk.brk.brk`
+
+- `sci.physics.edward.teller.boom.boom.boom`
+
+- `alt.sadistic.dentists.drill.drill.drill`
+
+These two traditions fuse in the newsgroup `alt.adjective.noun.verb.verb.verb`, devoted to humor based on deliberately confounding parts of speech. Several observers have noted that the contents of this group is excellently representative of the peculiarities of hacker humor.
+
+
+---
+
+
+
+## The -P Convention
+
+Turning a word into a question by appending the syllable ‘P’; from the LISP convention of appending the letter ‘P’ to denote a predicate (a boolean-valued function). The question should expect a yes/no answer, though it needn't. (See [*T*](T/T.html) and [*NIL*](N/NIL.html).)
+
+  
+    At dinnertime:  
+          Q: “Foodp?”  
+          A: “Yeah, I'm pretty hungry.” or “T!”  
+  
+    At any time:  
+          Q: “State-of-the-world-P?”  
+          A: (Straight) “I'm about to go home.”  
+          A: (Humorous) “Yes, the world has a state.”  
+  
+    On the phone to Florida:  
+          Q: “State-p Florida?”  
+          A: “Been reading JARGON.TXT again, eh?”  
+
+\[Once, when we were at a Chinese restaurant, Bill Gosper wanted to know whether someone would like to share with him a two-person-sized bowl of soup. His inquiry was: “Split-p soup?” — GLS\]
+
+
+---
+
+
+
+## Comparatives
+
+Finally, note that many words in hacker jargon have to be understood as members of sets of comparatives. This is especially true of the adjectives and nouns used to describe the beauty and functional quality of code. Here is an approximately correct spectrum:
+
+monstrosity brain-damage screw bug lose misfeature crock kluge hack win feature elegance perfection
+
+The last is spoken of as a mythical absolute, approximated but never actually attained. Another similar scale is used for describing the reliability of software:
+
+broken flaky dodgy fragile brittle solid robust bulletproof armor-plated
+
+Note, however, that ‘dodgy’ is primarily Commonwealth Hackish (it is rare in the U.S., where ‘squirrelly’ may be more common) and may change places with ‘flaky’ for some speakers.
+
+Coinages for describing [*lossage*](L/lossage.html) seem to call forth the very finest in hackish linguistic inventiveness; it has been truly said that hackers have even more words for equipment failures than Yiddish has for obnoxious people.
+
+
+---
+
+
+
+## Soundalike Slang
+
+Hackers will often make rhymes or puns in order to convert an ordinary word or phrase into something more interesting. It is considered particularly [*flavorful*](F/flavorful.html) if the phrase is bent so as to include some other jargon word; thus the computer hobbyist magazine *Dr. Dobb's Journal* is almost always referred to among hackers as ‘Dr. Frob's Journal’ or simply ‘Dr. Frob's’. Terms of this kind that have been in fairly wide use include names for newspapers:
+
+- Boston Herald → Horrid (or Harried)
+
+- Boston Globe → Boston Glob
+
+- Houston (or San Francisco) Chronicle → the Crocknicle (or the Comical)
+
+- New York Times → New York Slime
+
+- Wall Street Journal → Wall Street Urinal
+
+However, terms like these are often made up on the spur of the moment. Standard examples include:
+
+- Data General → Dirty Genitals
+
+- IBM 360 → IBM Three-Sickly
+
+- Government Property — Do Not Duplicate (on keys) → Government Duplicity — Do Not Propagate
+
+- for historical reasons → for hysterical raisins
+
+- Margaret Jacks Hall (the CS building at Stanford) → Marginal Hacks Hall
+
+- Microsoft → Microsloth
+
+- Internet Explorer → Internet Exploiter
+
+- FrontPage → AffrontPage
+
+- VB.NET → VB Nyet
+
+- Lotus Notes → Lotus Bloats
+
+- Microsoft Outlook → Microsoft Outhouse
+
+- Linux → Linsux
+
+- FreeBSD → FreeLSD
+
+- C# → C Flat
+
+This is not really similar to the Cockney rhyming slang it has been compared to in the past, because Cockney substitutions are opaque whereas hacker punning jargon is intentionally transparent.
+
+
+---
+
+
+
+## Spoken inarticulations
+
+Words such as ‘mumble’, ‘sigh’, and ‘groan’ are spoken in places where their referent might more naturally be used. It has been suggested that this usage derives from the impossibility of representing such noises on a comm link or in electronic mail, MUDs, and IRC channels (interestingly, the same sorts of constructions have been showing up with increasing frequency in comic strips). Another expression sometimes heard is “Complain!”, meaning “I have a complaint!”
+
+
+---
+
+
+
+## Chapter 7. Hacker Speech Style
+
+Hackish speech generally features extremely precise diction, careful word choice, a relatively large working vocabulary, and relatively little use of contractions or street slang. Dry humor, irony, puns, and a mildly flippant attitude are highly valued — but an underlying seriousness and intelligence are essential. One should use just enough jargon to communicate precisely and identify oneself as a member of the culture; overuse of jargon or a breathless, excessively gung-ho attitude is considered tacky and the mark of a loser.
+
+This speech style is a variety of the precisionist English normally spoken by scientists, design engineers, and academics in technical fields. In contrast with the methods of jargon construction, it is fairly constant throughout hackerdom.
+
+It has been observed that many hackers are confused by negative questions — or, at least, that the people to whom they are talking are often confused by the sense of their answers. The problem is that they have done so much programming that distinguishes between
+
+if (going) ...
+
+and
+
+if (!going) ...
+
+that when they parse the question “Aren't you going?” it may seem to be asking the opposite question from “Are you going?”, and so to merit an answer in the opposite sense. This confuses English-speaking non-hackers because they were taught to answer as though the negative part weren't there. In some other languages (including Russian, Chinese, and Japanese) the hackish interpretation is standard and the problem wouldn't arise. Hackers often find themselves wishing for a word like French ‘si’, German ‘doch’, or Dutch ‘jawel’ — a word with which one could unambiguously answer ‘yes’ to a negative question. (See also [*mu*](M/mu.html))
+
+For similar reasons, English-speaking hackers almost never use double negatives, even if they live in a region where colloquial usage allows them. The thought of uttering something that logically ought to be an affirmative knowing it will be misparsed as a negative tends to disturb them.
+
+In a related vein, hackers sometimes make a game of answering questions containing logical connectives with a strictly literal rather than colloquial interpretation. A non-hacker who is indelicate enough to ask a question like “So, are you working on finding that bug *now* or leaving it until later?” is likely to get the perfectly correct answer “Yes!” (that is, “Yes, I'm doing it either now or later, and you didn't ask which!”).
+
+
+---
+
+
+
+## Chapter 5. Hacker Writing Style
+
+We've already seen that hackers often coin jargon by overgeneralizing grammatical rules. This is one aspect of a more general fondness for form-versus-content language jokes that shows up particularly in hackish writing. One correspondent reports that he consistently misspells ‘wrong’ as ‘worng’. Others have been known to criticize glitches in Jargon File drafts by observing (in the mode of Douglas Hofstadter) “This sentence no verb”, or “Too repetetetive”, or “Bad speling”, or “Incorrectspa cing.” Similarly, intentional spoonerisms are often made of phrases relating to confusion or things that are confusing; ‘dain bramage’ for ‘brain damage’ is perhaps the most common (similarly, a hacker would be likely to write “Excuse me, I'm cixelsyd today”, rather than “I'm dyslexic today”). This sort of thing is quite common and is enjoyed by all concerned.
+
+Hackers tend to use quotes as balanced delimiters like parentheses, much to the dismay of American editors. Thus, if “Jim is going” is a phrase, and so are “Bill runs” and “Spock groks”, then hackers generally prefer to write: “Jim is going”, “Bill runs”, and “Spock groks”. This is incorrect according to standard American usage (which would put the continuation commas and the final period inside the string quotes); however, it is counter-intuitive to hackers to mutilate literal strings with characters that don't belong in them. Given the sorts of examples that can come up in discussions of programming, American-style quoting can even be grossly misleading. When communicating command lines or small pieces of code, extra characters can be a real pain in the neck.
+
+Consider, for example, a sentence in a [*vi*](V/vi.html) tutorial that looks like this:
+
+> Then delete a line from the file by typing “dd”.
+
+Standard usage would make this
+
+> Then delete a line from the file by typing “dd.”
+
+but that would be very bad — because the reader would be prone to type the string d-d-dot, and it happens that in vi(1), dot repeats the last command accepted. The net result would be to delete *two* lines!
+
+The Jargon File follows hackish usage throughout.
+
+Interestingly, a similar style is now preferred practice in Great Britain, though the older style (which became established for typographical reasons having to do with the aesthetics of comma and quotes in typeset text) is still accepted there. *Hart's Rules* and the *Oxford Dictionary for Writers and Editors* call the hacker-like style ‘new’ or ‘logical’ quoting. This returns British English to the style many other languages (including Spanish, French, Italian, Catalan, and German) have been using all along.
+
+Another hacker habit is a tendency to distinguish between ‘scare’ quotes and ‘speech’ quotes; that is, to use British-style single quotes for marking and reserve American-style double quotes for actual reports of speech or text included from elsewhere. Interestingly, some authorities describe this as correct general usage, but mainstream American English has gone to using double-quotes indiscriminately enough that hacker usage appears marked \[and, in fact, I thought this was a personal quirk of mine until I checked with Usenet —ESR\] One further permutation that is definitely *not* standard is a hackish tendency to do marking quotes by using apostrophes (single quotes) in pairs; that is, ’like this’. This is modelled on string and character literal syntax in some programming languages (reinforced by the fact that many character-only terminals display the apostrophe in typewriter style, as a vertical single quote).
+
+One quirk that shows up frequently in the [*email*](E/email.html) style of Unix hackers in particular is a tendency for some things that are normally all-lowercase (including usernames and the names of commands and C routines) to remain uncapitalized even when they occur at the beginning of sentences. It is clear that, for many hackers, the case of such identifiers becomes a part of their internal representation (the ‘spelling’) and cannot be overridden without mental effort (an appropriate reflex because Unix and C both distinguish cases and confusing them can lead to [*lossage*](L/lossage.html)). A way of escaping this dilemma is simply to avoid using these constructions at the beginning of sentences.
+
+There seems to be a meta-rule behind these nonstandard hackerisms to the effect that precision of expression is more important than conformance to traditional rules; where the latter create ambiguity or lose information they can be discarded without a second thought. It is notable in this respect that other hackish inventions (for example, in vocabulary) also tend to carry very precise shades of meaning even when constructed to appear slangy and loose. In fact, to a hacker, the contrast between ‘loose’ form and ‘tight’ content in jargon is a substantial part of its humor!
+
+Hackers have also developed a number of punctuation and emphasis conventions adapted to single-font all-ASCII communications links, and these are occasionally carried over into written documents even when normal means of font changes, underlining, and the like are available.
+
+One of these is that TEXT IN ALL CAPS IS INTERPRETED AS ‘LOUD’, and this becomes such an ingrained synesthetic reflex that a person who goes to caps-lock while in [*talk mode*](T/talk-mode.html) may be asked to “stop shouting, please, you're hurting my ears!”.
+
+Also, it is common to use bracketing with unusual characters to signify emphasis. The asterisk is most common, as in “What the \*hell\*?” even though this interferes with the common use of the asterisk suffix as a footnote mark. The underscore is also common, suggesting underlining (this is particularly common with book titles; for example, “It is often alleged that Joe Haldeman wrote \_The_Forever_War\_ as a rebuttal to Robert Heinlein's earlier novel of the future military, \_Starship_Troopers\_.”). Other forms exemplified by “=hell=”, “\hell/”, or “/hell/” are occasionally seen (it's claimed that in the last example the first slash pushes the letters over to the right to make them italic, and the second keeps them from falling over). On FidoNet, you might see \#bright# and ^dark^ text, which was actually interpreted by some reader software. Finally, words may also be emphasized L I K E T H I S, or by a series of carets (^) under them on the next line of the text.
+
+There is a semantic difference between \*emphasis like this\* (which emphasizes the phrase as a whole), and \*emphasis\* \*like\* \*this\* (which suggests the writer speaking very slowly and distinctly, as if to a very young child or a mentally impaired person). Bracketing a word with the ‘\*’ character may also indicate that the writer wishes readers to consider that an action is taking place or that a sound is being made. Examples: \*bang\*, \*hic\*, \*ring\*, \*grin\*, \*kick\*, \*stomp\*, \*mumble\*.
+
+One might also see the above sound effects as \, \, \, \, \, \, \. This use of angle brackets to mark their contents originally derives from conventions used in [*BNF*](B/BNF.html), but since about 1993 it has been reinforced by the HTML markup used on the World Wide Web.
+
+Angle-bracket enclosure is also used to indicate that a term stands for some [*random*](R/random.html) member of a larger class (this is straight from [*BNF*](B/BNF.html)). Examples like the following are common:
+
+> So this \ walks into a bar one day...
+
+There is also an accepted convention for ‘writing under erasure’; the text\>
+
+> Be nice to this fool^H^H^H^Hgentleman, he's visiting from corporate HQ.
+
+reads roughly as “Be nice to this fool, er, gentleman...”, with irony emphasized. The digraph ^H is often used as a print representation for a backspace, and was actually very visible on old-style printing terminals. As the text was being composed the characters would be echoed and printed immediately, and when a correction was made the backspace keystrokes would be echoed with the string ‘^H’. Of course, the final composed text would have no trace of the backspace characters (or the original erroneous text).
+
+Accidental writing under erasure occurs when using the Unix **talk** program to chat interactively to another user. On a PC-style keyboard most users instinctively press the backspace key to delete mistakes, but this may not achieve the desired effect, and merely displays a ^H symbol. The user typically presses backspace a few times before their brain realises the problem — especially likely if the user is a touch-typist — and since each character is transmitted as soon as it is typed, Freudian slips and other inadvertent admissions are (barring network delays) clearly visible for the other user to see.
+
+Deliberate use of ^H for writing under erasure parallels (and may have been influenced by) the ironic use of ‘slashouts’ in science-fiction fanzines.
+
+A related habit uses editor commands to signify corrections to previous text. This custom faded in email as more mailers got good editing capabilities, only to take on new life on IRCs and other line-based chat systems.
+
+charlie: I&#39;ve seen that term used on alt.foobar often. 
+lisa: Send it to Erik for the File.
+lisa: Oops...s/Erik/Eric/.
+
+The s/Erik/Eric/ says “change Erik to Eric in the preceding”. This syntax is borrowed from the Unix editing tools **ed** and **sed**, but is widely recognized by non-Unix hackers as well.
+
+In a formula, \* signifies multiplication but two asterisks in a row are a shorthand for exponentiation (this derives from FORTRAN, and is also used in Ada). Thus, one might write 2 \*\* 8 = 256.
+
+Another notation for exponentiation one sees more frequently uses the caret (^, ASCII 1011110); one might write instead 2^8 = 256. This goes all the way back to Algol-60, which used the archaic ASCII ‘up-arrow’ that later became the caret; this was picked up by Kemeny and Kurtz's original BASIC, which in turn influenced the design of the bc(1) and dc(1) Unix tools, which have probably done most to reinforce the convention on Usenet. (TeX math mode also uses ^ for exponention.) The notation is mildly confusing to C programmers, because ^ means bitwise exclusive-or in C. Despite this, it was favored 3:1 over \*\* in a late-1990 snapshot of Usenet. It is used consistently in this lexicon.
+
+In on-line exchanges, hackers tend to use decimal forms or improper fractions (‘3.5’ or ‘7/2’) rather than ‘typewriter style’ mixed fractions (‘3-1/2’). The major motive here is probably that the former are more readable in a monospaced font, together with a desire to avoid the risk that the latter might be read as ‘three minus one-half’. The decimal form is definitely preferred for fractions with a terminating decimal representation; there may be some cultural influence here from the high status of scientific notation.
+
+Another on-line convention, used especially for very large or very small numbers, is taken from C (which derived it from FORTRAN). This is a form of ‘scientific notation’ using ‘e’ to replace ‘\*10^’; for example, one year is about 3e7 (that is, 3 × 10 7) seconds long.
+
+The tilde (~) is commonly used in a quantifying sense of ‘approximately’; that is, `~50` means ‘about fifty’.
+
+On Usenet and in the [*MUD*](M/MUD.html) world, common C boolean, logical, and relational operators such as `|`, `&`, `||`, `&&`, `!`, `==`, `!=`, `>`, `=`, and ``, is also recognized, and occasionally one sees `/=` for not-equals (from Ada, Common Lisp, and Fortran 90). The use of prefix ‘!’ as a loose synonym for ‘not-’ or ‘no-’ is particularly common; thus, ‘!clue’ is read ‘no-clue’ or ‘clueless’.
+
+A related practice borrows syntax from preferred programming languages to express ideas in a natural-language text. For example, one might see the following:
+
+In &lt;jrh578689@thudpucker.com&gt; J. R. Hacker wrote:
+&lt;I recently had occasion to field-test the Snafu
+&lt;Systems 2300E adaptive gonkulator.  The price was
+&lt;right, and the racing stripe on the case looked
+&lt;kind of neat, but its performance left something
+&lt;to be desired.
+&#10;Yeah, I tried one out too.
+&#10;#ifdef FLAME
+Hasn&#39;t anyone told those idiots that you can&#39;t get
+decent bogon suppression with AFJ filters at today&#39;s
+net volumes?
+#endif /* FLAME */
+&#10;I guess they figured the price premium for true
+frame-based semantic analysis was too high.
+Unfortunately, it&#39;s also the only workable approach.
+I wouldn&#39;t recommend purchase of this product unless
+you&#39;re on a *very* tight budget.
+&#10;#include &lt;disclaimer.h&gt;
+--
+                 == Frank Foonly (Fubarco Systems)
+
+In the above, the `#ifdef`/`#endif` pair is a conditional compilation syntax from C; here, it implies that the text between (which is a [*flame*](F/flame.html)) should be evaluated only if you have turned on (or defined on) the switch FLAME. The `#include` at the end is C for “include standard disclaimer here”; the ‘standard disclaimer’ is understood to read, roughly, “These are my personal opinions and not to be construed as the official position of my employer.”
+
+The top section in the example, with \
+
+&lt;flame&gt;
+Your mother was a hamster and your father smelt of elderberries!
+&lt;/flame&gt;
+
+You'll even see this with an HTML-style attribute modifier:
+
+&lt;flame intensity=&quot;100%&quot;&gt;
+You seem well-suited for a career in government.
+&lt;/flame&gt;
+
+Another recent (late 1990s) construction now common on Usenet seems to be borrowed from Unix shell syntax or Perl. It consists of using a dollar sign before an uppercased form of a word or acronym to suggest any [*random*](R/random.html) member of the class indicated by the word. Thus: ‘$PHB’ means “any random member of the class ‘Pointy-Haired Boss’”.
+
+Hackers also mix letters and numbers more freely than in mainstream usage. In particular, it is good hackish style to write a digit sequence where you intend the reader to understand the text string that names that number in English. So, hackers prefer to write ‘1970s’ rather than ‘nineteen-seventies’ or ‘1970's’ (the latter looks like a possessive).
+
+It should also be noted that hackers exhibit much less reluctance to use multiply-nested parentheses than is normal in English. Part of this is almost certainly due to influence from LISP (which uses deeply nested parentheses (like this (see?)) in its syntax a lot), but it has also been suggested that a more basic hacker trait of enjoying playing with complexity and pushing systems to their limits is in operation.
+
+Finally, it is worth mentioning that many studies of on-line communication have shown that electronic links have a de-inhibiting effect on people. Deprived of the body-language cues through which emotional state is expressed, people tend to forget everything about other parties except what is presented over that ASCII link. This has both good and bad effects. A good one is that it encourages honesty and tends to break down hierarchical authority relationships; a bad one is that it may encourage depersonalization and gratuitous rudeness. Perhaps in response to this, experienced netters often display a sort of conscious formal *politesse* in their writing that has passed out of fashion in other spoken and written media (for example, the phrase “Well said, sir!” is not uncommon).
+
+Many introverted hackers who are next to inarticulate in person communicate with considerable fluency over the net, perhaps precisely because they can forget on an unconscious level that they are dealing with people and thus don't feel stressed and anxious as they would face to face.
+
+Though it is considered gauche to publicly criticize posters for poor spelling or grammar, the network places a premium on literacy and clarity of expression. It may well be that future historians of literature will see in it a revival of the great tradition of personal letters as art.
+
+
+---
+
+
+
+## Chapter 6. Email Quotes and Inclusion Conventions
+
+One area where conventions for on-line writing are still in some flux is the marking of included material from earlier messages — what would be called ‘block quotations’ in ordinary English. From the usual typographic convention employed for these (smaller font at an extra indent), there derived a practice of included text being indented by one ASCII TAB (0001001) character, which under Unix and many other environments gives the appearance of an 8-space indent.
+
+Early mail and netnews readers had no facility for including messages this way, so people had to paste in copy manually. BSD Mail(1) was the first message agent to support inclusion, and early Usenetters emulated its style. But the TAB character tended to push included text too far to the right (especially in multiply nested inclusions), leading to ugly wraparounds. After a brief period of confusion (during which an inclusion leader consisting of three or four spaces became established in EMACS and a few mailers), the use of leading `>` or `> ` became standard, perhaps owing to its use in ed(1) to display tabs (alternatively, it may derive from the `>` that some early Unix mailers used to quote lines starting with "From" in text, so they wouldn't look like the beginnings of new message headers). Inclusions within inclusions keep their `>` leaders, so the ‘nesting level' of a quotation is visually apparent.
+
+The practice of including text from the parent article when posting a followup helped solve what had been a major nuisance on Usenet: the fact that articles do not arrive at different sites in the same order. Careless posters used to post articles that would begin with, or even consist entirely of, “No, that's wrong” or “I agree” or the like. It was hard to see who was responding to what. Consequently, around 1984, new news-posting software evolved a facility to automatically include the text of a previous article, marked with “\> ” or whatever the poster chose. The poster was expected to delete all but the relevant lines. The result has been that, now, careless posters post articles containing the *entire* text of a preceding article, *followed* only by “No, that's wrong” or “I agree”.
+
+Many people feel that this cure is worse than the original disease, and there soon appeared newsreader software designed to let the reader skip over included text if desired. Today, some posting software rejects articles containing too high a proportion of lines beginning with ‘\>' — but this too has led to undesirable workarounds, such as the deliberate inclusion of zero-content filler lines which aren't quoted and thus pull the message below the rejection threshold.
+
+Inclusion practice is still evolving, and disputes over the ‘correct’ inclusion style occasionally lead to [*holy wars*](H/holy-wars.html).
+
+Most netters view an inclusion as a promise that comment on it will immediately follow. The preferred, conversational style looks like this,
+
+  
+     \> relevant excerpt 1  
+     response to excerpt  
+     \> relevant excerpt 2  
+     response to excerpt  
+     \> relevant excerpt 3  
+     response to excerpt  
+
+or for short messages like this:
+
+  
+     \> entire message  
+     response to message  
+
+Thanks to poor design of some PC-based mail agents (notably Microsoft Outlook and Outlook Express), one will occasionally see the entire quoted message *after* the response, like this
+
+  
+     response to message  
+     \> entire message  
+
+but this practice is strongly deprecated.
+
+Though `>` remains the standard inclusion leader, `|` is occasionally used for extended quotations where original variations in indentation are being retained (one mailer even combines these and uses `|>`). One also sees different styles of quoting a number of authors in the same message: one (deprecated because it loses information) uses a leader of `> ` for everyone, another (the most common) is `> > > > `, `> > > `, etc. (or `>>>> `, `>>>`, etc., depending on line length and nesting depth) reflecting the original order of messages, and yet another is to use a different citation leader for each author, say `> `, `: `, `| `, `@` (preserving nesting so that the inclusion order of messages is still apparent, or tagging the inclusions with authors' names). Yet *another* style is to use each poster's initials (or login name) as a citation leader for that poster.
+
+Occasionally one sees a `# ` leader used for quotations from authoritative sources such as standards documents; the intended allusion is to the root prompt (the special Unix command prompt issued when one is running as the privileged super-user).
+
+
+---
+
+
+
+## Communication Style
+
+See the discussions of speech and writing styles near the beginning of this File. Though hackers often have poor person-to-person communication skills, they are as a rule quite sensitive to nuances of language and very precise in their use of it. They are often better at writing than at speaking.
+
+
+---
+
+
+
+## Chapter 8. International Style
+
+Although the Jargon File remains primarily a lexicon of hacker usage in American English, we have made some effort to get input from abroad. Though the hacker-speak of other languages often uses translations of jargon from English (often as transmitted to them by earlier Jargon File versions!), the local variations are interesting, and knowledge of them may be of some use to travelling hackers.
+
+There are some references herein to ‘Commonwealth hackish’. These are intended to describe some variations in hacker usage as reported in the English spoken in Great Britain and the Commonwealth (Canada, Australia, India, etc. — though Canada is heavily influenced by American usage). There is also an entry on [*Commonwealth Hackish*](C/Commonwealth-Hackish.html) reporting some general phonetic and vocabulary differences from U.S. hackish.
+
+Hackers in Western Europe and (especially) Scandinavia report that they often use a mixture of English and their native languages for technical conversation. Occasionally they develop idioms in their English usage that are influenced by their native-language styles. Some of these are reported here.
+
+On the other hand, English often gives rise to grammatical and vocabulary mutations in the native language. For example, Italian hackers often use the nonexistent verbs ‘scrollare’ (to scroll) and ‘deletare’ (to delete) rather than native Italian *scorrere* and *cancellare*. Similarly, the English verb ‘to hack’ has been seen conjugated in Swedish. In German, many Unix terms in English are casually declined as if they were German verbs -- thus: mount/mounten/gemountet; grep/grepen/gegrept; fork/forken/geforkt; core dump/core-dumpen, gecoredumpt. And Spanish-speaking hackers use ‘linkear’ (to link), ‘debugear’ (to debug), and ‘lockear’ (to lock).
+
+European hackers report that this happens partly because the English terms make finer distinctions than are available in their native vocabularies, and partly because deliberate language-crossing makes for amusing wordplay.
+
+A few notes on hackish usages in Russian have been added where they are parallel with English idioms and thus comprehensible to English-speakers.
+
+
+---
+
+
+
 ## Appendix A. Hacker Folklore
 
 **Table of Contents**
@@ -23562,6 +24435,100 @@ The logical next step should be an implementation of RFC2549.
 
 
 
+## Some AI Koans
+
+[Tom Knight and the Lisp Machine](koans.html#id3141171)
+
+[Moon instructs a student](koans.html#id3141202)
+
+[Sussman attains enlightenment](koans.html#id3141241)
+
+[Drescher and the toaster](koans.html#id3141308)
+
+These are some of the funniest examples of a genre of jokes told at the MIT AI Lab about various noted hackers. The original koans were composed by Danny Hillis, who would later found Connection Machines, Inc. In reading these, it is at least useful to know that Minsky, Sussman, and Drescher are AI researchers of note, that Tom Knight was one of the Lisp machine's principal designers, and that David Moon wrote much of Lisp Machine Lisp.
+
+### Tom Knight and the Lisp Machine
+
+A novice was trying to fix a broken Lisp machine by turning the power off and on.
+
+Knight, seeing what the student was doing, spoke sternly: “You cannot fix a machine by just power-cycling it with no understanding of what is going wrong.”
+
+Knight turned the machine off and on.
+
+The machine worked.
+
+### Moon instructs a student
+
+One day a student came to Moon and said: “I understand how to make a better garbage collector. We must keep a reference count of the pointers to each cons.”
+
+Moon patiently told the student the following story:
+
+> “One day a student came to Moon and said: ‘I understand how to make a better garbage collector...
+
+\[Ed. note: Pure reference-count garbage collectors have problems with circular structures that point to themselves.\]
+
+### Sussman attains enlightenment
+
+In the days when Sussman was a novice, Minsky once came to him as he sat hacking at the PDP-6.
+
+“What are you doing?”, asked Minsky.
+
+“I am training a randomly wired neural net to play Tic-Tac-Toe” Sussman replied.
+
+“Why is the net wired randomly?”, asked Minsky.
+
+“I do not want it to have any preconceptions of how to play”, Sussman said.
+
+Minsky then shut his eyes.
+
+“Why do you close your eyes?”, Sussman asked his teacher.
+
+“So that the room will be empty.”
+
+At that moment, Sussman was enlightened.
+
+### Drescher and the toaster
+
+A disciple of another sect once came to Drescher as he was eating his morning meal.
+
+“I would like to give you this personality test”, said the outsider, “because I want you to be happy.”
+
+Drescher took the paper that was offered him and put it into the toaster, saying: “I wish the toaster to be happy, too.”
+
+
+---
+
+
+
+## A Story About ‘Magic'
+
+Some years ago, I (GLS) was snooping around in the cabinets that housed the MIT AI Lab's PDP-10, and noticed a little switch glued to the frame of one cabinet. It was obviously a homebrew job, added by one of the lab's hardware hackers (no one knows who).
+
+You don't touch an unknown switch on a computer without knowing what it does, because you might crash the computer. The switch was labeled in a most unhelpful way. It had two positions, and scrawled in pencil on the metal switch body were the words ‘magic' and ‘more magic'. The switch was in the ‘more magic' position.
+
+I called another hacker over to look at it. He had never seen the switch before either. Closer examination revealed that the switch had only one wire running to it! The other end of the wire did disappear into the maze of wires inside the computer, but it's a basic fact of electricity that a switch can't do anything unless there are two wires connected to it. This switch had a wire connected on one side and no wire on its other side.
+
+It was clear that this switch was someone's idea of a silly joke. Convinced by our reasoning that the switch was inoperative, we flipped it. The computer instantly crashed.
+
+Imagine our utter astonishment. We wrote it off as coincidence, but nevertheless restored the switch to the ‘more magic’ position before reviving the computer.
+
+A year later, I told this story to yet another hacker, David Moon as I recall. He clearly doubted my sanity, or suspected me of a supernatural belief in the power of this switch, or perhaps thought I was fooling him with a bogus saga. To prove it to him, I showed him the very switch, still glued to the cabinet frame with only one wire connected to it, still in the ‘more magic’ position. We scrutinized the switch and its lone connection, and found that the other end of the wire, though connected to the computer wiring, was connected to a ground pin. That clearly made the switch doubly useless: not only was it electrically nonoperative, but it was connected to a place that couldn't affect anything anyway. So we flipped the switch.
+
+The computer promptly crashed.
+
+This time we ran for Richard Greenblatt, a long-time MIT hacker, who was close at hand. He had never noticed the switch before, either. He inspected it, concluded it was useless, got some diagonal cutters and [*dike*](D/dike.html)d it out. We then revived the computer and it has run fine ever since.
+
+We still don't know how the switch crashed the machine. There is a theory that some circuit near the ground pin was marginal, and flipping the switch changed the electrical capacitance enough to upset the circuit as millionth-of-a-second pulses went through it. But we'll never know for sure; all we can really say is that the switch was [*magic*](M/magic.html).
+
+I still have that switch in my basement. Maybe I'm silly, but I usually keep it set on ‘more magic’.
+
+1994: Another explanation of this story has since been offered. Note that the switch body was metal. Suppose that the non-connected side of the switch was connected to the switch body (usually the body is connected to a separate earth lug, but there are exceptions). The body is connected to the computer case, which is, presumably, grounded. Now the circuit ground within the machine isn't necessarily at the same potential as the case ground, so flipping the switch connected the circuit ground to the case ground, causing a voltage drop/jump which reset the machine. This was probably discovered by someone who found out the hard way that there was a potential difference between the two, and who then wired in the switch as a joke.
+
+
+---
+
+
+
 ## Appendix B. A Portrait of J. Random Hacker
 
 **Table of Contents**
@@ -23605,6 +24572,332 @@ The logical next step should be an implementation of RFC2549.
 This profile reflects detailed comments on an earlier ‘trial balloon’ version from about a hundred Usenet respondents. Where comparatives are used, the implicit ‘other’ is a randomly selected segment of the non-hacker population of the same size as hackerdom.
 
 An important point: Except in some relatively minor respects such as slang vocabulary, hackers don't get to be the way they are by imitating each other. Rather, it seems to be the case that the combination of personality traits that makes a hacker so conditions one's outlook on life that one tends to end up being like other hackers whether one wants to or not (much as bizarrely detailed similarities in behavior and preferences are found in genetic twins raised separately).
+
+
+---
+
+
+
+## Gender and Ethnicity
+
+Hackerdom is still predominantly male. However, the percentage of women is clearly higher than the low-single-digit range typical for technical professions, and female hackers are generally respected and dealt with as equals.
+
+In the U.S., hackerdom is predominantly Caucasian with strong minorities of Jews (East Coast) and Orientals (West Coast). The Jewish contingent has exerted a particularly pervasive cultural influence (see [Food](food.html "Food"), above, and note that several common jargon terms are obviously mutated Yiddish).
+
+The ethnic distribution of hackers is understood by them to be a function of which ethnic groups tend to seek and value education. Racial and ethnic prejudice is notably uncommon and tends to be met with freezing contempt.
+
+When asked, hackers often ascribe their culture's gender- and color-blindness to a positive effect of text-only network channels, and this is doubtless a powerful influence. Also, the ties many hackers have to AI research and SF literature may have helped them to develop an idea of personhood that is inclusive rather than exclusive — after all, if one's imagination readily grants full human rights to future AI programs, robots, dolphins, and extraterrestrial aliens, mere color and gender can't seem very important any more.
+
+
+---
+
+
+
+## Personality Characteristics
+
+The most obvious common ‘personality’ characteristics of hackers are high intelligence, consuming curiosity, and facility with intellectual abstractions. Also, most hackers are ‘neophiles’, stimulated by and appreciative of novelty (especially intellectual novelty). Most are also relatively individualistic and anti-conformist.
+
+Although high general intelligence is common among hackers, it is not the *sine qua non* one might expect. Another trait is probably even more important: the ability to mentally absorb, retain, and reference large amounts of ‘meaningless’ detail, trusting to later experience to give it context and meaning. A person of merely average analytical intelligence who has this trait can become an effective hacker, but a creative genius who lacks it will swiftly find himself outdistanced by people who routinely upload the contents of thick reference manuals into their brains. \[During the production of the first book version of this document, for example, I learned most of the rather complex typesetting language TeX over about four working days, mainly by inhaling Knuth's 477-page manual. My editor's flabbergasted reaction to this genuinely surprised me, because years of associating with hackers have conditioned me to consider such performances routine and to be expected. —ESR\]
+
+Contrary to stereotype, hackers are *not* usually intellectually narrow; they tend to be interested in any subject that can provide mental stimulation, and can often discourse knowledgeably and even interestingly on any number of obscure subjects — if you can get them to talk at all, as opposed to, say, going back to their hacking.
+
+It is noticeable (and contrary to many outsiders' expectations) that the better a hacker is at hacking, the more likely he or she is to have outside interests at which he or she is more than merely competent.
+
+Hackers are ‘control freaks’ in a way that has nothing to do with the usual coercive or authoritarian connotations of the term. In the same way that children delight in making model trains go forward and back by moving a switch, hackers love making complicated things like computers do nifty stuff for them. But it has to be *their* nifty stuff. They don't like tedium, nondeterminism, or most of the fussy, boring, ill-defined little tasks that go with maintaining a normal existence. Accordingly, they tend to be careful and orderly in their intellectual lives and chaotic elsewhere. Their code will be beautiful, even if their desks are buried in 3 feet of crap.
+
+Hackers are generally only very weakly motivated by conventional rewards such as social approval or money. They tend to be attracted by challenges and excited by interesting toys, and to judge the interest of work or other activities in terms of the challenges offered and the toys they get to play with.
+
+In terms of Myers-Briggs and equivalent psychometric systems, hackerdom appears to concentrate the relatively rare INTJ and INTP types; that is, introverted, intuitive, and thinker types (as opposed to the extroverted-sensate personalities that predominate in the mainstream culture). ENT\[JP\] types are also concentrated among hackers but are in a minority.
+
+
+---
+
+
+
+## Dress
+
+Casual, vaguely post-hippie; T-shirts, jeans, running shoes, Birk-enstocks (or bare feet). Long hair, beards, and moustaches are common. High incidence of tie-dye and intellectual or humorous ‘slogan’ T-shirts. Until the mid-1990s such T-shirts were seldom computer-related, as that would have been too obvious — but the hacker culture has since developed its own icons, and J. Random Hacker now often wears a Linux penguin or BSD daemon or a DeCSS protest shirt.
+
+A substantial minority prefers ‘outdoorsy’ clothing — hiking boots (“in case a mountain should suddenly spring up in the machine room”, as one famous parody put it), khakis, lumberjack or chamois shirts, and the like.
+
+After about 1995 hacker dress styles assimilated some influence from punk, gothic, and rave subcultures. This was relatively mild and has manifested mostly as a tendency to wear a lot of black, especially when ‘dressed up’ to the limit of formality. Other markers of those subcultures such as piercings, chains, and dyed hair remain relatively uncommon. Hackers appear to wear black more because it goes with everything and hides dirt than because they want to look like goths.
+
+Very few hackers actually fit the *National Lampoon* Nerd stereotype, though it lingers on at MIT and may have been more common before 1975. At least since the late Seventies backpacks have been more common than briefcases, and the hacker ‘look’ has been more whole-earth than whole-polyester.
+
+Hackers dress for comfort, function, and minimal maintenance hassles rather than for appearance (some, perhaps unfortunately, take this to extremes and neglect personal hygiene). They have a very low tolerance of suits and other ‘business’ attire; in fact, it is not uncommon for hackers to quit a job rather than conform to a dress code. When they are somehow backed into conforming to a dress code, they will find ways to subvert it, for example by wearing absurd novelty ties.
+
+Female hackers almost never wear visible makeup, and many use none at all.
+
+
+---
+
+
+
+## General Appearance
+
+Intelligent. Scruffy. Intense. Abstracted. Surprisingly for a sedentary profession, more hackers run to skinny than fat; both extremes are more common than elsewhere. Tans are rare.
+
+
+---
+
+
+
+## Physical Activity and Sports
+
+Many (perhaps even most) hackers don't follow or do sports at all and are determinedly anti-physical. Among those who do, interest in spectator sports is low to non-existent; sports are something one *does*, not something one watches on TV.
+
+Further, hackers avoid most team sports like the plague. Volleyball was long a notable exception, perhaps because it's non-contact and relatively friendly; Ultimate Frisbee has become quite popular for similar reasons. Hacker sports are almost always primarily self-competitive ones involving concentration, stamina, and micromotor skills: martial arts, bicycling, auto racing, kite flying, hiking, rock climbing, aviation, target-shooting, sailing, caving, juggling, skiing, skating, skydiving, scuba diving. Hackers' delight in techno-toys also tends to draw them towards hobbies with nifty complicated equipment that they can tinker with.
+
+The popularity of martial arts in the hacker culture deserves special mention. Many observers have noted it, and the connection has grown noticeably stronger over time. In the 1970s, many hackers admired martial arts disciplines from a distance, sensing a compatible ideal in their exaltation of skill through rigorous self-discipline and concentration. As martial arts became increasingly mainstreamed in the U.S. and other western countries, hackers moved from admiring to doing in large numbers. In 1997, for example, your humble editor recalls sitting down with five strangers at the first Perl conference and discovering that four of us were in active training in some sort of martial art — and, what is more interesting, nobody at the table found this high perecentage at all odd.
+
+Today (2000), martial arts seems to have become firmly established as the hacker exercise form of choice, and the martial-arts culture combining skill-centered elitism with a willingness to let anybody join seems a stronger parallel to hacker behavior than ever. Common usages in hacker slang un-ironically analogize programming to kung fu (thus, one hears talk of “code-fu” or in reference to specific skills like “HTML-fu”). Albeit with slightly more irony, today's hackers readily analogize assimilation into the hacker culture with the plot of a Jet Li movie: the aspiring newbie studies with masters of the tradition, develops his art through deep meditation, ventures forth to perform heroic feats of hacking, and eventually becomes a master who trains the next generation of newbies in the hacker way.
+
+
+---
+
+
+
+## Education
+
+Nearly all hackers past their teens are either college-degreed or self-educated to an equivalent level. The self-taught hacker is often considered (at least by other hackers) to be better-motivated, and may be more respected, than his school-shaped counterpart. Academic areas from which people often gravitate into hackerdom include (besides the obvious computer science and electrical engineering) physics, mathematics, linguistics, and philosophy.
+
+
+---
+
+
+
+## Reading Habits
+
+Omnivorous, but usually includes lots of science and science fiction. The typical hacker household might subscribe to *Analog*, *Scientific American*, *Whole-Earth Review*, and *Smithsonian* (most hackers ignore *Wired* and other self-consciously ‘cyberpunk’ magazines, considering them [*wannabee*](W/wannabee.html) fodder). Hackers often have a reading range that astonishes liberal arts people but tend not to talk about it as much. Many hackers spend as much of their spare time reading as the average American burns up watching TV, and often keep shelves and shelves of well-thumbed books in their homes.
+
+
+---
+
+
+
+## Other Interests
+
+Some hobbies are widely shared and recognized as going with the culture: science fiction, music, medievalism (in the active form practiced by the Society for Creative Anachronism and similar organizations), chess, go, backgammon, wargames, and intellectual games of all kinds. (Role-playing games such as Dungeons and Dragons used to be extremely popular among hackers but they lost a bit of their luster as they moved into the mainstream and became heavily commercialized. More recently, *Magic: The Gathering* has been widely popular among hackers.) Logic puzzles. Ham radio. Other interests that seem to correlate less strongly but positively with hackerdom include linguistics and theater teching.
+
+
+---
+
+
+
+## Food
+
+Ethnic. Spicy. Oriental, esp. Chinese and most esp. Szechuan, Hunan, and Mandarin (hackers consider Cantonese vaguely *déclassé*). Hackers prefer the exotic; for example, the Japanese-food fans among them will eat with gusto such delicacies as fugu (poisonous pufferfish) and whale. Thai food has experienced flurries of popularity. Where available, high-quality Jewish delicatessen food is much esteemed. A visible minority of Southwestern and Pacific Coast hackers prefers Mexican.
+
+For those all-night hacks, pizza and microwaved burritos are big. Interestingly, though the mainstream culture has tended to think of hackers as incorrigible junk-food junkies, many have at least mildly health-foodist attitudes and are fairly discriminating about what they eat. This may be generational; anecdotal evidence suggests that the stereotype was more on the mark before the early 1980s.
+
+
+---
+
+
+
+## Politics
+
+Formerly vaguely liberal-moderate, more recently moderate-to-neoconservative (hackers too were affected by the collapse of socialism). There is a strong libertarian contingent which rejects conventional left-right politics entirely. The only safe generalization is that hackers tend to be rather anti-authoritarian; thus, both paleoconservatism and ‘hard’ leftism are rare. Hackers are far more likely than most non-hackers to either (a) be aggressively apolitical or (b) entertain peculiar or idiosyncratic political ideas and actually try to live by them day-to-day.
+
+
+---
+
+
+
+## Religion
+
+Agnostic. Atheist. Non-observant Jewish. Neo-pagan. Very commonly, three or more of these are combined in the same person. Conventional faith-holding Christianity is rare though not unknown.
+
+Even hackers who identify with a religious affiliation tend to be relaxed about it, hostile to organized religion in general and all forms of religious bigotry in particular. Many enjoy ‘parody’ religions such as Discordianism and the Church of the SubGenius.
+
+Also, many hackers are influenced to varying degrees by Zen Buddhism or (less commonly) Taoism, and blend them easily with their ‘native’ religions.
+
+There is a definite strain of mystical, almost Gnostic sensibility that shows up even among those hackers not actively involved with neo-paganism, Discordianism, or Zen. Hacker folklore that pays homage to ‘wizards’ and speaks of incantations and demons has too much psychological truthfulness about it to be entirely a joke.
+
+
+---
+
+
+
+## Sexual Habits
+
+Hackerdom easily tolerates a much wider range of sexual and lifestyle variation than the mainstream culture. It includes a relatively large gay and bisexual contingent. Hackers are somewhat more likely to live in polygynous or polyandrous relationships, practice open marriage, or live in communes or group houses. In this, as in general appearance, hackerdom semi-consciously maintains ‘counterculture’ values.
+
+
+---
+
+
+
+## Anthropomorphization
+
+Semantically, one rich source of jargon constructions is the hackish tendency to anthropomorphize hardware and software. English purists and academic computer scientists frequently look down on others for anthropomorphizing hardware and software, considering this sort of behavior to be characteristic of naive misunderstanding. But most hackers anthropomorphize freely, frequently describing program behavior in terms of wants and desires.
+
+Thus it is common to hear hardware or software talked about as though it has homunculi talking to each other inside it, with intentions and desires. Thus, one hears “The protocol handler got confused”, or that programs “are trying” to do things, or one may say of a routine that “its goal in life is to X”. Or: “You can't run those two cards on the same bus; they fight over interrupt 9.”
+
+One even hears explanations like “... and its poor little brain couldn't understand X, and it died.” Sometimes modelling things this way actually seems to make them easier to understand, perhaps because it's instinctively natural to think of anything with a really complex behavioral repertoire as ‘like a person’ rather than ‘like a thing’.
+
+At first glance, to anyone who understands how these programs actually work, this seems like an absurdity. As hackers are among the people who know best how these phenomena work, it seems odd that they would use language that seems to ascribe consciousness to them. The mind-set behind this tendency thus demands examination.
+
+The key to understanding this kind of usage is that it isn't done in a naive way; hackers don't personalize their stuff in the sense of feeling empathy with it, nor do they mystically believe that the things they work on every day are ‘alive’. To the contrary: hackers who anthropomorphize are expressing not a vitalistic view of program behavior but a mechanistic view of human behavior.
+
+Almost all hackers subscribe to the mechanistic, materialistic ontology of science (this is in practice true even of most of the minority with contrary religious theories). In this view, people are biological machines — consciousness is an interesting and valuable epiphenomenon, but mind is implemented in machinery which is not fundamentally different in information-processing capacity from computers.
+
+Hackers tend to take this a step further and argue that the difference between a substrate of CHON atoms and water and a substrate of silicon and metal is a relatively unimportant one; what matters, what makes a thing ‘alive’, is information and richness of pattern. This is animism from the flip side; it implies that humans and computers and dolphins and rocks are all machines exhibiting a continuum of modes of ‘consciousness’ according to their information-processing capacity.
+
+Because hackers accept that a human machine can have intentions, it is therefore easy for them to ascribe consciousness and intention to other complex patterned systems such as computers. If consciousness is mechanical, it is neither more or less absurd to say that “The program wants to go into an infinite loop” than it is to say that “I want to go eat some chocolate” — and even defensible to say that “The stone, once dropped, wants to move towards the center of the earth”.
+
+This viewpoint has respectable company in academic philosophy. Daniel Dennett organizes explanations of behavior using three stances: the “physical stance” (thing-to-be-explained as a physical object), the “design stance” (thing-to-be-explained as an artifact), and the “intentional stance” (thing-to-be-explained as an agent with desires and intentions). Which stances are appropriate is a matter not of abstract truth but of utility. Hackers typically view simple programs from the design stance, but more complex ones are often modelled using the intentional stance.
+
+It has also been argued that the anthropomorphization of software and hardware reflects a blurring of the boundary between the programmer and his artifacts — the human qualities belong to the programmer and the code merely expresses these qualities as his/her proxy. On this view, a hacker saying a piece of code ‘got confused’ is really saying that *he* (or she) was confused about exactly what he wanted the computer to do, the code naturally incorporated this confusion, and the code expressed the programmer's confusion when executed by crashing or otherwise misbehaving.
+
+Note that by displacing from “I got confused” to “It got confused”, the programmer is not avoiding responsibility, but rather getting some analytical distance in order to be able to consider the bug dispassionately.
+
+It has also been suggested that anthropomorphizing complex systems is actually an expression of humility, a way of acknowleging that simple rules we do understand (or that we invented) can lead to emergent behavioral complexities that we don't completely understand.
+
+All three explanations accurately model hacker psychology, and should be considered complementary rather than competing.
+
+
+---
+
+
+
+## Weaknesses of the Hacker Personality
+
+Hackers have relatively little ability to identify emotionally with other people. This may be because hackers generally aren't much like ‘other people’. Unsurprisingly, hackers also tend towards self-absorption, intellectual arrogance, and impatience with people and tasks perceived to be wasting their time.
+
+As cynical as hackers sometimes wax about the amount of idiocy in the world, they tend by reflex to assume that everyone is as rational, ‘cool’, and imaginative as they consider themselves. This bias often contributes to weakness in communication skills. Hackers tend to be especially poor at confrontation and negotiation.
+
+Another weakness of the hacker personality is a perverse tendancy to attack all problems from the most technically complicated angle, just because it may mean more interesting problems to solve, or cooler toys to play with. Hackers sometimes have trouble grokking that the bubble gum and paperclip hardware fix is actually the way to go, and that they really don't need to convince the client to buy that shiny new tool they've had your eye on for two months.
+
+Because of their passionate embrace of (what they consider to be) the [*Right Thing*](R/Right-Thing.html), hackers can be unfortunately intolerant and bigoted on technical issues, in marked contrast to their general spirit of camaraderie and tolerance of alternative viewpoints otherwise. Old-time [*ITS*](I/ITS.html) partisans look down on the ever-growing hordes of [*Unix*](U/Unix.html) and [*Linux*](L/Linux.html) hackers; Unix aficionados despise [*VMS*](V/VMS.html) and Windows; and hackers who are used to conventional command-line user interfaces loudly loathe mouse-and-menu based systems such as the Macintosh. Hackers who don't indulge in [*Usenet*](U/Usenet.html) consider it a huge waste of time and [*bandwidth*](B/bandwidth.html); fans of old adventure games such as [*ADVENT*](A/ADVENT.html) and [*Zork*](Z/Zork.html) consider [*MUD*](M/MUD.html)s to be glorified chat systems devoid of atmosphere or interesting puzzles; hackers who are willing to devote endless hours to Usenet or MUDs consider [*IRC*](I/IRC.html) to be a *real* waste of time; IRCies think MUDs might be okay if there weren't all those silly puzzles in the way. And, of course, there are the perennial [*holy wars*](H/holy-wars.html) — [*EMACS*](E/EMACS.html) vs. [*vi*](V/vi.html), [*big-endian*](B/big-endian.html) vs. [*little-endian*](L/little-endian.html), RISC vs. CISC, etc., etc., etc. As in society at large, the intensity and duration of these debates is usually inversely proportional to the number of objective, factual arguments available to buttress any position.
+
+As a result of all the above traits, many hackers have difficulty maintaining stable relationships. At worst, they can produce the classic [*geek*](G/geek.html): withdrawn, relationally incompetent, sexually frustrated, and desperately unhappy when not submerged in his or her craft. Fortunately, this extreme is far less common than mainstream folklore paints it — but almost all hackers will recognize something of themselves in the unflattering paragraphs above.
+
+Hackers are often monumentally disorganized and sloppy about dealing with the physical world. Bills don't get paid on time, clutter piles up to incredible heights in homes and offices, and minor maintenance tasks get deferred indefinitely.
+
+1994-95's fad behavioral disease was a syndrome called Attention Deficit Disorder (ADD), supposedly characterized by (among other things) a combination of short attention span with an ability to ‘hyperfocus’ imaginatively on interesting tasks. In 1998-1999 another syndrome that is said to overlap with many hacker traits entered popular awareness: Asperger's syndrome (AS). This disorder is also sometimes called ‘high-function autism’, though researchers are divided on whether AS is in fact a mild form of autism or a distinct syndrome with a different etiology. AS patients exhibit mild to severe deficits in interpreting facial and body-language cues and in modeling or empathizing with others' emotions. Though some AS patients exhibit mild retardation, others compensate for their deficits with high intelligence and analytical ability, and frequently seek out technical fields where problem-solving abilities are at a premium and people skills are relatively unimportant. Both syndromes are thought to relate to abnormalities in neurotransmitter chemistry, especially the brain's processing of serotonin.
+
+Many hackers have noticed that mainstream culture has shown a tendency to pathologize and medicalize normal variations in personality, especially those variations that make life more complicated for authority figures and conformists. Thus, hackers aware of the issue tend to be among those questioning whether ADD and AS actually exist; and if so whether they are really ‘diseases’ rather than extremes of a normal genetic variation like having freckles or being able to taste DPT. In either case, they have a sneaking tendency to wonder if these syndromes are over-diagnosed and over-treated. After all, people in authority will always be inconvenienced by schoolchildren or workers or citizens who are prickly, intelligent individualists — thus, any social system that depends on authority relationships will tend to helpfully ostracize and therapize and drug such ‘abnormal’ people until they are properly docile and stupid and ‘well-socialized’.
+
+So hackers tend to believe they have good reason for skepticism about clinical explanations of the hacker personality. That being said, most would also concede that some hacker traits coincide with indicators for non-hyperactive ADD and AS — the status of caffeine as a hacker beverage of choice may be connected to the fact that it bonds to the same neural receptors as Ritalin, the drug most commonly prescribed for ADD. It is probably true that boosters of both would find a rather higher rate of clinical ADD among hackers than the supposedly mainstream-normal 3-5% (AS is rarer at 0.4-0.5%).
+
+
+---
+
+
+
+## Things Hackers Detest and Avoid
+
+All the works of Microsoft. Smurfs, Ewoks, and other forms of offensive cuteness. Bureaucracies. Stupid people. Easy listening music. Television (with occasional exceptions for cartoons, movies, and good SF like *Star Trek* classic or Babylon 5). Business suits. Dishonesty. Incompetence. Boredom. COBOL. BASIC. Character-based menu interfaces.
+
+
+---
+
+
+
+## Miscellaneous
+
+Hackers are more likely to have cats than dogs (in fact, it is widely grokked that cats have the hacker nature). Many drive incredibly decrepit heaps and forget to wash them; richer ones drive spiffy Porsches and RX-7s and then forget to have them washed. Almost all hackers have terribly bad handwriting, and often fall into the habit of block-printing everything like junior draftsmen.
+
+
+---
+
+
+
+## Chapter 9. Crackers, Phreaks, and Lamers
+
+From the early 1980s onward, a flourishing culture of local, MS-DOS-based bulletin boards developed separately from Internet hackerdom. The BBS culture has, as its seamy underside, a stratum of ‘pirate boards’ inhabited by [*cracker*](C/cracker.html)s, phone phreaks, and [*warez d00dz*](W/warez-d00dz.html). These people (mostly teenagers running IBM-PC clones from their bedrooms) have developed their own characteristic jargon, heavily influenced by skateboard lingo and underground-rock slang. While BBS technology essentially died out after the [*Great Internet Explosion*](G/Great-Internet-Explosion.html), the cracker culture moved to IRC and other Internet-based network channels and maintained a semi-underground existence.
+
+Though crackers often call themselves ‘hackers’, they aren't (they typically have neither significant programming ability, nor Internet expertise, nor experience with UNIX or other true multi-user systems). Their vocabulary has little overlap with hackerdom's, and hackers regard them with varying degrees of contempt. But ten years on the brightest crackers tend to become hackers, and sometimes to recall their origins by using cracker slang in a marked and heavily ironic way.
+
+This lexicon covers much of cracker slang (which is often called “leet-speak”) so the reader will be able to understand both what leaks out of the cracker underground and the occasional ironic use by hackers.
+
+Here is a brief guide to cracker and [*warez d00dz*](W/warez-d00dz.html) usage:
+
+- Misspell frequently. The substitutions phone → fone and freak → phreak are obligatory.
+
+- Always substitute ‘z’s for ‘s’s. (i.e. “codes” → “codez”). The substitution of ‘z’ for ‘s’ has evolved so that a ‘z’ is now systematically put at the end of words to denote an illegal or cracking connection. Examples : Appz, passwordz, passez, utilz, MP3z, distroz, pornz, sitez, gamez, crackz, serialz, downloadz, FTPz, etc.
+
+- Type random emphasis characters after a post line (i.e. “Hey Dudes!#!$#$!#!$”).
+
+- Use the emphatic ‘k’ prefix (“k-kool”, “k-rad”, “k-awesome”) frequently.
+
+- Abbreviate compulsively (“I got lotsa warez w/ docs”).
+
+- TYPE ALL IN CAPS LOCK, SO IT LOOKS LIKE YOU'RE YELLING ALL THE TIME.
+
+The following letter substitutions are common:
+
+  
+    a → 4  
+    e → 3  
+    f → ph  
+    i → 1 or |  
+    l → | or 1  
+    m → |\\|  
+    n → |\\  
+    o → 0  
+    s → 5  
+    t → 7 or +  
+
+Thus, “elite” comes out “31337” and “all your base are belong to us” becomes “4ll y0ur b4s3 4r3 b3l0ng t0 us”, Other less common substitutions include:
+
+  
+    b → 8  
+    c → ( or k or |\\
+
+The word “cool” is spelled “kewl” and normally used ironically; when crackers really want to praise something they use the prefix “uber” (from German) which comes out “ub3r” or even “|\_|83r”
+
+These traits are similar to those of [*B1FF*](B/B1FF.html), who originated as a parody of naive [*BBS*](B/BBS.html) users; also of his latter-day equivalent [*Jeff K.*](J/Jeff-K-.html). Occasionally, this sort of distortion may be used as heavy sarcasm or ironically by a real hacker, as in:
+
+    &gt; I got X Windows running under Linux!
+&#10;    d00d!  u R an 31337 hax0r
+
+The words “hax0r” for “hacker” and “sux0r” for “sucks” are the most common references; more generally, to mark a term as cracker-speak one may add “0r” or “xor”. Examples:
+
+  
+    “The nightly build is sux0r today.”  
+    “Gotta go reboot those b0x0rz.”  
+    “Man, I really ought to fix0r my .fetchmailrc.”  
+    “Yeah, well he's a 'leet VMS operat0r now, so he's too good for us.”  
+
+The only practice resembling this in native hacker usage is the substitution of a dollar sign of ‘s’ in names of products or service felt to be excessively expensive, e.g. Compu$erve, Micro$oft.
+
+For further discussion of the pirate-board subculture, see [*lamer*](L/lamer.html), [*elite*](E/elite.html), [*leech*](L/leech.html), [*poser*](P/poser.html), [*cracker*](C/cracker.html), and especially [*warez d00dz*](W/warez-d00dz.html), [*banner site*](B/banner-site.html), [*ratio site*](R/ratio-site.html), [*leech mode*](L/leech-mode.html).
+
+
+---
+
+
+
+## Chapter 2. Of Slang, Jargon, and Techspeak
+
+Linguists usually refer to informal language as ‘slang’ and reserve the term ‘jargon’ for the technical vocabularies of various occupations. However, the ancestor of this collection was called the ‘Jargon File’, and hacker slang is traditionally ‘the jargon’. When talking about the jargon there is therefore no convenient way to distinguish it from what a *linguist* would call hackers' jargon — the formal vocabulary they learn from textbooks, technical papers, and manuals.
+
+To make a confused situation worse, the line between hacker slang and the vocabulary of technical programming and computer science is fuzzy, and shifts over time. Further, this vocabulary is shared with a wider technical culture of programmers, many of whom are not hackers and do not speak or recognize hackish slang.
+
+Accordingly, this lexicon will try to be as precise as the facts of usage permit about the distinctions among three categories:
+
+slang  
+informal language from mainstream English or non-technical subcultures (bikers, rock fans, surfers, etc).
+
+jargon  
+without qualifier, denotes informal ‘slangy’ language peculiar to or predominantly found among hackers — the subject of this lexicon.
+
+techspeak  
+the formal technical vocabulary of programming, computer science, electronics, and other fields connected to hacking.
+
+This terminology will be consistently used throughout the remainder of this lexicon.
+
+The jargon/techspeak distinction is the delicate one. A lot of techspeak originated as jargon, and there is a steady continuing uptake of jargon into techspeak. On the other hand, a lot of jargon arises from overgeneralization of techspeak terms (there is more about this in the [Jargon Construction](construction.html "Chapter 4. Jargon Construction") section below).
+
+In general, we have considered techspeak any term that communicate primarily by a denotation well established in textbooks, technical dictionaries, or standards documents.
+
+A few obviously techspeak terms (names of operating systems, languages, or documents) are listed when they are tied to hacker folklore that isn't covered in formal sources, or sometimes to convey critical historical background necessary to understand other entries to which they are cross-referenced. Some other techspeak senses of jargon words are listed in order to make the jargon senses clear; where the text does not specify that a straight technical sense is under discussion, these are marked with ‘\[techspeak\]’ as an etymology. Some entries have a primary sense marked this way, with subsequent jargon meanings explained in terms of it.
+
+We have also tried to indicate (where known) the apparent origins of terms. The results are probably the least reliable information in the lexicon, for several reasons. For one thing, it is well known that many hackish usages have been independently reinvented multiple times, even among the more obscure and intricate neologisms. It often seems that the generative processes underlying hackish jargon formation have an internal logic so powerful as to create substantial parallelism across separate cultures and even in different languages! For another, the networks tend to propagate innovations so quickly that ‘first use’ is often impossible to pin down. And, finally, compendia like this one alter what they observe by implicitly stamping cultural approval on terms and widening their use.
+
+Despite these problems, the organized collection of jargon-related oral history for the new compilations has enabled us to put to rest quite a number of folk etymologies, place credit where credit is due, and illuminate the early history of many important hackerisms such as [*kluge*](K/kluge.html), [*cruft*](C/cruft.html), and [*foo*](F/foo.html). We believe specialist lexicographers will find many of the historical notes more than casually instructive.
 
 
 ---
