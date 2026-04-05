@@ -343,4 +343,7 @@ review context: "Does anyone on the team grok the memory model here, or are we g
 Apply terms at SUGGESTION level only. They supplement but do not replace
 VIOLATION or WARNING entries for actual convention violations.
 
+Prefer terms defined here (pre-curated with design implications). For anything not
+covered, look it up in `documentation/jargon.md` — do not use terms from memory alone.
+
 > "SUGGESTION: This interface is [term] — [definition from entry]. Consider [alternative]."

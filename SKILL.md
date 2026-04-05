@@ -127,12 +127,13 @@ When a design decision pits interface elegance against implementation simplicity
 ### Jargon Lore Review
 
 Loaded for Unix philosophy and design reviews alongside `taoup-principles.md`.
-All references must be drawn from `jargon-lore.md` — never invent folklore.
+Never invent folklore — all citations must come from the Jargon File.
 
-1. When a design pattern matches a known incident or koan in `jargon-lore.md`, cite it by name
+1. When a design pattern matches a known incident or koan, cite it by name
 2. Format citations as: "DESIGN NOTE: This mirrors [entry] — [one-sentence description]."
 3. Use cultural context to explain *why* a pattern is valued or avoided, not just *that* it is
-4. Do not invent or paraphrase entries not present in `jargon-lore.md`
+4. Prefer entries in `jargon-lore.md` (pre-curated with design implications); for anything not
+   there, look it up in `documentation/jargon.md` — do not cite from memory
 
 ### Jargon Terms Review
 
@@ -142,7 +143,8 @@ to name design smells precisely. Terms appear at SUGGESTION level only.
 1. Apply positive/negative quality terms accurately (elegant, kludge, bletcherous, etc.)
 2. Terms supplement but do not replace VIOLATION/WARNING entries for convention violations
 3. Format as: "SUGGESTION: This design is [term] — [definition]. Consider [alternative]."
-4. Never use a term not defined in `jargon-terms.md`
+4. Prefer terms in `jargon-terms.md` (pre-curated with design implications); for anything not
+   there, look it up in `documentation/jargon.md` — do not use terms from memory alone
 
 ## Reporting Format
 
