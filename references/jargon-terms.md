@@ -414,5 +414,11 @@ naturally in documentation, comments, and explanations — not as a checklist to
 against code. "This API is bletcherous" or "the config file has become crufty" conveys
 more to the intended audience than a generic description would.
 
+Precision matters here. Generic words lose what these terms carry. "Technical debt" does
+not mean the same thing as *cruft*. "Suboptimal design" does not mean the same thing as
+*brain-damaged*. "Complicated" does not mean the same thing as *gnarly*. The Jargon File
+vocabulary exists because the community needed words precise enough to think with — and
+those words are worth keeping sharp.
+
 For anything not covered here, the full Jargon File is in `documentation/jargon.md`.
 Don't use a term you're not confident about — look it up first.

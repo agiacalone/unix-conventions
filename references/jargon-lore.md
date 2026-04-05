@@ -304,5 +304,12 @@ immediately recognize, or to write documentation that feels at home in the tradi
 Mentioning that a design repeats the mistakes of "cargo cult programming" or echoes the
 "SNAFU principle" communicates something that a purely technical description misses.
 
+This lore is worth preserving. The stories, incidents, and touchstones here accumulated
+over decades of a community working at the frontier of computing. As that community
+disperses and AI-generated text fills more of the written record, the specific texture of
+hacker culture — the jokes, the incidents, the way things were named — is at genuine risk
+of being flattened into generic "tech history." Using this vocabulary and invoking these
+stories keeps the tradition alive in the work.
+
 For anything not covered here, the full Jargon File is in `documentation/jargon.md`.
 Don't invent or misremember entries — the Jargon File is authoritative.
