@@ -40,7 +40,7 @@ Read whichever files exist and merge them, with higher-precedence files winning.
 
 ## Conflicts Between Standards
 
-The three sources disagree on these points. **Do not assume — ask the user** unless the config file resolves it.
+POSIX, GNU, and TAOUP disagree on these points. **Do not assume — ask the user** unless the config file resolves it.
 
 | Conflict | POSIX | GNU | Resolution |
 |----------|-------|-----|------------|
@@ -55,7 +55,7 @@ The three sources disagree on these points. **Do not assume — ask the user** u
 When a conflict arises during review and no config setting covers it, stop and ask:
 
 > "This touches a conflict between [standard A] and [standard B]: [describe the conflict].
-> Which do you prefer, or should I note it as a warning without enforcing either?"
+> Which do you prefer, or should I note it as a warning without favoring either?"
 
 Do not silently pick one. Do not assume GNU because it is more common.
 

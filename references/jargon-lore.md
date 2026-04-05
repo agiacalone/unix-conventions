@@ -12,7 +12,7 @@ meditated on; their purpose is to help one to enlightenment by temporarily jammi
 cognitive processing so that something more interesting can happen. Hackers are very fond
 of the koan form and compose their own koans for humorous and/or enlightening effect.
 
-**Design implication:** When a design constraint seems paradoxical or self-defeating, name
+**Reach for it when:** A design constraint seems paradoxical or self-defeating. Name
 it as a koan rather than forcing a resolution — the tension itself may be informative.
 
 ### has the X nature
@@ -22,9 +22,8 @@ hacker construction for 'is an X', used for humorous emphasis: "Anyone who can't
 a program with on-screen help embedded in it truly has the loser nature!" See also *the X
 that can be Y is not the true X*.
 
-**Design implication:** When a design decision embodies a category so fully it becomes a
-defining example, cite it with this form to signal that the property is intrinsic, not
-incidental.
+**Reach for it when:** A design decision embodies a category so fully it becomes a
+defining example — use this form to signal the property is intrinsic, not incidental.
 
 ### ha ha only serious
 
@@ -34,8 +33,8 @@ especially to parodies, absurdities, and ironic jokes that are both intended and
 to contain a possibly disquieting amount of truth. To take hacker culture either too
 lightly or too seriously marks a person as an outsider.
 
-**Design implication:** Use when a joking framing (e.g., a reductio ad absurdum of a
-design) turns out to reveal a genuine problem — flag it as HHOS so the reader knows the
+**Reach for it when:** A joking framing (e.g., a reductio ad absurdum of a
+design) turns out to reveal a genuine problem. Flag it as HHOS so the reader knows the
 humor is load-bearing.
 
 ### zen
@@ -45,9 +44,9 @@ Originally applied to bugs, but occasionally applied to problems of life in gene
 "How'd you figure out the buffer allocation problem?" "Oh, I zenned it." Contrast *grok*,
 which connotes a time-extended version of zenning a system.
 
-**Design implication:** When a review leads to a sudden realization about a design's
-structure rather than a checklist finding, introduce it as a zen moment to signal the
-insight is intuitive but real.
+**Reach for it when:** A review leads to a sudden realization about a design's
+structure — introduce it as a zen moment to signal the insight is intuitive but real,
+not derived from a checklist.
 
 ## Famous Incidents
 
@@ -60,7 +59,7 @@ devastating watershed event in hacker history — it did more to make non-hacker
 about the Internet than anything before or since. Morris's username on ITS was hacked from
 RTM to RTFM after the incident.
 
-**Design implication:** Cite when reviewing security-critical code where a small mistake
+**Reach for it when:** Writing about security-critical code where a small mistake
 could have disproportionate, irreversible consequences — "This has Great Worm potential."
 
 ### Great Renaming
@@ -70,7 +69,7 @@ the `net.-` format to the current multiple-hierarchies scheme. Used in discussin
 history of newsgroup names. "The oldest sources group is `comp.sources.misc`; before the
 Great Renaming, it was `net.sources`."
 
-**Design implication:** Cite when a rename or namespace reorganization will break existing
+**Reach for it when:** A rename or namespace reorganization will break existing
 references or tooling — a Great Renaming needs a migration plan and a clear flag day.
 
 ### Great Internet Explosion
@@ -81,7 +80,7 @@ corporations; after it, everybody's mother had access. Used in time comparatives
 the Great Internet Explosion and after it were very different worlds from a hacker's point
 of view."
 
-**Design implication:** Cite when a system designed for a small trusted community is being
+**Reach for it when:** A system designed for a small trusted community is being
 opened to a much larger, less technically sophisticated audience — the design assumptions
 may need fundamental revision.
 
@@ -93,7 +92,7 @@ technical excellence of Linux and outlined a counterstrategy of attempting to lo
 customers by "de-commoditizing" Internet protocols and services. They were extensively
 cited on the Internet and in the press.
 
-**Design implication:** Cite when reviewing a proprietary extension to an open protocol or
+**Reach for it when:** Writing about a proprietary extension to an open protocol or
 standard — deliberate de-commoditization is a documented strategy, not paranoia.
 
 ### ITS
@@ -104,7 +103,7 @@ AI-hacker jargon derives from ITS folklore, and to have been 'an ITS hacker' qua
 one instantly as an old-timer of the most venerable sort. The shutdown of the lab's last
 ITS machine in May 1990 sent old-time hackers into mourning nationwide.
 
-**Design implication:** Cite when a beloved system is being decommissioned and its
+**Reach for it when:** A beloved system is being decommissioned and its
 institutional knowledge is at risk of being lost — the ITS shutdown is the canonical
 example of culture lost with a platform.
 
@@ -118,8 +117,8 @@ The word has a convoluted history tracing back to the *Smokey Stover* comic stri
 it as the first syllable of the Tibetan chant "FOO MANE PADME HUM." See also *bar*,
 *baz*, *qux*, *foobar*.
 
-**Design implication:** Use `foo`/`bar`/`baz` for throwaway example names in specs and
-docs. Using domain-specific names for examples implies meaning where none is intended.
+**Reach for it when:** You need throwaway example names in specs and docs.
+Using domain-specific names implies meaning where none is intended.
 
 ### hacker ethic
 
@@ -133,7 +132,7 @@ docs. Using domain-specific names for examples implies meaning where none is int
 The most reliable manifestation is that almost all hackers are actively willing to share
 technical tricks, software, and (where possible) computing resources with other hackers.
 
-**Design implication:** Cite when a design decision around access control or information
+**Reach for it when:** A design decision around access control or information
 hiding conflicts with the culture of openness — name the tension explicitly.
 
 ### BOFH
@@ -143,7 +142,7 @@ tolerance for lusers. "You say you need more filespace? Seems to me you have ple
 left..." Many BOFHs hang out in `alt.sysadmin.recovery`. The canonical BOFH stories are
 by Simon Travaglia.
 
-**Design implication:** Cite when a design gives administrators unchecked, opaque power
+**Reach for it when:** A design gives administrators unchecked, opaque power
 over users with no accountability — the BOFH pattern is a known failure mode.
 
 ### cargo cult programming
@@ -154,9 +153,9 @@ working around some past bug, but neither the bug nor the reason the code appare
 avoided it was ever fully understood. The term derives from Richard Feynman's
 characterization of certain practices as "cargo cult science."
 
-**Design implication:** Cite when reviewing code that includes unexplained workarounds,
-defensive checks against impossible conditions, or copy-pasted boilerplate with no
-rationale — name the pattern directly.
+**Reach for it when:** Code includes unexplained workarounds, defensive checks
+against impossible conditions, or copy-pasted boilerplate with no rationale —
+a Unix person will recognize the pattern immediately.
 
 ### cathedral
 
@@ -165,7 +164,7 @@ long release intervals. This term came into use after analysis of the Linux expe
 suggested there might be something wrong (or at least incomplete) in the classical
 assumptions. Contrast *bazaar*.
 
-**Design implication:** Cite when reviewing a project's development model — cathedral
+**Reach for it when:** Writing about a project's development model — cathedral
 assumptions (trusted inner circle, infrequent releases) require explicit justification
 when the problem domain or community has changed.
 
@@ -176,7 +175,7 @@ you can, be open to the point of promiscuity. Popularized by ESR's essay "The Ca
 and the Bazaar." The bazaar model assumes that "given enough eyeballs, all bugs are
 shallow" (*Linus's Law*).
 
-**Design implication:** Cite when a project is considering open-sourcing or moving to
+**Reach for it when:** A project is considering open-sourcing or moving to
 community-driven development — the bazaar model requires different interface stability and
 documentation norms than the cathedral model.
 

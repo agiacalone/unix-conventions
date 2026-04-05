@@ -18,9 +18,9 @@ implemented in a rude manner.
 
 Note: 'kluge' has positive connotations (clever, expedient); 'kludge' does not.
 
-**Design implication:** Use *kludge* for an ugly-but-working fix with no positive spin;
-use *kluge* when expedience was at least intentional. Either warrants a comment explaining
-what was worked around and why a clean fix was deferred.
+**Reach for it when:** Describing a fix that works but leaves you feeling unclean.
+*Kludge* for ugly with no positive spin; *kluge* when expedience was at least intentional.
+Either warrants a comment explaining what was worked around and why a clean fix was deferred.
 
 ### cruft / crufty
 
@@ -31,9 +31,8 @@ when you try to remove it.)
 **crufty** /kruhf´tee/: 1. Poorly built, possibly over-complex. 2. Unpleasant, especially
 to the touch, often with encrusted junk. 3. Generally unpleasant.
 
-**Design implication:** Apply to code that has accumulated patches, dead branches, or
-superseded structures. "SUGGESTION: This module is crufty — [specific issue]. Consider
-extracting or deleting [what]."
+**Reach for it when:** Code has accumulated patches, dead branches, or superseded
+structures — "This module is crufty" communicates the flavor instantly to a Unix person.
 
 ### bletcherous
 
@@ -41,9 +40,8 @@ extracting or deleting [what]."
 to aesthetics of a thing, not objective criteria; contrast *losing* (fails to meet
 criteria) and *bogus* (false/incorrect). "This keyboard is bletcherous!"
 
-**Design implication:** Use for interface or structural decisions that are viscerally
-off-putting even if technically functional — names, layout, calling conventions that
-cause a double-take.
+**Reach for it when:** An interface or structural decision is viscerally off-putting
+even if technically functional — names, layout, calling conventions that cause a double-take.
 
 ### brain-damaged
 
@@ -53,7 +51,7 @@ is unusable and its failure is due to poor design rather than accident. "Only si
 characters per file name? Now *that's* brain-damaged!" 2. [Mac world] Deliberately
 crippled demo software.
 
-**Design implication:** Use for design decisions with no plausible rationale — harder than
+**Reach for it when:** A design decision has no plausible rationale — harder than
 *bletcherous* (aesthetic) or *losing* (failing); *brain-damaged* implies the designer
 actively chose wrong.
 
@@ -65,9 +63,8 @@ anything complicated to become more complicated because people keep saying "Gee,
 be even better if it had this feature too." The result is usually a patchwork because it
 grew one ad-hoc step at a time. When it gets out of hand, it's like a cancer.
 
-**Design implication:** Cite when reviewing a change request that adds a fourth special
-case to a three-special-case system, or when a configuration file has grown beyond
-comprehension.
+**Reach for it when:** A change request adds a fourth special case to a three-special-case
+system, or a configuration file has grown beyond comprehension.
 
 ### misfeature
 
@@ -78,8 +75,8 @@ consequences were not accurately predicted. "Well, yeah, it is kind of a misfeat
 file names are limited to six characters, but the original implementors wanted to save
 directory space and we're stuck with it for now."
 
-**Design implication:** Cite when a well-intentioned design decision has become a burden
-— distinct from a bug fix (the logic is correct) and from cruft (it was planned). A
+**Reach for it when:** A well-intentioned design decision has become a burden
+— distinct from a bug (the logic is correct) and from cruft (it was planned). A
 misfeature requires a philosophical change to resolve.
 
 ### wart
@@ -89,9 +86,9 @@ conspicuous for localized ugliness, esp. a special-case exception to a general r
 some versions of csh(1), single quotes literalize every character inside them except `!`."
 In ANSI C, the `??` trigraph syntax is a wart.
 
-**Design implication:** Name a specific wart by its behavior, not just its presence:
-"SUGGESTION: The `--no-verify` flag is a wart — it breaks the otherwise clean pipeline
-model. Consider [alternative]."
+**Reach for it when:** Something sticks out of an otherwise clean design. Name the
+specific wart by its behavior — "The `--no-verify` flag is a wart; it breaks the otherwise
+clean pipeline model" lands harder than a generic complaint.
 
 ## Design Quality — Positive
 
@@ -103,8 +100,8 @@ ineffable grace of design. Higher praise than 'clever', 'winning', or even 'cusp
 Antoine de Saint-Exupéry: "A designer knows he has achieved perfection not when there is
 nothing left to add, but when there is nothing left to take away."
 
-**Design implication:** The highest term of praise. Reserve it for designs where removing
-any piece would break the whole — not just clean, but irreducible.
+**Reach for it when:** A design is truly irreducible — removing any piece would break
+the whole. The highest term of praise; don't dilute it.
 
 ### clean
 
@@ -112,8 +109,8 @@ adj. Implies 'elegance in the small': a design or implementation that may not ho
 surprises but does things in a way that is reasonably intuitive and relatively easy to
 comprehend from the outside. The antonym is 'grungy' or *crufty*.
 
-**Design implication:** A lower bar than *elegant* — correct, unsurprising, comprehensible.
-Appropriate for most positive assessments of straightforward code.
+**Reach for it when:** Code is correct, unsurprising, and comprehensible — a lower
+bar than *elegant* but the right word for most straightforward positive assessments.
 
 ### orthogonal
 
@@ -123,9 +120,9 @@ of a system and are non-overlapping. For example, the register set of the PDP-11
 orthogonal because all registers can be used interchangeably in any role. The set {not,
 or} is orthogonal; {nand, or, not} is not.
 
-**Design implication:** Cite when a proposed interface adds a function that is a
-composition of existing ones — "SUGGESTION: This flag is not orthogonal to `--foo` and
-`--bar`; consider whether the combination should be a separate command."
+**Reach for it when:** A proposed interface adds a function that is a composition of
+existing ones — "This flag is not orthogonal to `--foo` and `--bar`" signals the problem
+precisely to anyone who groks the term.
 
 ### hack value
 
@@ -135,9 +132,9 @@ had features for reading and printing Roman numerals, which were installed purel
 value. As Louis Armstrong said when asked to explain jazz: "Man, if you gotta ask you'll
 never know."
 
-**Design implication:** When a feature has no practical use but demonstrates mastery or
-wit, name it: "SUGGESTION: This is pure hack value — no user need, but worth preserving
-as an example of [what]."
+**Reach for it when:** A feature has no practical use but demonstrates mastery or wit —
+"this is pure hack value" acknowledges it approvingly without pretending it solves a
+user problem.
 
 ## Complexity Signals
 
@@ -150,8 +147,9 @@ something otherwise impossible. 4. The ultimate goal of all engineering: eleganc
 extreme; from Clarke's Third Law: "Any technology distinguishable from magic is
 insufficiently advanced."
 
-**Design implication:** "Magic bits" or "magic numbers" in code are a smell — unexplained
-constants need names. Distinguish from sense 4 (deliberate, documented, transcendent).
+**Reach for it when:** Unexplained constants need names ("magic numbers"), or when
+something works but nobody can say why. Distinguish from sense 4 — truly transcendent
+magic should be documented as such, not just left mysterious.
 
 ### deep magic
 
@@ -161,9 +159,9 @@ composed by a true wizard. Trades on arcane *theoretical* knowledge. Compiler op
 techniques and aspects of OS design used to be deep magic; many cryptography, signal
 processing, and AI techniques still are. Found in comments: "Deep magic begins here..."
 
-**Design implication:** When code depends on deep magic, document it explicitly — who
-wrote it, what property it relies on, and what would break if changed. Deep magic should
-not be touched without the relevant wizard.
+**Reach for it when:** Code depends on arcane theoretical knowledge that most developers
+won't have. Document who wrote it, what property it relies on, and what would break if
+changed — deep magic should not be touched without the relevant wizard.
 
 ### heavy wizardry
 
@@ -173,8 +171,8 @@ specific OS, language, or complex application interface. Distinguished from *dee
 intimacy, not theory. Writing device drivers is heavy wizardry; so is interfacing to X
 without a toolkit. Found in comments: "Heavy wizardry begins here."
 
-**Design implication:** Flag sections that require a specific expert; document *which*
-system knowledge is required, not just that it's complex.
+**Reach for it when:** A section requires intimate knowledge of a specific system —
+say which system, not just that it's complex.
 
 ### hairy
 
@@ -182,16 +180,16 @@ adj. 1. Annoyingly complicated. 2. Incomprehensible. "[DWIM] is incredibly hairy
 used of people: high-powered, authoritative, expert, and/or incomprehensible. In British
 usage, "hairy" means dangerous — so hairy code there is complicated *and* risky.
 
-**Design implication:** Hairy code is a maintenance risk; cite it to justify adding
-explanatory comments or a simplified wrapper.
+**Reach for it when:** Code is annoyingly complicated or hard to follow — *hairy*
+signals that it's a maintenance risk and deserves explanatory comments or a simpler wrapper.
 
 ### gnarly
 
 /nar´lee/, adj. Both *obscure* and *hairy* (complicated). From surfer slang. "[Yow!] the
 tuned assembler implementation of BitBlt is really gnarly!"
 
-**Design implication:** Stronger than *hairy* alone — gnarly means you can't easily
-explain it even if you wrote it. Gnarly code requires a dedicated comment block before it,
+**Reach for it when:** Code is both obscure and complicated — *gnarly* means you can't
+easily explain it even if you wrote it. It deserves a dedicated comment block before it,
 not just inline notes.
 
 ### voodoo programming
@@ -202,9 +200,9 @@ and if it doesn't, one will never know why. 2. Things programmers do that they k
 shouldn't work but try anyway, and which sometimes actually work, such as recompiling
 everything.
 
-**Design implication:** Cite when a code review reveals copy-pasted incantations with no
-rationale. Distinct from *cargo cult programming* (ritual repetition) — voodoo programming
-includes active guessing. Both are warning signs in production code.
+**Reach for it when:** Code includes copy-pasted incantations with no rationale, or
+techniques applied by guess rather than understanding. Distinct from *cargo cult
+programming* (ritual repetition) — voodoo programming includes active guessing.
 
 ## Interface / API Signals
 
@@ -214,16 +212,16 @@ adj. 1. Non-functional. 2. Useless. 3. False. 4. Incorrect. 5. Unbelievable. 6. 
 "Your patches are bogus." "That algorithm is bogus." "You claim to have solved the halting
 problem? That's totally bogus."
 
-**Design implication:** The general-purpose pejorative. Use in SUGGESTION: "This API
-contract is bogus — [what it claims] vs. [what it actually does]."
+**Reach for it when:** Something is non-functional, false, incorrect, or just wrong —
+the general-purpose pejorative. "This API contract is bogus" is unambiguous.
 
 ### losing
 
 adj. Said of anything that is or causes a *lose* or *lossage*. "The compiler is losing
 badly when I try to use templates."
 
-**Design implication:** Use for designs that actively fail to meet their stated purpose —
-not just ugly (*bletcherous*) but functionally deficient.
+**Reach for it when:** Something actively fails to meet its stated purpose — not just
+ugly (*bletcherous*) but functionally deficient.
 
 ### brain-damaged
 
@@ -237,8 +235,8 @@ constraint so wrong that the designer must have suffered brain damage.
 adj. 1. Not working according to design (neutral, no blame). 2. Improperly designed —
 carries the implication that the designer should have known better. 3. Behaving strangely.
 
-**Design implication:** Distinguish sense 1 (bug) from sense 2 (design error). A *broken*
-interface in sense 2 is harder to fix than a bug because it requires a compatibility break.
+**Reach for it when:** Something isn't working — but be precise about which sense:
+a bug (sense 1) can be patched; a broken design (sense 2) requires a compatibility break.
 
 ### considered harmful
 
@@ -247,8 +245,9 @@ Now a productive suffix: any construction of the form *X Considered Harmful* ass
 X is a design practice whose costs outweigh its benefits. The form has been used both
 seriously and as parody since the 1970s.
 
-**Design implication:** When citing this pattern, be specific about *why* the practice is
-harmful and under what conditions, not just that it has a bad reputation.
+**Reach for it when:** Asserting that a practice's costs outweigh its benefits — but
+be specific about *why* it's harmful and under what conditions, not just that it has a
+bad reputation.
 
 ## Humor and Sarcasm
 
@@ -259,15 +258,15 @@ harmful and under what conditions, not just that it has a bad reputation.
 bogometer just triggered." "You just pinned my bogometer" means you said something so
 outrageously bogus it pegged the scale. The agreed-upon unit of bogosity is the microLenat.
 
-**Design implication:** Use informally in reviews to signal that a claim deserves scrutiny:
-"This pegs my bogometer — what's the actual benchmark?"
+**Reach for it when:** A claim deserves scrutiny — "This pegs my bogometer" signals
+skepticism without requiring a formal argument up front.
 
 ### bogometer
 
 /boh·gom'·@t·er/, n. A notional instrument for measuring bogosity. Compare the Troll-O-Meter.
 
-**Design implication:** The instrument metaphor is useful when a review finding is
-qualitative: "My bogometer triggers on the retry-forever loop — it needs a bound."
+**Reach for it when:** A finding is qualitative and you want to name the sensation:
+"My bogometer triggers on the retry-forever loop — it needs a bound."
 
 ### SNAFU principle
 
@@ -277,9 +276,9 @@ rewarded for telling their superiors pleasant lies than for telling the truth." 
 tenet of Discordianism. The effect of the SNAFU principle is a progressive disconnection
 of decision-makers from reality.
 
-**Design implication:** Cite in post-mortems where a known problem was not escalated:
-"This is SNAFU principle in action — the team knew about the issue but had no safe path to
-report it."
+**Reach for it when:** A known problem was not escalated — "SNAFU principle" names the
+dynamic precisely and is immediately recognizable to anyone who has worked in a dysfunctional
+org.
 
 ### handwave
 
@@ -288,8 +287,8 @@ report it."
 someone starts a sentence with "Clearly..." or "Obviously..." or "It is self-evident
 that...", it is a good bet they are about to handwave.
 
-**Design implication:** Name handwaves in specs and design docs: "This section handwaves
-the failure mode — what happens when [X] returns an error?"
+**Reach for it when:** A spec or design doc glosses over something important — "this
+section handwaves the failure mode" is a precise, recognizable complaint.
 
 ## Cultural Terms
 
@@ -302,8 +301,8 @@ value. 7. One who enjoys the intellectual challenge of creatively overcoming or
 circumventing limitations. It is better to be described as a hacker by others than to
 describe oneself that way.
 
-**Design implication:** The term implies meritocracy and community membership. Invoking it
-in a design discussion connotes shared values around craft and openness.
+**Reach for it when:** You want to invoke shared values around craft and openness — the
+term implies meritocracy and community membership, and is better earned than claimed.
 
 ### wizard
 
@@ -314,8 +313,8 @@ to something only if they have specific detailed knowledge of that thing. 2. Int
 someone with extremely high-level hacking or problem-solving ability. 3. A person permitted
 to do things forbidden to ordinary people; one who has wheel privileges.
 
-**Design implication:** When design depends on a wizard, say so: "This component requires
-a TCP/IP wizard to maintain — document who holds the wizard hat and what they know."
+**Reach for it when:** A component requires deep specific knowledge to maintain — "this
+requires a TCP/IP wizard" communicates the scope of the dependency clearly.
 
 ### guru
 
@@ -323,8 +322,8 @@ n. [Unix] An expert. Implies not only wizard skill but also a history of being a
 resource for others. Less often, used (with a qualifier) for experts on other systems:
 "VMS guru".
 
-**Design implication:** Distinct from *wizard* (can fix it) — a *guru* is also a teaching
-resource. Note when a design area has no guru: institutional knowledge is at risk.
+**Reach for it when:** Someone is not just an expert but a teaching resource — distinct
+from *wizard* (can fix it). When a design area has no guru, institutional knowledge is at risk.
 
 ### grok
 
@@ -335,8 +334,8 @@ code in it; to say you "grok" LISP is to claim you have deeply entered its world
 spirit, with the implication that it has transformed your view of programming. Contrast
 *zen*, which is similar supernal understanding experienced as a single brief flash.
 
-**Design implication:** Use to distinguish shallow familiarity from deep understanding in
-review context: "Does anyone on the team grok the memory model here, or are we guessing?"
+**Reach for it when:** Distinguishing shallow familiarity from deep understanding —
+"does anyone grok the memory model here, or are we guessing?" is a fair question to ask.
 
 ## How to Use This Reference
 
