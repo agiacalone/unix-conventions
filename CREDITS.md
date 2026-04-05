@@ -43,7 +43,7 @@ follow the conventions established by these sources and the Linux man-pages proj
 
 ## The Jargon File (Community Edition)
 - **Maintainer:** Anthony Giacalone — [agiacalone/jargonfile](https://github.com/agiacalone/jargonfile)
-- **Original author:** Eric S. Raymond
+- **Prior Maintainer:** Eric S. Raymond
 - **Online:** https://agiacalone.github.io/jargonfile/
 - **License:** see repository
 
