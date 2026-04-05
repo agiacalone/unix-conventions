@@ -215,6 +215,88 @@ shallow" (*Linus's Law*).
 community-driven development — the bazaar model requires different interface stability and
 documentation norms than the cathedral model.
 
+## Origin Stories
+
+### TMRC
+
+The Tech Model Railroad Club at MIT, one of the wellsprings of hacker culture. The 1959
+*Dictionary of the TMRC Language* compiled by Peter Samson included several terms that
+became basics of the hackish vocabulary — including *foo*, *mung*, and *frob*. TMRC's
+Signals and Power Committee included many of the early PDP-1 hackers and the people who
+later became the core of the MIT AI Lab. When the scram switches on the legendary layout
+were triggered, the digital clock stopped and was replaced with the word 'FOO'; these are
+still called foo switches. The layout was decommissioned in 1998 before the demolition of
+MIT Building 20.
+
+**Reach for it when:** Grounding a discussion of where hacker vocabulary and culture
+actually came from — not a mythology, but a documented lineage from a model railroad club
+to the AI Lab to Unix.
+
+### physical hacking / vadding
+
+**Hack** (MIT sense): To explore the basements, roof ledges, and steam tunnels of a large
+institutional building — to the dismay of Physical Plant workers and Campus Police. The
+Jargon File notes the activity is "eerily similar to playing Dungeons and Dragons or Zork."
+
+**Vadding** /vad´ing/: The same activity, named for VAD (a permutation of ADV, the
+filename of the game *Adventure*, used to avoid an admin's search-and-destroy sweeps for
+it). Some vadders learn locksmithing to synthesize keys. The extreme form is *elevator
+rodeo* — wrangling a thousand-pound elevator car with a piece of string and then
+"exploiting this mastery in various stimulating ways." At MIT the older term *hacking* is
+still used for this.
+
+**Reach for it when:** Writing about the exploratory, boundary-testing spirit of hacker
+culture — the same impulse that drives someone to read kernel source or test an API's
+undocumented limits drives someone to find what's behind the locked door in the basement.
+
+## Hacker Psychology
+
+### hack mode
+
+n. The Zen-like state of total focus on The Problem achieved when deep in a hacking
+session. "More specifically, a Zen-like state of total focus on The Problem that may be
+achieved when one is hacking (this is why every good hacker is part mystic). Ability to
+enter such concentration at will correlates strongly with wizardliness; it is one of the
+most important skills learned during larval stage."
+
+Being yanked out of hack mode is experienced as a physical shock. Hacker etiquette
+accommodates this: it is acceptable to hold up a hand to an arriving visitor, without
+turning from the screen, and continue coding for quite some time before acknowledging
+their presence. The understanding is that you may have a lot of delicate state in your
+head that you dare not swap out before reaching a good stopping point.
+
+**Reach for it when:** Explaining why interruptions are genuinely costly to programmers,
+or why open offices and hacker culture are at odds — *hack mode* names the phenomenon
+precisely and the tradition behind it.
+
+### larval stage
+
+n. A period of monomaniacal concentration on coding apparently passed through by all
+fledgling hackers. Common symptoms: more than one 36-hour hacking run per week, neglect
+of food and sleep, advanced bleary-eye. Duration: 6 months to 2 years, median around 18
+months. "The ordeal seems to be necessary to produce really wizardly (as opposed to merely
+competent) programmers." A shorter version (about a month) recurs when learning a new
+language or OS.
+
+**Reach for it when:** Writing about the development of expertise — the larval stage is
+the canonical account of how someone goes from competent to wizard, and it's more honest
+than most learning-curve metaphors.
+
+### Real Programmer
+
+n. A particular sub-variety of hacker: one possessed of a flippant attitude toward
+complexity that is arrogant even when justified by experience. The Real Programmer programs
+on the bare metal, remembers binary opcodes for every machine they've ever used, considers
+HLLs sissy, and uses a debugger to edit code because editors are for wimps. "Real
+Programmers never use comments or write documentation: 'If it was hard to write, it should
+be hard to understand.'" Their code can awe with its fiendish brilliance even as its
+crockishness appalls. The canonical portrait is *The Story of Mel* (Appendix A of the
+Jargon File site — not captured in our documentation/jargon.md).
+
+**Reach for it when:** Writing about the tension between craft and maintainability, or
+between heroic individual brilliance and sustainable engineering — the Real Programmer
+archetype is the extreme case that illuminates both sides.
+
 ## How to Use This Reference
 
 Use this for cultural context — to explain things in terms Unix people and hackers will
