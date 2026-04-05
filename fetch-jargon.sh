@@ -34,15 +34,33 @@ LETTERS="0 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
 
 > "$OUT"
 for letter in $LETTERS; do
-    url="$BASE_URL/$letter.html"
-    f="$_TMPDIR/$letter.html"
-    log "downloading $letter.html..."
-    if wget -q -O "$f" "$url" 2>/dev/null; then
-        log "converting $letter.html..."
-        pandoc -f html -t commonmark --wrap=none "$f" \
-            | perl -0777 -pe 's/<[^>]+>//g; s/\n{3,}/\n\n/g' >> "$OUT"
-        printf '\n---\n\n' >> "$OUT"
-    else
-        printf 'fetch-jargon: warning: could not fetch %s\n' "$url" >&2
+    index_url="$BASE_URL/$letter.html"
+    index_file="$_TMPDIR/${letter}_index.html"
+    log "downloading index: $letter.html..."
+    if ! wget -q -O "$index_file" "$index_url" 2>/dev/null; then
+        printf 'fetch-jargon: warning: could not fetch %s\n' "$index_url" >&2
+        continue
     fi
+
+    # Extract relative entry URLs from the index page (only entries under $letter/)
+    entry_urls=$(grep -oP 'href="\K[^"]+\.html' "$index_file" | grep "^$letter/" | awk '!seen[$0]++')
+
+    if [[ -z "$entry_urls" ]]; then
+        log "no entries found in $letter.html, skipping"
+        continue
+    fi
+
+    printf '\n## %s\n\n' "$letter" >> "$OUT"
+    while IFS= read -r entry_rel; do
+        entry_url="$BASE_URL/$entry_rel"
+        entry_file="$_TMPDIR/$(echo "$entry_rel" | tr '/' '_')"
+        log "  fetching $entry_rel..."
+        if wget -q -O "$entry_file" "$entry_url" 2>/dev/null; then
+            pandoc -f html -t commonmark --wrap=none "$entry_file" \
+                | perl -0777 -pe 's/<[^>]+>//g; s/\n{3,}/\n\n/g' >> "$OUT"
+            printf '\n---\n\n' >> "$OUT"
+        else
+            printf 'fetch-jargon: warning: could not fetch %s\n' "$entry_url" >&2
+        fi
+    done <<< "$entry_urls"
 done
