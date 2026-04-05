@@ -6,6 +6,23 @@ ROOT="$(cd "$(dirname "$0")" && pwd)"
 INSTALL_DIR="$HOME/.claude/skills/$SKILL_NAME"
 CONFIG_DIR="$HOME/.config/unix-conventions"
 
+usage() {
+    printf 'Usage: install [-h]\n'
+    printf 'Install the unix-conventions skill to ~/.claude/skills/unix-conventions/.\n'
+    printf '\n'
+    printf '  -h    display this help and exit\n'
+    printf '\n'
+    printf 'Report bugs to: https://github.com/agiacalone/unix-conventions/issues\n'
+    exit 0
+}
+
+while getopts 'h' opt; do
+    case "$opt" in
+        h) usage ;;
+        *) exit 2 ;;
+    esac
+done
+
 if [[ ! -f "$ROOT/SKILL.md" ]]; then
     printf '%s: SKILL.md not found in %s\n' "${0##*/}" "$ROOT" >&2
     exit 1
@@ -14,6 +31,9 @@ fi
 mkdir -p "$INSTALL_DIR"
 cp "$ROOT/SKILL.md" "$INSTALL_DIR/"
 cp -r "$ROOT/references" "$INSTALL_DIR/"
+
+mkdir -p "$INSTALL_DIR/documentation"
+cp "$ROOT/documentation/jargon.md" "$INSTALL_DIR/documentation/"
 
 mkdir -p "$CONFIG_DIR"
 if [[ ! -f "$CONFIG_DIR/config" ]]; then
