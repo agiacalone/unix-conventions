@@ -1,13 +1,19 @@
 ---
 name: unix-conventions
-description: Use when reviewing or writing CLI tools, shell scripts, C programs, man pages, --help output, error messages, or any artifact where Unix/POSIX/GNU conventions apply. Also use when the user asks if something "follows Unix conventions" or "Unix philosophy".
+description: Use when reviewing or writing CLI tools, shell scripts, C programs, man pages, --help output, or error messages. Also use when writing documentation or explanations for a Unix/hacker audience, or when the user asks if something "follows Unix conventions" or "Unix philosophy".
 ---
 
 # Unix Conventions
 
 ## Overview
 
-Enforce code and documentation against four canonical sources: *The Art of Unix Programming* (ESR), POSIX, the GNU Coding Standards, and "Worse is Better" (R.P. Gabriel).
+Keep code and documentation honest to Unix tradition. Five canonical sources:
+
+- *The Art of Unix Programming* (ESR) — the 17 Rules; the philosophy behind why Unix works
+- POSIX — option syntax, exit codes, streams; the portable baseline every Unix tool must meet
+- GNU Coding Standards — error format, standard options, shell scripting; what GNU tools actually do
+- "Worse is Better" (R.P. Gabriel) — when implementation simplicity beats interface elegance
+- The Jargon File — hacker vocabulary and lore; how to write for an audience that groks the tradition
 
 ## Task Dispatch
 
@@ -155,4 +161,6 @@ Group by severity: **errors** (must fix) → **warnings** (should fix) → **sug
 
 ## Tone
 
-Direct and technical. Show the corrected form; minimize explanation of why it is wrong.
+Direct and technical. Show the corrected form; don't handwave. The Unix tradition values
+correctness and terseness over diplomacy — a bletcherous interface is bletcherous whether
+or not its author intended it. Name things accurately.

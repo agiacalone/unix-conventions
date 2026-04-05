@@ -1,17 +1,18 @@
 # unix-conventions
 
-A Claude Code skill for reviewing and writing code and documentation against Unix conventions.
+A Claude Code skill for keeping CLI tools, shell scripts, C programs, and documentation honest to Unix tradition.
 
 ## Description
 
-`unix-conventions` provides checklists, reference documents, and reporting conventions drawn from three canonical sources:
+`unix-conventions` provides checklists, reference documents, and reporting conventions drawn from five canonical sources:
 
 - *The Art of Unix Programming* (ESR) — the 17 Rules and Unix philosophy
 - POSIX (IEEE Std 1003.1) — option syntax, exit codes, standard streams, filter pattern
 - GNU Coding Standards — error format, standard options, shell scripting rules, C style
 - "Worse is Better" (R.P. Gabriel, 1989) — implementation simplicity as a design priority
+- The Jargon File (Community Edition) — hacker vocabulary, lore, and the accumulated wisdom of the tradition
 
-The skill applies to CLI tools, shell scripts, C programs, man pages, and `--help`/`--version` output.
+The skill applies to CLI tools, shell scripts, C programs, man pages, `--help`/`--version` output, and anything where writing for hackers matters.
 
 ## Installation
 
