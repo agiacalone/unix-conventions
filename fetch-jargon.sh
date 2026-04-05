@@ -33,6 +33,13 @@ trap cleanup EXIT
 log() { [[ "$VERBOSE" -eq 1 ]] && printf 'fetch-jargon: %s\n' "$*" >&2 || true; }
 
 LETTERS=(0 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z)
+APPENDICES=(
+    appendixa.html
+    story-of-mel.html
+    os-and-jedgar.html
+    meaning-of-hack.html
+    appendixb.html
+)
 
 > "$OUT"
 for letter in "${LETTERS[@]}"; do
@@ -66,4 +73,19 @@ for letter in "${LETTERS[@]}"; do
             printf 'fetch-jargon: warning: could not fetch %s\n' "$entry_url" >&2
         fi
     done <<< "$entry_urls"
+done
+
+printf '\n## Appendices\n\n' >> "$OUT"
+for page in "${APPENDICES[@]}"; do
+    page_url="$BASE_URL/$page"
+    page_file="$_TMPDIR/${page//\//_}"
+    log "fetching appendix: $page..."
+    if wget -q -O "$page_file" "$page_url" 2>/dev/null; then
+        perl -0777 -pe 's/<div class="nav(?:header|footer)">.*?<\/div>//gs' "$page_file" \
+            | pandoc -f html -t commonmark --wrap=none \
+            | perl -0777 -pe 's/<[^>]+>//g; s/\n{3,}/\n\n/g' >> "$OUT"
+        printf '\n---\n\n' >> "$OUT"
+    else
+        printf 'fetch-jargon: warning: could not fetch %s\n' "$page_url" >&2
+    fi
 done
