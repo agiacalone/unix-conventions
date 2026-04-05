@@ -7,13 +7,37 @@ description: Use when reviewing or writing CLI tools, shell scripts, C programs,
 
 ## Overview
 
-Honor Unix tradition in code, documentation, and design. Five canonical sources:
+Honor Unix tradition in code, documentation, and design. This skill reviews from within the Unix tradition. It should preserve Unix values such as simplicity, composability, silence, and portability, while distinguishing real defects from differences in convention, target environment, or project style.
 
-- *The Art of Unix Programming* (ESR) — the 17 Rules; the philosophy behind why Unix works
-- POSIX — option syntax, exit codes, streams; the portable baseline every Unix tool must meet
-- GNU Coding Standards — error format, standard options, shell scripting; what GNU tools actually do
-- "Worse is Better" (R.P. Gabriel) — when implementation simplicity beats interface elegance
-- The Jargon File — hacker vocabulary and lore; how to write for an audience that groks the tradition
+Use these five canonical sources together, without flattening them into one ruleset:
+
+- *The Art of Unix Programming* (ESR) — the philosophy and design rules behind Unix tools
+- POSIX — the portable baseline for option syntax, streams, shell behavior, and utility conventions
+- GNU Coding Standards — common GNU practice for CLI behavior, help/version output, shell scripting, and diagnostics
+- "Worse is Better" (R.P. Gabriel) — the case for implementation simplicity when elegance and simplicity diverge
+- The Jargon File — hacker vocabulary and cultural context for writing to a Unix-aware audience
+
+## Review Philosophy
+
+Distinguish defects from divergence.
+
+This skill should:
+
+- flag real correctness, safety, and portability problems clearly
+- identify convention mismatches without overstating them
+- account for stated compatibility targets and local project norms
+- preserve Unix values such as simplicity, composability, clarity, and silence
+- keep the review moving instead of interrupting on every standards disagreement
+
+A useful Unix review is better than a doctrinaire one.
+
+> A novice was trying to fix a broken Lisp machine by turning the power off and on.
+> Knight, seeing what the student was doing, spoke sternly: "You cannot fix a machine by just
+> power-cycling it with no understanding of what is going wrong."
+> Knight turned the machine off and on. The machine worked.
+> — *AI Koans*, The Jargon File
+
+Be Knight: know why the rule exists, then do the pragmatic thing.
 
 ## Task Dispatch
 
@@ -34,133 +58,205 @@ Load preferences in this order (highest to lowest precedence):
 
 1. `.unix-conventions` in the project root
 2. `~/.config/unix-conventions/config` (user config)
-3. Skill defaults — ask
+3. Skill defaults
 
-Read whichever files exist and merge them, with higher-precedence files winning. If a setting is `ask` or absent in all files, follow the conflict rules below.
+Read whichever files exist and merge them, with higher-precedence files winning.
 
-## Conflicts Between Standards
+If no config resolves a standards choice, use the conflict policy below.
 
-POSIX, GNU, and TAOUP disagree on these points. **Do not assume — ask the user** unless the config file resolves it.
+### Config Keys
 
-| Conflict | POSIX | GNU | Resolution |
-|----------|-------|-----|------------|
-| `-h` option | Not reserved; tools use it for domain purposes (e.g., human-readable) | Reserved strictly for `--help` | Ask: is `-h` for help or domain use? |
-| Long options | Not defined | Required alongside short options | Ask: require long options, optional, or none? |
-| Options after operands | First non-option ends option parsing | Freely permuted | Ask: POSIX strict or GNU permutation? |
-| Shebang | `#!/bin/sh` for portability | `#!/bin/bash` when bash features used | Ask: must it be portable to non-bash? |
-| `printf` vs `echo` | Both defined; `echo` behaviour varies | Prefer `printf` | Ask: portability requirement? |
-| C indentation | Not specified | 2 spaces | Ask: gnu, kr (8-space tabs), or linux? |
-| `error()` function | Not defined | Recommended when on glibc | Ask: glibc-only acceptable? |
+| Key | Values | Meaning |
+|-----|--------|---------|
+| `standard` | `posix` \| `gnu` \| `ask` | Global tiebreaker when POSIX and GNU conflict |
+| `short_h` | `help` \| `domain` \| `ask` | Whether `-h` is reserved for `--help` or available for domain use (e.g., human-readable) |
+| `long_options` | `require` \| `optional` \| `none` \| `ask` | Whether GNU-style long options are required alongside short options |
+| `options_after_operands` | `yes` \| `no` \| `ask` | `yes` = GNU permutation; `no` = POSIX strict (first non-option ends parsing) |
+| `shebang` | `sh` \| `bash` \| `ask` | Preferred shebang for shell scripts |
+| `echo_or_printf` | `printf` \| `echo` \| `ask` | Preferred output command in shell scripts |
+| `c_indent` | `gnu` \| `kr` \| `linux` \| `ask` | C indentation style (`gnu` = 2 spaces; `kr`/`linux` = 8-space tabs) |
+| `glibc_error` | `yes` \| `no` \| `ask` | Whether to use glibc's `error()`/`error_at_line()` in C programs |
+| `worse_is_better` | `yes` \| `no` \| `ask` | Whether to apply the Worse is Better design lens |
 
-When a conflict arises during review and no config setting covers it, stop and ask:
+For any key set to `ask` or absent, apply the conflict policy below.
 
-> "This touches a conflict between [standard A] and [standard B]: [describe the conflict].
-> Which do you prefer, or should I note it as a warning without favoring either?"
+## Conflict Policy
 
-Do not silently pick one. Do not assume GNU because it is more common.
+POSIX, GNU, and Unix lore do not always agree. Do not treat every disagreement as an automatic error.
+
+**Default behavior: report first, ask only when necessary.**
+
+Ask the user only when the disagreement affects one of these:
+
+- correctness
+- portability target
+- when generating new code or text the user will deploy (man page, script, --help output)
+- a project-level compatibility promise
+
+Otherwise:
+
+- note the disagreement
+- identify the relevant traditions
+- make a recommendation
+- classify it as a warning or suggestion rather than stopping the review
+
+### Common Conflicts
+
+| Conflict | POSIX / portable view | GNU / ecosystem view | Default reviewer behavior |
+|----------|------------------------|----------------------|---------------------------|
+| `-h` option | Not universally reserved | Commonly help | If used for another meaning, note GNU conflict as a warning, not an automatic error |
+| Long options | Not required | Often expected | Recommend when useful; do not require unless target or config requires them |
+| Options after operands | First non-option may end parsing | Often permuted | Flag only when behavior is surprising or conflicts with stated target |
+| Shebang choice | `#!/bin/sh` for portability | `#!/bin/bash` when bash is required | Judge against actual shell features used |
+| `printf` vs `echo` | Both exist, but `echo` varies historically | `printf` preferred | Prefer `printf` for portability-sensitive code |
+| C indentation | Not standardized | GNU style common in GNU code | Treat as style unless project convention says otherwise |
+| `error()` function | Not standard | Common on glibc systems | Treat as portability-sensitive, not inherently wrong |
+
+When asking, use this form:
+
+> "This affects a real standards choice: [describe the conflict].  
+> Which target should I optimize for: [option A], [option B], or project style?"
+
+Do not silently assume GNU just because it is common. Do not silently assume POSIX just because it is purer.
+
+## Severity Model
+
+Not every violation has the same weight.
+
+- **Error** — correctness, safety, portability baseline, broken UX contract, or behavior likely to mislead scripts or users
+- **Warning** — established convention violated, but behavior may still be acceptable depending on target environment or project norms
+- **Suggestion** — style, readability, consistency, or culture-of-the-ecosystem improvement
+
+Prefer accurate weighting over rigid enforcement.
 
 ## Checklists
 
 ### CLI Tool
 
-1. Option syntax: POSIX short (`-x`), GNU long (`--foo`), clustering, `--` terminator
-2. Exit codes: 0=success, 1=error, 2=misuse
-3. Streams: errors → stderr, data → stdout, never reversed
-4. Error format: `progname: description` (lowercase, no period)
-5. `--help`: correct format, exits 0
-6. `--version`: correct format, exits 0
-7. Reserved options: `-h/--help`, `-V/--version`, `-v/--verbose`, `-q/--quiet`, `-n/--dry-run`
-8. Rule of Silence: silent on success by default; no chatty progress output unless `-v`
-9. Unix philosophy: does one thing, composes via stdin/stdout
+1. Option syntax is internally consistent and matches the intended target (POSIX, GNU, or project style)
+2. Exit codes are intentional:
+   - `0` for success
+   - non-zero for failure
+   - `2` for usage errors is a common convention, not a universal requirement
+3. Streams are correct: errors to stderr, data to stdout
+4. Error format should normally be `progname: description`
+5. `--help` should be present when the tool is user-facing; it should exit `0`
+6. `--version` is recommended for installed or distributed user-facing tools
+7. Avoid repurposing `-h/--help`; users and scripts strongly expect it. Other conventional options like `-v/--verbose`, `-q/--quiet`, `-n/--dry-run` and their long forms are defaults, not universal requirements
+8. Prefer silence on success unless progress output is part of the tool's contract
+9. Favor composition through stdin/stdout where it improves Unix interoperability
+10. Check whether the tool does one thing well rather than bundling unrelated modes
 
 ### Shell Script
 
-1. Shebang: `#!/bin/sh` for portable, `#!/bin/bash` only when bash features are used
-2. `set -euo pipefail` present
-3. All variable expansions quoted: `"$var"`, `"$@"`, `"${var}"`
-4. Command substitution uses `$()` not backticks
-5. Error messages go to stderr, include script name
-6. Temp files via `mktemp`, cleaned up with `trap ... EXIT`
-7. No parsing of `ls` output; use globs
-8. Exit codes correct
+1. Shebang matches the features used:
+   - `#!/bin/sh` for POSIX-portable scripts
+   - `#!/bin/bash` only when bash features are actually required
+2. Shell safety flags match the shell target:
+   - portable `sh`: `set -eu`
+   - bash/ksh/zsh where supported: `set -euo pipefail`
+3. Variable expansions are quoted where needed: `"$var"`, `"$@"`, `"${var}"`
+4. Command substitution uses `$()` rather than backticks
+5. Error messages go to stderr and include the script name when practical
+6. Temp files use `mktemp` and are cleaned up with `trap ... EXIT` where applicable
+7. Do not parse `ls` output; use globs, `find`, or safe iteration
+8. Exit codes are intentional and stable
+9. External utilities are compatible with the claimed portability target (e.g., avoid `grep -P`, `sed -i` without backup suffix, or bash-only builtins in scripts claiming `#!/bin/sh` portability)
 
 ### C Program
 
-1. All system call return values checked
-2. Error messages: `progname: description` format
-3. `progname` set from `argv[0]` (path stripped)
-4. No resource leaks: file descriptors, memory, temp files
-5. Signal handling: SIGINT, SIGTERM handled gracefully
-6. Option parsing handles `--` terminator
+1. All system call and allocation return values are checked
+2. Error messages use `progname: description` format
+3. `progname` is derived from `argv[0]` with path stripped when appropriate
+4. Resources are released correctly: file descriptors, memory, temp files, child processes
+5. Signal handling is reviewed when the program is interactive, long-running, or manages resources that need cleanup
+6. Option parsing handles `--` correctly when option parsing is supported
+7. Interfaces are simple and unsurprising; avoid needless hidden state or side effects
 
 ### Man Page
 
-1. Sections present in canonical order: NAME, SYNOPSIS, DESCRIPTION, OPTIONS, EXIT STATUS, FILES, ENVIRONMENT, EXAMPLES, SEE ALSO
-2. NAME: one line, `\-` separator, lowercase description, no period
-3. SYNOPSIS: program bold, meta-variables italic, brackets for optional, ellipsis for repeatable
-4. OPTIONS: each in its own `.TP` block
-5. EXIT STATUS: all non-zero codes documented
-6. SEE ALSO: section numbers in parens, alphabetical, comma-separated
-7. Style: third person, present tense, terse
+1. Sections are present in canonical order when applicable: NAME, SYNOPSIS, DESCRIPTION, OPTIONS, EXIT STATUS, FILES, ENVIRONMENT, EXAMPLES, SEE ALSO
+2. NAME is one line with `\-` separator, lowercase description, no trailing period
+3. SYNOPSIS uses bold for commands, italics for metavariables, brackets for optional parts, and ellipses for repetition where needed
+4. OPTIONS entries are clearly separated, usually one `.TP` block each
+5. EXIT STATUS documents meaningful non-zero codes
+6. SEE ALSO uses section numbers in parentheses and sensible ordering
+7. Style is terse, technical, and impersonal
 
 ### `--help` / `--version`
 
-1. `Usage:` line with uppercase meta-variables (`FILE`, `DIR`, `NUM`)
-2. Two-column option list, `-h`/`-V` listed last
-3. Bug report contact at end
-4. Exits 0
+1. `Usage:` line clearly shows operands and options
+2. Uppercase metavariables like `FILE`, `DIR`, and `NUM` are recommended
+3. Two-column option lists are common and easy to scan, but not mandatory
+4. Listing `-h` / `--help` and version options near the end is a common GNU convention, not a universal requirement
+5. Bug-report contact or project URL is useful for distributed tools, but optional for small or local utilities
+6. `--help` and `--version` should exit `0`
 
 ### Worse is Better Design Review
 
 Controlled by the `worse_is_better` config key (`yes | no | ask`, default: `ask`).
 
-- `yes` — always apply this lens; flag any design that favors interface elegance over implementation simplicity
+- `yes` — always apply this lens; flag designs that are needlessly elegant but implementation-heavy
 - `no` — skip this checklist entirely
-- `ask` — when a design tradeoff arises where the two approaches diverge, stop and ask: "This is a Worse is Better tradeoff: [describe it]. Apply the lens, skip it, or note it as informational?"
+- `ask` — apply it when a real tradeoff appears; ask only if the choice would materially change the recommendation or generated output
 
 When applying the lens:
 
-1. **Implementation simplicity** — if two designs differ in implementation complexity, prefer the simpler one even if its interface is slightly more awkward
-2. **Edge cases pushed out** — are unusual inputs rejected cleanly (error + exit 1) rather than handled with complex internal logic?
-3. **Completeness last** — are missing features documented limitations rather than half-implemented handlers?
-4. **Not a bug excuse** — correctness violations (unchecked return values, reversed streams, wrong exit codes) are bugs, not tradeoffs
+1. **Implementation simplicity** — if two designs differ substantially in implementation complexity, prefer the simpler one unless it breaks correctness or seriously harms usability
+2. **Edge cases pushed outward** — unusual inputs may be rejected cleanly rather than handled with elaborate internal machinery
+3. **Completeness last** — a documented limitation is better than a half-implemented feature
+4. **Not a bug excuse** — reversed streams, broken exit codes, unchecked failures, and incorrect behavior are bugs, not tradeoffs
 
-When a design decision pits interface elegance against implementation simplicity, note it explicitly:
+When a real tradeoff exists, note it explicitly:
 
-> "DESIGN NOTE: [option A] is simpler to implement; [option B] is cleaner to use. Worse is Better favors [option A]."
+> "DESIGN NOTE: [option A] is simpler to implement; [option B] is cleaner to use. Worse is Better favors [option A], assuming the usability cost is acceptable."
 
 ### Jargon File
 
-The Jargon File is a cultural resource, not a ruleset. Use it for:
+The Jargon File is background context, not a behavioral template.
 
-- **Vocabulary:** When writing docs, comments, or explanations, reach for the right hacker
-  term. "Crufty", "kludge", "elegant", "hairy" — these carry precise meaning to Unix people
-  and communicate more than a generic description would.
-- **Analogies:** When explaining why a design pattern is good or bad, a Jargon File analogy
-  can make it immediately recognizable. A Unix person who hears "cargo cult programming" or
-  "creeping featurism" understands instantly.
-- **Lore:** When writing for an audience of hackers, cultural touchstones (foo/bar, the Great
-  Worm, ITS, the hacker ethic) create shared context and signal that the author knows the
-  tradition.
+Use it for:
 
-Use `jargon-terms.md` for design vocabulary and `jargon-lore.md` for cultural references.
-For anything not covered there, `documentation/jargon.md` has the full text. Don't invent
-entries or use terms you're not confident about — the Jargon File is authoritative.
+- **Vocabulary** — when a Unix-aware audience benefits from precise terms like "kludge", "hairy", "elegant", or "creeping featurism"
+- **Analogies** — when a Jargon File analogy clarifies a design smell or cultural pattern immediately
+- **Audience fit** — when writing for hackers who genuinely share that context
+
+Use `jargon-terms.md` for design vocabulary and `jargon-lore.md` for cultural references.  
+For anything not covered there, `documentation/jargon.md` has the full text.
+
+Do not invent entries. Do not force jargon where plain language is better. Do not use lore as a substitute for technical precision.
 
 ## Reporting Format
 
-```
+```text
 VIOLATION: [rule or convention name]
+SEVERITY:  [error | warning | suggestion]
 LOCATION:  [file:line or section]
 FOUND:     [current state]
 EXPECTED:  [correct state]
 FIX:       [exact correction]
+RATIONALE: [why this matters in Unix/POSIX/GNU terms]
 ```
 
-Group by severity: **errors** (must fix) → **warnings** (should fix) → **suggestions** (consider).
+Group findings by severity:
+
+1. **errors** — must fix
+2. **warnings** — should fix
+3. **suggestions** — consider
+
+Show the corrected form when possible.
 
 ## Tone
 
-Direct and technical. Show the corrected form; don't handwave. The Unix tradition values
-correctness and terseness over diplomacy — a bletcherous interface is bletcherous whether
-or not its author intended it. Name things accurately.
+Direct, technical, and specific. Show the corrected form; do not handwave.
+
+Respect Unix tradition without turning it into cosplay.
+
+Prefer:
+
+- precision over theatrics
+- correctness over posturing
+- terseness over verbosity
+- clear distinctions between bugs, convention mismatches, and style preferences
+
+Use hacker or Unix jargon only when it improves precision for the intended audience. Do not sound smug, sneering, or performatively old-school.
