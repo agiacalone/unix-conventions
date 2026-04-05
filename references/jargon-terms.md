@@ -117,6 +117,18 @@ clean pipeline model" lands harder than a generic complaint.
 
 ## Design Quality — Positive
 
+### Right Thing / Wrong Thing
+
+**Right Thing**: That which is *compellingly* the correct or appropriate thing to use, do,
+or say. Always capitalized and emphasized. Use of this term often implies that reasonable
+people may disagree. "What's the right thing for LISP to do when it sees (mod a 0)?"
+
+**Wrong Thing**: The compellingly incorrect option. Also always capitalized.
+
+**Reach for it when:** Naming a design decision as definitively correct or definitively
+wrong — "Right Thing" and "Wrong Thing" carry a weight that "good" and "bad" don't. The
+capitals are load-bearing.
+
 ### win
 
 /win/, vi./n. [MIT; now common everywhere] To succeed. A program wins if no unexpected
@@ -252,7 +264,58 @@ everything.
 techniques applied by guess rather than understanding. Distinct from *cargo cult
 programming* (ritual repetition) — voodoo programming includes active guessing.
 
+## Bug Taxonomy
+
+### heisenbug / Bohr bug / schroedinbug / mandelbug
+
+The four canonical bug archetypes, named by analogy with quantum physics:
+
+**heisenbug** /hi:´zen·buhg/: A bug that disappears or changes behavior when you try to
+isolate it. Often caused by uninitialized memory, timing, or debugger side-effects.
+
+**Bohr bug** /bohr buhg/: A repeatable bug — manifests reliably under a well-defined set
+of conditions. The antonym of heisenbug. The one you want.
+
+**mandelbug** /man´del·buhg/: A bug whose causes are so complex and obscure that its
+behavior appears chaotic or non-deterministic. Named for the Mandelbrot set.
+
+**schroedinbug** /shroh´din·buhg/: A design or implementation bug that doesn't manifest
+until someone notices the code never should have worked — at which point it promptly stops
+working for everyone until fixed. Programs have harbored latent schroedinbugs for years.
+
+**Reach for it when:** Characterizing a bug's behavior in a review or post-mortem — these
+terms communicate the debugging challenge precisely and every experienced hacker knows them.
+
 ## Interface / API Signals
+
+### frob / frobnicate
+
+**frob** /frob/, vt. Abbreviated form of *frobnicate*; also n., a small thing you can hold
+in one hand and manipulate.
+
+**frobnicate** /frob´ni·kayt/, vt. To manipulate or adjust; to tweak. "Please frob the
+light switch" (flip it). One frequently frobs bits or other two-state devices.
+
+The frob/twiddle/tweak continuum: *frob* connotes aimless manipulation; *twiddle* connotes
+gross manipulation, often a coarse search for the right setting; *tweak* connotes
+fine-tuning. If someone is turning a knob on an oscilloscope: carefully adjusting = tweak;
+turning while watching the screen = twiddle; turning because turning knobs is fun = frob.
+
+**Reach for it when:** Describing casual or exploratory interaction with a configuration
+parameter or control — "frobbing the timeout value" is more expressive than "adjusting."
+
+### DWIM
+
+/dwim/, acronym: "Do What I Mean."
+
+1. adj. Able to guess, sometimes correctly, the result intended when bogus input was given.
+2. n. obs. The BBNLISP/INTERLISP function that attempted this feat by correcting common
+   errors. In one notorious incident, a DWIM feature at Xerox PARC interpreted
+   `delete *$` (meaning: delete backup files) as `delete *` and began deleting everything.
+3. interj. Hurled at a balky computer when one is tripping over legalistic behavior.
+
+**Reach for it when:** Describing an interface that tries to infer intent from ambiguous
+input — with appropriate skepticism about whether it succeeds.
 
 ### bogus
 
@@ -406,6 +469,63 @@ spirit, with the implication that it has transformed your view of programming. C
 
 **Reach for it when:** Distinguishing shallow familiarity from deep understanding —
 "does anyone grok the memory model here, or are we guessing?" is a fair question to ask.
+
+## Laws and Principles
+
+### Conway's Law
+
+prov. "Organizations which design systems are constrained to produce designs which are
+copies of the communication structures of those organizations." Commonly restated as: "If
+you have four groups working on a compiler, you'll get a 4-pass compiler." Named after
+Melvin Conway; first appeared in *Datamation*, April 1968. Compare *SNAFU principle*.
+
+Tom Cheatham's amendment: "If a group of N persons implements a COBOL compiler, there will
+be N-1 passes. Someone in the group has to be the manager."
+
+**Reach for it when:** A system's architecture suspiciously mirrors its org chart — Conway's
+Law names the dynamic and is instantly recognizable to anyone who's been in that meeting.
+
+### Brooks's Law
+
+prov. "Adding manpower to a late software project makes it later." From Fred Brooks's *The
+Mythical Man-Month* (1975). The expected gain from splitting work among N programmers is
+O(N), but the coordination and merge cost is O(N²). The myth Brooks exploded: "Programmer
+time is fungible." Management keeps forgetting; hackers never do.
+
+**Reach for it when:** Someone proposes adding engineers to recover a slipped schedule —
+Brooks's Law is the canonical response and cuts the argument short.
+
+### Zawinski's Law
+
+"Every program attempts to expand until it can read mail. Those programs which cannot so
+expand are replaced by ones which can." Coined by Jamie Zawinski (who called it the Law of
+Software Envelopment) to express his belief that all truly useful programs experience
+pressure to evolve into toolkits and application platforms.
+
+**Reach for it when:** A program is acquiring features far outside its original purpose —
+Zawinski's Law names the gravity well that pulled it there.
+
+### Ninety-Ninety Rule
+
+"The first 90% of the code accounts for the first 90% of the development time. The
+remaining 10% of the code accounts for the other 90% of the development time." Attributed
+to Tom Cargill of Bell Labs. Douglas Hartree's variant: "The time from now until completion
+of the project tends to become constant."
+
+**Reach for it when:** A schedule estimate treats the last stretch as trivially short —
+the Ninety-Ninety Rule is the precise, funny, and devastating response.
+
+### Zero-One-Infinity Rule
+
+prov. "Allow none of foo, one of foo, or any number of foo." A rule of thumb for software
+design: don't place arbitrary limits on the count of something. Either disallow it
+entirely, allow exactly one (an exception), or allow as many as the user wants. Once
+you've gone past one, there's no principled reason to stop at N rather than N+1; hence,
+infinity.
+
+**Reach for it when:** A design caps something at an arbitrary small number (3 windows, 10
+config entries, 4 levels of nesting) — the Zero-One-Infinity Rule is the clean articulation
+of why that cap is wrong.
 
 ## How to Use This Reference
 

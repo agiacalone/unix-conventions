@@ -5,6 +5,36 @@ Source: `documentation/jargon.md`. Do not add entries not present in the source.
 
 ## Koans
 
+### AI koans
+
+A genre of jokes told at the MIT AI Lab about noted hackers. The originals were composed
+by Danny Hillis, who later founded Connection Machines, Inc. The principals: Minsky,
+Sussman, and Drescher are AI researchers; Tom Knight designed the Lisp machine; David Moon
+wrote much of Lisp Machine Lisp.
+
+**Tom Knight and the Lisp Machine:** A novice was fixing a broken Lisp machine by power-
+cycling it. Knight spoke sternly: "You cannot fix a machine by just power-cycling it with
+no understanding of what is going wrong." Knight turned the machine off and on. The machine
+worked.
+
+**Moon instructs a student:** "I understand how to make a better garbage collector. We must
+keep a reference count of the pointers to each cons." Moon told him: "One day a student
+came to Moon and said: 'I understand how to make a better garbage collector...'" [Ed. note:
+Pure reference-count collectors have problems with circular structures.]
+
+**Sussman attains enlightenment:** Minsky found Sussman training a randomly wired neural
+net to play Tic-Tac-Toe. "Why wired randomly?" "I do not want it to have any preconceptions
+of how to play." Minsky shut his eyes. "Why do you close your eyes?" "So that the room will
+be empty." At that moment, Sussman was enlightened.
+
+**Drescher and the toaster:** A disciple offered Drescher a personality test: "I want you
+to be happy." Drescher put the paper in the toaster: "I wish the toaster to be happy, too."
+
+Full text in `documentation/jargon.md` under Appendices.
+
+**Reach for it when:** Writing about the gap between elegant theory and practical reality,
+or the zen of debugging — every MIT-tradition hacker knows these stories by heart.
+
 ### koan
 
 /koh´an/, n. A Zen teaching riddle. Classically, koans are attractive paradoxes to be
@@ -156,6 +186,32 @@ RTFB ("Read The Fucking Book") for published references.
 basic research before escalating — "RTFM culture" is a recognizable shorthand for a
 community that values self-sufficiency.
 
+### holy wars
+
+n. [Usenet; common] Flame wars over *religious issues* — arguments where most participants
+spend their time passing off personal value choices and cultural attachments as objective
+technical evaluations. The characteristic that distinguishes holy wars from normal technical
+disputes is that the substantive differences between the sides are often relatively minor.
+
+Classic holy wars: ITS vs. Unix, Unix vs. VMS, BSD vs. System V, C vs. Pascal, C vs.
+FORTRAN. Hardy perennials: EMACS vs. vi, tabs vs. spaces. The paper by Danny Cohen that
+popularized *big-endian* and *little-endian* was titled "On Holy Wars and a Plea for Peace."
+
+**Reach for it when:** A technical argument has become ritualized and tribal — naming it a
+holy war signals that the technical merits have been exhausted and what remains is culture.
+
+### Easter egg
+
+n. 1. A message hidden in the object code of a program as a joke, intended to be found by
+persons disassembling or browsing the code. 2. A message, graphic, or sound effect emitted
+by a program in response to some undocumented set of commands or keystrokes, intended as
+a joke or to display credits. One famous early Easter egg caused an OS to respond to
+`make love` with `not war?`. Many personal computers have had elaborate eggs hidden in ROM,
+including lists of developers' names, political exhortations, and images of the dev team.
+
+**Reach for it when:** Writing about the playful, human side of software authorship — Easter
+eggs are evidence that real programmers, not just product managers, shipped this code.
+
 ### hacker ethic
 
 1. The belief that information-sharing is a powerful positive good, and that it is an
@@ -216,6 +272,20 @@ community-driven development — the bazaar model requires different interface s
 documentation norms than the cathedral model.
 
 ## Origin Stories
+
+### HAKMEM
+
+/hak´mem/, n. MIT AI Memo 239 (February 1972). A legendary collection of mathematical and
+programming hacks contributed by MIT hackers and others — Bill Gosper, Rich Schroeppel,
+Gene Salamin, and others. (The title is a 6-letterism for "hacks memo.") Entries range
+from powerful theorems and useful techniques to mathematical trivia and unsolved problems.
+Highlights include Gosper's proof that algebra runs on a two's-complement machine, a count
+of 320 million magic squares of order 5, and the "banana phenomenon" of self-referential
+string processing. The memo is a cultural artifact: it represents hacker mathematical
+culture at its peak, mixing rigor with wit and genuine discovery with playful absurdity.
+
+**Reach for it when:** Invoking the tradition of serious play — HAKMEM is the canonical
+example of hackers doing real mathematics purely because it was interesting.
 
 ### TMRC
 
