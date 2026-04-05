@@ -38349,3 +38349,28552 @@ Home
 
 ---
 
+
+
+mouse pusher
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**mouse pusher**
+
+\[common\] A person that prefers a mouse over a keyboard; originally used for Macintosh fans. The derogatory implication is that the person has nothing but the most superficial knowledge of the software he/she is employing, and is incapable of using or appreciating the full glory of the command line.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+mouse elbow 
+Home
+ mouso
+
+
+---
+
+
+
+mouso
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**mouso**: /mow´soh/, n.
+
+\[by analogy with ‘typo’\] An error in mouse usage resulting in an inappropriate selection or graphic garbage on the screen. Compare [*thinko*](../T/thinko.html), [*braino*](../B/braino.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+mouse pusher 
+Home
+ MS-DOS
+
+
+---
+
+
+
+MS-DOS
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**MS-DOS**: /M·S·dos/, n.
+
+\[MicroSoft Disk Operating System\] A [*clone*](../C/clone.html) of [*CP/M*](../C/CP-M.html) for the 8088 crufted together in 6 weeks by hacker Tim Paterson at Seattle Computer Products, who called the original QDOS (Quick and Dirty Operating System) and is said to have regretted it ever since. Microsoft licensed QDOS in order to have something to demo for IBM on time, and the rest is history. Numerous features, including vaguely Unix-like but rather broken support for subdirectories, I/O redirection, and pipelines, were hacked into Microsoft's 2.0 and subsequent versions; as a result, there are two or more incompatible versions of many system calls, and MS-DOS programmers can never agree on basic things like what character to use as an option switch or whether to be case-sensitive. The resulting appalling mess is now the highest-unit-volume OS in history. Often known simply as DOS, which annoys people familiar with other similarly abbreviated operating systems (the name goes back to the mid-1960s, when it was attached to IBM's first disk operating system for the 360). The name further annoys those who know what the term [*operating system*](../O/operating-system.html) does (or ought to) connote; DOS is more properly a set of relatively simple interrupt services. Some people like to pronounce DOS like “dose”, as in “I don't work on dose, man!”, or to compare it to a dose of brain-damaging drugs (a slogan button in wide circulation among hackers exhorts: “MS-DOS: Just say No!”). See [*mess-dos*](mess-dos.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+mouso 
+Home
+ mu
+
+
+---
+
+
+
+mu
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**mu**: /moo/
+
+The correct answer to the classic trick question “Have you stopped beating your wife yet?”. Assuming that you have no wife or you have never beaten your wife, the answer “yes” is wrong because it implies that you used to beat your wife and then stopped, but “no” is worse because it suggests that you have one and are still beating her. According to various Discordians and Douglas Hofstadter the correct answer is usually “mu”, a Japanese word alleged to mean “Your question cannot be answered because it depends on incorrect assumptions”. Hackers tend to be sensitive to logical inadequacies in language, and many have adopted this suggestion with enthusiasm. The word ‘mu’ is actually from Chinese, meaning ‘nothing’; it is used in mainstream Japanese in that sense. In Chinese it can also mean “have not” (as in “I have not done it”), or “lack of”, which may or may not be a definite, complete 'nothing'). Native speakers of Japanese do not recognize the Discordian question-denying use, which almost certainly derives from overgeneralization of the answer in the following well-known Rinzai Zen [*koan*](../K/koan.html):
+
+> A monk asked Joshu, “Does a dog have the Buddha nature?” Joshu retorted, “Mu!”
+
+See also [*has the X nature*](../H/has-the-X-nature.html), [Some AI Koans](../koans.html "Some AI Koans"), and Douglas Hofstadter's *Gödel, Escher, Bach: An Eternal Golden Braid* (pointer in the [Bibliography](../pt03.html#bibliography "Bibliography") in Appendix C.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+MS-DOS 
+Home
+ MUD
+
+
+---
+
+
+
+MUD
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**MUD**: /muhd/, n.
+
+\[acronym, Multi-User Dungeon; alt.: Multi-User Dimension\]
+
+1\. A class of [*virtual reality*](../V/virtual-reality.html) experiments accessible via the Internet. These are real-time chat forums with structure; they have multiple ‘locations’ like an adventure game, and may include combat, traps, puzzles, magic, a simple economic system, and the capability for characters to build more structure onto the database that represents the existing world.
+
+2\. vi. To play a MUD. The acronym MUD is often lowercased and/or verbed; thus, one may speak of going mudding, etc.
+
+Historically, MUDs (and their more recent progeny with names of MU- form) derive from a hack by Richard Bartle and Roy Trubshaw on the University of Essex's DEC-10 in the early 1980s; descendants of that game still exist today and are sometimes generically called *BartleMUD*s. There is a widespread myth (repeated, unfortunately, by earlier versions of this lexicon) that the name MUD was trademarked to the commercial MUD run by Bartle on British Telecom (the motto: “You haven't *lived* 'til you've *died* on MUD!”); however, this is false — Richard Bartle explicitly placed ‘MUD’ in the public domain in 1985. BT was upset at this, as they had already printed trademark claims on some maps and posters, which were released and created the myth.
+
+Students on the European academic networks quickly improved on the MUD concept, spawning several new MUDs (VAXMUD, AberMUD, LPMUD). Many of these had associated bulletin-board systems for social interaction. Because these had an image as ‘research’ they often survived administrative hostility to BBSs in general. This, together with the fact that Usenet feeds were often spotty and difficult to get in the U.K., made the MUDs major foci of hackish social interaction there.
+
+AberMUD and other variants crossed the Atlantic around 1988 and quickly gained popularity in the U.S.; they became nuclei for large hacker communities with only loose ties to traditional hackerdom (some observers see parallels with the growth of Usenet in the early 1980s). The second wave of MUDs (TinyMUD and variants) tended to emphasize social interaction, puzzles, and cooperative world-building as opposed to combat and competition (in writing, these social MUDs are sometimes referred to as ‘MU\*’, with ‘MUD’ implicitly reserved for the more game-oriented ones). By 1991, over 50% of MUD sites were of a third major variety, LPMUD, which synthesizes the combat/puzzle aspects of AberMUD and older systems with the extensibility of TinyMud. In 1996 the cutting edge of the technology is Pavel Curtis's MOO, even more extensible using a built-in object-oriented language. The trend toward greater programmability and flexibility will doubtless continue.
+
+The state of the art in MUD design is still moving very rapidly, with new simulation designs appearing (seemingly) every month. Around 1991 there was an unsuccessful movement to deprecate the term [*MUD*](MUD.html) itself, as newer designs exhibit an exploding variety of names corresponding to the different simulation styles being explored. It survived. See also [*bonk/oif*](../B/bonk-oif.html), [*FOD*](../F/FOD.html), [*link-dead*](../L/link-dead.html), [*mudhead*](mudhead.html), [*talk mode*](../T/talk-mode.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+mu 
+Home
+ muddie
+
+
+---
+
+
+
+muddie
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**muddie**: n.
+
+Syn. [*mudhead*](mudhead.html). More common in Great Britain, possibly because system administrators there like to mutter “bloody muddies” when annoyed at the species.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+MUD 
+Home
+ mudhead
+
+
+---
+
+
+
+mudhead
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**mudhead**: n.
+
+Commonly used to refer to a [*MUD*](MUD.html) player who eats, sleeps, and breathes MUD. Mudheads have been known to fail their degrees, drop out, etc., with the consolation, however, that they made wizard level. When encountered in person, on a MUD, or in a chat system, all a mudhead will talk about is three topics: the tactic, character, or wizard that is supposedly always unfairly stopping him/her from becoming a wizard or beating a favorite MUD; why the specific game he/she has experience with is so much better than any other; and the MUD he or she is writing or going to write because his/her design ideas are so much better than in any existing MUD. See also [*wannabee*](../W/wannabee.html).
+
+To the anthropologically literate, this term may recall the Zuni/Hopi legend of the mudheads or *koyemshi*, mythical half-formed children of an unnatural union. Figures representing them act as clowns in Zuni sacred ceremonies. Others may recall the ‘High School Madness’ sequence from the Firesign Theatre album *Don't Crush That Dwarf, Hand Me the Pliers*, in which there is a character named “Mudhead”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+muddie 
+Home
+ muggle
+
+
+---
+
+
+
+muggle
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**muggle**
+
+\[from J.K. Rowling's *Harry Potter* books, 1998\] A non-[*wizard*](../W/wizard.html). Not as disparaging as [*luser*](../L/luser.html); implies vague pity rather than contempt. In the universe of Rowling's enormously (and deservedly) popular children's series, muggles and wizards inhabit the same modern world, but each group is ignorant of the commonplaces of the others' existence — most muggles are unaware that wizards exist, and wizards (used to magical ways of doing everything) are perplexed and fascinated by muggle artifacts.
+
+In retrospect it seems completely inevitable that hackers would adopt this metaphor, and in hacker usage it readily forms compounds such as muggle-friendly. Compare [*luser*](../L/luser.html), [*mundane*](mundane.html), [*chainik*](../C/chainik.html), [*newbie*](../N/newbie.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+mudhead 
+Home
+ Multics
+
+
+---
+
+
+
+Multics
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**Multics**: /muhl´tiks/, n.
+
+\[from “MULTiplexed Information and Computing Service”\] An early timesharing [*operating system*](../O/operating-system.html) co-designed by a consortium including MIT, GE, and Bell Laboratories as a successor to [*CTSS*](../C/CTSS.html). The design was first presented in 1965, planned for operation in 1967, first operational in 1969, and took several more years to achieve respectable performance and stability.
+
+Multics was very innovative for its time — among other things, it provided a hierarchical file system with access control on individual files and introduced the idea of treating all devices uniformly as special files. It was also the first OS to run on a symmetric multiprocessor, and the only general-purpose system to be awarded a B2 security rating by the NSA (see [*Orange Book*](../O/Orange-Book.html)).
+
+Bell Labs left the development effort in 1969 after judging that [*second-system effect*](../S/second-system-effect.html) had bloated Multics to the point of practical unusability. Honeywell commercialized Multics in 1972 after buying out GE's computer group, but it was never very successful: at its peak in the 1980s, there were between 75 and 100 Multics sites, each a multi-million dollar mainframe.
+
+One of the former Multics developers from Bell Labs was Ken Thompson, and [*Unix*](../U/Unix.html) deliberately carried through and extended many of Multics' design ideas; indeed, Thompson described the very name ‘Unix’ as “a weak pun on Multics”. For this and other reasons, aspects of the Multics design remain a topic of occasional debate among hackers. See also [*brain-damaged*](../B/brain-damaged.html) and [*GCOS*](../G/GCOS.html).
+
+MIT ended its development association with Multics in 1977. Honeywell sold its computer business to Bull in the mid 80s, and development on Multics was stopped in 1988. Four Multics sites were known to be still in use as late as 1998, but the last one (a Canadian military site) was decommissioned in November 2000. There is a Multics page at http://www.stratus.com/pub/vos/multics/tvv/multics.html.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+muggle 
+Home
+ multitask
+
+
+---
+
+
+
+multitask
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**multitask**: n.
+
+Often used of humans in the same meaning it has for computers, to describe a person doing several things at once (but see [*thrash*](../T/thrash.html)). The term multiplex, from communications technology (meaning to handle more than one channel at the same time), is used similarly.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Multics 
+Home
+ mumblage
+
+
+---
+
+
+
+mumblage
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**mumblage**: /muhm´bl@j/, n.
+
+The topic of one's mumbling (see [*mumble*](mumble.html)). “All that mumblage” is used like “all that stuff” when it is not quite clear how the subject of discussion works, or like “all that crap” when ‘mumble’ is being used as an implicit replacement for pejoratives.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+multitask 
+Home
+ mumble
+
+
+---
+
+
+
+mumble
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**mumble**: interj.
+
+1\. Said when the correct response is too complicated to enunciate, or the speaker has not thought it out. Often prefaces a longer answer, or indicates a general reluctance to get into a long discussion. “Don't you think that we could improve LISP performance by using a hybrid reference-count transaction garbage collector, if the cache is big enough and there are some extra cache bits for the microcode to use?” “Well, mumble ... I'll have to think about it.”
+
+2\. \[MIT\] Expression of not-quite-articulated agreement, often used as an informal vote of consensus in a meeting: “So, shall we dike out the COBOL emulation?” “Mumble!”
+
+3\. Sometimes used as an expression of disagreement (distinguished from sense 2 by tone of voice and other cues). “I think we should buy a [*[*VAX*](../V/VAX.html)*](../V/VAX.html).” “Mumble!” Common variant: mumble frotz (see [*frotz*](../F/frotz.html); interestingly, one does not say ‘mumble frobnitz’ even though ‘frotz’ is short for ‘frobnitz’).
+
+4\. Yet another [*metasyntactic variable*](metasyntactic-variable.html), like [*foo*](../F/foo.html).
+
+5\. When used as a question (“Mumble?”) means “I didn't understand you”.
+
+6\. Sometimes used in ‘public’ contexts on-line as a placefiller for things one is barred from giving details about. For example, a poster with pre-released hardware in his machine might say “Yup, my machine now has an extra 16M of memory, thanks to the card I'm testing for Mumbleco.”
+
+7\. A conversational wild card used to designate something one doesn't want to bother spelling out, but which can be [*glark*](../G/glark.html)ed from context. Compare [*blurgle*](../B/blurgle.html).
+
+8\. \[XEROX PARC\] A colloquialism used to suggest that further discussion would be fruitless.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+mumblage 
+Home
+ munch
+
+
+---
+
+
+
+munch
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**munch**: vt.
+
+\[often confused with [*mung*](mung.html), q.v.\] To transform information in a serial fashion, often requiring large amounts of computation. To trace down a data structure. Related to [*crunch*](../C/crunch.html) and nearly synonymous with [*grovel*](../G/grovel.html), but connotes less pain.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+mumble 
+Home
+ munching
+
+
+---
+
+
+
+munching
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**munching**: n.
+
+Exploration of security holes of someone else's computer for thrills, notoriety, or to annoy the system manager. Compare [*cracker*](../C/cracker.html). See also [*hacked off*](../H/hacked-off.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+munch 
+Home
+ munching squares
+
+
+---
+
+
+
+munching squares
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**munching squares**: n.
+
+A [*display hack*](../D/display-hack.html) dating back to the PDP-1 (ca. 1962, reportedly discovered by Jackson Wright), which employs a trivial computation (repeatedly plotting the graph Y = X XOR T for successive values of T — see [*HAKMEM*](../H/HAKMEM.html) items 146--148) to produce an impressive display of moving and growing squares that devour the screen. The initial value of T is treated as a parameter, which, when well-chosen, can produce amazing effects. Some of these, later (re)discovered on the LISP machine, have been christened munching triangles (try AND for XOR and toggling points instead of plotting them), munching w's, and munching mazes. More generally, suppose a graphics program produces an impressive and ever-changing display of some basic form, foo, on a display terminal, and does it using a relatively simple program; then the program (or the resulting display) is likely to be referred to as munching foos. \[This is a good example of the use of the word [*foo*](../F/foo.html) as a [*metasyntactic variable*](metasyntactic-variable.html).\]
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+munching 
+Home
+ munchkin
+
+
+---
+
+
+
+munchkin
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**munchkin**: /muhnch´kin/, n.
+
+\[from the squeaky-voiced little people in L. Frank Baum's *The Wizard of Oz*\] A teenage-or-younger micro enthusiast hacking BASIC or something else equally constricted. A term of mild derision — munchkins are annoying but some grow up to be hackers after passing through a [*larval stage*](../L/larval-stage.html). The term [*urchin*](../U/urchin.html) is also used. See also [*wannabee*](../W/wannabee.html), [*bitty box*](../B/bitty-box.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+munching squares 
+Home
+ mundane
+
+
+---
+
+
+
+mundane
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**mundane**: n.
+
+\[from SF fandom\]
+
+1\. A person who is not in science fiction fandom.
+
+2\. A person who is not in the computer industry. In this sense, most often an adjectival modifier as in “in my mundane life....” See also [*Real World*](../R/Real-World.html), [*muggle*](muggle.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+munchkin 
+Home
+ mung
+
+
+---
+
+
+
+mung
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**mung**: /muhng/, vt.
+
+\[in 1960 at MIT, “Mash Until No Good”; sometime after that the derivation from the [*recursive acronym*](../R/recursive-acronym.html) “Mung Until No Good” became standard; but see [*munge*](munge.html)\]
+
+1\. To make changes to a file, esp. large-scale and irrevocable changes. See [*BLT*](../B/BLT.html).
+
+2\. To destroy, usually accidentally, occasionally maliciously. The system only mungs things maliciously; this is a consequence of [*Finagle's Law*](../F/Finagles-Law.html). See [*scribble*](../S/scribble.html), [*mangle*](mangle.html), [*trash*](../T/trash.html), [*nuke*](../N/nuke.html). Reports from [*Usenet*](../U/Usenet.html) suggest that the pronunciation /muhnj/ is now usual in speech, but the spelling ‘mung’ is still common in program comments (compare the widespread confusion over the proper spelling of [*kluge*](../K/kluge.html)).
+
+3\. In the wake of the [*spam*](../S/spam.html) epidemics of the 1990s, mung is now commonly used to describe the act of modifying an email address in a sig block in a way that human beings can readily reverse but that will fool an [*address harvester*](../A/address-harvester.html). Example: johnNOSPAMsmith@isp.net.
+
+4\. The kind of beans the sprouts of which are used in Chinese food. (That's their real name! Mung beans! Really!)
+
+Like many early hacker terms, this one seems to have originated at [*TMRC*](../T/TMRC.html); it was already in use there in 1958. Peter Samson (compiler of the original TMRC lexicon) thinks it may originally have been onomatopoeic for the sound of a relay spring (contact) being twanged. However, it is known that during the World Wars, ‘mung’ was U.S.: army slang for the ersatz creamed chipped beef better known as ‘SOS’, and it seems quite likely that the word in fact goes back to Scots-dialect [*munge*](munge.html).
+
+Charles Mackay's 1874 book *Lost Beauties of the English Language* defined “mung” as follows: “Preterite of ming, to ming or mingle; when the substantive meaning of mingled food of bread, potatoes, etc. thrown to poultry. In America, ‘mung news’ is a common expression applied to false news, but probably having its derivation from mingled (or mung) news, in which the true and the false are so mixed up together that it is impossible to distinguish one from another.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+mundane 
+Home
+ munge
+
+
+---
+
+
+
+munge
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**munge**: /muhnj/, vt.
+
+1\. \[derogatory\] To imperfectly transform information.
+
+2\. A comprehensive rewrite of a routine, data structure or the whole program.
+
+3\. To modify data in some way the speaker doesn't need to go into right now or cannot describe succinctly (compare [*mumble*](mumble.html)).
+
+4\. To add [*spamblock*](../S/spamblock.html) to an email address.
+
+This term is often confused with [*mung*](mung.html), which probably was derived from it. However, it also appears the word munge was in common use in Scotland in the 1940s, and in Yorkshire in the 1950s, as a verb, meaning to munch up into a masticated mess, and as a noun, meaning the result of munging something up (the parallel with the [*kluge*](../K/kluge.html)/[*kludge*](../K/kludge.html) pair is amusing). The OED reports “munge” as an archaic verb meaning “to wipe (a person's nose)”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+mung 
+Home
+ Murphy's Law
+
+
+---
+
+
+
+Murphy's Law
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**Murphy's Law**: prov.
+
+The correct, *original* Murphy's Law reads: “If there are two or more ways to do something, and one of those ways can result in a catastrophe, then someone will do it.” This is a principle of defensive design, cited here because it is usually given in mutant forms less descriptive of the challenges of design for [*luser*](../L/luser.html)s. For example, you don't make a two-pin plug symmetrical and then label it “THIS WAY UP”; if it matters which way it is plugged in, then you make the design asymmetrical (see also the anecdote under [*magic smoke*](magic-smoke.html)).
+
+Edward A. Murphy, Jr. was one of McDonnell-Douglas's test engineers on the rocket-sled experiments that were done by the U.S. Air Force in 1949 to test human acceleration tolerances (USAF project MX981). One experiment involved a set of 16 accelerometers mounted to different parts of the subject's body. There were two ways each sensor could be glued to its mount, and somebody methodically installed all 16 in a replacement set the wrong way around. Murphy then made the original form of his pronouncement, which the test subject (Major John Paul Stapp) mis-quoted (apparently in the more general form “Whatever can go wrong, *will* go wrong)” at a news conference a few days later.
+
+Within months ‘Murphy's Law’ had spread to various technical cultures connected to aerospace engineering. Before too many years had gone by variants had passed into the popular imagination, changing as they went. Most of these are variants on “Anything that can go wrong, will”; this is more correctly referred to as [*Finagle's Law*](../F/Finagles-Law.html). The memetic drift apparent in these mutants clearly demonstrates Murphy's Law acting on itself!
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+munge 
+Home
+ music
+
+
+---
+
+
+
+music
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**music**: n.
+
+A common extracurricular interest of hackers (compare [*science-fiction fandom*](../S/science-fiction-fandom.html), [*oriental food*](../O/oriental-food.html); see also [*filk*](../F/filk.html)). Hackish folklore has long claimed that musical and programming abilities are closely related, and there has been at least one large-scale statistical study that supports this. Hackers, as a rule, like music and often develop musical appreciation in unusual and interesting directions. Folk music is very big in hacker circles; so is electronic music, and the sort of elaborate instrumental jazz/rock that used to be called ‘progressive’ and isn't recorded much any more. The hacker's musical range tends to be wide; many can listen with equal appreciation to (say) Talking Heads, Yes, Gentle Giant, Pat Metheny, Scott Joplin, Tangerine Dream, Dream Theater, King Sunny Ade, The Pretenders, Screaming Trees, or the Brandenburg Concerti. It is also apparently true that hackerdom includes a much higher concentration of talented amateur musicians than one would expect from a similar-sized control group of [*mundane*](mundane.html) types.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Murphy's Law 
+Home
+ mutter
+
+
+---
+
+
+
+mutter
+
+Prev 
+M
+ Next
+
+------------------------------------------------------------------------
+
+**mutter**: vt.
+
+To quietly enter a command not meant for the ears, eyes, or fingers of ordinary mortals. Often used in “mutter an [*incantation*](../I/incantation.html)”. See also [*wizard*](../W/wizard.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+music 
+Home
+ N
+
+
+---
+
+
+## N
+
+
+
+N
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**N**: /N/, quant.
+
+1\. A large and indeterminate number of objects: “There were `N` bugs in that crock!” Also used in its original sense of a variable name: “This crock has `N` bugs, as `N` goes to infinity.” (The true number of bugs is always at least `N + 1`; see [*Lubarsky's Law of Cybernetic Entomology*](../L/Lubarskys-Law-of-Cybernetic-Entomology.html).)
+
+2\. A variable whose value is inherited from the current context. For example, when a meal is being ordered at a restaurant, `N` may be understood to mean however many people there are at the table. From the remark “We'd like to order `N` wonton soups and a family dinner for `N - 1`” you can deduce that one person at the table wants to eat only soup, even though you don't know how many people there are (see [*great-wall*](../G/great-wall.html)).
+
+3\. `Nth`: adj. The ordinal counterpart of `N`, senses 1 and 2.
+
+4\. “Now for the `N`th and last time...” In the specific context “`N`th-year grad student”, `N` is generally assumed to be at least 4, and is usually 5 or more (see [*tenured graduate student*](../T/tenured-graduate-student.html)). See also [*random numbers*](../R/random-numbers.html), [*two-to-the-N*](../T/two-to-the-N.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+N 
+Home
+ nadger
+
+
+---
+
+
+
+nadger
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nadger**: /nad´jr/, v.
+
+\[UK, from rude slang noun nadgers for testicles; compare American & British bollixed\] Of software or hardware (not people), to twiddle some object in a hidden manner, generally so that it conforms better to some format. For instance, string printing routines on 8-bit processors often take the string text from the instruction stream, thus a print call looks like **jsr print:"Hello world"**. The print routine has to nadger the saved instruction pointer so that the processor doesn't try to execute the text as instructions when the subroutine returns. See [*adger*](../A/adger.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+N 
+Home
+ nagware
+
+
+---
+
+
+
+nagware
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nagware**: /nag´weir/, n.
+
+\[Usenet\] The variety of [*shareware*](../S/shareware.html) that displays a large screen at the beginning or end reminding you to register, typically requiring some sort of keystroke to continue so that you can't use the software in batch mode. Compare [*annoyware*](../A/annoyware.html), [*crippleware*](../C/crippleware.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nadger 
+Home
+ nailed to the wall
+
+
+---
+
+
+
+nailed to the wall
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nailed to the wall**: adj.
+
+\[like a trophy\] Said of a bug finally eliminated after protracted, and even heroic, effort.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nagware 
+Home
+ nailing jelly
+
+
+---
+
+
+
+nailing jelly
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nailing jelly**: vi.
+
+See [*like nailing jelly to a tree*](../L/like-nailing-jelly-to-a-tree.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nailed to the wall 
+Home
+ naive
+
+
+---
+
+
+
+naive
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**naive**: adj.
+
+1\. Untutored in the perversities of some particular program or system; one who still tries to do things in an intuitive way, rather than the right way (in really good designs these coincide, but most designs aren't ‘really good’ in the appropriate sense). This trait is completely unrelated to general maturity or competence, or even competence at any other specific program. It is a sad commentary on the primitive state of computing that the natural opposite of this term is often claimed to be experienced user but is really more like cynical user.
+
+2\. Said of an algorithm that doesn't take advantage of some superior but advanced technique, e.g., the [*bubble sort*](../B/bubble-sort.html). It may imply naivete on the part of the programmer, although there are situations where a naive algorithm is preferred, because it is more important to keep the code comprehensible than to go for maximum performance. “I know the linear search is naive, but in this case the list typically only has half a dozen items.” Compare [*brute force*](../B/brute-force.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nailing jelly 
+Home
+ naive user
+
+
+---
+
+
+
+naive user
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**naive user**: n.
+
+A [*luser*](../L/luser.html). Tends to imply someone who is ignorant mainly owing to inexperience. When this is applied to someone who *has* experience, there is a definite implication of stupidity.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+naive 
+Home
+ NAK
+
+
+---
+
+
+
+NAK
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**NAK**: /nak/, interj.
+
+\[from the ASCII mnemonic for 0010101\]
+
+1\. On-line joke answer to [*ACK*](../A/ACK.html)?: “I'm not here.”
+
+2\. On-line answer to a request for chat: “I'm not available.”
+
+3\. Used to politely interrupt someone to tell them you don't understand their point or that they have suddenly stopped making sense. See [*ACK*](../A/ACK.html), sense
+
+3\. “And then, after we recode the project in COBOL....” “Nak, Nak, Nak! I thought I heard you say COBOL!”
+
+4\. A negative answer. “OK if I boot the server?” “NAK!”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+naive user 
+Home
+ NANA
+
+
+---
+
+
+
+NANA
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**NANA**: //
+
+\[Usenet\] The newsgroups news.admin.net-abuse.\*, devoted to fighting [*spam*](../S/spam.html) and network abuse. Each individual newsgroup is often referred to by adding a letter to NANA. For example, NANAU would refer to `news.admin.net-abuse.usenet`.
+
+When spam began to be a serious problem around 1995, and a loose network of anti-spammers formed to combat it, spammers immediately accused them of being the [*backbone cabal*](../B/backbone-cabal.html), or the Cabal reborn. Though this was not true, spam-fighters ironically accepted the label and the tag line “There is No Cabal” reappeared (later, and now commonly, abbreviated to “TINC”). Nowadays “the Cabal” is generally understood to refer to the NANA regulars.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+NAK 
+Home
+ nano
+
+
+---
+
+
+
+nano
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nano**: /nan´oh/, n.
+
+\[CMU: from nanosecond\] A brief period of time. “Be with you in a nano” means you really will be free shortly, i.e., implies what mainstream people mean by “in a jiffy” (whereas the hackish use of ‘jiffy’ is quite different — see [*jiffy*](../J/jiffy.html)).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+NANA 
+Home
+ nano-
+
+
+---
+
+
+
+nano-
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nano-**: pref.
+
+\[SI: the next quantifier below [*micro-*](../M/micro-.html); meaning `× 10``-9`\] Smaller than [*micro-*](../M/micro-.html), and used in the same rather loose and connotative way. Thus, one has [*nanotechnology*](nanotechnology.html) (coined by hacker K. Eric Drexler) by analogy with microtechnology; and a few machine architectures have a nanocode level below microcode. Tom Duff at Bell Labs has also pointed out that “Pi seconds is a nanocentury”. See also [*quantifiers*](../Q/quantifiers.html), [*pico-*](../P/pico-.html), [*nanoacre*](nanoacre.html), [*nanobot*](nanobot.html), [*nanocomputer*](nanocomputer.html), [*nanofortnight*](nanofortnight.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nano 
+Home
+ nanoacre
+
+
+---
+
+
+
+nanoacre
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nanoacre**: /nan´oh·ay\`kr/, n.
+
+A unit (about 2 mm square) of real estate on a VLSI chip. The term gets its giggle value from the fact that VLSI nanoacres have costs in the same range as real acres once one figures in design and fabrication-setup costs.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nano- 
+Home
+ nanobot
+
+
+---
+
+
+
+nanobot
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nanobot**: /nan´oh·bot/, n.
+
+A robot of microscopic proportions, presumably built by means of [*nanotechnology*](nanotechnology.html). As yet, only used informally (and speculatively!). Also called a nanoagent.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nanoacre 
+Home
+ nanocomputer
+
+
+---
+
+
+
+nanocomputer
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nanocomputer**: /nan´oh·k@m·pyoo´tr/, n.
+
+A computer with mo­lec­u­lar-sized switching elements. Designs for mechanical nanocomputers which use single-molecule sliding rods for their logic have been proposed. The controller for a [*nanobot*](nanobot.html) would be a nanocomputer.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nanobot 
+Home
+ nanofortnight
+
+
+---
+
+
+
+nanofortnight
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nanofortnight**: n.
+
+\[Adelaide University\] 1 fortnight `× 10``-9`, or about 1.2 msec. This unit was used largely by students doing undergraduate practicals. See [*microfortnight*](../M/microfortnight.html), [*attoparsec*](../A/attoparsec.html), and [*micro-*](../M/micro-.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nanocomputer 
+Home
+ nanotechnology
+
+
+---
+
+
+
+nanotechnology
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nanotechnology**: /nan'·oh·tek·no\`l@·jee/, n.
+
+A hypothetical fabrication technology in which objects are designed and built with the individual specification and placement of each separate atom. The first unequivocal nanofabrication experiments took place in 1990, for example with the deposition of individual xenon atoms on a nickel substrate to spell the logo of a certain very large computer company. Nanotechnology has been a hot topic in the hacker subculture ever since the term was coined by K. Eric Drexler in his book *Engines of Creation* (Anchor/Doubleday, ISBN 0-385-19973-2), where he predicted that nanotechnology could give rise to replicating assemblers, permitting an exponential growth of productivity and personal wealth (there's an authorized transcription at http://www.foresight.org/EOC/index.html). See also [*blue goo*](../B/blue-goo.html), [*gray goo*](../G/gray-goo.html), [*nanobot*](nanobot.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nanofortnight 
+Home
+ narg
+
+
+---
+
+
+
+narg
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**narg**
+
+\[Cambridge\] Short for “Not A Real Gentleman”, i.e. one who excessively talks shop out of hours.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nanotechnology 
+Home
+ nasal demons
+
+
+---
+
+
+
+nasal demons
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nasal demons**: n.
+
+Recognized shorthand on the Usenet group `comp.std.c` for any unexpected behavior of a C compiler on encountering an undefined construct. During a discussion on that group in early 1992, a regular remarked “When the compiler encounters \[a given undefined construct\] it is legal for it to make demons fly out of your nose” (the implication is that the compiler may choose any arbitrarily bizarre way to interpret the code without violating the ANSI C standard). Someone else followed up with a reference to “nasal demons”, which quickly became established. The original post is web-accessible at http://groups.google.com/groups?hl=en&amp;selm=10195%40ksr.com.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+narg 
+Home
+ nastygram
+
+
+---
+
+
+
+nastygram
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nastygram**: /nas´tee·gram/, n.
+
+1\. A protocol packet or item of email (the latter is also called a [*letterbomb*](../L/letterbomb.html)) that takes advantage of misfeatures or security holes on the target system to do untoward things.
+
+2\. Disapproving mail, esp. from a [*net.god*](net-god.html), pursuant to a violation of [*netiquette*](netiquette.html) or a complaint about failure to correct some mail- or news-transmission problem. Compare [*shitogram*](../S/shitogram.html), [*mailbomb*](../M/mailbomb.html).
+
+3\. A status report from an unhappy, and probably picky, customer. “What'd Corporate say in today's nastygram?”
+
+4\. \[deprecated\] An error reply by mail from a [*daemon*](../D/daemon.html); in particular, a [*bounce message*](../B/bounce-message.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nasal demons 
+Home
+ Nathan Hale
+
+
+---
+
+
+
+Nathan Hale
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**Nathan Hale**: n.
+
+An asterisk (see also [*splat*](../S/splat.html), [*ASCII*](../A/ASCII.html)). Oh, you want an etymology? Notionally, from “I regret that I have only one asterisk for my country!”, a misquote of the famous remark uttered by Nathan Hale just before he was hanged. Hale was a (failed) spy for the rebels in the American War of Independence.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nastygram 
+Home
+ nature
+
+
+---
+
+
+
+nature
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nature**: n.
+
+See [*has the X nature*](../H/has-the-X-nature.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Nathan Hale 
+Home
+ neat hack
+
+
+---
+
+
+
+neat hack
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**neat hack**: n.
+
+\[very common\]
+
+1\. A clever technique.
+
+2\. A brilliant practical joke, where neatness is correlated with cleverness, harmlessness, and surprise value. Example: the Caltech Rose Bowl card display switch (see [Appendix A](../appendixa.html "Appendix A. Hacker Folklore") for discussion). See also [*hack*](../H/hack.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nature 
+Home
+ neats vs. scruffies
+
+
+---
+
+
+
+neats vs. scruffies
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**neats vs. scruffies**: n.
+
+The label used to refer to one of the continuing [*holy wars*](../H/holy-wars.html) in AI research. This conflict tangles together two separate issues. One is the relationship between human reasoning and AI; ‘neats’ tend to try to build systems that ‘reason’ in some way identifiably similar to the way humans report themselves as doing, while ‘scruffies’ profess not to care whether an algorithm resembles human reasoning in the least as long as it works. More importantly, neats tend to believe that logic is king, while scruffies favor looser, more ad-hoc methods driven by empirical knowledge. To a neat, scruffy methods appear promiscuous, successful only by accident, and not productive of insights about how intelligence actually works; to a scruffy, neat methods appear to be hung up on formalism and irrelevant to the hard-to-capture ‘common sense’ of living intelligences.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+neat hack 
+Home
+ neep-neep
+
+
+---
+
+
+
+neep-neep
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**neep-neep**: /neep neep/, n.
+
+\[onomatopoeic, widely spread through SF fandom but reported to have originated at Caltech in the 1970s\] One who is fascinated by computers. Less specific than [*hacker*](../H/hacker.html), as it need not imply more skill than is required to play games on a PC. The derived noun neeping applies specifically to the long conversations about computers that tend to develop in the corners at most SF-convention parties (the term neepery is also in wide use). Fandom has a related proverb to the effect that “Hacking is a conversational black hole!”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+neats vs. scruffies 
+Home
+ neophilia
+
+
+---
+
+
+
+neophilia
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**neophilia**: /nee\`oh·fil'·ee·@/, n.
+
+The trait of being excited and pleased by novelty. Common among most hackers, SF fans, and members of several other connected leading-edge subcultures, including the pro-technology ‘Whole Earth’ wing of the ecology movement, space activists, many members of Mensa, and the Discordian/neo-pagan underground (see [*geek*](../G/geek.html)). All these groups overlap heavily and (where evidence is available) seem to share characteristic hacker tropisms for science fiction, [*music*](../M/music.html), and [*oriental food*](../O/oriental-food.html). The opposite tendency is neophobia.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+neep-neep 
+Home
+ nerd
+
+
+---
+
+
+
+nerd
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nerd**: n.
+
+1\. \[mainstream slang\] Pejorative applied to anyone with an above-average IQ and few gifts at small talk and ordinary social rituals.
+
+2\. \[jargon\] Term of praise applied (in conscious ironic reference to sense 1) to someone who knows what's really important and interesting and doesn't care to be distracted by trivial chatter and silly status games. Compare [*geek*](../G/geek.html).
+
+The word itself appears to derive from the lines “And then, just to show them, I'll sail to Ka-Troo / And Bring Back an It-Kutch, a Preep and a Proo, / A Nerkle, a Nerd, and a Seersucker, too!” in the Dr. Seuss book *If I Ran the Zoo* (1950). (The spellings ‘nurd’ and ‘gnurd’ also used to be current at MIT, where ‘nurd’ is reported from as far back as 1957; however, [*knurd*](../K/knurd.html) appears to have a separate etymology.) How it developed its mainstream meaning is unclear, but sense 1 seems to have entered mass culture in the early 1970s (there are reports that in the mid-1960s it meant roughly “annoying misfit” without the connotation of intelligence.
+
+Hackers developed sense 2 in self-defense perhaps ten years later, and some actually wear “Nerd Pride” buttons, only half as a joke. At MIT one can find not only buttons but (what else?) pocket protectors bearing the slogan and the MIT seal.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+neophilia 
+Home
+ nerd knob
+
+
+---
+
+
+
+nerd knob
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nerd knob**: n.
+
+\[Cisco\] A command in a complex piece of software which is more likely to be used by an extremely experienced user to tweak a setting of one sort or another - a setting which the average user may not even know exists. Nerd knobs tend to be toggles, turning on or off a particular, specific, narrowly defined behavior. Special case of [*knobs*](../K/knobs.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nerd 
+Home
+ net.-
+
+
+---
+
+
+
+net.-
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**net.-**: /net dot/, pref.
+
+\[Usenet\] Prefix used to describe people and events related to Usenet. From the time before the [*Great Renaming*](../G/Great-Renaming.html), when most non-local newsgroups had names beginning “net.”. Includes [*net.god*](net-god.html)s, net.goddesses (various charismatic net.women with circles of on-line admirers), net.lurkers (see [*lurker*](../L/lurker.html)), net.person, net.parties (a synonym for [*boink*](../B/boink.html), sense 2), and many similar constructs. See also [*net.police*](net-police.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nerd knob 
+Home
+ net.god
+
+
+---
+
+
+
+net.god
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**net.god**: /net god/, n.
+
+Accolade referring to anyone who satisfies some combination of the following conditions: has been visible on Usenet for more than 5 years, ran one of the original backbone sites, moderated an important newsgroup, wrote news software, or knows Gene, Mark, Rick, Mel, Henry, Chuq, and Greg personally. See [*demigod*](../D/demigod.html). Net.goddesses such as Rissa or the Slime Sisters have (so far) been distinguished more by personality than by authority.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+net.- 
+Home
+ net.personality
+
+
+---
+
+
+
+net.personality
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**net.personality**: /net per\`sn·al'·@·tee/, n.
+
+Someone who has made a name for him or herself on [*Usenet*](../U/Usenet.html), through either longevity or attention-getting posts, but doesn't meet the other requirements of [*net.god*](net-god.html)hood.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+net.god 
+Home
+ net.police
+
+
+---
+
+
+
+net.police
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**net.police**: /net·p@·lees'/, n.
+
+(var.: net.cops) Those Usenet readers who feel it is their responsibility to pounce on and [*flame*](../F/flame.html) any posting which they regard as offensive or in violation of their understanding of [*netiquette*](netiquette.html). Generally used sarcastically or pejoratively. Also spelled ‘net police’. See also [*net.-*](net--.html), [*code police*](../C/code-police.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+net.personality 
+Home
+ netburp
+
+
+---
+
+
+
+netburp
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**netburp**: n.
+
+\[IRC\] When [*netlag*](netlag.html) gets really bad, and delays between servers exceed a certain threshold, the [*IRC*](../I/IRC.html) network effectively becomes partitioned for a period of time, and large numbers of people seem to be signing off at the same time and then signing back on again when things get better. An instance of this is called a netburp (or, sometimes, [*netsplit*](netsplit.html)).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+net.police 
+Home
+ netdead
+
+
+---
+
+
+
+netdead
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**netdead**: n.
+
+\[IRC\] The state of someone who signs off [*IRC*](../I/IRC.html), perhaps during a [*netburp*](netburp.html), and doesn't sign back on until later. In the interim, he is “dead to the net”. Compare [*link-dead*](../L/link-dead.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+netburp 
+Home
+ nethack
+
+
+---
+
+
+
+nethack
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nethack**: /net´hak/, n.
+
+\[Unix\] A dungeon game similar to [*rogue*](../R/rogue.html) but more elaborate, distributed in C source over [*Usenet*](../U/Usenet.html) and very popular at Unix sites and on PC-class machines (nethack is probably the most widely distributed of the freeware dungeon games). The earliest versions, written by Jay Fenlason and later considerably enhanced by Andries Brouwer, were simply called ‘hack’. The name changed when maintenance was taken over by a group of hackers originally organized by Mike Stephenson. There is now an official site at http://www.nethack.org/. See also [*moria*](../M/moria.html), [*rogue*](../R/rogue.html), [*Angband*](../A/Angband.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+netdead 
+Home
+ netiquette
+
+
+---
+
+
+
+netiquette
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**netiquette**: /net´ee·ket/, /net´i·ket/, n.
+
+\[Coined by Chuq von Rospach c.1983\] \[portmanteau, network + etiquette\] The conventions of politeness recognized on [*Usenet*](../U/Usenet.html), such as avoidance of cross-posting to inappropriate groups and refraining from commercial pluggery outside the `biz` groups.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nethack 
+Home
+ netlag
+
+
+---
+
+
+
+netlag
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**netlag**: n.
+
+\[IRC, MUD\] A condition that occurs when the delays in the [*IRC*](../I/IRC.html) network or on a [*MUD*](../M/MUD.html) become severe enough that servers briefly lose and then reestablish contact, causing messages to be delivered in bursts, often with delays of up to a minute. (Note that this term has nothing to do with mainstream “jet lag”, a condition which hackers tend not to be much bothered by.) Often shortened to just ‘lag’.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+netiquette 
+Home
+ netnews
+
+
+---
+
+
+
+netnews
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**netnews**: /net´n\[y\]ooz/, n.
+
+1\. The software that makes [*Usenet*](../U/Usenet.html) run.
+
+2\. The content of Usenet. “I read netnews right after my mail most mornings.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+netlag 
+Home
+ Netscrape
+
+
+---
+
+
+
+Netscrape
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**Netscrape**: n.
+
+\[sometimes elaborated to Netscrape Fornicator, also Nutscrape\] Standard name-of-insult for Netscape Navigator/Communicator, Netscape's overweight Web browser. Compare [*Internet Exploiter*](../I/Internet-Exploiter.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+netnews 
+Home
+ netsplit
+
+
+---
+
+
+
+netsplit
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**netsplit**: n.
+
+Syn. [*netburp*](netburp.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Netscrape 
+Home
+ netter
+
+
+---
+
+
+
+netter
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**netter**: n.
+
+1\. Loosely, anyone with a [*network address*](network-address.html).
+
+2\. More specifically, a [*Usenet*](../U/Usenet.html) regular. Most often found in the plural. “If you post *that* in a technical group, you're going to be flamed by angry netters for the rest of time!”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+netsplit 
+Home
+ network address
+
+
+---
+
+
+
+network address
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**network address**: n.
+
+(also net address) As used by hackers, means an address on ‘the’ network (see [*the network*](../T/the-network.html); this used to include [*bang path*](../B/bang-path.html) addresses but now always implies an Internet address). Net addresses are often used in email text as a more concise substitute for personal names; indeed, hackers may come to know each other quite well by network names without ever learning each others' ‘legal’ monikers. Display of a network address (e.g. on business cards) used to function as an important hacker identification signal, like lodge pins among Masons or tie-dyed T-shirts among Grateful Dead fans. In the day of pervasive Internet this is less true, but you can still be fairly sure that anyone with a network address handwritten on his or her convention badge is a hacker.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+netter 
+Home
+ network meltdown
+
+
+---
+
+
+
+network meltdown
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**network meltdown**: n.
+
+A state of complete network overload; the network equivalent of [*thrash*](../T/thrash.html)ing. This may be induced by a [*Chernobyl packet*](../C/Chernobyl-packet.html). See also [*broadcast storm*](../B/broadcast-storm.html), [*kamikaze packet*](../K/kamikaze-packet.html).
+
+Network meltdown is often a result of network designs that are optimized for a steady state of moderate load and don't cope well with the very jagged, bursty usage patterns of the real world. One amusing instance of this is triggered by the popular and very bloody shoot-'em-up game *Doom* on the PC. When used in multiplayer mode over a network, the game uses broadcast packets to inform other machines when bullets are fired. This causes problems with weapons like the chain gun which fire rapidly — it can blast the network into a meltdown state just as easily as it shreds opposing monsters.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+network address 
+Home
+ New Jersey
+
+
+---
+
+
+
+New Jersey
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**New Jersey**: adj.
+
+\[primarily Stanford/Silicon Valley\] Brain-dam­aged or of poor design. This refers to the allegedly wretched quality of such software as C, C++, and Unix (which originated at Bell Labs in Murray Hill, New Jersey). “This compiler bites the bag, but what can you expect from a compiler designed in New Jersey?” Compare [*Berkeley Quality Software*](../B/Berkeley-Quality-Software.html). See also [*Unix conspiracy*](../U/Unix-conspiracy.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+network meltdown 
+Home
+ New Testament
+
+
+---
+
+
+
+New Testament
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**New Testament**: n.
+
+\[C programmers\] The second edition of K&R's *The C Programming Language* (Prentice-Hall, 1988; ISBN 0-13-110362-8), describing ANSI Standard C. See [*K&R*](../K/K-ampersand-R.html); this version is also called ‘K&R2’.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+New Jersey 
+Home
+ newbie
+
+
+---
+
+
+
+newbie
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**newbie**: /n\[y\]oo´bee/, n.
+
+\[very common; orig. from British public-school and military slang variant of ‘new boy’\] A Usenet neophyte. This term surfaced in the [*newsgroup*](newsgroup.html) `talk.bizarre` but is now in wide use (the combination “clueless newbie” is especially common). Criteria for being considered a newbie vary wildly; a person can be called a newbie in one newsgroup while remaining a respected regular in another. The label newbie is sometimes applied as a serious insult to a person who has been around Usenet for a long time but who carefully hides all evidence of having a clue. See [*B1FF*](../B/B1FF.html); see also [*gnubie*](../G/gnubie.html). Compare [*chainik*](../C/chainik.html), [*luser*](../L/luser.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+New Testament 
+Home
+ newgroup wars
+
+
+---
+
+
+
+newgroup wars
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**newgroup wars**: /n\[y\]oo´groop worz/, n.
+
+\[Usenet\] The salvos of dueling **newgroup** and **rmgroup** messages sometimes exchanged by persons on opposite sides of a dispute over whether a [*newsgroup*](newsgroup.html) should be created net-wide, or (even more frequently) whether an obsolete one should be removed. These usually settle out within a week or two as it becomes clear whether the group has a natural constituency (usually, it doesn't). At times, especially in the completely anarchic `alt` hierarchy, the names of newsgroups themselves become a form of comment or humor; e.g., the group `alt.swedish.chef.bork.bork.bork` which originated as a birthday joke for a Muppets fan, or any number of specialized abuse groups named after particularly notorious [*flamer*](../F/flamer.html)s, e.g., `alt.weemba`.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+newbie 
+Home
+ newline
+
+
+---
+
+
+
+newline
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**newline**: /n\[y\]oo´li:n/, n.
+
+1\. \[techspeak, primarily Unix\] The ASCII LF character (0001010), used under [*Unix*](../U/Unix.html) as a text line terminator. Though the term newline appears in ASCII standards, it never caught on in the general computing world before Unix.
+
+2\. More generally, any magic character, character sequence, or operation (like Pascal's writeln procedure) required to terminate a text record or separate lines. See [*crlf*](../C/crlf.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+newgroup wars 
+Home
+ NeWS
+
+
+---
+
+
+
+NeWS
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**NeWS**: /nee´wis/, /n\[y\]oo´is/, /n\[y\]ooz/, n.
+
+\[acronym; the “Network Window System”\] The road not taken in window systems, an elegant [*PostScript*](../P/PostScript.html)-based environment that would almost certainly have won the standards war with [*X*](../X/X.html) if it hadn't been [*proprietary*](../P/proprietary.html) to Sun Microsystems. There is a lesson here that too many software vendors haven't yet heeded. Many hackers insist on the two-syllable pronunciations above as a way of distinguishing NeWS from Usenet news (the [*netnews*](netnews.html) software).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+newline 
+Home
+ newsfroup
+
+
+---
+
+
+
+newsfroup
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**newsfroup**: //, n.
+
+\[Usenet\] Silly synonym for [*newsgroup*](newsgroup.html), originally a typo but now in regular use on Usenet's talk.bizarre, and other lunatic-fringe groups. Compare [*hing*](../H/hing.html), [*grilf*](../G/grilf.html), [*pr0n*](../P/pr0n.html) and [*filk*](../F/filk.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+NeWS 
+Home
+ newsgroup
+
+
+---
+
+
+
+newsgroup
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**newsgroup**: n.
+
+\[Usenet\] One of [*Usenet*](../U/Usenet.html)'s huge collection of topic groups or [*fora*](../F/fora.html). Usenet groups can be unmoderated (anyone can post) or moderated (submissions are automatically directed to a moderator, who edits or filters and then posts the results). Some newsgroups have parallel [*mailing list*](../M/mailing-list.html)s for Internet people with no netnews access, with postings to the group automatically propagated to the list and vice versa. Some moderated groups (especially those which are actually gatewayed Internet mailing lists) are distributed as digests, with groups of postings periodically collected into a single large posting with an index.
+
+Among the best-known are `comp.lang.c` (the C-language forum), `comp.arch` (on computer architectures), `comp.unix.wizards` (for Unix wizards), `rec.arts.sf.written` and siblings (for science-fiction fans), and `talk.politics.misc` (miscellaneous political discussions and [*flamage*](../F/flamage.html)).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+newsfroup 
+Home
+ nick
+
+
+---
+
+
+
+nick
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nick**: n.
+
+\[IRC; very common\] Short for nickname. On [*IRC*](../I/IRC.html), every user must pick a nick, which is sometimes the same as the user's real name or login name, but is often more fanciful. Compare [*handle*](../H/handle.html), [*screen name*](../S/screen-name.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+newsgroup 
+Home
+ nickle
+
+
+---
+
+
+
+nickle
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nickle**: /ni´kl/, n.
+
+\[from ‘nickel’, common name for the U.S. 5-cent coin\] A [*nybble*](nybble.html) + 1; 5 bits. Reported among developers for Mattel's GI 1600 (the Intellivision games processor), a chip with 16-bit-wide RAM but 10-bit-wide ROM. See also [*deckle*](../D/deckle.html), and [*nybble*](nybble.html) for names of other bit units.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nick 
+Home
+ night mode
+
+
+---
+
+
+
+night mode
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**night mode**: n.
+
+See [*phase*](../P/phase.html) (of people).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nickle 
+Home
+ Nightmare File System
+
+
+---
+
+
+
+Nightmare File System
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**Nightmare File System**: n.
+
+Pejorative hackerism for Sun's Network File System (NFS). In any nontrivial network of Suns where there is a lot of NFS cross-mounting, when one Sun goes down, the others often freeze up. Some machine tries to access the down one, and (getting no response) repeats indefinitely. This causes it to appear dead to some messages (what is actually happening is that it is locked up in what should have been a brief excursion to a higher [*spl*](../S/spl.html) level). Then another machine tries to reach either the down machine or the pseudo-down machine, and itself becomes pseudo-down. The first machine to discover the down one is now trying both to access the down one and to respond to the pseudo-down one, so it is even harder to reach. This situation snowballs very quickly, and soon the entire network of machines is frozen — worst of all, the user can't even abort the file access that started the problem! Many of NFS's problems are excused by partisans as being an inevitable result of its statelessness, which is held to be a great feature (critics, of course, call it a great [*misfeature*](../M/misfeature.html)). (ITS partisans are apt to cite this as proof of Unix's alleged bogosity; ITS had a working NFS-like shared file system with none of these problems in the early 1970s.) See also [*broadcast storm*](../B/broadcast-storm.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+night mode 
+Home
+ NIL
+
+
+---
+
+
+
+NIL
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**NIL**: /nil/
+
+No. Used in reply to a question, particularly one asked using the ‘-P’ convention. Most hackers assume this derives simply from LISP terminology for ‘false’ (see also [*T*](../T/T.html)), but NIL as a negative reply was well-established among radio hams decades before the advent of LISP. The historical connection between early hackerdom and the ham radio world was strong enough that this may have been an influence.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Nightmare File System 
+Home
+ Ninety-Ninety Rule
+
+
+---
+
+
+
+Ninety-Ninety Rule
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**Ninety-Ninety Rule**: n.
+
+“The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.” Attributed to Tom Cargill of Bell Labs, and popularized by Jon Bentley's September 1985 *Bumper-Sticker Computer Science* column in *Communications of the ACM*. It was there called the “Rule of Credibility”, a name which seems not to have stuck. Other maxims in the same vein include the law attributed to the early British computer scientist Douglas Hartree: “The time from now until the completion of the project tends to become constant.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+NIL 
+Home
+ nipple mouse
+
+
+---
+
+
+
+nipple mouse
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nipple mouse**: n.
+
+Var. clit mouse, clitoris Common term for the pointing device used on IBM ThinkPads and a few other laptop computers. The device, which sits between the ‘g’ and ‘h’ keys on the keyboard, indeed resembles a rubber nipple intended to be tweaked by a forefinger. Many hackers consider these superior to the glide pads found on most laptops, which are harder to control precisely.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Ninety-Ninety Rule 
+Home
+ NMI
+
+
+---
+
+
+
+NMI
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**NMI**: /N·M·I/, n.
+
+Non-Maskable Interrupt. An IRQ 7 on the [*PDP-11*](../P/PDP-11.html) or 680\[01234\]0; the NMI line on an 80\[1234\]86. In contrast with a [*priority interrupt*](../P/priority-interrupt.html) (which might be ignored, although that is unlikely), an NMI is *never* ignored. Except, that is, on [*clone*](../C/clone.html) boxes, where NMI is often ignored on the motherboard because flaky hardware can generate many spurious ones.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nipple mouse 
+Home
+ no-op
+
+
+---
+
+
+
+no-op
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**no-op**: /noh´op/, n.,v.
+
+alt.: NOP /nop/ \[no operation\]
+
+1\. A machine instruction that does nothing (sometimes used in assembler-level programming as filler for data or patch areas, or to overwrite code to be removed in binaries).
+
+2\. A person who contributes nothing to a project, or has nothing going on upstairs, or both. As in “He's a no-op.”
+
+3\. Any operation or sequence of operations with no effect, such as circling the block without finding a parking space, or putting money into a vending machine and having it fall immediately into the coin-return box, or asking someone for help and being told to go away. “Oh, well, that was a no-op.” Hot-and-sour soup (see [*great-wall*](../G/great-wall.html)) that is insufficiently either is no-op soup; so is wonton soup if everybody else is having hot-and-sour.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+NMI 
+Home
+ noddy
+
+
+---
+
+
+
+noddy
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**noddy**: /nod´ee/, adj.
+
+\[UK: from the children's books\]
+
+1\. Small and un-useful, but demonstrating a point. Noddy programs are often written by people learning a new language or system. The archetypal noddy program is [*hello world*](../H/hello-world.html). Noddy code may be used to demonstrate a feature or bug of a compiler. May be used of real hardware or software to imply that it isn't worth using. “This editor's a bit noddy.”
+
+2\. A program that is more or less instant to produce. In this use, the term does not necessarily connote uselessness, but describes a [*hack*](../H/hack.html) sufficiently trivial that it can be written and debugged while carrying on (and during the space of) a normal conversation. “I'll just throw together a noddy [*awk*](../A/awk.html) script to dump all the first fields.” In North America this might be called a [*mickey mouse program*](../M/mickey-mouse-program.html). See [*toy program*](../T/toy-program.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+no-op 
+Home
+ non-optimal solution
+
+
+---
+
+
+
+non-optimal solution
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**non-optimal solution**: n.
+
+(also sub-optimal solution) An astoundingly stupid way to do something. This term is generally used in deadpan sarcasm, as its impact is greatest when the person speaking looks completely serious. Compare [*stunning*](../S/stunning.html). See also [*Bad Thing*](../B/Bad-Thing.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+noddy 
+Home
+ nonlinear
+
+
+---
+
+
+
+nonlinear
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nonlinear**: adj.
+
+\[scientific computation\]
+
+1\. Behaving in an erratic and unpredictable fashion; unstable. When used to describe the behavior of a machine or program, it suggests that said machine or program is being forced to run far outside of design specifications. This behavior may be induced by unreasonable inputs, or may be triggered when a more mundane bug sends the computation far off from its expected course.
+
+2\. When describing the behavior of a person, suggests a tantrum or a [*flame*](../F/flame.html). “When you talk to Bob, don't mention the drug problem or he'll go nonlinear for hours.” In this context, go nonlinear connotes ‘blow up out of proportion’ (proportion connotes linearity).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+non-optimal solution 
+Home
+ nontrivial
+
+
+---
+
+
+
+nontrivial
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nontrivial**: adj.
+
+Requiring real thought or significant computing power. Often used as an understated way of saying that a problem is quite difficult or impractical, or even entirely unsolvable (“Proving P=NP is nontrivial”). The preferred emphatic form is decidedly nontrivial. See [*trivial*](../T/trivial.html), [*uninteresting*](../U/uninteresting.html), [*interesting*](../I/interesting.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nonlinear 
+Home
+ not entirely unlike X
+
+
+---
+
+
+
+not entirely unlike X
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**not entirely unlike X**
+
+Used ironically of things which are in fact almost entirely unlike X, except for one feature which the speaker clearly regards as insignificant. “That is not entirely unlike cool...at least it's small.” Comes directly from the Hitchiker's Guide to the Galaxy scene in which the food synthesizer on the starship *Heart of Gold* dispenses something “almost, but not quite, entirely unlike tea”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nontrivial 
+Home
+ not ready for prime time
+
+
+---
+
+
+
+not ready for prime time
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**not ready for prime time**: adj.
+
+Usable, but only just so; not very robust; for internal use only. Said of a program or device. Often connotes that the thing will be made more solid [*Real Soon Now*](../R/Real-Soon-Now.html). This term comes from the ensemble name of the original cast of *Saturday Night Live*, the “Not Ready for Prime Time Players”. It has extra flavor for hackers because of the special (though now semi-obsolescent) meaning of [*prime time*](../P/prime-time.html). Compare [*beta*](../B/beta.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+not entirely unlike X 
+Home
+ notwork
+
+
+---
+
+
+
+notwork
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**notwork**: /not´werk/, n.
+
+A network, when it is acting [*flaky*](../F/flaky.html) or is [*down*](../D/down.html). Compare [*nyetwork*](nyetwork.html). Said at IBM to have originally referred to a particular period of flakiness on IBM's VNET corporate network ca. 1988; but there are independent reports of the term from elsewhere.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+not ready for prime time 
+Home
+ NP-
+
+
+---
+
+
+
+NP-
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**NP-**: /N·P/, pref.
+
+Extremely. Used to modify adjectives describing a level or quality of difficulty; the connotation is often ‘more so than it should be’. This is generalized from the computer-science terms NP-hard and NP-complete; NP-complete problems all seem to be very hard, but so far no one has found a proof that they are. NP is the set of Nondeterministic-Polynomial problems, those that can be completed by a nondeterministic Turing machine in an amount of time that is a polynomial function of the size of the input; a solution for one NP-complete problem would solve all the others. “Coding a BitBlt implementation to perform correctly in every case is NP-annoying.”
+
+Note, however, that strictly speaking this usage is misleading; there are plenty of easy problems in class NP. NP-complete problems are hard not because they are in class NP, but because they are the hardest problems in class NP.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+notwork 
+Home
+ NSA line eater
+
+
+---
+
+
+
+NSA line eater
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**NSA line eater**: n.
+
+The National Security Agency trawling program sometimes assumed to be reading the net for the U.S. Government's spooks. Most hackers used to think it was mythical but believed in acting as though existed just in case. Since the mid-1990s it has gradually become known that the NSA actually does this, quite illegally, through its Echelon program.
+
+The standard countermeasure is to put loaded phrases like ‘KGB’, ‘Uzi’, ‘nuclear materials’, ‘Palestine’, ‘cocaine’, and ‘assassination’ in their [*sig block*](../S/sig-block.html)s in a (probably futile) attempt to confuse and overload the creature. The [*GNU*](../G/GNU.html) version of [*EMACS*](../E/EMACS.html) actually has a command that randomly inserts a bunch of insidious anarcho-verbiage into your edited text.
+
+As far back as the 1970s there was a mainstream variant of this myth involving a ‘Trunk Line Monitor’, which supposedly used speech recognition to extract words from telephone trunks. This is much harder than noticing keywords in email, and most of the people who originally propagated it had no idea of then-current technology or the storage, signal-processing, or speech recognition needs of such a project. On the basis of mass-storage costs alone it would have been cheaper to hire 50 high-school students and just let them listen in.
+
+Twenty years and several orders of technological magnitude later, however, there are clear indications that the NSA has actually deployed such filtering (again, very much against U.S. law). In 2000, the FBI wants to get into this act with its ‘Carnivore’ surveillance system.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+NP- 
+Home
+ NSP
+
+
+---
+
+
+
+NSP
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**NSP**: /N·S·P/, n.
+
+Common abbreviation for ‘Network Service Provider’, one of the big national or regional companies that maintains a portion of the Internet backbone and resells connectivity to [*ISP*](../I/ISP.html)s. In 1996, major NSPs include ANS, MCI, UUNET, and Sprint. An Internet wholesaler.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+NSA line eater 
+Home
+ nude
+
+
+---
+
+
+
+nude
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nude**: adj.
+
+Said of machines delivered without an operating system (compare [*bare metal*](../B/bare-metal.html)). “We ordered 50 systems, but they all arrived nude, so we had to spend an extra weekend with the installation disks.” This usage is a recent innovation reflecting the fact that most IBM-PC clones are now delivered with an operating system pre-installed at the factory. Other kinds of hardware are still normally delivered without OS, so this term is particular to PC support groups.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+NSP 
+Home
+ nugry
+
+
+---
+
+
+
+nugry
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nugry**: /n\[y\]oo´gree/
+
+\[Usenet, ‘newbie’ + ‘-gry’\] n. A [*newbie*](newbie.html) who posts a [*FAQ*](../F/FAQ.html) in the rec.puzzles newsgroup, especially if it is a variant of the notorious trick question: “Think of words ending in ‘gry’. Angry and hungry are two of them. There are three words in the English language. What is the third word?” In the newsgroup, the canonical answer is of course ‘nugry’ itself. Plural is nusgry /n\[y\]oos´gree/.
+
+2\. adj. Having the qualities of a nugry.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nude 
+Home
+ nuke
+
+
+---
+
+
+
+nuke
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nuke**: /n\[y\]ook/, vt.
+
+\[common\]
+
+1\. To intentionally delete the entire contents of a given directory or storage volume. “On Unix, **rm -r /usr** will nuke everything in the usr filesystem.” Never used for accidental deletion; contrast [*blow away*](../B/blow-away.html).
+
+2\. Syn. for [*dike*](../D/dike.html), applied to smaller things such as files, features, or code sections. Often used to express a final verdict. “What do you want me to do with that 80-meg session file?” “Nuke it.”
+
+3\. Used of processes as well as files; nuke is a frequent verbal alias for **kill -9** on Unix.
+
+4\. On IBM PCs, a bug that results in [*fandango on core*](../F/fandango-on-core.html) can trash the operating system, including the FAT (the in-core copy of the disk block chaining information). This can utterly scramble attached disks, which are then said to have been nuked. This term is also used of analogous lossages on Macintoshes and other micros without memory protection.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nugry 
+Home
+ number-crunching
+
+
+---
+
+
+
+number-crunching
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**number-crunching**: n.
+
+\[common\] Computations of a numerical nature, esp. those that make extensive use of floating-point numbers. The only thing [*Fortrash*](../F/Fortrash.html) is good for. This term is in widespread informal use outside hackerdom and even in mainstream slang, but has additional hackish connotations: namely, that the computations are mindless and involve massive use of [*brute force*](../B/brute-force.html). This is not always [*evil*](../E/evil.html), esp. if it involves ray tracing or fractals or some other use that makes [*pretty pictures*](../P/pretty-pictures.html), esp. if such pictures can be used as screen backgrounds. See also [*crunch*](../C/crunch.html).
+
+![](../graphics/74-12-25.png)
+
+Hydrodynamic [*number-crunching*](number-crunching.html).
+
+(The next cartoon in the Crunchly saga is [74-12-29](../W/winged-comments.html#crunchly74-12-29). The previous cartoon was [74-08-18](../W/water-MIPS.html#crunchly74-08-18).)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nuke 
+Home
+ numbers
+
+
+---
+
+
+
+numbers
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**numbers**: n.
+
+\[scientific computation\] Output of a computation that may not be significant results but at least indicate that the program is running. May be used to placate management, grant sponsors, etc. Making numbers means running a program because output — any output, not necessarily meaningful output — is needed as a demonstration of progress. See [*pretty pictures*](../P/pretty-pictures.html), [*math-out*](../M/math-out.html), [*social science number*](../S/social-science-number.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+number-crunching 
+Home
+ NUXI problem
+
+
+---
+
+
+
+NUXI problem
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**NUXI problem**: /nuk´see pro´bl@m/, n.
+
+Refers to the problem of transferring data between machines with differing byte-order. The string “UNIX” might look like “NUXI” on a machine with a different byte sex (e.g., when transferring data from a [*little-endian*](../L/little-endian.html) to a [*big-endian*](../B/big-endian.html), or vice-versa). See also [*middle-endian*](../M/middle-endian.html), [*swab*](../S/swab.html), and [*bytesexual*](../B/bytesexual.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+numbers 
+Home
+ nybble
+
+
+---
+
+
+
+nybble
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nybble**: /nib´l/, nibble, n.
+
+\[from v. nibble by analogy with ‘bite’ → ‘byte’\] Four bits; one [*hex*](../H/hex.html) digit; a half-byte. Though ‘byte’ is now techspeak, this useful relative is still jargon. Compare [*byte*](../B/byte.html); see also [*bit*](../B/bit.html). The more mundane spelling “nibble” is also commonly used. Apparently the ‘nybble’ spelling is uncommon in Commonwealth Hackish, as British orthography would suggest the pronunciation /ni:´bl/.
+
+Following ‘bit’, ‘byte’ and ‘nybble’ there have been quite a few analogical attempts to construct unambiguous terms for bit blocks of other sizes. All of these are strictly jargon, not techspeak, and not very common jargon at that (most hackers would recognize them in context but not use them spontaneously). We collect them here for reference together with the ambiguous techspeak terms ‘word’, ‘half-word’, ‘double word’, and ‘quad’ or quad word; some (indicated) have substantial information separate entries.
+
+2 bits:
+crumb, quad, quarter, tayste, tydbit, morsel
+
+4 bits:
+nybble
+
+5 bits:
+nickle
+
+10 bits:
+deckle
+
+16 bits:
+playte, chawmp (on a 32-bit machine), word (on a 16-bit machine), half-word (on a 32-bit machine).
+
+18 bits:
+chawmp (on a 36-bit machine), half-word (on a 36-bit machine)
+
+32 bits:
+dynner, gawble (on a 32-bit machine), word (on a 32-bit machine), longword (on a 16-bit machine).
+
+36 bits:
+word (on a 36-bit machine)
+
+48 bits:
+gawble (under circumstances that remain obscure)
+
+64 bits:
+double word (on a 32-bit machine) quad (on a 16-bit machine)
+
+128 bits:
+quad (on a 32-bit machine)
+
+The fundamental motivation for most of these jargon terms (aside from the normal hackerly enjoyment of punning wordplay) is the extreme ambiguity of the term word and its derivatives.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+NUXI problem 
+Home
+ nyetwork
+
+
+---
+
+
+
+nyetwork
+
+Prev 
+N
+ Next
+
+------------------------------------------------------------------------
+
+**nyetwork**: /nyet´werk/, n.
+
+\[from Russian ‘nyet’ = no\] A network, when it is acting [*flaky*](../F/flaky.html) or is [*down*](../D/down.html). Compare [*notwork*](notwork.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+nybble 
+Home
+ O
+
+
+---
+
+
+## O
+
+
+
+Ob-
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**Ob-**: /ob/, pref.
+
+Obligatory. A piece of [*netiquette*](../N/netiquette.html) acknowledging that the author has been straying from the newsgroup's charter topic. For example, if a posting in alt.sex is a response to a part of someone else's posting that has nothing particularly to do with sex, the author may append ‘ObSex’ (or ‘Obsex’) and toss off a question or vignette about some unusual erotic act. It is considered a sign of great [*winnitude*](../W/winnitude.html) when one's Obs are more interesting than other people's whole postings.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+O 
+Home
+ Obfuscated C Contest
+
+
+---
+
+
+
+Obfuscated C Contest
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**Obfuscated C Contest**: n.
+
+(in full, the ‘International Obfuscated C Code Contest’, or IOCCC) An annual contest run since 1984 over Usenet by Landon Curt Noll and friends. The overall winner is whoever produces the most unreadable, creative, and bizarre (but working) C program; various other prizes are awarded at the judges' whim. C's terse syntax and macro-preprocessor facilities give contestants a lot of maneuvering room. The winning programs often manage to be simultaneously (a) funny, (b) breathtaking works of art, and (c) horrible examples of how *not* to code in C.
+
+This relatively short and sweet entry might help convey the flavor of obfuscated C:
+
+/*
+ * HELLO WORLD program
+ * by Jack Applin and Robert Heckendorn, 1985
+ * (Note: depends on being able to modify elements of argv[],
+ * which is not guaranteed by ANSI and often not possible.)
+ */
+main(v,c)char**c;{for(v[c++]=&quot;Hello, world!\n)&quot;;
+(!!c)[*c]&amp;&amp;(v--||--c&amp;&amp;execlp(*c,*c,c[!!c]+!!c,!c));
+**c=!c)write(!!*c,*c,!!**c);}
+
+Here's another good one:
+
+/*
+ * Program to compute an approximation of pi
+ * by Brian Westley, 1988
+ * (requires pcc macro concatenation; try gcc -traditional-cpp)
+ */
+&#10;#define _ -F&lt;00||--F-OO--;
+int F=00,OO=00;
+main(){F_OO();printf(&quot;%1.3f\n&quot;,4.*-F/OO/OO);}F_OO()
+{
+            _-_-_-_
+       _-_-_-_-_-_-_-_-_
+    _-_-_-_-_-_-_-_-_-_-_-_
+  _-_-_-_-_-_-_-_-_-_-_-_-_-_
+ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+  _-_-_-_-_-_-_-_-_-_-_-_-_-_
+    _-_-_-_-_-_-_-_-_-_-_-_
+        _-_-_-_-_-_-_-_
+            _-_-_-_
+}
+
+Note that this program works by computing its own area. For more digits, write a bigger program. See also [*hello world*](../H/hello-world.html).
+
+The IOCCC has an official home page at http://www.ioccc.org/.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Ob- 
+Home
+ obi-wan error
+
+
+---
+
+
+
+obi-wan error
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**obi-wan error**: /oh´bee·won\` er'@r/, n.
+
+\[RPI, from off-by-one and the Obi-Wan Kenobi character in *Star Wars*\] A loop of some sort in which the index is off by one.
+
+1\. Common when the index should have started from 0 but instead started from 1.
+
+2\. A kind of [*off-by-one error*](off-by-one-error.html). See also [*zeroth*](../Z/zeroth.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Obfuscated C Contest 
+Home
+ Objectionable-C
+
+
+---
+
+
+
+Objectionable-C
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**Objectionable-C**: n.
+
+Hackish take on “Objective-C”, the name of an object-oriented dialect of C in competition with the better-known C++ (it is used to write native applications on the NeXT machine). Objectionable-C uses a Smalltalk-like syntax, but lacks the flexibility of Smalltalk method calls, and (like many such efforts) comes frustratingly close to attaining the [*Right Thing*](../R/Right-Thing.html) without actually doing so.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+obi-wan error 
+Home
+ obscure
+
+
+---
+
+
+
+obscure
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**obscure**: adj.
+
+Used in an exaggeration of its normal meaning, to imply total incomprehensibility. “The reason for that last crash is obscure.” “The find(1) command's syntax is obscure!” The phrase moderately obscure implies that something could be figured out but probably isn't worth the trouble. The construction obscure in the extreme is the preferred emphatic form.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Objectionable-C 
+Home
+ octal forty
+
+
+---
+
+
+
+octal forty
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**octal forty**: /ok´tl for´tee/, n.
+
+Hackish way of saying “I'm drawing a blank.” Octal 40 is the [*ASCII*](../A/ASCII.html) space character, 0100000; by an odd coincidence, [*hex*](../H/hex.html) 40 (01000000) is the [*EBCDIC*](../E/EBCDIC.html) space character. See [*wall*](../W/wall.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+obscure 
+Home
+ off the trolley
+
+
+---
+
+
+
+off the trolley
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**off the trolley**: adj.
+
+Describes the behavior of a program that malfunctions and goes catatonic, but doesn't actually [*crash*](../C/crash.html) or abort. See [*glitch*](../G/glitch.html), [*bug*](../B/bug.html), [*deep space*](../D/deep-space.html), [*wedged*](../W/wedged.html).
+
+This term is much older than computing, and is (uncommon) slang elsewhere. A trolley is the small wheel that trolls, or runs against, the heavy wire that carries the current to run a streetcar. It's at the end of the long pole (the trolley pole) that reaches from the roof of the streetcar to the overhead line. When the trolley stops making contact with the wire (from passing through a switch, going over bumpy track, or whatever), the streetcar comes to a halt, (usually) without crashing. The streetcar is then said to be off the trolley, or off the wire. Later on, trolley came to mean the streetcar itself. Since streetcars became common in the 1890s, the term is more than 100 years old. Nowadays, trolleys are only seen on historic streetcars, since modern streetcars use pantographs to contact the wire.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+octal forty 
+Home
+ off-by-one error
+
+
+---
+
+
+
+off-by-one error
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**off-by-one error**: n.
+
+\[common\] Exceedingly common error induced in many ways, such as by starting at 0 when you should have started at 1 or vice-versa, or by writing **\
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+off the trolley 
+Home
+ offline
+
+
+---
+
+
+
+offline
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**offline**: adv.
+
+Not now or not here. “Let's take this discussion offline.” Specifically used on [*Usenet*](../U/Usenet.html) to suggest that a discussion be moved off a public newsgroup to email.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+off-by-one error 
+Home
+ ogg
+
+
+---
+
+
+
+ogg
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**ogg**: /og/, v.
+
+\[CMU\]
+
+1\. In the multi-player space combat game Netrek, to execute kamikaze attacks against enemy ships which are carrying armies or occupying strategic positions. Named during a game in which one of the players repeatedly used the tactic while playing Orion ship G, showing up in the player list as “Og”. This trick has been roundly denounced by those who would return to the good old days when the tactic of dogfighting was dominant, but as Sun Tzu wrote, “What is of supreme importance in war is to attack the enemy's strategy, not his tactics.” However, the traditional answer to the newbie question “What does ogg mean?” is just “Pick up some armies and I'll show you.”
+
+2\. In other games, to forcefully attack an opponent with the expectation that the resources expended will be renewed faster than the opponent will be able to regain his previous advantage. Taken more seriously as a tactic since it has gained a simple name.
+
+3\. To do anything forcefully, possibly without consideration of the drain on future resources. “I guess I'd better go ogg the problem set that's due tomorrow.” “Whoops! I looked down at the map for a sec and almost ogged that oncoming car.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+offline 
+Home
+ -oid
+
+
+---
+
+
+
+-oid
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**-oid**: suff.
+
+\[from Greek suffix -oid = in the image of\]
+
+1\. Used as in mainstream slang English to indicate a poor imitation, a counterfeit, or some otherwise slightly bogus resemblance. Hackers will happily use it with all sorts of non-Greco/Latin stem words that wouldn't keep company with it in mainstream English. For example, “He's a nerdoid” means that he superficially resembles a nerd but can't make the grade; a modemoid might be a 300-baud box (Real Modems run at 28.8 or up); a computeroid might be any [*bitty box*](../B/bitty-box.html). The word keyboid could be used to describe a [*chiclet keyboard*](../C/chiclet-keyboard.html), but would have to be written; spoken, it would confuse the listener as to the speaker's city of origin.
+
+2\. More specifically, an indicator for ‘resembling an android’ which in the past has been confined to science-fiction fans and hackers. It too has recently (in 1991) started to go mainstream (most notably in the term ‘trendoid’ for victims of terminal hipness). This is probably traceable to the popularization of the term [*droid*](../D/droid.html) in *Star Wars* and its sequels. (See also [*windoid*](../W/windoid.html).)
+
+Coinages in both forms have been common in science fiction for at least fifty years, and hackers (who are often SF fans) have probably been making *‘-oid*’ jargon for almost that long \[though GLS and I can personally confirm only that they were already common in the mid-1970s —ESR\].
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+ogg 
+Home
+ old fart
+
+
+---
+
+
+
+old fart
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**old fart**: n.
+
+Tribal elder. A title self-assumed with remarkable frequency by (esp.) Usenetters who have been programming for more than about 25 years; often appears in [*sig block*](../S/sig-block.html)s attached to Jargon File contributions of great archeological significance. This is a term of insult in the second or third person but one of pride in first person.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+-oid 
+Home
+ Old Testament
+
+
+---
+
+
+
+Old Testament
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**Old Testament**: n.
+
+\[C programmers\] The first edition of [*K&R*](../K/K-ampersand-R.html), the sacred text describing [*Classic C*](../C/Classic-C.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+old fart 
+Home
+ on the gripping hand
+
+
+---
+
+
+
+on the gripping hand
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**on the gripping hand**
+
+In the progression that starts “On the one hand...” and continues “On the other hand...” mainstream English may add “on the third hand...” even though most people don't have three hands. Among hackers, it is just as likely to be “on the gripping hand”. This metaphor supplied the title of Larry Niven & Jerry Pournelle's 1993 SF novel “The Gripping Hand” which involved a species of hostile aliens with three arms (the same species, in fact, referenced in [*juggling eggs*](../J/juggling-eggs.html)). As with [*TANSTAAFL*](../T/TANSTAAFL.html) and [*con*](../C/con_.html), this usage became one of the naturalized imports from SF fandom frequently observed among hackers.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Old Testament 
+Home
+ one-banana problem
+
+
+---
+
+
+
+one-banana problem
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**one-banana problem**: n.
+
+At mainframe shops, where the computers have operators for routine administrivia, the programmers and hardware people tend to look down on the operators and claim that a trained monkey could do their job. It is frequently observed that the incentives that would be offered said monkeys can be used as a scale to describe the difficulty of a task. A one-banana problem is simple; hence, “It's only a one-banana job at the most; what's taking them so long?” At IBM, folklore divides the world into one-, two-, and three-banana problems. Other cultures have different hierarchies and may divide them more finely; at ICL, for example, five grapes (a bunch) equals a banana. Their upper limit for the in-house [*sysape*](../S/sysape.html)s is said to be two bananas and three grapes (another source claims it's three bananas and one grape, but observes “However, this is subject to local variations, cosmic rays and ISO”). At a complication level any higher than that, one asks the manufacturers to send someone around to check things.
+
+See also [*Infinite-Monkey Theorem*](../I/Infinite-Monkey-Theorem.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+on the gripping hand 
+Home
+ one-line fix
+
+
+---
+
+
+
+one-line fix
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**one-line fix**: n.
+
+Used (often sarcastically) of a change to a program that is thought to be trivial or insignificant right up to the moment it crashes the system. Usually ‘cured’ by another one-line fix. See also [*I didn't change anything!*](../I/I-didn-t-change-anything-.html)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+one-banana problem 
+Home
+ one-liner wars
+
+
+---
+
+
+
+one-liner wars
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**one-liner wars**: n.
+
+A game popular among hackers who code in the language APL (see [*write-only language*](../W/write-only-language.html) and [*line noise*](../L/line-noise.html)). The objective is to see who can code the most interesting and/or useful routine in one line of operators chosen from APL's exceedingly [*hairy*](../H/hairy.html) primitive set. A similar amusement was practiced among [*TECO*](../T/TECO.html) hackers and is now popular among [*Perl*](../P/Perl.html) aficionados.
+
+Ken Iverson, the inventor of APL, has been credited with a one-liner that, given a number `N`, produces a list of the prime numbers from 1 to `N` inclusive. It looks like this:
+
+    (2=0+.=T∅.|T)/T←ιN
+
+Here's a [*Perl*](../P/Perl.html) program that prints primes:
+
+        perl -wle &#39;(1 x $_) !~ /^(11+)\1+$/ &amp;&amp; print while ++ $_&#39;
+
+In the Perl world this game is sometimes called Perl Golf because the player with the fewest (key)strokes wins.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+one-line fix 
+Home
+ ooblick
+
+
+---
+
+
+
+ooblick
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**ooblick**: /oo´blik/, n.
+
+\[from the Dr. Seuss title *Bartholomew and the Oobleck*; the spelling ‘oobleck’ is still current in the mainstream\] A bizarre semi-liquid sludge made from cornstarch and water. Enjoyed among hackers who make batches during playtime at parties for its amusing and extremely non-Newtonian behavior; it pours and splatters, but resists rapid motion like a solid and will even crack when hit by a hammer. Often found near lasers.
+
+Here is a field-tested ooblick recipe contributed by GLS:
+
+- 1 cup cornstarch
+
+- 1 cup baking soda
+
+- 3/4 cup water
+
+- N drops of food coloring
+
+This recipe isn't quite as non-Newtonian as a pure cornstarch ooblick, but has an appropriately slimy feel.
+
+Some, however, insist that the notion of an ooblick *recipe* is far too mechanical, and that it is best to add the water in small increments so that the various mixed states the cornstarch goes through as it *becomes* ooblick can be grokked in fullness by many hands. For optional ingredients of this experience, see the *[Ceremonial Chemicals](../chemicals.html "Ceremonial Chemicals")* section of Appendix B.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+one-liner wars 
+Home
+ OP
+
+
+---
+
+
+
+OP
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**OP**: //
+
+\[Usenet; common\] Abbreviation for “original poster”, the originator of a particular thread.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+ooblick 
+Home
+ op
+
+
+---
+
+
+
+op
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**op**: /op/, n.
+
+1\. In England and Ireland, common verbal abbreviation for ‘operator’, as in system operator. Less common in the U.S., where [*sysop*](../S/sysop.html) seems to be preferred.
+
+2\. \[IRC\] Someone who is endowed with privileges on [*IRC*](../I/IRC.html), not limited to a particular channel. These are generally people who are in charge of the IRC server at their particular site. Sometimes used interchangeably with [*CHOP*](../C/CHOP.html). Compare [*sysop*](../S/sysop.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+OP 
+Home
+ open
+
+
+---
+
+
+
+open
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**open**: n.
+
+Abbreviation for ‘open (or left) parenthesis’ — used when necessary to eliminate oral ambiguity. To read aloud the LISP form (DEFUN FOO (X) (PLUS X 1)) one might say: “Open defun foo, open eks close, open, plus eks one, close close.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+op 
+Home
+ open source
+
+
+---
+
+
+
+open source
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**open source**: n.
+
+\[common; also adj. open-source\] Term coined in March 1998 following the Mozilla release to describe software distributed in source under licenses guaranteeing anybody rights to freely use, modify, and redistribute, the code. The intent was to be able to sell the hackers' ways of doing software to industry and the mainstream by avoiding the negative connotations (to [*suit*](../S/suit.html)s) of the term “[*free software*](../F/free-software.html)”. For discussion of the follow-on tactics and their consequences, see the Open Source Initiative site.
+
+Five years after this term was invented, in 2003, it is worth noting the huge shift in assumptions it helped bring about, if only because the hacker culture's collective memory of what went before is in some ways blurring. Hackers have so completely refocused themselves around the idea and ideal of open source that we are beginning to forget that we used to do most of our work in closed-source environments. Until the late 1990s open source was a sporadic exception that usually had to live on top of a closed-source operating system and alongside closed-source tools; entire open-source environments like [*Linux*](../L/Linux.html) and the \*BSD systems didn't even exist in a usable form until around 1993 and weren't taken very seriously by anyone but a pioneering few until about five years later.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+open 
+Home
+ open switch
+
+
+---
+
+
+
+open switch
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**open switch**: n.
+
+\[IBM: prob.: from railroading\] An unresolved question, issue, or problem.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+open source 
+Home
+ operating system
+
+
+---
+
+
+
+operating system
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**operating system**: n.
+
+\[techspeak\] (Often abbreviated ‘OS’) The foundation software of a machine; that which schedules tasks, allocates storage, and presents a default interface to the user between applications. The facilities an operating system provides and its general design philosophy exert an extremely strong influence on programming style and on the technical cultures that grow up around its host machines. Hacker folklore has been shaped primarily by the [*Unix*](../U/Unix.html), [*ITS*](../I/ITS.html), [*TOPS-10*](../T/TOPS-10.html), [*TOPS-20*](../T/TOPS-20.html)/[*TWENEX*](../T/TWENEX.html), [*WAITS*](../W/WAITS.html), [*CP/M*](../C/CP-M.html), [*MS-DOS*](../M/MS-DOS.html), and [*Multics*](../M/Multics.html) operating systems (most importantly by ITS and Unix). See also [*timesharing*](../T/timesharing.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+open switch 
+Home
+ operator headspace
+
+
+---
+
+
+
+operator headspace
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**operator headspace**
+
+\[common\] More fully, “operator headspace error”. Synonym for [*pilot error*](../P/pilot-error.html) — a dumb move, especially one pulled by someone who ought to know better. Often used reflexively.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+operating system 
+Home
+ optical diff
+
+
+---
+
+
+
+optical diff
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**optical diff**: n.
+
+See [*vdiff*](../V/vdiff.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+operator headspace 
+Home
+ optical grep
+
+
+---
+
+
+
+optical grep
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**optical grep**: n.
+
+See [*vgrep*](../V/vgrep.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+optical diff 
+Home
+ optimism
+
+
+---
+
+
+
+optimism
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**optimism**: n.
+
+What a programmer is full of after fixing the last bug and before discovering the *next* last bug. Fred Brooks's book *The Mythical Man-Month* (See *Brooks's Law*) contains the following paragraph that describes this extremely well:
+
+> All programmers are optimists. Perhaps this modern sorcery especially attracts those who believe in happy endings and fairy godmothers. Perhaps the hundreds of nitty frustrations drive away all but those who habitually focus on the end goal. Perhaps it is merely that computers are young, programmers are younger, and the young are always optimists. But however the selection process works, the result is indisputable: “This time it will surely run,” or “I just found the last bug.”.
+
+See also [*Lubarsky's Law of Cybernetic Entomology*](../L/Lubarskys-Law-of-Cybernetic-Entomology.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+optical grep 
+Home
+ Oracle, the
+
+
+---
+
+
+
+Oracle, the
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**Oracle, the**
+
+The all-knowing, all-wise Internet Oracle `rec.humor.oracle`, or one of the foreign language derivatives of same. Newbies frequently confuse the Oracle with Oracle, a database vendor. As a result, the unmoderated `rec.humor.oracle.d` is frequently cross-posted to by the clueless, looking for advice on SQL. As more than one person has said in similar situations, “Don't people bother to look at the newsgroup description line anymore?” (To which the standard response is, “Did people ever read it in the first place?”)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+optimism 
+Home
+ Orange Book
+
+
+---
+
+
+
+Orange Book
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**Orange Book**: n.
+
+The U.S. Government's (now obsolete) standards document *Trusted Computer System Evaluation Criteria, DOD standard 5200.28-STD, December, 1985* which characterize secure computing architectures and defines levels A1 (most secure) through D (least). Modern Unixes are roughly C2. See also [*book titles*](../B/book-titles.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Oracle, the 
+Home
+ oriental food
+
+
+---
+
+
+
+oriental food
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**oriental food**: n.
+
+Hackers display an intense tropism towards oriental cuisine, especially Chinese, and especially of the spicier varieties such as Szechuan and Hunan. This phenomenon (which has also been observed in subcultures that overlap heavily with hackerdom, most notably science-fiction fandom) has never been satisfactorily explained, but is sufficiently intense that one can assume the target of a hackish dinner expedition to be the best local Chinese place and be right at least three times out of four. See also [*ravs*](../R/ravs.html), [*great-wall*](../G/great-wall.html), [*stir-fried random*](../S/stir-fried-random.html), [*laser chicken*](../L/laser-chicken.html), [*Yu-Shiang Whole Fish*](../Y/Yu-Shiang-Whole-Fish.html). Thai, Indian, Korean, Burmese, and Vietnamese cuisines are also quite popular.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Orange Book 
+Home
+ orphan
+
+
+---
+
+
+
+orphan
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**orphan**: n.
+
+\[Unix\] A process whose parent has died; one inherited by init(1). Compare [*zombie*](../Z/zombie.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+oriental food 
+Home
+ orphaned i-node
+
+
+---
+
+
+
+orphaned i-node
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**orphaned i-node**: /or´f@nd i:´nohd/, n.
+
+\[Unix\]
+
+1\. \[techspeak\] A file that retains storage but no longer appears in the directories of a filesystem.
+
+2\. By extension, a pejorative for any person no longer serving a useful function within some organization, esp. [*lion food*](../L/lion-food.html) without subordinates.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+orphan 
+Home
+ orthogonal
+
+
+---
+
+
+
+orthogonal
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**orthogonal**: adj.
+
+\[from mathematics\] Mutually independent; well separated; sometimes, irrelevant to. Used in a generalization of its mathematical meaning to describe sets of primitives or capabilities that, like a vector basis in geometry, span the entire ‘capability space’ of the system and are in some sense non-overlapping or mutually independent. For example, in architectures such as the [*PDP-11*](../P/PDP-11.html) or [*VAX*](../V/VAX.html) where all or nearly all registers can be used interchangeably in any role with respect to any instruction, the register set is said to be orthogonal. Or, in logic, the set of operators not and or is orthogonal, but the set nand, or, and not is not (because any one of these can be expressed in terms of the others). Also used in comments on human discourse: “This may be orthogonal to the discussion, but....”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+orphaned i-node 
+Home
+ OS
+
+
+---
+
+
+
+OS
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**OS**: /O·S/
+
+1\. \[Operating System\] n. An abbreviation heavily used in email, occasionally in speech.
+
+2\. n. obs. On ITS, an output spy. See *[OS and JEDGAR](../os-and-jedgar.html "OS and JEDGAR")* in Appendix A.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+orthogonal 
+Home
+ OS/2
+
+
+---
+
+
+
+OS/2
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**OS/2**: /O S too/, n.
+
+The anointed successor to MS-DOS for Intel 286- and 386-based micros; proof that IBM/Microsoft couldn't get it right the second time, either. Often called ‘Half-an-OS’. Mentioning it is usually good for a cheap laugh among hackers — the design was so [*baroque*](../B/baroque.html), and the implementation of 1.x so bad, that three years after introduction you could still count the major [*app*](../A/app.html)s shipping for it on the fingers of two hands — in unary. The 2.x versions were said to have improved somewhat, and informed hackers rated them superior to Microsoft Windows (an endorsement which, however, could easily be construed as damning with faint praise). In the mid-1990s IBM put OS/2 on life support, refraining from killing it outright purely for internal political reasons; by 1999 the success of [*Linux*](../L/Linux.html) had effectively ended any possibility of a renaissance. See [*monstrosity*](../M/monstrosity.html), [*cretinous*](../C/cretinous.html), [*second-system effect*](../S/second-system-effect.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+OS 
+Home
+ OSS
+
+
+---
+
+
+
+OSS
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**OSS**
+
+Written-only acronym for “Open Source Software” (see [*open source*](open-source.html)). This is a rather ugly [*TLA*](../T/TLA.html), and the principals in the open-source movement don't use it, but it has (perhaps inevitably) spread through the trade press like kudzu.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+OS/2 
+Home
+ OT
+
+
+---
+
+
+
+OT
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**OT**: //
+
+\[Usenet: common\] Abbreviation for “off-topic”. This is used to respond to a question that is inappropriate for the newsgroup that the questioner posted to. Often used in an HTML-style modifier or with adverbs. See also [*TAN*](../T/TAN.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+OSS 
+Home
+ OTOH
+
+
+---
+
+
+
+OTOH
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**OTOH**: //
+
+\[Usenet; very common\] On The Other Hand.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+OT 
+Home
+ out-of-band
+
+
+---
+
+
+
+out-of-band
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**out-of-band**: adj.
+
+\[from telecommunications and network theory\]
+
+1\. In software, describes values of a function which are not in its ‘natural’ range of return values, but are rather signals that some kind of exception has occurred. Many C functions, for example, return a nonnegative integral value, but indicate failure with an out-of-band return value of −1. Compare [*hidden flag*](../H/hidden-flag.html), [*green bytes*](../G/green-bytes.html), [*fence*](../F/fence.html).
+
+2\. Also sometimes used to describe what communications people call shift characters, such as the ESC that leads control sequences for many terminals, or the level shift indicators in the old 5-bit Baudot codes.
+
+3\. In personal communication, using methods other than email, such as telephones or [*snail-mail*](../S/snail-mail.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+OTOH 
+Home
+ overclock
+
+
+---
+
+
+
+overclock
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**overclock**: /oh´vr·klok´/, vt.
+
+To operate a CPU or other digital logic device at a rate higher than it was designed for, under the assumption that the manufacturer put some [*slop*](../S/slop.html) into the specification to account for manufacturing tolerances. Overclocking something can result in intermittent [*crash*](../C/crash.html)es, and can even burn things out, since power dissipation is directly proportional to [*clock*](../C/clock.html) frequency. People who make a hobby of this are sometimes called “overclockers”; they are thrilled that they can run their CPU a few percent faster, even though they can only tell the difference by running a [*benchmark*](../B/benchmark.html) program. See also [*case mod*](../C/case-mod.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+out-of-band 
+Home
+ overflow bit
+
+
+---
+
+
+
+overflow bit
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**overflow bit**: n.
+
+1\. \[techspeak\] A [*flag*](../F/flag.html) on some processors indicating an attempt to calculate a result too large for a register to hold.
+
+2\. More generally, an indication of any kind of capacity overload condition. “Well, the Ada description was [*baroque*](../B/baroque.html) all right, but I could hack it OK until they got to the exception handling ... that set my overflow bit.”
+
+3\. The hypothetical bit that will be set if a hacker doesn't get to make a trip to the Room of Porcelain Fixtures: “I'd better process an internal interrupt before the overflow bit gets set.”
+
+![](../graphics/73-07-24.png)
+
+Crunchly and the [*overflow bit*](overflow-bit.html).
+
+(The next cartoon in the Crunchly saga is [73-07-29](../B/bug.html#crunchly73-07-29). The previous one is [73-06-04](../G/glitch.html#crunchly73-06-04).)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+overclock 
+Home
+ overrun
+
+
+---
+
+
+
+overrun
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**overrun**: n.
+
+1\. \[techspeak\] Term for a frequent consequence of data arriving faster than it can be consumed, esp. in serial line communications. For example, at 9600 baud there is almost exactly one character per millisecond, so if a [*silo*](../S/silo.html) can hold only two characters and the machine takes longer than 2 msec to get to service the interrupt, at least one character will be lost.
+
+2\. Also applied to non-serial-I/O communications. “I forgot to pay my electric bill due to mail overrun.” “Sorry, I got four phone calls in 3 minutes last night and lost your message to overrun.” When [*thrash*](../T/thrash.html)ing at tasks, the next person to make a request might be told “Overrun!” Compare [*firehose syndrome*](../F/firehose-syndrome.html).
+
+3\. More loosely, may refer to a [*buffer overflow*](../B/buffer-overflow.html) not necessarily related to processing time (as in [*overrun screw*](overrun-screw.html)).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+overflow bit 
+Home
+ overrun screw
+
+
+---
+
+
+
+overrun screw
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**overrun screw**: n.
+
+\[C programming\] A variety of [*fandango on core*](../F/fandango-on-core.html) produced by scribbling past the end of an array (C implementations typically have no checks for this error). This is relatively benign and easy to spot if the array is static; if it is auto, the result may be to [*smash the stack*](../S/smash-the-stack.html) — often resulting in [*heisenbug*](../H/heisenbug.html)s of the most diabolical subtlety. The term overrun screw is used esp. of scribbles beyond the end of arrays allocated with malloc(3); this typically trashes the allocation header for the next block in the [*arena*](../A/arena.html), producing massive lossage within malloc and often a core dump on the next operation to use stdio(3) or malloc(3) itself. See [*spam*](../S/spam.html), [*overrun*](overrun.html); see also [*memory leak*](../M/memory-leak.html), [*memory smash*](../M/memory-smash.html), [*aliasing bug*](../A/aliasing-bug.html), [*precedence lossage*](../P/precedence-lossage.html), [*fandango on core*](../F/fandango-on-core.html), [*secondary damage*](../S/secondary-damage.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+overrun 
+Home
+ owned
+
+
+---
+
+
+
+owned
+
+Prev 
+O
+ Next
+
+------------------------------------------------------------------------
+
+**owned**
+
+1\. \[cracker slang; often written “0wned”\] Your condition when your machine has been cracked by a root exploit, and the attacker can do anything with it. This sense is occasionally used by hackers.
+
+2\. \[gamers, IRC, crackers\] To be dominated, controlled, mastered. For example, if you make a statement completely and utterly false, and someone else corrects it in a way that humiliates or removes you, you are said to “have been owned” by that person. When referring to games, “I own0r UT GOTYE” means that one has mastered Unreal Tournament, Game of the Year Edition to such a level that even the hardest AI characters are mere lunchmeat, and that no ordinary mortal player would even receive a point in competition. There are several spelling variants: 0wned, 0wn0r3d, even pwn0r3d. Hackers do not use this sense.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+overrun screw 
+Home
+ P
+
+
+---
+
+
+## P
+
+
+
+P.O.D.
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**P.O.D.**: /P·O·D/
+
+\[rare; sometimes ‘POD’ without the periods\] Acronym for ‘Piece Of Data’ or ‘Plain Old Data’ (as opposed to a code section, or a section containing mixed code and data). The latter expansion was in use by the C++ standards committee, for which it indicated a struct or class which only contains data (as in C), distinguished from one which has a constructor and member functions. There are things which you can do with a P.O.D. which you can't with a more general class.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+P 
+Home
+ packet over air
+
+
+---
+
+
+
+packet over air
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**packet over air**
+
+\[common among backbone ISPs\] The protocol notionally being used by Internet data attempting to traverse a physical gap or break in the network, such as might be caused by a [*fiber-seeking backhoe*](../F/fiber-seeking-backhoe.html). “I see why you're dropping packets. You seem to have a packet over air problem.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+P.O.D. 
+Home
+ padded cell
+
+
+---
+
+
+
+padded cell
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**padded cell**: n.
+
+Where you put [*luser*](../L/luser.html)s so they can't hurt anything. A program that limits a luser to a carefully restricted subset of the capabilities of the host system (for example, the rsh(1) utility on USG Unix). Note that this is different from an [*iron box*](../I/iron-box.html) because it is overt and not aimed at enforcing security so much as protecting others (and the luser) from the consequences of the luser's boundless naivete (see [*naive*](../N/naive.html)). Also padded cell environment.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+packet over air 
+Home
+ page in
+
+
+---
+
+
+
+page in
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**page in**: v.
+
+\[MIT\]
+
+1\. To become aware of one's surroundings again after having paged out (see [*page out*](page-out.html)). Usually confined to the sarcastic comment: “Eric pages in, [*film at 11*](../F/film-at-11.html)!”
+
+2\. Syn. swap in; see [*swap*](../S/swap.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+padded cell 
+Home
+ page out
+
+
+---
+
+
+
+page out
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**page out**: vi.
+
+\[MIT\]
+
+1\. To become unaware of one's surroundings temporarily, due to daydreaming or preoccupation. “Can you repeat that? I paged out for a minute.” See [*page in*](page-in.html). Compare [*glitch*](../G/glitch.html), [*thinko*](../T/thinko.html).
+
+2\. Syn. swap out; see [*swap*](../S/swap.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+page in 
+Home
+ pain in the net
+
+
+---
+
+
+
+pain in the net
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pain in the net**: n.
+
+A [*flamer*](../F/flamer.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+page out 
+Home
+ paper-net
+
+
+---
+
+
+
+paper-net
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**paper-net**: n.
+
+Hackish way of referring to the postal service, analogizing it to a very slow, low-reliability network. Usenet [*sig block*](../S/sig-block.html)s sometimes include a “Paper-Net:” header just before the sender's postal address; common variants of this are “Papernet” and “P-Net”. Note that the standard [*netiquette*](../N/netiquette.html) guidelines discourage this practice as a waste of bandwidth, since netters are quite unlikely to casually use postal addresses. Compare [*voice-net*](../V/voice-net.html), [*snail-mail*](../S/snail-mail.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pain in the net 
+Home
+ param
+
+
+---
+
+
+
+param
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**param**: /p@·ram´/, n.
+
+\[common\] Shorthand for parameter. See also [*parm*](parm.html); compare [*arg*](../A/arg.html), [*var*](../V/var.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+paper-net 
+Home
+ PARC
+
+
+---
+
+
+
+PARC
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**PARC**: n.
+
+See [*XEROX PARC*](../X/XEROX-PARC.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+param 
+Home
+ parent message
+
+
+---
+
+
+
+parent message
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**parent message**: n.
+
+What a [*followup*](../F/followup.html) follows up.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+PARC 
+Home
+ parity errors
+
+
+---
+
+
+
+parity errors
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**parity errors**: pl.n.
+
+Little lapses of attention or (in more severe cases) consciousness, usually brought on by having spent all night and most of the next day hacking. “I need to go home and crash; I'm starting to get a lot of parity errors.” Derives from a relatively common but nearly always correctable transient error in memory hardware. It predates RAM; in fact, this term is reported to have already have been in use in its jargon sense back in the 1960s when magnetic cores ruled. Parity errors can also afflict mass storage and serial communication lines; this is more serious because not always correctable.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+parent message 
+Home
+ Parkinson's Law of Data
+
+
+---
+
+
+
+Parkinson's Law of Data
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**Parkinson's Law of Data**: prov.
+
+“Data expands to fill the space available for storage”; buying more memory encourages the use of more memory-intensive techniques. (The original 1958 Parkinson's Law described the structural tendency of bureaucracies to make work for themselves.) It has been observed since the mid-1980s that the memory usage of evolving systems tends to double roughly once every 18 months. Fortunately, memory density available for constant dollars also tends to about double once every 18 months (see [*Moore's Law*](../M/Moores-Law.html)); unfortunately, the laws of physics guarantee that the latter cannot continue indefinitely.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+parity errors 
+Home
+ parm
+
+
+---
+
+
+
+parm
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**parm**: /parm/, n.
+
+Further-compressed form of [*param*](param.html). This term is an *IBMism*, and written use is almost unknown outside IBM shops; spoken /parm/ is more widely distributed, but the synonym [*arg*](../A/arg.html) is favored among hackers. Compare [*arg*](../A/arg.html), [*var*](../V/var.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Parkinson's Law of Data 
+Home
+ parse
+
+
+---
+
+
+
+parse
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**parse**: vt.
+
+1\. To determine the syntactic structure of a sentence or other utterance (close to the standard English meaning). “That was the one I saw you.” “I can't parse that.”
+
+2\. More generally, to understand or comprehend. “It's very simple; you just kretch the glims and then aos the zotz.” “I can't parse that.”
+
+3\. Of fish, to have to remove the bones yourself. “I object to parsing fish”, means “I don't want to get a whole fish, but a sliced one is okay”. A parsed fish has been deboned. There is some controversy over whether unparsed should mean ‘bony’, or also mean ‘deboned’.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+parm 
+Home
+ Pascal
+
+
+---
+
+
+
+Pascal
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**Pascal**: n.
+
+An Algol-descended language designed by Niklaus Wirth on the CDC 6600 around 1967--68 as an instructional tool for elementary programming. This language, designed primarily to keep students from shooting themselves in the foot and thus extremely restrictive from a general-purpose-programming point of view, was later promoted as a general-purpose tool and, in fact, became the ancestor of a large family of languages including Modula-2 and Ada (see also [*bondage-and-discipline language*](../B/bondage-and-discipline-language.html)). The hackish point of view on Pascal was probably best summed up by a devastating (and, in its deadpan way, screamingly funny) 1981 paper by Brian Kernighan (of [*K&R*](../K/K-ampersand-R.html) fame) entitled *Why Pascal is Not My Favorite Programming Language*, which was turned down by the technical journals but circulated widely via photocopies. It was eventually published in *Comparing and Assessing Programming Languages*, edited by Alan Feuer and Narain Gehani (Prentice-Hall, 1984). Part of his discussion is worth repeating here, because its criticisms are still apposite to Pascal itself after many years of improvement and could also stand as an indictment of many other bondage-and-discipline languages. (The entire essay is available at http://www.lysator.liu.se/c/bwk-on-pascal.html.) At the end of a summary of the case against Pascal, Kernighan wrote:
+
+> 9\. There is no escape
+>
+> This last point is perhaps the most important. The language is inadequate but circumscribed, because there is no way to escape its limitations. There are no casts to disable the type-checking when necessary. There is no way to replace the defective run-time environment with a sensible one, unless one controls the compiler that defines the “standard procedures”. The language is closed.
+>
+> People who use Pascal for serious programming fall into a fatal trap. Because the language is impotent, it must be extended. But each group extends Pascal in its own direction, to make it look like whatever language they really want. Extensions for separate compilation, FORTRAN-like COMMON, string data types, internal static variables, initialization, octal numbers, bit operators, etc., all add to the utility of the language for one group but destroy its portability to others.
+>
+> I feel that it is a mistake to use Pascal for anything much beyond its original target. In its pure form, Pascal is a toy language, suitable for teaching but not for real programming.
+
+Pascal has since been entirely displaced (mainly by [*C*](../C/C.html)) from the niches it had acquired in serious applications and systems programming, and from its role as a teaching language by Java.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+parse 
+Home
+ PascalCasing
+
+
+---
+
+
+
+PascalCasing
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**PascalCasing**
+
+The practice of marking all word boundaries in long identifiers (such as ThisIsASampleVariable) (including the first letter of the identifier) with uppercase. Constrasts with camelCasing, in which the first character of the identifier is left in lowercase (thisIsASampleVariable), and with the traditional C style of short all-lower-case names with internal word breaks marked by an underscore (sample_var).
+
+Where these terms are used, they usually go with advice to use PascalCasing for public interfaces and camelCasing for private ones. They may have originated at Microsoft, but are in more general use in ECMA standards, among Java programmers, and elsewhere.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Pascal 
+Home
+ pastie
+
+
+---
+
+
+
+pastie
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pastie**: /pay´stee/, n.
+
+An adhesive-backed label designed to be attached to a key on a keyboard to indicate some non-standard character which can be accessed through that key. Pasties are likely to be used in APL environments, where almost every key is associated with a special character. A pastie on the R key, for example, might remind the user that it is used to generate the ρ character. The term properly refers to nipple-concealing devices formerly worn by strippers in concession to indecent-exposure laws; compare [*tits on a keyboard*](../T/tits-on-a-keyboard.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+PascalCasing 
+Home
+ patch
+
+
+---
+
+
+
+patch
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**patch**
+
+1\. n. A temporary addition to a piece of code, usually as a [*quick-and-dirty*](../Q/quick-and-dirty.html) remedy to an existing bug or misfeature. A patch may or may not work, and may or may not eventually be incorporated permanently into the program. Distinguished from a [*diff*](../D/diff.html) or [*mod*](../M/mod.html) by the fact that a patch is generated by more primitive means than the rest of the program; the classical examples are instructions modified by using the front panel switches, and changes made directly to the binary executable of a program originally written in an [*HLL*](../H/HLL.html). Compare [*one-line fix*](../O/one-line-fix.html).
+
+2\. vt. To insert a patch into a piece of code.
+
+3\. \[in the Unix world\] n. A [*diff*](../D/diff.html) (sense 2).
+
+4\. A set of modifications to binaries to be applied by a patching program. IBM operating systems often receive updates to the operating system in the form of absolute hexadecimal patches. If you have modified your OS, you have to disassemble these back to the source. The patches might later be corrected by other patches on top of them (patches were said to “grow scar tissue”). The result was often a convoluted [*patch space*](patch-space.html) and headaches galore.
+
+5\. \[Unix\] the patch(1) program, written by Larry Wall, which automatically applies a patch (sense 3) to a set of source code.
+
+There is a classic story of a [*tiger team*](../T/tiger-team.html) penetrating a secure military computer that illustrates the danger inherent in binary patches (or, indeed, any patches that you can't — or don't — inspect and examine before installing). They couldn't find any [*trap door*](../T/trap-door.html)s or any way to penetrate security of IBM's OS, so they made a site visit to an IBM office (remember, these were official military types who were purportedly on official business), swiped some IBM stationery, and created a fake patch. The patch was actually the trapdoor they needed. The patch was distributed at about the right time for an IBM patch, had official stationery and all accompanying documentation, and was dutifully installed. The installation manager very shortly thereafter learned something about proper procedures.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pastie 
+Home
+ patch pumpkin
+
+
+---
+
+
+
+patch pumpkin
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**patch pumpkin**: n.
+
+\[Perl hackers\] A notional token passed around among the members of a project. Possession of the patch pumpkin means one has the exclusive authority to make changes on the project's master source tree. The implicit assumption is that pumpkin holder status is temporary and rotates periodically among senior project members.
+
+This term comes from the Perl development community, but has been sighted elsewhere. It derives from a stuffed-toy pumpkin that was passed around at a development shop years ago as the access control for a shared backup-tape drive.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+patch 
+Home
+ patch space
+
+
+---
+
+
+
+patch space
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**patch space**: n.
+
+An unused block of bits left in a binary so that it can later be modified by insertion of machine-language instructions there (typically, the patch space is modified to contain new code, and the superseded code is patched to contain a jump or call to the patch space). The near-universal use of compilers and interpreters has made this term rare; it is now primarily historical outside IBM shops. See [*patch*](patch.html) (sense 4), [*zap*](../Z/zap.html) (sense 4), [*hook*](../H/hook.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+patch pumpkin 
+Home
+ path
+
+
+---
+
+
+
+path
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**path**: n.
+
+1\. A [*bang path*](../B/bang-path.html) or explicitly routed Internet address; a node-by-node specification of a link between two machines. Though these are now obsolete as a form of addressing, they still show up in diagnostics and trace headers occasionally (e.g. in NNTP headers).
+
+2\. \[Unix\] A filename, fully specified relative to the root directory (as opposed to relative to the current directory; the latter is sometimes called a relative path). This is also called a pathname.
+
+3\. \[Unix and MS-DOS/Windows\] The search path, an environment variable specifying the directories in which the [*shell*](../S/shell.html) (COMMAND.COM, under MS-DOS) should look for commands. Other, similar constructs abound under Unix (for example, the C preprocessor has a search path it uses in looking for **\#include** files).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+patch space 
+Home
+ pathological
+
+
+---
+
+
+
+pathological
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pathological**: adj.
+
+1\. \[scientific computation\] Used of a data set that is grossly atypical of normal expected input, esp. one that exposes a weakness or bug in whatever algorithm one is using. An algorithm that can be broken by pathological inputs may still be useful if such inputs are very unlikely to occur in practice.
+
+2\. When used of test input, implies that it was purposefully engineered as a worst case. The implication in both senses is that the data is spectacularly ill-conditioned or that someone had to explicitly set out to break the algorithm in order to come up with such a crazy example.
+
+3\. Also said of an unlikely collection of circumstances. “If the network is down and comes up halfway through the execution of that command by root, the system may just crash.” “Yes, but that's a pathological case.” Often used to dismiss the case from discussion, with the implication that the consequences are acceptable, since they will happen so infrequently (if at all) that it doesn't seem worth going to the extra trouble to handle that case (see sense 1).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+path 
+Home
+ payware
+
+
+---
+
+
+
+payware
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**payware**: /pay´weir/, n.
+
+Commercial software. Oppose [*shareware*](../S/shareware.html) or [*freeware*](../F/freeware.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pathological 
+Home
+ PBD
+
+
+---
+
+
+
+PBD
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**PBD**: /P·B·D/, n.
+
+\[abbrev. of ‘Programmer Brain Damage’\] Applied to bug reports revealing places where the program was obviously broken by an incompetent or short-sighted programmer. Compare [*UBD*](../U/UBD.html); see also [*brain-damaged*](../B/brain-damaged.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+payware 
+Home
+ PD
+
+
+---
+
+
+
+PD
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**PD**: /P·D/, adj.
+
+\[common\] Abbreviation for ‘public domain’, applied to software distributed over [*Usenet*](../U/Usenet.html) and from Internet archive sites. Much of this software is not in fact public domain in the legal sense but travels under various copyrights granting reproduction and use rights to anyone who can [*snarf*](../S/snarf.html) a copy. See [*copyleft*](../C/copyleft.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+PBD 
+Home
+ PDP-10
+
+
+---
+
+
+
+PDP-10
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**PDP-10**: n.
+
+\[Programmed Data Processor model 10\] The machine that made [*timesharing*](../T/timesharing.html) real. It looms large in hacker folklore because of its adoption in the mid-1970s by many university computing facilities and research labs, including the MIT AI Lab, Stanford, and CMU. Some aspects of the instruction set (most notably the bit-field instructions) are still considered unsurpassed. The 10 was eventually eclipsed by the [*VAX*](../V/VAX.html) machines (descendants of the [*PDP-11*](PDP-11.html)) when [*DEC*](../D/DEC.html) recognized that the 10 and [*VAX*](../V/VAX.html) product lines were competing with each other and decided to concentrate its software development effort on the more profitable [*VAX*](../V/VAX.html). The machine was finally dropped from DEC's line in 1983, following the failure of the Jupiter Project at DEC to build a viable new model. (Some attempts by other companies to market clones came to nothing; see [*Foonly*](../F/Foonly.html) and [*Mars*](../M/Mars.html).) This event spelled the doom of [*ITS*](../I/ITS.html) and the technical cultures that had spawned the original Jargon File, but by mid-1991 it had become something of a badge of honorable old-timerhood among hackers to have cut one's teeth on a PDP-10. See [*TOPS-10*](../T/TOPS-10.html), [*ITS*](../I/ITS.html), [*BLT*](../B/BLT.html), [*DDT*](../D/DDT.html), [*EXCH*](../E/EXCH.html), [*HAKMEM*](../H/HAKMEM.html), [*pop*](pop.html), [*push*](push.html). See also http://www.inwap.com/pdp10/.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+PD 
+Home
+ PDP-11
+
+
+---
+
+
+
+PDP-11
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**PDP-11**
+
+Possibly the single most successful minicomputer design in history, a favorite of hackers for many years, and the first major Unix machine, The first PDP-11s (the 11/15 and 11/20) shipped in 1970 from [*DEC*](../D/DEC.html); the last (11/93 and 11/94) in 1990. Along the way, the 11 gave birth to the [*VAX*](../V/VAX.html), strongly influenced the design of microprocessors such as the Motorola 6800 and Intel 386, and left a permanent imprint on the C language (which has an odd preference for octal embedded in its syntax because of the way PDP-11 machine instructions were formatted). There is a history site.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+PDP-10 
+Home
+ PDP-20
+
+
+---
+
+
+
+PDP-20
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**PDP-20**: n.
+
+The most famous computer that never was. [*PDP-10*](PDP-10.html) computers running the [*TOPS-10*](../T/TOPS-10.html) operating system were labeled ‘DECsystem-10’ as a way of differentiating them from the [*PDP-11*](PDP-11.html). Later on, those systems running [*TOPS-20*](../T/TOPS-20.html) were labeled ‘DECSYSTEM-20’ (the block capitals being the result of a lawsuit brought against DEC by Singer, which once made a computer called ‘system-10’), but contrary to popular lore there was never a ‘PDP-20’; the only difference between a 10 and a 20 was the operating system and the color of the paint. Most (but not all) machines sold to run TOPS-10 were painted ‘Basil Blue’, whereas most TOPS-20 machines were painted ‘Chinese Red’ (often mistakenly called orange).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+PDP-11 
+Home
+ PEBKAC
+
+
+---
+
+
+
+PEBKAC
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**PEBKAC**: /peb´kak/
+
+\[Abbrev., “Problem Exists Between Keyboard And Chair”\] Used by support people, particularly at call centers and help desks. Not used with the public. Denotes pilot error as the cause of the crash, especially stupid errors that even a [*luser*](../L/luser.html) could figure out. Very derogatory. Usage: “Did you ever figure out why that guy couldn't print?” “Yeah, he kept cancelling the operation before it could finish. PEBKAC”. See also [*ID10T*](../I/idiot.html). Compare [*pilot error*](pilot-error.html), [*UBD*](../U/UBD.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+PDP-20 
+Home
+ peek
+
+
+---
+
+
+
+peek
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**peek**: n.,vt.
+
+(and [*poke*](poke.html)) The commands in most microcomputer BASICs for directly accessing memory contents at an absolute address; often extended to mean the corresponding constructs in any [*HLL*](../H/HLL.html) (peek reads memory, poke modifies it). Much hacking on small, non-MMU micros used to consist of peeking around memory, more or less at random, to find the location where the system keeps interesting stuff. Long (and variably accurate) lists of such addresses for various computers circulated. The results of pokes at these addresses may be highly useful, mildly amusing, useless but neat, or (most likely) total [*lossage*](../L/lossage.html) (see [*killer poke*](../K/killer-poke.html)).
+
+Since a [*real operating system*](../R/real-operating-system.html) provides useful, higher-level services for the tasks commonly performed with peeks and pokes on micros, and real languages tend not to encourage low-level memory groveling, a question like “How do I do a peek in C?” is diagnostic of the [*newbie*](../N/newbie.html). (Of course, OS kernels often have to do exactly this; a real kernel hacker would unhesitatingly, if unportably, assign an absolute address to a pointer variable and indirect through it.)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+PEBKAC 
+Home
+ pencil and paper
+
+
+---
+
+
+
+pencil and paper
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pencil and paper**: n.
+
+An archaic information storage and transmission device that works by depositing smears of graphite on bleached wood pulp. More recent developments in paper-based technology include improved ‘write-once’ update devices which use tiny rolling heads similar to mouse balls to deposit colored pigment. All these devices require an operator skilled at so-called ‘handwriting’ technique. These technologies are ubiquitous outside hackerdom, but nearly forgotten inside it. Most hackers had terrible handwriting to begin with, and years of keyboarding tend to have encouraged it to degrade further. Perhaps for this reason, hackers deprecate pencil-and-paper technology and often resist using it in any but the most trivial contexts.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+peek 
+Home
+ Pentagram Pro
+
+
+---
+
+
+
+Pentagram Pro
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**Pentagram Pro**: n.
+
+A humorous corruption of “Pentium Pro”, with a Satanic reference, implying that the chip is inherently [*evil*](../E/evil.html). Often used with “666 MHz”; there is a T-shirt. See [*Pentium*](Pentium.html)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pencil and paper 
+Home
+ Pentium
+
+
+---
+
+
+
+Pentium
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**Pentium**: n.
+
+The name given to Intel's P5 chip, the successor to the 80486. The name was chosen because of difficulties Intel had in trademarking a number. It suggests the number five (implying 586) while (according to Intel) conveying a meaning of strength “like titanium”. Among hackers, the plural is frequently ‘pentia’. See also [*Pentagram Pro*](Pentagram-Pro.html).
+
+Intel did not stick to this convention when naming its P6 processor the Pentium Pro; many believe this is due to difficulties in selling a chip with “hex” or “sex” in its name. Successor chips have been called Pentium II, Pentium III, and Pentium IV.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Pentagram Pro 
+Home
+ peon
+
+
+---
+
+
+
+peon
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**peon**: n.
+
+A person with no special ([*root*](../R/root.html) or [*wheel*](../W/wheel.html)) privileges on a computer system. “I can't create an account on *foovax* for you; I'm only a peon there.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Pentium 
+Home
+ percent-S
+
+
+---
+
+
+
+percent-S
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**percent-S**: /per·sent´ es´/, n.
+
+\[From the code in C's printf(3) library function used to insert an arbitrary string argument\] An unspecified person or object. “I was just talking to some percent-s in administration.” Compare [*random*](../R/random.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+peon 
+Home
+ perf
+
+
+---
+
+
+
+perf
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**perf**: /perf/, n.
+
+Syn. [*chad*](../C/chad.html) (sense 1). The term perfory /per´f@-ree/ is also heard. The term [*perf*](perf.html) may also refer to the perforations themselves, rather than the chad they produce when torn (philatelists use it this way).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+percent-S 
+Home
+ perfect programmer syndrome
+
+
+---
+
+
+
+perfect programmer syndrome
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**perfect programmer syndrome**: n.
+
+Arrogance; the egotistical conviction that one is above normal human error. Most frequently found among programmers of some native ability but relatively little experience (especially new graduates; their perceptions may be distorted by a history of excellent performance at solving [*toy problem*](../T/toy-problem.html)s). “Of course my program is correct, there is no need to test it.” “Yes, I can see there may be a problem here, but *I'll* never type **rm -r /** while in [*root mode*](../R/root-mode.html).”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+perf 
+Home
+ Perl
+
+
+---
+
+
+
+Perl
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**Perl**: /perl/, n.
+
+\[Practical Extraction and Report Language, a.k.a. Pathologically Eclectic Rubbish Lister\] An interpreted language developed by Larry Wall, author of patch(1) and rn(1)). Superficially resembles [*awk*](../A/awk.html), but is much hairier, including many facilities reminiscent of sed(1) and shells and a comprehensive Unix system-call interface. Unix sysadmins, who are almost always incorrigible hackers, generally consider it one of the [*languages of choice*](../L/languages-of-choice.html), and it is by far the most widely used tool for making ‘live’ web pages via CGI. Perl has been described, in a parody of a famous remark about lex(1), as the [*Swiss-Army chainsaw*](../S/Swiss-Army-chainsaw.html) of Unix programming. Though Perl is very useful, it would be a stretch to describe it as pretty or [*elegant*](../E/elegant.html); people who like clean, spare design generally prefer [*Python*](Python.html). See also [*Camel Book*](../C/Camel-Book.html), [*TMTOWTDI*](../T/TMTOWTDI.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+perfect programmer syndrome 
+Home
+ person of no account
+
+
+---
+
+
+
+person of no account
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**person of no account**: n.
+
+\[University of California at Santa Cruz\] Used when referring to a person with no [*network address*](../N/network-address.html), frequently to forestall confusion. Most often as part of an introduction: “This is Bill, a person of no account, but he used to be bill@random.com”. Compare [*return from the dead*](../R/return-from-the-dead.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Perl 
+Home
+ pessimal
+
+
+---
+
+
+
+pessimal
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pessimal**: /pes´im·l/, adj.
+
+\[Latin-based antonym for optimal\] Maximally bad. “This is a pessimal situation.” Also pessimize vt. To make as bad as possible. These words are the obvious Latin-based antonyms for optimal and optimize, but for some reason they do not appear in most English dictionaries, although ‘pessimize’ is listed in the OED.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+person of no account 
+Home
+ pessimizing compiler
+
+
+---
+
+
+
+pessimizing compiler
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pessimizing compiler**: /pes'@·mi:z\`ing k@m·pi:l´r/, n.
+
+\[antonym of techspeak ‘optimizing compiler’\] A compiler that produces object code that is worse than the straightforward or obvious hand translation. The implication is that the compiler is actually trying to optimize the program, but through excessive cleverness is doing the opposite. A few pessimizing compilers have been written on purpose, however, as pranks or burlesques.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pessimal 
+Home
+ peta-
+
+
+---
+
+
+
+peta-
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**peta-**: /pe´t@/
+
+\[SI\] See [*quantifiers*](../Q/quantifiers.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pessimizing compiler 
+Home
+ pffft
+
+
+---
+
+
+
+pffft
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pffft**: interj.
+
+\[IRC\] A metamorphic expletive which can be used to convey emotion, particularly shock or surprise, disgust or anger. The amplitude of the reaction can be measured by counting intermediary fs. For example:
+
+&lt;jrandom&gt; someone stole my hotdog
+&lt;fred&gt; pffft
+&#10;&lt;frodo&gt; Cthulhu stole my hotdog
+&lt;joe&gt; pffffffffffffft!
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+peta- 
+Home
+ PFY
+
+
+---
+
+
+
+PFY
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**PFY**: n.
+
+\[Usenet; common, originally from the [*BOFH*](../B/BOFH.html) mythos\] Abbreviation for Pimply-Faced Youth. A [*BOFH*](../B/BOFH.html) in training, esp. one apprenticed to an elder BOFH aged in evil.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pffft 
+Home
+ phage
+
+
+---
+
+
+
+phage
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**phage**: n.
+
+A program that modifies other programs or databases in unauthorized ways; esp. one that propagates a [*virus*](../V/virus.html) or [*Trojan horse*](../T/Trojan-horse.html). See also [*worm*](../W/worm.html), [*mockingbird*](../M/mockingbird.html). The analogy, of course, is with phage viruses in biology.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+PFY 
+Home
+ phase
+
+
+---
+
+
+
+phase
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**phase**
+
+1\. n. The offset of one's waking-sleeping schedule with respect to the standard 24-hour cycle; a useful concept among people who often work at night and/or according to no fixed schedule. It is not uncommon to change one's phase by as much as 6 hours per day on a regular basis. “What's your phase?” “I've been getting in about 8PM lately, but I'm going to [*wrap around*](../W/wrap-around.html) to the day schedule by Friday.” A person who is roughly 12 hours out of phase is sometimes said to be in night mode. (The term day mode is also (but less frequently) used, meaning you're working 9 to 5 (or, more likely, 10 to 6).) The act of altering one's cycle is called changing phase; phase shifting has also been recently reported from Caltech.
+
+2\. change phase the hard way: To stay awake for a very long time in order to get into a different phase.
+
+3\. change phase the easy way: To stay asleep, etc. However, some claim that either staying awake longer or sleeping longer is easy, and that it is *shortening* your day or night that is really hard (see [*wrap around*](../W/wrap-around.html)). The ‘jet lag’ that afflicts travelers who cross many time-zone boundaries may be attributed to two distinct causes: the strain of travel per se, and the strain of changing phase. Hackers who suddenly find that they must change phase drastically in a short period of time, particularly the hard way, experience something very like jet lag without traveling.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+phage 
+Home
+ phase of the moon
+
+
+---
+
+
+
+phase of the moon
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**phase of the moon**: n.
+
+Used humorously as a random parameter on which something is said to depend. Sometimes implies unreliability of whatever is dependent, or that reliability seems to be dependent on conditions nobody has been able to determine. “This feature depends on having the channel open in mumble mode, having the foo switch set, and on the phase of the moon.” See also [*heisenbug*](../H/heisenbug.html).
+
+True story: Once upon a time there was a program bug that really did depend on the phase of the moon. There was a little subroutine that had traditionally been used in various programs at MIT to calculate an approximation to the moon's true phase. GLS incorporated this routine into a LISP program that, when it wrote out a file, would print a timestamp line almost 80 characters long. Very occasionally the first line of the message would be too long and would overflow onto the next line, and when the file was later read back in the program would [*barf*](../B/barf.html). The length of the first line depended on both the precise date and time and the length of the phase specification when the timestamp was printed, and so the bug literally depended on the phase of the moon!
+
+The first paper edition of the Jargon File (Steele-1983) included an example of one of the timestamp lines that exhibited this bug, but the typesetter ‘corrected’ it. This has since been described as the phase-of-the-moon-bug bug.
+
+However, beware of assumptions. A few years ago, engineers of CERN (European Center for Nuclear Research) were baffled by some errors in experiments conducted with the LEP particle accelerator. As the formidable amount of data generated by such devices is heavily processed by computers before being seen by humans, many people suggested the software was somehow sensitive to the phase of the moon. A few desperate engineers discovered the truth; the error turned out to be the result of a tiny change in the geometry of the 27km circumference ring, physically caused by the deformation of the Earth by the passage of the Moon! This story has entered physics folklore as a Newtonian vengeance on particle physics and as an example of the relevance of the simplest and oldest physical laws to the most modern science.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+phase 
+Home
+ phase-wrapping
+
+
+---
+
+
+
+phase-wrapping
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**phase-wrapping**: n.
+
+\[MIT\] Syn. [*wrap around*](../W/wrap-around.html), sense 2.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+phase of the moon 
+Home
+ PHB
+
+
+---
+
+
+
+PHB
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**PHB**: /P·H·B/
+
+\[Usenet; common; rarely spoken\] Abbreviation, “Pointy-Haired Boss”. From the [*Dilbert*](../D/Dilbert.html) character, the archetypal halfwitted middle-[*management*](../M/management.html) type. See also [*pointy-haired*](pointy-haired.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+phase-wrapping 
+Home
+ phreaker
+
+
+---
+
+
+
+phreaker
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**phreaker**: /freek´r/, n.
+
+One who engages in [*phreaking*](phreaking.html). See also [*blue box*](../B/blue-box.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+PHB 
+Home
+ phreaking
+
+
+---
+
+
+
+phreaking
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**phreaking**: /freek´ing/, n.
+
+\[from ‘phone phreak’\]
+
+1\. The art and science of [*cracking*](../C/cracking.html) the phone network (so as, for example, to make free long-distance calls).
+
+2\. By extension, security-cracking in any other context (especially, but not exclusively, on communications networks) (see [*cracking*](../C/cracking.html)).
+
+At one time phreaking was a semi-respectable activity among hackers; there was a gentleman's agreement that phreaking as an intellectual game and a form of exploration was OK, but serious theft of services was taboo. There was significant crossover between the hacker community and the hard-core phone phreaks who ran semi-underground networks of their own through such media as the legendary *TAP Newsletter*. This ethos began to break down in the mid-1980s as wider dissemination of the techniques put them in the hands of less responsible phreaks. Around the same time, changes in the phone network made old-style technical ingenuity less effective as a way of hacking it, so phreaking came to depend more on overtly criminal acts such as stealing phone-card numbers. The crimes and punishments of gangs like the ‘414 group’ turned that game very ugly. A few old-time hackers still phreak casually just to keep their hand in, but most these days have hardly even heard of ‘blue boxes’ or any of the other paraphernalia of the great phreaks of yore.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+phreaker 
+Home
+ pico-
+
+
+---
+
+
+
+pico-
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pico-**: pref.
+
+\[SI: a quantifier meaning × 10-12\] Smaller than [*nano-*](../N/nano-.html); used in the same rather loose connotative way as [*nano-*](../N/nano-.html) and [*micro-*](../M/micro-.html). This usage is not yet common in the way [*nano-*](../N/nano-.html) and [*micro-*](../M/micro-.html) are, but should be instantly recognizable to any hacker. See also [*quantifiers*](../Q/quantifiers.html), [*micro-*](../M/micro-.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+phreaking 
+Home
+ pig-tail
+
+
+---
+
+
+
+pig-tail
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pig-tail**
+
+\[radio hams\] A short piece of cable with two connectors on each end for converting between one connector type and another. Common pig-tails are 9-to-25-pin serial-port converters and cables to connect PCMCIA network cards to an RJ-45 network cable.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pico- 
+Home
+ pilot error
+
+
+---
+
+
+
+pilot error
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pilot error**: n.
+
+\[Sun: from aviation\] A user's misconfiguration or misuse of a piece of software, producing apparently buglike results (compare [*UBD*](../U/UBD.html)). “Joe Luser reported a bug in sendmail that causes it to generate bogus headers.” “That's not a bug, that's pilot error. His **sendmail.cf** is hosed.” Compare [*PEBKAC*](PEBKAC.html), [*UBD*](../U/UBD.html), [*ID10T*](../I/idiot.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pig-tail 
+Home
+ ping
+
+
+---
+
+
+
+ping
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**ping**
+
+\[from the submariners' term for a sonar pulse\]
+
+1\. n. Slang term for a small network message (ICMP ECHO) sent by a computer to check for the presence and alertness of another. The Unix command ping(8) can be used to do this manually (note that ping(8)'s author denies the widespread folk etymology that the name was ever intended as an acronym for ‘Packet INternet Groper’). Occasionally used as a phone greeting. See [*ACK*](../A/ACK.html), also [*ENQ*](../E/ENQ.html).
+
+2\. vt. To verify the presence of.
+
+3\. vt. To get the attention of.
+
+4\. vt. To send a message to all members of a [*mailing list*](../M/mailing-list.html) requesting an [*ACK*](../A/ACK.html) (in order to verify that everybody's addresses are reachable). “We haven't heard much of anything from Geoff, but he did respond with an ACK both times I pinged jargon-friends.”
+
+5\. n. A quantum packet of happiness. People who are very happy tend to exude pings; furthermore, one can intentionally create pings and aim them at a needy party (e.g., a depressed person). This sense of ping may appear as an exclamation; “Ping!” (I'm happy; I am emitting a quantum of happiness; I have been struck by a quantum of happiness). The form “pingfulness”, which is used to describe people who exude pings, also occurs. (In the standard abuse of language, “pingfulness” can also be used as an exclamation, in which case it's a much stronger exclamation than just “ping”!). Oppose [*blargh*](../B/blargh.html).
+
+The funniest use of ‘ping’ to date was described in January 1991 by Steve Hayman on the Usenet group `comp.sys.next`. He was trying to isolate a faulty cable segment on a TCP/IP Ethernet hooked up to a NeXT machine, and got tired of having to run back to his console after each cabling tweak to see if the ping packets were getting through. So he used the sound-recording feature on the NeXT, then wrote a script that repeatedly invoked ping(8), listened for an echo, and played back the recording on each returned packet. Result? A program that caused the machine to repeat, over and over, “Ping ... ping ... ping ...” as long as the network was up. He turned the volume to maximum, ferreted through the building with one ear cocked, and found a faulty tee connector in no time.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pilot error 
+Home
+ Ping O' Death
+
+
+---
+
+
+
+Ping O' Death
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**Ping O' Death**: n.
+
+A notorious [*exploit*](../E/exploit.html) that (when first discovered) could be easily used to crash a wide variety of machines by overrunning size limits in their TCP/IP stacks. First revealed in late 1996. The open-source Unix community patched its systems to remove the vulnerability within days or weeks, the closed-source OS vendors generally took months. While the difference in response times repeated a pattern familiar from other security incidents, the accompanying glare of Web-fueled publicity proved unusually embarrassing to the OS vendors and so passed into history and myth. The term is now used to refer to any nudge delivered by network wizards over the network that causes bad things to happen on the system being nudged. For the full story on the original exploit, see http://www.insecure.org/sploits/ping-o-death.html. Compare [*kamikaze packet*](../K/kamikaze-packet.html) and 'Chernobyl packet.'
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+ping 
+Home
+ ping storm
+
+
+---
+
+
+
+ping storm
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**ping storm**: n.
+
+A form of [*DoS attack*](../D/DoS-attack.html) consisting of a flood of [*ping*](ping.html) requests (normally used to check network conditions) designed to disrupt the normal activity of a system. This act is sometimes called ping lashing or ping flood. Compare [*mail storm*](../M/mail-storm.html), [*broadcast storm*](../B/broadcast-storm.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Ping O' Death 
+Home
+ pink contract
+
+
+---
+
+
+
+pink contract
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pink contract**
+
+\[spamfighters: from the color of the tinned meat\] A contract from an Internet service provider to a spammer exempting the spammer from the usual terms of service prohibiting spamming. Usually pink contracts come about because ISPs can charge the spammer a great deal more than they would a normal client.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+ping storm 
+Home
+ pink wire
+
+
+---
+
+
+
+pink wire
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pink wire**: n.
+
+\[from the pink PTFE wire used in military equipment\] As [*blue wire*](../B/blue-wire.html), but used in military applications.
+
+2\. vi. To add a pink wire to a board.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pink contract 
+Home
+ pipe
+
+
+---
+
+
+
+pipe
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pipe**: n.
+
+\[common\] Idiomatically, one's connection to the Internet; in context, the expansion “bit pipe” is understood. A “fat pipe” is a line with T1 or higher capacity. A person with a 28.8 modem might be heard to complain “I need a bigger pipe”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pink wire 
+Home
+ pistol
+
+
+---
+
+
+
+pistol
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pistol**: n.
+
+\[IBM\] A tool that makes it all too easy for you to shoot yourself in the foot. “Unix **rm \*** makes such a nice pistol!”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pipe 
+Home
+ pixel sort
+
+
+---
+
+
+
+pixel sort
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pixel sort**: n.
+
+\[Commodore users\] Any compression routine which irretrievably loses valuable data in the process of [*crunch*](../C/crunch.html)ing it. Disparagingly used for ‘lossy’ methods such as JPEG. The theory, of course, is that these methods are only used on photographic images in which minor loss-of-data is not visible to the human eye. The term pixel sort implies distrust of this theory. Compare [*bogo-sort*](../B/bogo-sort.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pistol 
+Home
+ pizza box
+
+
+---
+
+
+
+pizza box
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pizza box**: n.
+
+\[Sun\] The largish thin box housing the electronics in (especially Sun) desktop workstations, so named because of its size and shape and the dimpled pattern that looks like air holes.
+
+Two-meg single-platter removable disk packs used to be called pizzas, and the huge drive they were stuck into was referred to as a pizza oven. It's an index of progress that in the old days just the disk was pizza-sized, while now the entire computer is.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pixel sort 
+Home
+ plaid screen
+
+
+---
+
+
+
+plaid screen
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**plaid screen**: n.
+
+\[XEROX PARC\] A ‘special effect’ that occurs when certain kinds of [*memory smash*](../M/memory-smash.html)es overwrite the control blocks or image memory of a bit-mapped display. The term “salt and pepper” may refer to a different pattern of similar origin. Though the term as coined at PARC refers to the result of an error, some of the [*X*](../X/X.html) demos induce plaid-screen effects deliberately as a [*display hack*](../D/display-hack.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pizza box 
+Home
+ plain-ASCII
+
+
+---
+
+
+
+plain-ASCII
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**plain-ASCII**: /playn·as´kee/
+
+Syn. [*flat-ASCII*](../F/flat-ASCII.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+plaid screen 
+Home
+ Plan 9
+
+
+---
+
+
+
+Plan 9
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**Plan 9**: n.
+
+In the late 1980s, researchers at Bell Labs (especially Rob Pike of Kernighan & Pike fame) got bored with the limitations of UNIX and decided to reimplement the entire system. The result was called Plan 9 in “the Bell Labs tradition of selecting names that make marketeers wince.” The developers also wished to pay homage to the famous film, “Plan 9 From Outer Space”, considered by some to be the worst movie ever made. The source is available for download under open-source terms. The developers and a small fan base hang out at `comp.os.plan9`, where one can occasionally hear “If you want UNIX, you know where to find it”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+plain-ASCII 
+Home
+ plan file
+
+
+---
+
+
+
+plan file
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**plan file**: n.
+
+\[Unix\] On systems that support [*finger*](../F/finger.html), the `.plan` file in a user's home directory is displayed when the user is fingered. This feature was originally intended to be used to keep potential fingerers apprised of one's location and near-future plans, but has been turned almost universally to humorous and self-expressive purposes (like a [*sig block*](../S/sig-block.html)). See also [*Hacking X for Y*](../H/Hacking-X-for-Y.html).
+
+A recent innovation in plan files has been the introduction of “scrolling plan files” which are one-dimensional animations made using only the printable ASCII character set, carriage return and line feed, avoiding terminal specific escape sequences, since the [*finger*](../F/finger.html) command will (for security reasons; see [*letterbomb*](../L/letterbomb.html)) not pass the escape character.
+
+Scrolling .plan files have become art forms in miniature, and some sites have started competitions to find who can create the longest running, funniest, and most original animations. Various animation characters include:
+
+Centipede:
+mmmmme
+
+Lorry/Truck:
+oo-oP
+
+Andalusian Video Snail:
+_@/
+
+and a compiler (ASP) is available on Usenet for producing them. See also [*twirling baton*](../T/twirling-baton.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Plan 9 
+Home
+ platinum-iridium
+
+
+---
+
+
+
+platinum-iridium
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**platinum-iridium**: adj.
+
+Standard, against which all others of the same category are measured. Usage: silly. The notion is that one of whatever it is has actually been cast in platinum-iridium alloy and placed in the vault beside the Standard Kilogram at the International Bureau of Weights and Measures near Paris. (From 1889 to 1960, the meter was defined to be the distance between two scratches in a platinum-iridium bar kept in that same vault — this replaced an earlier definition as `10``-7` times the distance between the North Pole and the Equator along a meridian through Paris; unfortunately, this had been based on an inexact value of the circumference of the Earth. From 1960 to 1984 it was defined to be 1650763.73 wavelengths of the orange-red line of krypton-86 propagating in a vacuum. It is now defined as the length of the path traveled by light in a vacuum in the time interval of 1/299,792,458 of a second. The kilogram is now the only unit of measure officially defined in terms of a unique artifact. But this will have to change; in 2003 it was revealed that the reference kilogram has been shedding mass over time, and is down by 50 micrograms.) “This garbage-collection algorithm has been tested against the platinum-iridium cons cell in Paris.” Compare [*golden*](../G/golden.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+plan file 
+Home
+ playpen
+
+
+---
+
+
+
+playpen
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**playpen**: n.
+
+\[IBM\] A room where programmers work. Compare [*salt mines*](../S/salt-mines.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+platinum-iridium 
+Home
+ playte
+
+
+---
+
+
+
+playte
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**playte**: /playt/
+
+16 bits, by analogy with [*nybble*](../N/nybble.html) and [*byte*](../B/byte.html). Usage: rare and extremely silly. See also [*dynner*](../D/dynner.html) and [*crumb*](../C/crumb.html). General discussion of such terms is under [*nybble*](../N/nybble.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+playpen 
+Home
+ plokta
+
+
+---
+
+
+
+plokta
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**plokta**: /plok´t@/, v.
+
+\[acronym: Press Lots Of Keys To Abort\] To press random keys in an attempt to get some response from the system. One might plokta when the abort procedure for a program is not known, or when trying to figure out if the system is just sluggish or really hung. Plokta can also be used while trying to figure out any unknown key sequence for a particular operation. Someone going into plokta mode usually places both hands flat on the keyboard and mashes them down, hoping for some useful response.
+
+A slightly more directed form of plokta can often be seen in mail messages or Usenet articles from new users — the text might end with
+
+        ^X^C
+        q
+        quit
+        :q
+        ^C
+        end
+        x
+        exit
+        ZZ
+        ^D
+        ?
+        help
+
+as the user vainly tries to find the right exit sequence, with the incorrect tries piling up at the end of the message....
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+playte 
+Home
+ plonk
+
+
+---
+
+
+
+plonk
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**plonk**: excl.,vt.
+
+\[Usenet: possibly influenced by British slang ‘plonk’ for cheap booze, or ‘plonker’ for someone behaving stupidly (latter is lit. equivalent to Yiddish *schmuck*)\] The sound a [*newbie*](../N/newbie.html) makes as he falls to the bottom of a [*kill file*](../K/kill-file.html). While it originated in the [*newsgroup*](../N/newsgroup.html) `talk.bizarre`, this term (usually written “\*plonk\*”) is now (1994) widespread on Usenet as a form of public ridicule.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+plokta 
+Home
+ plug-and-pray
+
+
+---
+
+
+
+plug-and-pray
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**plug-and-pray**: adj.,vi.
+
+Parody of the techspeak term plug-and-play, describing a PC peripheral card which is claimed to have no need for hardware configuration via jumpers or DIP switches, and which should work as soon as it is inserted in the PC. Unfortunately, even the PCI bus is all too often not up to pulling this off reliably, and people who have to do installation or troubleshoot PCs soon find themselves longing for the jumpers and switches.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+plonk 
+Home
+ plugh
+
+
+---
+
+
+
+plugh
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**plugh**: /ploogh/, v.
+
+\[from the [*ADVENT*](../A/ADVENT.html) game\] See [*xyzzy*](../X/xyzzy.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+plug-and-pray 
+Home
+ plumbing
+
+
+---
+
+
+
+plumbing
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**plumbing**: n.
+
+\[Unix\] Term used for [*shell*](../S/shell.html) code, so called because of the prevalence of pipelines that feed the output of one program to the input of another. Under Unix, user utilities can often be implemented or at least prototyped by a suitable collection of pipelines and temp-file grinding encapsulated in a shell script; this is much less effort than writing C every time, and the capability is considered one of Unix's major winning features. A few other OSs such as IBM's VM/CMS support similar facilities. Esp.: used in the construction hairy plumbing (see [*hairy*](../H/hairy.html)). “You can kluge together a basic spell-checker out of sort(1), comm(1), and tr(1) with a little plumbing.” See also [*tee*](../T/tee.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+plugh 
+Home
+ PM
+
+
+---
+
+
+
+PM
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**PM**: /P·M/
+
+1\. v. (from preventive maintenance) To bring down a machine for inspection or test purposes. See [*provocative maintenance*](provocative-maintenance.html); see also [*scratch monkey*](../S/scratch-monkey.html).
+
+2\. n. Abbrev. for ‘Presentation Manager’, an [*elephantine*](../E/elephantine.html) OS/2 graphical user interface.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+plumbing 
+Home
+ point release
+
+
+---
+
+
+
+point release
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**point release**: n.
+
+\[common\] A minor release of a software project, especially one intended to fix bugs or do minor cleanups rather than add features. The term implies that such releases are relatively frequent, and is generally used with respect to [*open source*](../O/open-source.html) projects being developed in [*bazaar*](../B/bazaar.html) mode.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+PM 
+Home
+ point-and-drool interface
+
+
+---
+
+
+
+point-and-drool interface
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**point-and-drool interface**: n.
+
+Parody of the techspeak term point-and-click interface, describing a windows, icons, and mouse-based interface such as is found on the Macintosh. The implication, of course, is that such an interface is only suitable for idiots. See [*for the rest of us*](../F/for-the-rest-of-us.html), [*WIMP environment*](../W/WIMP-environment.html), [*Macintrash*](../M/Macintrash.html), [*drool-proof paper*](../D/drool-proof-paper.html). Also point-and-grunt interface.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+point release 
+Home
+ pointy hat
+
+
+---
+
+
+
+pointy hat
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pointy hat**: n.
+
+See [*wizard hat*](../W/wizard-hat.html). This synonym specifically refers to the wizards of Unseen University in Terry Pratchett's *Discworld* series of humorous fantasies; these books are extremely popular among hackers.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+point-and-drool interface 
+Home
+ pointy-haired
+
+
+---
+
+
+
+pointy-haired
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pointy-haired**: adj.
+
+\[after the character in the [*Dilbert*](../D/Dilbert.html) comic strip\] Describes the extreme form of the property that separates [*suit*](../S/suit.html)s and [*marketroid*](../M/marketroid.html)s from hackers. Compare [*brain-dead*](../B/brain-dead.html); [*demented*](../D/demented.html); see [*PHB*](PHB.html). Always applied to people, never to ideas. The plural form is often used as a noun. “The pointy-haireds ordered me to use Windows NT, but I set up a Linux server with Samba instead.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pointy hat 
+Home
+ poke
+
+
+---
+
+
+
+poke
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**poke**: n.,vt.
+
+See [*peek*](peek.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pointy-haired 
+Home
+ poll
+
+
+---
+
+
+
+poll
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**poll**: v.,n.
+
+1\. \[techspeak\] The action of checking the status of an input line, sensor, or memory location to see if a particular external event has been registered.
+
+2\. To repeatedly call or check with someone: “I keep polling him, but he's not answering his phone; he must be swapped out.”
+
+3\. To ask. “Lunch? I poll for a takeout order daily.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+poke 
+Home
+ polygon pusher
+
+
+---
+
+
+
+polygon pusher
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**polygon pusher**: n.
+
+A chip designer who spends most of his or her time at the physical layout level (which requires drawing *lots* of multi-colored polygons). Also rectangle slinger.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+poll 
+Home
+ POM
+
+
+---
+
+
+
+POM
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**POM**: /P·O·M/, n.
+
+Common abbreviation for [*phase of the moon*](phase-of-the-moon.html). Usage: usually in the phrase POM-dependent, which means [*flaky*](../F/flaky.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+polygon pusher 
+Home
+ ponytail
+
+
+---
+
+
+
+ponytail
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**ponytail**: n.
+
+1\. A hairstyle in which long hair is held back so as to hang down like a pony's tail.
+
+2\. A descriptive term for a man having a ponytail hairstyle, or such character traits as might be associated with having a ponytail, eg: effeminacy, narcissism, undue concern with fashion etc.
+
+3\. A general term used by hackers for 'creatives': advertising copywriters, graphic designers, video compositors, users characterised by a preference for the Macintosh, recreational drug use, and better sex lives than programmers.
+
+4\. A derogatory term for web designers and other persons peripherally associated with IT projects, devoid of programming skills and dismissed as being concerned with visual presentation to the exclusion of actual technical reality.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+POM 
+Home
+ pop
+
+
+---
+
+
+
+pop
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pop**: /pop/
+
+\[from the operation that removes the top of a stack, and the fact that procedure return addresses are usually saved on the stack\] (also capitalized ‘POP’)
+
+1\. vt. To remove something from a [*stack*](../S/stack.html). If a person says he/she has popped something from his stack, that means he/she has finally finished working on it and can now remove it from the list of things hanging overhead.
+
+2\. When a discussion gets to a level of detail so deep that the main point of the discussion is being lost, someone will shout “Pop!”, meaning “Get back up to a higher level!” The shout is frequently accompanied by an upthrust arm with a finger pointing to the ceiling.
+
+3\. \[all-caps, as ‘POP’\] Point of Presence, a bank of dial-in lines allowing customers to make (local) calls into an ISP. This is borderline techspeak.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+ponytail 
+Home
+ poser
+
+
+---
+
+
+
+poser
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**poser**: n.
+
+\[from French *poseur*\] A [*wannabee*](../W/wannabee.html); not hacker slang, but used among crackers, phreaks and [*warez d00dz*](../W/warez-d00dz.html). Not as negative as [*lamer*](../L/lamer.html) or [*leech*](../L/leech.html). Probably derives from a similar usage among punk-rockers and metalheads, putting down those who “talk the talk but don't walk the walk”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pop 
+Home
+ post
+
+
+---
+
+
+
+post
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**post**: v.
+
+To send a message to a [*mailing list*](../M/mailing-list.html) or [*newsgroup*](../N/newsgroup.html). Distinguished in context from mail; one might ask, for example: “Are you going to post the patch or mail it to known users?”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+poser 
+Home
+ postcardware
+
+
+---
+
+
+
+postcardware
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**postcardware**: n.
+
+A kind of [*shareware*](../S/shareware.html) that borders on [*freeware*](../F/freeware.html), in that the author requests only that satisfied users send a postcard of their home town or something. (This practice, silly as it might seem, serves to remind users that they are otherwise getting something for nothing, and may also be psychologically related to real estate ‘sales’ in which $1 changes hands just to keep the transaction from being a gift.)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+post 
+Home
+ Postel's Prescription
+
+
+---
+
+
+
+Postel's Prescription
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**Postel's Prescription**
+
+\[proposed\] Several of the key Internet [*RFC*](../R/RFC.html)s, especially 1122 and 791 contain a piece of advice due to Jon Postel, which is most often stated as:
+
+> “Be liberal in what you accept, and conservative in what you send.”
+
+That is, a well-engineered implementation of any of the Internet protocols should be willing to deal with marginal and imperfectly-formed inputs, but should not assume that the program on the other end (that is, the program dealing with the well-engineered implementation's output) will be anything other than rigid and inflexible, and perhaps even incomplete or downright buggy.
+
+This property is valuable because a network of programs adhering to it will be much more robust in the presence of any uncertainties in the protocol specifications, or any individual implementor's failure to understand those specifications perfectly. Though the policy does tend to accommodate broken implementations it is held to more important to get the communication flowing than to immediately (but terminally) diagnose the broken implementations at the expense of the people trying to use them.
+
+The principle is a well-known one in the design of programs that handle Internet wire protocols, especially network relays and servers, and it is regularly applied by extension in any situation where two or more separately-implemented pieces of software are supposed to interoperate even though the various implementors have never talked to each other and have absolutely nothing whatsoever in common other than having all read the same protocol specification. The principle travels under several different names, including “the Internet credo”, “the IETF maxim”, “the Internet Engineering Principle”, and “the liberal/conservative rule”; the \[proposed\] term “Postel' Prescription” is a tribute to its inventor, the first RFC editor and (until his untimely death) probably the single most respected individual in the Internet engineering community.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+postcardware 
+Home
+ posting
+
+
+---
+
+
+
+posting
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**posting**: n.
+
+Noun corresp. to v.: [*post*](post.html) (but note that [*post*](post.html) can be nouned). Distinguished from a ‘letter’ or ordinary [*email*](../E/email.html) message by the fact that it is broadcast rather than point-to-point. It is not clear whether messages sent to a small mailing list are postings or email; perhaps the best dividing line is that if you don't know the names of all the potential recipients, it is a posting.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Postel's Prescription 
+Home
+ postmaster
+
+
+---
+
+
+
+postmaster
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**postmaster**: n.
+
+The email contact and maintenance person at a site connected to the network. Often, but not always, the same as the [*admin*](../A/admin.html). The Internet standard for electronic mail ([*RFC*](../R/RFC.html)-822) requires each machine to have a ‘postmaster’ address; usually it is aliased to this person.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+posting 
+Home
+ PostScript
+
+
+---
+
+
+
+PostScript
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**PostScript**: n.
+
+A page description language, based on work originally done by John Gaffney at Evans and Sutherland in 1976, evolving through ‘JaM’ (‘John and Martin’, Martin Newell) at [*XEROX PARC*](../X/XEROX-PARC.html), and finally implemented in its current form by John Warnock et al. after he and Chuck Geschke founded Adobe Systems Incorporated in 1982. PostScript gets its leverage by using a full programming language, rather than a series of low-level escape sequences, to describe an image to be printed on a laser printer or other output device (in this it parallels [*EMACS*](../E/EMACS.html), which exploited a similar insight about editing tasks). It is also noteworthy for implementing on-the fly rasterization, from Bezier curve descriptions, of high-quality fonts at low (e.g. 300 dpi) resolution (it was formerly believed that hand-tuned bitmap fonts were required for this task). Hackers consider PostScript to be among the most elegant hacks of all time, and the combination of technical merits and widespread availability has made PostScript the language of choice for graphical output.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+postmaster 
+Home
+ pound on
+
+
+---
+
+
+
+pound on
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pound on**: vt.
+
+Syn. [*bang on*](../B/bang-on.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+PostScript 
+Home
+ power cycle
+
+
+---
+
+
+
+power cycle
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**power cycle**: vt.
+
+(also, cycle power or just cycle) To power off a machine and then power it on immediately, with the intention of clearing some kind of [*hung*](../H/hung.html) or [*gronk*](../G/gronk.html)ed state. See also [*Big Red Switch*](../B/Big-Red-Switch.html). Compare [*Vulcan nerve pinch*](../V/Vulcan-nerve-pinch.html), [*bounce*](../B/bounce.html) (sense 4), and [*boot*](../B/boot.html), and see the [Some AI Koans](../koans.html "Some AI Koans") (in Appendix A) about Tom Knight and the novice.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pound on 
+Home
+ power hit
+
+
+---
+
+
+
+power hit
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**power hit**: n.
+
+A spike or drop-out in the electricity supplying your machine; a power [*glitch*](../G/glitch.html). These can cause crashes and even permanent damage to your machine(s).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+power cycle 
+Home
+ pr0n
+
+
+---
+
+
+
+pr0n
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pr0n**: //
+
+\[Usenet, IRC\] Pornography. Originally this referred only to Internet porn but since then it has expanded to refer to just about any kind. The term comes from the [*warez kiddies*](../W/warez-kiddies.html) tendency to replace letters with numbers. At some point on IRC someone mistyped, swapping the middle two characters, and the name stuck. It then propagated over into mainstream hacker usage. New versions of the Mozilla web browser internally refer to the image library as “libpr0n”. Compare [*filk*](../F/filk.html), [*grilf*](../G/grilf.html), [*hing*](../H/hing.html) and [*newsfroup*](../N/newsfroup.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+power hit 
+Home
+ precedence lossage
+
+
+---
+
+
+
+precedence lossage
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**precedence lossage**: /pre´s@·dens los'@j/, n.
+
+\[C programmers\] Coding error in an expression due to unexpected grouping of arithmetic or logical operators by the compiler. Used esp. of certain common coding errors in C due to the nonintuitively low precedence levels of **&**, **|**, **^**, **\\>** (for this reason, experienced C programmers deliberately forget the language's [*baroque*](../B/baroque.html) precedence hierarchy and parenthesize defensively). Can always be avoided by suitable use of parentheses. [*LISP*](../L/LISP.html) fans enjoy pointing out that this can't happen in *their* favorite language, which eschews precedence entirely, requiring one to use explicit parentheses everywhere. See [*aliasing bug*](../A/aliasing-bug.html), [*memory leak*](../M/memory-leak.html), [*memory smash*](../M/memory-smash.html), [*smash the stack*](../S/smash-the-stack.html), [*fandango on core*](../F/fandango-on-core.html), [*overrun screw*](../O/overrun-screw.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pr0n 
+Home
+ pred
+
+
+---
+
+
+
+pred
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pred**: //
+
+\[Usenet; orig. fr. the Island MUD via Oxford University\] Abbreviation for “predictable”, used to signify or preempt responses that are extremely predictable but have to be filled in for the sake of form (the phrase is bracketed by \...\). X-Pred headers in mail or news serve the same end. Figuring out the connection between the X-Pred tagline and the thread is part of the entertainment. For example, it is said that any thread about taxation must contain a reference to Raquel Welch, if only to stop other people from mentioning her. This is allegedly due to a Monty Python sketch where a character declares that he would tax Raquel Welch, and he has a feeling she would tax him.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+precedence lossage 
+Home
+ prepend
+
+
+---
+
+
+
+prepend
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**prepend**: /pree\`pend´/, vt.
+
+\[by analogy with ‘append’\] To prefix. As with ‘append’ (but not ‘prefix’ or ‘suffix’ as a verb), the direct object is always the thing being added and not the original word (or character string, or whatever). “If you prepend a semicolon to the line, the translation routine will pass it through unaltered.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pred 
+Home
+ prestidigitization
+
+
+---
+
+
+
+prestidigitization
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**prestidigitization**: /pres\`t@·di\`j@·ti:·zay´sh@n/, n.
+
+1\. The act of putting something into digital notation via sleight of hand.
+
+2\. Data entry through legerdemain.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+prepend 
+Home
+ pretty pictures
+
+
+---
+
+
+
+pretty pictures
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pretty pictures**: n.
+
+\[scientific computation\] The next step up from [*numbers*](../N/numbers.html). Interesting graphical output from a program that may not have any sensible relationship to the system the program is intended to model. Good for showing to [*management*](../M/management.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+prestidigitization 
+Home
+ prettyprint
+
+
+---
+
+
+
+prettyprint
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**prettyprint**: /prit´ee·print/, v.
+
+(alt.: pretty-print)
+
+1\. To generate ‘pretty’ human-readable output from a [*hairy*](../H/hairy.html) internal representation; esp. used for the process of [*grind*](../G/grind.html)ing (sense 1) program code, and most esp. for LISP code.
+
+2\. To format in some particularly slick and nontrivial way.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pretty pictures 
+Home
+ pretzel key
+
+
+---
+
+
+
+pretzel key
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pretzel key**: n.
+
+\[Mac users\] See [*feature key*](../F/feature-key.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+prettyprint 
+Home
+ priesthood
+
+
+---
+
+
+
+priesthood
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**priesthood**: n.
+
+\[TMRC; obs.\] The select group of system managers responsible for the operation and maintenance of a batch computer system. On these computers, a user never had direct access to a computer, but had to submit his/her data and programs to a priest for execution. Results were returned days or even weeks later.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pretzel key 
+Home
+ prime time
+
+
+---
+
+
+
+prime time
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**prime time**: n.
+
+\[from TV programming\] Normal high-usage hours on a system or network. Back in the days of big timesharing machines ‘prime time’ was when lots of people were competing for limited cycles, usually the day shift. Avoidance of prime time was traditionally given as a major reason for [*night mode*](../N/night-mode.html) hacking. The term fell into disuse during the early PC era, but has been revived to refer to times of day or evening at which the Internet tends to be heavily loaded, making Web access slow. The hackish tendency to late-night [*hacking run*](../H/hacking-run.html)s has changed not a bit.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+priesthood 
+Home
+ print
+
+
+---
+
+
+
+print
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**print**: v.
+
+To output, even if to a screen. If a hacker says that a program “printed a message”, he means this; if he refers to printing a file, he probably means it in the conventional sense of writing to a hardcopy device (compounds like ‘print job’ and ‘printout’, on the other hand, always refer to the latter). This very common term is likely a holdover from the days when printing terminals were the norm, perpetuated by programming language constructs like [*C*](../C/C.html)'s printf(3). See senses 1 and 2 of [*tty*](../T/tty.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+prime time 
+Home
+ printing discussion
+
+
+---
+
+
+
+printing discussion
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**printing discussion**: n.
+
+\[XEROX PARC\] A protracted, low-level, time-consuming, generally pointless discussion of something only peripherally interesting to all.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+print 
+Home
+ priority interrupt
+
+
+---
+
+
+
+priority interrupt
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**priority interrupt**: n.
+
+\[from the hardware term\] Describes any stimulus compelling enough to yank one right out of [*hack mode*](../H/hack-mode.html). Classically used to describe being dragged away by an [*SO*](../S/SO.html) for immediate sex, but may also refer to more mundane interruptions such as a fire alarm going off in the near vicinity. Also called an [*NMI*](../N/NMI.html) (non-maskable interrupt), especially in PC-land.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+printing discussion 
+Home
+ profile
+
+
+---
+
+
+
+profile
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**profile**: n.
+
+1\. A control file for a program, esp. a text file automatically read from each user's home directory and intended to be easily modified by the user in order to customize the program's behavior. Used to avoid [*hardcoded*](../H/hardcoded.html) choices (see also [*dot file*](../D/dot-file.html), [*rc file*](../R/rc-file.html)).
+
+2\. \[techspeak\] A report on the amounts of time spent in each routine of a program, used to find and [*tune*](../T/tune.html) away the [*hot spot*](../H/hot-spot.html)s in it. This sense is often verbed. Some profiling modes report units other than time (such as call counts) and/or report at granularities other than per-routine, but the idea is similar. 3.\[techspeak\] A subset of a standard used for a particular purpose. This sense confuses hackers who wander into the weird world of ISO standards no end!
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+priority interrupt 
+Home
+ progasm
+
+
+---
+
+
+
+progasm
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**progasm**: /proh´gaz·m/, n.
+
+\[University of Wisconsin\] The euphoria experienced upon the completion of a program or other computer-related project. For example, the rush you get when you finally run the code you've been hacking for the past week and it works first time. (The quality of the experience is directly proportional to the complexity of the code and inversely proportional to the amount of debugging it took to get the code working.) Compare [*geekasm*](../G/geekasm.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+profile 
+Home
+ proggy
+
+
+---
+
+
+
+proggy
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**proggy**: n.
+
+1\. Any computer program that is considered a full application.
+
+2\. Any computer program that is made up of or otherwise contains [*proglet*](proglet.html)s.
+
+3\. Any computer program that is large enough to be normally distributed as an RPM or [*tarball*](../T/tarball.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+progasm 
+Home
+ proglet
+
+
+---
+
+
+
+proglet
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**proglet**: /prog´let/, n.
+
+\[UK\] A short *extempore* program written to meet an immediate, transient need. Often written in BASIC, rarely more than a dozen lines long, and containing no subroutines. The largest amount of code that can be written off the top of one's head, that does not need any editing, and that runs correctly the first time (this amount varies significantly according to one's skill and the language one is using). Compare [*toy program*](../T/toy-program.html), [*noddy*](../N/noddy.html), [*one-liner wars*](../O/one-liner-wars.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+proggy 
+Home
+ program
+
+
+---
+
+
+
+program
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**program**: n.
+
+1\. A magic spell cast over a computer allowing it to turn one's input into error messages.
+
+2\. An exercise in experimental epistemology.
+
+3\. A form of art, ostensibly intended for the instruction of computers, which is nevertheless almost inevitably a failure if other programmers can't understand it.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+proglet 
+Home
+ Programmer's Cheer
+
+
+---
+
+
+
+Programmer's Cheer
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**Programmer's Cheer**
+
+“Shift to the left! Shift to the right! Pop up, push down! Byte! Byte! Byte!” A joke so old it has hair on it.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+program 
+Home
+ programming
+
+
+---
+
+
+
+programming
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**programming**: n.
+
+1\. The art of debugging a blank sheet of paper (or, in these days of on-line editing, the art of debugging an empty file). “Bloody instructions which, being taught, return to plague their inventor” (*Macbeth*, Act 1, Scene 7)
+
+2\. A pastime similar to banging one's head against a wall, but with fewer opportunities for reward.
+
+3\. The most fun you can have with your clothes on.
+
+4\. The least fun you can have with your clothes off.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Programmer's Cheer 
+Home
+ programming fluid
+
+
+---
+
+
+
+programming fluid
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**programming fluid**: n.
+
+1\. Coffee.
+
+2\. Cola.
+
+3\. Any caffeinacious stimulant. Many hackers consider these essential for those all-night hacking runs. See [*wirewater*](../W/wirewater.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+programming 
+Home
+ propeller head
+
+
+---
+
+
+
+propeller head
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**propeller head**: n.
+
+Used by hackers, this is syn. with [*geek*](../G/geek.html). Non-hackers sometimes use it to describe all techies. Prob. derives from SF fandom's tradition (originally invented by old-time fan Ray Faraday Nelson) of propeller beanies as fannish insignia (though nobody actually wears them except as a joke).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+programming fluid 
+Home
+ propeller key
+
+
+---
+
+
+
+propeller key
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**propeller key**: n.
+
+\[Mac users\] See [*feature key*](../F/feature-key.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+propeller head 
+Home
+ proprietary
+
+
+---
+
+
+
+proprietary
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**proprietary**: adj.
+
+1\. In [*marketroid*](../M/marketroid.html)-speak, superior; implies a product imbued with exclusive magic by the unmatched brilliance of the company's own hardware or software designers.
+
+2\. In the language of hackers and users, inferior; implies a product not conforming to open-systems standards, and thus one that puts the customer at the mercy of a vendor able to gouge freely on service and upgrade charges after the initial sale has locked the customer in. Often used in the phrase “proprietary crap”.
+
+3\. Synonym for closed-source or non-free, e.g. software issued without license rights permitting the public to independently review, develop and redistribute it.
+
+Proprietary software should be distinguished from commercial software. It is possible for software to be commercial (that is, intended to make a profit for the producers) without being proprietary. The reverse is also possible, for example in binary-only freeware.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+propeller key 
+Home
+ protocol
+
+
+---
+
+
+
+protocol
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**protocol**: n.
+
+As used by hackers, this never refers to niceties about the proper form for addressing letters to the Papal Nuncio or the order in which one should use the forks in a Russian-style place setting; hackers don't care about such things. It is used instead to describe any set of rules that allow different machines or pieces of software to coordinate with each other without ambiguity. So, for example, it does include niceties about the proper form for addressing packets on a network or the order in which one should use the forks in the Dining Philosophers Problem. It implies that there is some common message format and an accepted set of primitives or commands that all parties involved understand, and that transactions among them follow predictable logical sequences. See also [*handshaking*](../H/handshaking.html), [*do protocol*](../D/do-protocol.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+proprietary 
+Home
+ provocative maintenance
+
+
+---
+
+
+
+provocative maintenance
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**provocative maintenance**: n.
+
+\[common ironic mutation of preventive maintenance\] Actions performed upon a machine at regularly scheduled intervals to ensure that the system remains in a usable state. So called because it is all too often performed by a [*field servoid*](../F/field-servoid.html) who doesn't know what he is doing; such ‘maintenance’ often *induces* problems, or otherwise results in the machine's remaining in an *un*usable state for an indeterminate amount of time. See also [*scratch monkey*](../S/scratch-monkey.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+protocol 
+Home
+ prowler
+
+
+---
+
+
+
+prowler
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**prowler**: n.
+
+\[Unix\] A [*daemon*](../D/daemon.html) that is run periodically (typically once a week) to seek out and erase [*core*](../C/core.html) files, truncate administrative logfiles, nuke **lost+found** directories, and otherwise clean up the [*cruft*](../C/cruft.html) that tends to pile up in the corners of a file system. See also [*reaper*](../R/reaper.html), [*skulker*](../S/skulker.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+provocative maintenance 
+Home
+ pseudo
+
+
+---
+
+
+
+pseudo
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pseudo**: /soo´doh/, n.
+
+\[Usenet: truncation of ‘pseudonym’\]
+
+1\. An electronic-mail or [*Usenet*](../U/Usenet.html) persona adopted by a human for amusement value or as a means of avoiding negative repercussions of one's net.behavior; a ‘nom de Usenet’, often associated with forged postings designed to conceal message origins. Perhaps the best-known and funniest hoax of this type is [*B1FF*](../B/B1FF.html). See also [*tentacle*](../T/tentacle.html).
+
+2\. Notionally, a [*flamage*](../F/flamage.html)-generating AI program simulating a Usenet user. Many flamers have been accused of actually being such entities, despite the fact that no AI program of the required sophistication yet exists. However, in 1989 there was a famous series of forged postings that used a phrase-frequency-based travesty generator to simulate the styles of several well-known flamers; it was based on large samples of their back postings (compare [*Dissociated Press*](../D/Dissociated-Press.html)). A significant number of people were fooled by the forgeries, and the debate over their authenticity was settled only when the perpetrator came forward to publicly admit the hoax.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+prowler 
+Home
+ pseudoprime
+
+
+---
+
+
+
+pseudoprime
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pseudoprime**: n.
+
+A backgammon prime (six consecutive occupied points) with one point missing. This term is an esoteric pun derived from number theory: a number that passes a certain kind of “primality test” may be called a pseudoprime (all primes pass any such test, but so do some composite numbers), and any number that passes several is, in some sense, almost certainly prime. The hacker backgammon usage stems from the idea that a pseudoprime is almost as good as a prime: it will do the same job unless you are unlucky.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pseudo 
+Home
+ pseudosuit
+
+
+---
+
+
+
+pseudosuit
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pseudosuit**: /soo´doh·s\[y\]oot\`/, n.
+
+A [*suit*](../S/suit.html) wannabee; a hacker who has decided that he wants to be in management or administration and begins wearing ties, sport coats, and (shudder!) suits voluntarily. It's his funeral. See also [*lobotomy*](../L/lobotomy.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pseudoprime 
+Home
+ psychedelicware
+
+
+---
+
+
+
+psychedelicware
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**psychedelicware**: /si:\`k@·del'·ik·weir/, n.
+
+\[UK\] Syn. [*display hack*](../D/display-hack.html). See also [*smoking clover*](../S/smoking-clover.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pseudosuit 
+Home
+ psyton
+
+
+---
+
+
+
+psyton
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**psyton**: /si:´ton/, n.
+
+\[TMRC\] The elementary particle carrying the sinister force. The probability of a process losing is proportional to the number of psytons falling on it. Psytons are generated by observers, which is why demos are more likely to fail when lots of people are watching. \[This term appears to have been largely superseded by [*bogon*](../B/bogon.html); see also [*quantum bogodynamics*](../Q/quantum-bogodynamics.html). —ESR\]
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+psychedelicware 
+Home
+ pubic directory
+
+
+---
+
+
+
+pubic directory
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pubic directory**: /pyoob´ik d@·rek´t@·ree/, n.
+
+\[NYU\] (also pube directory /pyoob' d@·rek´t@·ree/) The pub (public) directory on a machine that allows FTP access. So called because it is the default location for [*SEX*](../S/SEX.html) (sense 1). “I'll have the source in the pube directory by Friday.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+psyton 
+Home
+ puff
+
+
+---
+
+
+
+puff
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**puff**: vt.
+
+To decompress data that has been crunched by Huffman coding. At least one widely distributed Huffman decoder program was actually *named* ‘PUFF’, but these days it is usually packaged with the encoder. Oppose [*huff*](../H/huff.html), see [*inflate*](../I/inflate.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pubic directory 
+Home
+ pumpkin holder
+
+
+---
+
+
+
+pumpkin holder
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pumpkin holder**: n.
+
+See [*patch pumpkin*](patch-pumpkin.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+puff 
+Home
+ pumpking
+
+
+---
+
+
+
+pumpking
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**pumpking**: n.
+
+Syn. for [*pumpkin holder*](pumpkin-holder.html); see [*patch pumpkin*](patch-pumpkin.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pumpkin holder 
+Home
+ punched card
+
+
+---
+
+
+
+punched card
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**punched card**:
+
+\[techspeak\] (alt.: punch card) The signature medium of computing's [*Stone Age*](../S/Stone-Age.html), now obsolescent. The punched card actually predated computers considerably, originating in 1801 as a control device for mechanical looms. The version patented by Hollerith and used with mechanical tabulating machines in the 1890 U.S. Census was a piece of cardboard about 90 mm by 215 mm. There is a widespread myth that it was designed to fit in the currency trays used for that era's larger dollar bills, but recent investigations have falsified this.
+
+IBM (which originated as a tabulating-machine manufacturer) married the punched card to computers, encoding binary information as patterns of small rectangular holes; one character per column, 80 columns per card. Other coding schemes, sizes of card, and hole shapes were tried at various times.
+
+The 80-column width of most character terminals is a legacy of the IBM punched card; so is the size of the quick-reference cards distributed with many varieties of computers even today. See [*chad*](../C/chad.html), [*chad box*](../C/chad-box.html), [*eighty-column mind*](../E/eighty-column-mind.html), [*green card*](../G/green-card.html), [*dusty deck*](../D/dusty-deck.html), [*code grinder*](../C/code-grinder.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+pumpking 
+Home
+ punt
+
+
+---
+
+
+
+punt
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**punt**: v.
+
+\[from the punch line of an old joke referring to American football: “Drop back 15 yards and punt!”\]
+
+1\. To give up, typically without any intention of retrying. “Let's punt the movie tonight.” “I was going to hack all night to get this feature in, but I decided to punt” may mean that you've decided not to stay up all night, and may also mean you're not ever even going to put in the feature.
+
+2\. More specifically, to give up on figuring out what the [*Right Thing*](../R/Right-Thing.html) is and resort to an inefficient hack.
+
+3\. A design decision to defer solving a problem, typically because one cannot define what is desirable sufficiently well to frame an algorithmic solution. “No way to know what the right form to dump the graph in is — we'll punt that for now.”
+
+4\. To hand a tricky implementation problem off to some other section of the design. “It's too hard to get the compiler to do that; let's punt to the runtime system.”
+
+5\. To knock someone off an Internet or chat connection; a punter thus, is a person or program that does this.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+punched card 
+Home
+ Purple Book
+
+
+---
+
+
+
+Purple Book
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**Purple Book**: n.
+
+1\. The *System V Interface Definition*. The covers of the first editions were an amazingly nauseating shade of off-lavender.
+
+2\. Syn. [*Wizard Book*](../W/Wizard-Book.html). Donald Lewine's *POSIX Programmer's Guide* (O'Reilly, 1991, ISBN 0-937175-73-0). See also [*book titles*](../B/book-titles.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+punt 
+Home
+ purple wire
+
+
+---
+
+
+
+purple wire
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**purple wire**: n.
+
+\[IBM\] Wire installed by Field Engineers to work around problems discovered during testing or debugging. These are called ‘purple wires’ even when (as is frequently the case) their actual physical color is yellow.... Compare [*blue wire*](../B/blue-wire.html), [*yellow wire*](../Y/yellow-wire.html), and [*red wire*](../R/red-wire.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Purple Book 
+Home
+ push
+
+
+---
+
+
+
+push
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**push**
+
+\[from the operation that puts the current information on a stack, and the fact that procedure return addresses are saved on a stack\] (Also PUSH /push/ or PUSHJ /push´J/, the latter based on the PDP-10 procedure call instruction.)
+
+1\. To put something onto a [*stack*](../S/stack.html). If one says that something has been pushed onto one's stack, it means that the Damoclean list of things hanging over ones's head has grown longer and heavier yet. This may also imply that one will deal with it *before* other pending items; otherwise one might say that the thing was ‘added to my queue’.
+
+2\. vi. To enter upon a digression, to save the current discussion for later. Antonym of [*pop*](pop.html); see also [*stack*](../S/stack.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+purple wire 
+Home
+ Python
+
+
+---
+
+
+
+Python
+
+Prev 
+P
+ Next
+
+------------------------------------------------------------------------
+
+**Python**: /pi:´thon/
+
+In the words of its author, “the other scripting language” (other than [*Perl*](Perl.html), that is). Python's design is notably clean, elegant, and well thought through; it tends to attract the sort of programmers who find Perl grubby and exiguous. Some people revolt at its use of whitespace to define logical structure by indentation, objecting that this harks back to the horrible old fixed-field languages of the 1960s. Python's relationship with Perl is rather like the [*BSD*](../B/BSD.html) community's relationship to [*Linux*](../L/Linux.html) — it's the smaller party in a (usually friendly) rivalry, but the average quality of its developers is generally conceded to be rather higher than in the larger community it competes with. There's a Python resource page at http://www.python.org. See also [*Guido*](../G/Guido.html), [*BDFL*](../B/BDFL.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+push 
+Home
+ Q
+
+
+---
+
+
+## Q
+
+
+
+quad
+
+Prev 
+Q
+ Next
+
+------------------------------------------------------------------------
+
+**quad**: n.
+
+1\. Two bits; syn. for [*quarter*](quarter.html), [*crumb*](../C/crumb.html), [*tayste*](../T/tayste.html).
+
+2\. A four-pack of anything (compare [*hex*](../H/hex.html), sense 2).
+
+3\. The rectangle or box glyph used in the APL language for various arcane purposes mostly related to I/O. Former Ivy-Leaguers and Oxford types are said to associate it with nostalgic memories of dear old University.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Q 
+Home
+ quadruple bucky
+
+
+---
+
+
+
+quadruple bucky
+
+Prev 
+Q
+ Next
+
+------------------------------------------------------------------------
+
+**quadruple bucky**: n. obs.
+
+1\. On an MIT [*space-cadet keyboard*](../S/space-cadet-keyboard.html), use of all four of the shifting keys (control, meta, hyper, and super) while typing a character key.
+
+2\. On a Stanford or MIT keyboard in [*raw mode*](../R/raw-mode.html), use of four shift keys while typing a fifth character, where the four shift keys are the control and meta keys on *both* sides of the keyboard. This was very difficult to do! One accepted technique was to press the left-control and left-meta keys with your left hand, the right-control and right-meta keys with your right hand, and the fifth key with your nose.
+
+Quadruple-bucky combinations were very seldom used in practice, because when one invented a new command one usually assigned it to some character that was easier to type. If you want to imply that a program has ridiculously many commands or features, you can say something like: “Oh, the command that makes it spin the tapes while whistling Beethoven's Fifth Symphony is quadruple-bucky-cokebottle.” See [*double bucky*](../D/double-bucky.html), [*bucky bits*](../B/bucky-bits.html), [*cokebottle*](../C/cokebottle.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+quad 
+Home
+ quantifiers
+
+
+---
+
+
+
+quantifiers
+
+Prev 
+Q
+ Next
+
+------------------------------------------------------------------------
+
+**quantifiers**
+
+In techspeak and jargon, the standard metric prefixes used in the SI (Système International) conventions for scientific measurement have dual uses. With units of time or things that come in powers of 10, such as money, they retain their usual meanings of multiplication by powers of `1000 = 10^3`. But when used with bytes or other things that naturally come in powers of 2, they usually denote multiplication by powers of `1024 = 2^10`.
+
+Here are the SI magnifying prefixes, along with the corresponding binary interpretations in common use:
+
+  
+prefix  decimal  binary  
+kilo-   1000^1   1024^1 = 2^10 = 1,024   
+mega-   1000^2   1024^2 = 2^20 = 1,048,576   
+giga-   1000^3   1024^3 = 2^30 = 1,073,741,824   
+tera-   1000^4   1024^4 = 2^40 = 1,099,511,627,776   
+peta-   1000^5   1024^5 = 2^50 = 1,125,899,906,842,624   
+exa-    1000^6   1024^6 = 2^60 = 1,152,921,504,606,846,976   
+zetta-  1000^7   1024^7 = 2^70 = 1,180,591,620,717,411,303,424   
+yotta-  1000^8   1024^8 = 2^80 = 1,208,925,819,614,629,174,706,176   
+
+Here are the SI fractional prefixes:
+
+  
+prefix  decimal     jargon usage  
+milli-  1000^-1     (seldom used in jargon)  
+micro-  1000^-2     small or human-scale (see [*micro-*](../M/micro-.html))  
+nano-   1000^-3     even smaller (see [*nano-*](../N/nano-.html))  
+pico-   1000^-4     even smaller yet (see [*pico-*](../P/pico-.html))  
+femto-  1000^-5     (not used in jargon—yet)  
+atto-   1000^-6     (not used in jargon—yet)  
+zepto-  1000^-7     (not used in jargon—yet)  
+yocto-  1000^-8     (not used in jargon—yet)  
+
+The prefixes zetta-, yotta-, zepto-, and yocto- have been included in these tables purely for completeness and giggle value; they were adopted in 1990 by the *19th Conference Generale des Poids et Mesures*. The binary peta- and exa- loadings, though well established, are not in jargon use either — yet. The prefix milli-, denoting multiplication by `1/1000`, has always been rare in jargon (there is, however, a standard joke about the millihelen — notionally, the amount of beauty required to launch one ship). See the entries on [*micro-*](../M/micro-.html), [*pico-*](../P/pico-.html), and [*nano-*](../N/nano-.html) for more information on connotative jargon use of these terms. ‘Femto’ and ‘atto’ (which, interestingly, derive not from Greek but from Danish) have not yet acquired jargon loadings, though it is easy to predict what those will be once computing technology enters the required realms of magnitude (however, see [*attoparsec*](../A/attoparsec.html)).
+
+There are, of course, some standard unit prefixes for powers of 10. In the following table, the ‘prefix’ column is the international standard prefix for the appropriate power of ten; the ‘binary’ column lists jargon abbreviations and words for the corresponding power of 2. The B-suffixed forms are commonly used for byte quantities; the words ‘meg’ and ‘gig’ are nouns that may (but do not always) pluralize with ‘s’.
+
+  
+prefix   decimal   binary       pronunciation}  
+kilo-       k      K, KB,       *kay*  
+mega-       M      M, MB, meg   *meg*  
+giga-       G      G, GB, gig   *gig*,*jig*  
+
+Confusingly, hackers often use K or M as though they were suffix or numeric multipliers rather than a prefix; thus “2K dollars”, “2M of disk space”. This is also true (though less commonly) of G.
+
+Note that the formal SI metric prefix for 1000 is ‘k’; some use this strictly, reserving ‘K’ for multiplication by 1024 (KB is thus ‘kilobytes’).
+
+K, M, and G used alone refer to quantities of bytes; thus, 64G is 64 gigabytes and ‘a K’ is a kilobyte (compare mainstream use of ‘a G’ as short for ‘a grand’, that is, $1000). Whether one pronounces ‘gig’ with hard or soft ‘g’ depends on what one thinks the proper pronunciation of ‘giga-’ is.
+
+Confusing 1000 and 1024 (or other powers of 2 and 10 close in magnitude) — for example, describing a memory in units of 500K or 524K instead of 512K — is a sure sign of the [*marketroid*](../M/marketroid.html). One example of this: it is common to refer to the capacity of 3.5" floppies as ‘1.44 MB’ In fact, this is a completely [*bogus*](../B/bogus.html) number. The correct size is 1440 KB, that is, 1440 \* 1024 = 1474560 bytes. So the ‘mega’ in ‘1.44 MB’ is compounded of two ‘kilos’, one of which is 1024 and the other of which is 1000. The correct number of megabytes would of course be 1440 / 1024 = 1.40625. Alas, this fine point is probably lost on the world forever. \[1993 update: hacker Morgan Burke has proposed, to general approval on Usenet, the following additional prefixes:
+
+groucho
+10^-30
+
+harpo
+10^-27
+
+harpi
+10^27
+
+grouchi
+10^30
+
+We observe that this would leave the prefixes zeppo-, gummo-, and chico- available for future expansion. Sadly, there is little immediate prospect that Mr. Burke's eminently sensible proposal will be ratified.\]
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+quadruple bucky 
+Home
+ quantum bogodynamics
+
+
+---
+
+
+
+quantum bogodynamics
+
+Prev 
+Q
+ Next
+
+------------------------------------------------------------------------
+
+**quantum bogodynamics**: /kwon´tm boh\`goh·di:·nam´iks/, n.
+
+A theory that characterizes the universe in terms of bogon sources (such as politicians, used-car salesmen, TV evangelists, and [*suit*](../S/suit.html)s in general), bogon sinks (such as taxpayers and computers), and bogosity potential fields. Bogon absorption, of course, causes human beings to behave mindlessly and machines to fail (and may also cause both to emit secondary bogons); however, the precise mechanics of the bogon-computron interaction are not yet understood and remain to be elucidated. Quantum bogodynamics is most often invoked to explain the sharp increase in hardware and software failures in the presence of suits; the latter emit bogons, which the former absorb. See [*bogon*](../B/bogon.html), [*computron*](../C/computron.html), [*suit*](../S/suit.html), [*psyton*](../P/psyton.html).
+
+Here is a representative QBD theory: The bogon is a boson (integral spin, +1 or -1), and has zero rest mass. In this respect it is very much like a photon. However, it has a much greater momentum, thus explaining its destructive effect on computer electronics and human nervous systems. The corollary to this is that bogons also have tremendous inertia, and therefore a bogon beam is deflected only with great difficulty. When the bogon encounters its antiparticle, the cluon, they mutually annihilate each other, releasing magic smoke. Furthermore 1 Lenat = 1 mole (6.022E23) of bogons (see [*microLenat*](../M/microLenat.html)).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+quantifiers 
+Home
+ quarter
+
+
+---
+
+
+
+quarter
+
+Prev 
+Q
+ Next
+
+------------------------------------------------------------------------
+
+**quarter**: n.
+
+Two bits. This in turn comes from the ‘pieces of eight’ famed in pirate movies — Spanish silver crowns that could be broken into eight pie-slice-shaped ‘bits’ to make change. Early in American history the Spanish coin was considered equal to a dollar, so each of these ‘bits’ was considered worth 12.5 cents. Syn. [*tayste*](../T/tayste.html), [*crumb*](../C/crumb.html), [*quad*](quad.html). Usage: rare. General discussion of such terms is under [*nybble*](../N/nybble.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+quantum bogodynamics 
+Home
+ ques
+
+
+---
+
+
+
+ques
+
+Prev 
+Q
+ Next
+
+------------------------------------------------------------------------
+
+**ques**: /kwes/
+
+1\. n. The question mark character (`?`, ASCII 0111111).
+
+2\. interj. What? Also frequently verb-doubled as “Ques ques?” See [*wall*](../W/wall.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+quarter 
+Home
+ quick-and-dirty
+
+
+---
+
+
+
+quick-and-dirty
+
+Prev 
+Q
+ Next
+
+------------------------------------------------------------------------
+
+**quick-and-dirty**: adj.
+
+\[common\] Describes a [*crock*](../C/crock.html) put together under time or user pressure. Used esp. when you want to convey that you think the fast way might lead to trouble further down the road. “I can have a quick-and-dirty fix in place tonight, but I'll have to rewrite the whole module to solve the underlying design problem.” See also [*kluge*](../K/kluge.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+ques 
+Home
+ quine
+
+
+---
+
+
+
+quine
+
+Prev 
+Q
+ Next
+
+------------------------------------------------------------------------
+
+**quine**: /kwi:n/, n.
+
+\[from the name of the logician Willard van Orman Quine, via Douglas Hofstadter\] A program that generates a copy of its own source text as its complete output. Devising the shortest possible quine in some given programming language is a common hackish amusement. (We ignore some variants of BASIC in which a program consisting of a single empty string literal reproduces itself trivially.) Here is one classic quine:
+
+((lambda (x)
+  (list x (list (quote quote) x)))
+ (quote
+    (lambda (x)
+      (list x (list (quote quote) x)))))
+
+This one works in LISP or Scheme. It's relatively easy to write quines in other languages such as Postscript which readily handle programs as data; much harder (and thus more challenging!) in languages like C which do not. Here is a classic C quine for ASCII machines:
+
+char*f=&quot;char*f=%c%s%c;main()
+{printf(f,34,f,34,10);}%c&quot;;
+main(){printf(f,34,f,34,10);}
+
+For excruciatingly exact quinishness, remove the interior line breaks. Here is another elegant quine in ANSI C:
+
+#define q(k)main(){return!puts(#k&quot;\nq(&quot;#k&quot;)&quot;);}
+q(#define q(k)main(){return!puts(#k&quot;\nq(&quot;#k&quot;)&quot;);})
+
+Some infamous [*Obfuscated C Contest*](../O/Obfuscated-C-Contest.html) entries have been quines that reproduced in exotic ways. There is an amusing Quine Home Page.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+quick-and-dirty 
+Home
+ Quirk objection
+
+
+---
+
+
+
+Quirk objection
+
+Prev 
+Q
+ Next
+
+------------------------------------------------------------------------
+
+**Quirk objection**: interj.
+
+\[Named for Captain Gym Z. Quirk, the first to raise it.\] “Objection! Assumes organ not in evidence!” Used in `news.admin.net-abuse.email` to point out that a comment assumes the presence of something whose existence has not been proven, such as a spammer's brain or gonads. This is not used to refer to things that are definitely proven *not* to exist, such as a spammer's ethics. It's applicable to enough postings there that a poster wishing to raise the objection often need merely say “ObQuirk!”, an instance of the [*Ob-*](../O/Ob-.html) convention.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+quine 
+Home
+ quote chapter and verse
+
+
+---
+
+
+
+quote chapter and verse
+
+Prev 
+Q
+ Next
+
+------------------------------------------------------------------------
+
+**quote chapter and verse**: v.
+
+\[by analogy with the mainstream phrase\] To cite a relevant excerpt from an appropriate [*bible*](../B/bible.html). “I don't care if **rn** gets it wrong; ‘Followup-To: poster’ is explicitly permitted by [*RFC*](../R/RFC.html)-1036. I'll quote chapter and verse if you don't believe me.” See also [*legalese*](../L/legalese.html), [*language lawyer*](../L/language-lawyer.html), [*RTFS*](../R/RTFS.html) (sense 2).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Quirk objection 
+Home
+ quotient
+
+
+---
+
+
+
+quotient
+
+Prev 
+Q
+ Next
+
+------------------------------------------------------------------------
+
+**quotient**: n.
+
+See [*coefficient of X*](../C/coefficient-of-X.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+quote chapter and verse 
+Home
+ quux
+
+
+---
+
+
+
+quux
+
+Prev 
+Q
+ Next
+
+------------------------------------------------------------------------
+
+**quux**: /kwuhks/, n.
+
+\[Mythically, from the Latin semi-deponent verb quuxo, quuxare, quuxandum iri; noun form variously ‘quux’ (plural ‘quuces’, anglicized to ‘quuxes’) and ‘quuxu’ (genitive plural is ‘quuxuum’, for four u-letters out of seven in all, using up all the ‘u’ letters in Scrabble).\]
+
+1\. Originally, a [*metasyntactic variable*](../M/metasyntactic-variable.html) like [*foo*](../F/foo.html) and [*foobar*](../F/foobar.html). Invented by Guy Steele for precisely this purpose when he was young and naive and not yet interacting with the real computing community. Many people invent such words; this one seems simply to have been lucky enough to have spread a little. In an eloquent display of poetic justice, it has returned to the originator in the form of a nickname.
+
+2\. interj. See [*foo*](../F/foo.html); however, denotes very little disgust, and is uttered mostly for the sake of the sound of it.
+
+3\. Guy Steele in his persona as ‘The Great Quux’, which is somewhat infamous for light verse and for the ‘Crunchly’ cartoons.
+
+4\. In some circles, used as a punning opposite of ‘crux’. “Ah, that's the quux of the matter!” implies that the point is *not* crucial (compare [*tip of the ice-cube*](../T/tip-of-the-ice-cube.html)).
+
+5\. quuxy: adj. Of or pertaining to a quux.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+quotient 
+Home
+ qux
+
+
+---
+
+
+
+qux
+
+Prev 
+Q
+ Next
+
+------------------------------------------------------------------------
+
+**qux**: /kwuhks/
+
+The fourth of the standard [*metasyntactic variable*](../M/metasyntactic-variable.html), after [*baz*](../B/baz.html) and before the quu(u...)x series. See [*foo*](../F/foo.html), [*bar*](../B/bar.html), [*baz*](../B/baz.html), [*quux*](quux.html). This appears to be a recent mutation from [*quux*](quux.html), and many versions (especially older versions) of the standard series just run [*foo*](../F/foo.html), [*bar*](../B/bar.html), [*baz*](../B/baz.html), [*quux*](quux.html), ....
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+quux 
+Home
+ QWERTY
+
+
+---
+
+
+
+QWERTY
+
+Prev 
+Q
+ Next
+
+------------------------------------------------------------------------
+
+**QWERTY**: /kwer´tee/, adj.
+
+\[from the keycaps at the upper left\] Pertaining to a standard English-language typewriter keyboard (sometimes called the Sholes keyboard after its inventor), as opposed to Dvorak or non-US-ASCII layouts or a [*space-cadet keyboard*](../S/space-cadet-keyboard.html) or APL keyboard.
+
+Historical note: The QWERTY layout is a fine example of a [*fossil*](../F/fossil.html). It is sometimes said that it was designed to slow down the typist, but this is wrong; it was designed to allow *faster* typing — under a constraint now long obsolete. In early typewriters, fast typing using nearby type-bars jammed the mechanism. So Sholes fiddled the layout to separate the letters of many common digraphs (he did a far from perfect job, though; ‘th’, ‘tr’, ‘ed’, and ‘er’, for example, each use two nearby keys). Also, putting the letters of ‘typewriter’ on one line allowed it to be typed with particular speed and accuracy for [*demo*](../D/demo.html)s. The jamming problem was essentially solved soon afterward by a suitable use of springs, but the keyboard layout lives on.
+
+The QWERTY keyboard has also spawned some unhelpful economic myths about how technical standards get and stay established; see http://www.reasonmag.com/9606/Fe.QWERTY.html.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+qux 
+Home
+ R
+
+
+---
+
+
+## R
+
+
+
+rabbit job
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rabbit job**: n.
+
+\[Cambridge\] A batch job that does little, if any, real work, but creates one or more copies of itself, breeding like rabbits. Compare [*wabbit*](../W/wabbit.html), [*fork bomb*](../F/fork-bomb.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+R 
+Home
+ rain dance
+
+
+---
+
+
+
+rain dance
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rain dance**: n.
+
+1\. Any ceremonial action taken to correct a hardware problem, with the expectation that nothing will be accomplished. This especially applies to reseating printed circuit boards, reconnecting cables, etc. “I can't boot up the machine. We'll have to wait for Greg to do his rain dance.”
+
+2\. Any arcane sequence of actions performed with computers or software in order to achieve some goal; the term is usually restricted to rituals that include both an [*incantation*](../I/incantation.html) or two and physical activity or motion. Compare [*magic*](../M/magic.html), [*voodoo programming*](../V/voodoo-programming.html), [*black art*](../B/black-art.html), [*cargo cult programming*](../C/cargo-cult-programming.html), [*wave a dead chicken*](../W/wave-a-dead-chicken.html); see also [*casting the runes*](../C/casting-the-runes.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rabbit job 
+Home
+ rainbow series
+
+
+---
+
+
+
+rainbow series
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rainbow series**: n.
+
+Any of several series of technical manuals distinguished by cover color. The original rainbow series was the NCSC security manuals (see [*Orange Book*](../O/Orange-Book.html)). These are now available via the web. the term has also been commonly applied to the PostScript reference set. Which books are meant by “*the* rainbow series” unqualified is thus dependent on one's local technical culture.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rain dance 
+Home
+ random
+
+
+---
+
+
+
+random
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**random**: adj.
+
+1\. Unpredictable (closest to mathematical definition); weird. “The system's been behaving pretty randomly.”
+
+2\. Assorted; undistinguished. “Who was at the conference?” “Just a bunch of random business types.”
+
+3\. (pejorative) Frivolous; unproductive; undirected. “He's just a random loser.”
+
+4\. Incoherent or inelegant; poorly chosen; not well organized. “The program has a random set of misfeatures.” “That's a random name for that function.” “Well, all the names were chosen pretty randomly.”
+
+5\. In no particular order, though deterministic. “The I/O channels are in a pool, and when a file is opened one is chosen randomly.”
+
+6\. Arbitrary. “It generates a random name for the scratch file.”
+
+7\. Gratuitously wrong, i.e., poorly done and for no good apparent reason. For example, a program that handles file name defaulting in a particularly useless way, or an assembler routine that could easily have been coded using only three registers, but redundantly uses seven for values with non-overlapping lifetimes, so that no one else can invoke it without first saving four extra registers. What [*randomness*](randomness.html)!
+
+8\. n. A random hacker; used particularly of high-school students who soak up computer time and generally get in the way.
+
+9\. n. Anyone who is not a hacker (or, sometimes, anyone not known to the hacker speaking); the noun form of sense 2. “I went to the talk, but the audience was full of randoms asking bogus questions”.
+
+10\. n. (occasional MIT usage) One who lives at Random Hall. See also [*J. Random*](../J/J--Random.html), [*some random X*](../S/some-random-X.html).
+
+11\. \[UK\] Conversationally, a non sequitur or something similarly out-of-the-blue. As in: “Stop being so random!” This sense equates to ‘hatstand’, taken from the Viz comic character “Roger Irrelevant - He's completely Hatstand.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rainbow series 
+Home
+ Random Number God
+
+
+---
+
+
+
+Random Number God
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**Random Number God**
+
+\[rec.games.roguelike.angband; often abbreviated ‘RNG’\] The malign force which lurks behind the random number generator in [*Angband*](../A/Angband.html) (and by extension elsewhere). A dark god that demands sacrifices and toys with its victims. “I just found a really great item; I suppose the RNG is about to punish me...” Apparently, Angband's random number generator occasionally gets locked in a repetition, so you get something with a 3% chance happening 8 times in a row. Improbable, but far too common to be pure chance. Compare [*Shub-Internet*](../S/Shub-Internet.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+random 
+Home
+ random numbers
+
+
+---
+
+
+
+random numbers
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**random numbers**: n.
+
+When one wishes to specify a large but random number of things, and the context is inappropriate for [*N*](../N/N.html), certain numbers are preferred by hacker tradition (that is, easily recognized as placeholders). These include the following:
+
+17
+Long described at MIT as ‘the least random number’; see also 23. This may be Discordian in origin, or it may be related to some in-jokes about 17 and “yellow pig” propagated by the mathematician Michael Spivak.
+
+23
+Sacred number of Eris, Goddess of Discord (along with 17 and 5).
+
+37
+The most random two-digit number is 37, When groups of people are polled to pick a “random number between 1 and 100”, the most commonly chosen number is 37.
+
+42
+The Answer to the Ultimate Question of Life, the Universe, and Everything (“what is 6 times 9”, correct in base 13). (This answer is perhaps not completely fortuitous; in Kabbalism, the true unspeakable name of God is said to have 42 characters.)
+
+69
+From the sexual act. This one was favored in MIT's ITS culture.
+
+105
+69 hex = 105 decimal, and 69 decimal = 105 octal.
+
+666
+In Christian mythology, the Number of the Beast.
+
+For further enlightenment, study the *Principia Discordia*, *The Hitchhiker's Guide to the Galaxy*, *The Joy of Sex*, and the Christian Bible (Revelation 13:18). See also [*Discordianism*](../D/Discordianism.html) or consult your pineal gland. See also [*for values of*](../F/for-values-of.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Random Number God 
+Home
+ randomness
+
+
+---
+
+
+
+randomness
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**randomness**: n.
+
+1\. An inexplicable misfeature; gratuitous inelegance.
+
+2\. A [*hack*](../H/hack.html) or [*crock*](../C/crock.html) that depends on a complex combination of coincidences (or, possibly, the combination upon which the crock depends for its accidental failure to malfunction). “This hack can output characters 40--57 by putting the character in the four-bit accumulator field of an XCT and then extracting six bits — the low 2 bits of the XCT opcode are the right thing.” “What randomness!”
+
+3\. Of people, synonymous with flakiness. The connotation is that the person so described is behaving weirdly, incompetently, or inappropriately for reasons which are (a) too tiresome to bother inquiring into, (b) are probably as inscrutable as quantum phenomena anyway, and (c) are likely to pass with time. “Maybe he has a real complaint, or maybe it's just randomness. See if he calls back.”
+
+Despite the negative connotations of most jargon uses of this term have, it is worth noting that randomness can actually be a valuable resource, very useful for applications in cryptography and elsewhere. Computers are so thoroughly deterministic that they have a hard time generating high-quality randomness, so hackers have sometimes felt the need to built special-purpose contraptions for this purpose alone. One well-known website offers random bits generated by radioactive decay. Another derives random bits from chaotic systems in analog electronics. Originally, the latter site got its random bits by doing photometry on lava lamps. Hackers invariably found this hilarious. If you have to ask why, you'll never get it.)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+random numbers 
+Home
+ rape
+
+
+---
+
+
+
+rape
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rape**: vt.
+
+1\. To [*screw*](../S/screw.html) someone or something, violently; in particular, to destroy a program or information irrecoverably. Often used in describing file-system damage. “So-and-so was running a program that did absolute disk I/O and ended up raping the master directory.”
+
+2\. To strip a piece of hardware for parts.
+
+3\. \[CMU/Pitt\] To mass-copy files from an anonymous ftp site. “Last night I raped Simtel's dskutl directory.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+randomness 
+Home
+ rare mode
+
+
+---
+
+
+
+rare mode
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rare mode**: adj.
+
+\[Unix\] CBREAK mode (character-by-character with interrupts enabled). Distinguished from [*raw mode*](raw-mode.html) and [*cooked mode*](../C/cooked-mode.html); the phrase “a sort of half-cooked (rare?) mode” is used in the V7/BSD manuals to describe the mode. Usage: rare.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rape 
+Home
+ raster blaster
+
+
+---
+
+
+
+raster blaster
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**raster blaster**: n.
+
+\[Cambridge\] Specialized hardware for [*bitblt*](../B/bitblt.html) operations (a [*blitter*](../B/blitter.html)). Allegedly inspired by ‘Rasta Blasta’, British slang for the sort of portable stereo Americans call a ‘boom box’ or ‘ghetto blaster’.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rare mode 
+Home
+ raster burn
+
+
+---
+
+
+
+raster burn
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**raster burn**: n.
+
+Eyestrain brought on by too many hours of looking at low-res, poorly tuned, or glare-ridden monitors, esp. graphics monitors. See [*terminal illness*](../T/terminal-illness.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+raster blaster 
+Home
+ rasterbation
+
+
+---
+
+
+
+rasterbation
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rasterbation**: n.
+
+\[portmanteau: raster + masturbation\] The gratuitous use of computer-generated images and effects in movies and graphic art which would have been better without them. Especially employed as a term of abuse by Photoshop/GIMP users and graphic artists.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+raster burn 
+Home
+ rat belt
+
+
+---
+
+
+
+rat belt
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rat belt**: n.
+
+A cable tie, esp. the sawtoothed, self-locking plastic kind that you can remove only by cutting (as opposed to a random twist of wire or a twist tie or one of those humongous metal clip frobs). Small cable ties are mouse belts.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rasterbation 
+Home
+ rat dance
+
+
+---
+
+
+
+rat dance
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rat dance**: n.
+
+\[From the [*Dilbert*](../D/Dilbert.html) comic strip of November 14, 1995\] A [*hacking run*](../H/hacking-run.html) that produces results which, while superficially coherent, have little or nothing to do with its original objectives. There are strong connotations that the coding process and the objectives themselves were pretty [*random*](random.html). (In the original comic strip, the Ratbert is invited to dance on Dilbert's keyboard in order to produce bugs for him to fix, and authors a Web browser instead.) Compare [*Infinite-Monkey Theorem*](../I/Infinite-Monkey-Theorem.html).
+
+This term seems to have become widely recognized quite rapidly after the original strip, a fact which testifies to Dilbert's huge popularity among hackers. All too many find the perverse incentives and Kafkaesque atmosphere of Dilbert's mythical workplace reflective of their own experiences.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rat belt 
+Home
+ rathole
+
+
+---
+
+
+
+rathole
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rathole**
+
+\[from the English idiom “down a rathole” for a waste of money or time\] A technical subject that is known to be able to absorb infinite amounts of discussion time without more than an infinitesimal probability of arrival at a conclusion or consensus. “That's a rathole” (or just “Rathole!”) is considered a pre-emptive bid to change the subject. The difference between ratholes and [*religious issues*](religious-issues.html) is that a holy war cannot be pre-empted in this way. Canonical examples are XML namespaces and open-source licensing.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rat dance 
+Home
+ ratio site
+
+
+---
+
+
+
+ratio site
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**ratio site**
+
+\[warez d00dz\] An FTP site storing pirated files where one must first upload something before being able to download. There is a ratio, based on bytes or files count, between the uploads and download. For instance, on a 2:1 site, to download a 4 Mb file, one must first upload at least 2 Mb of files. The hotter the contents of the server are, the smaller the ratio is. More often than not, the server refuses uploads because its disk is full, making it useless for downloading — or the connection magically breaks after one has uploaded a large amount of files, just before the downloading phase begins. See also [*banner site*](../B/banner-site.html), [*leech mode*](../L/leech-mode.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rathole 
+Home
+ rave
+
+
+---
+
+
+
+rave
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rave**: vi.
+
+\[WPI\]
+
+1\. To persist in discussing a specific subject.
+
+2\. To speak authoritatively on a subject about which one knows very little.
+
+3\. To complain to a person who is not in a position to correct the difficulty.
+
+4\. To purposely annoy another person verbally.
+
+5\. To evangelize. See [*flame*](../F/flame.html).
+
+6\. Also used to describe a less negative form of blather, such as friendly bullshitting. ‘Rave’ differs slightly from [*flame*](../F/flame.html) in that rave implies that it is the persistence or obliviousness of the person speaking that is annoying, while [*flame*](../F/flame.html) implies somewhat more strongly that the tone or content is offensive as well.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+ratio site 
+Home
+ rave on!
+
+
+---
+
+
+
+rave on!
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rave on!**: imp.
+
+Sarcastic invitation to continue a [*rave*](rave.html), often by someone who wishes the raver would get a clue but realizes this is unlikely.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rave 
+Home
+ ravs
+
+
+---
+
+
+
+ravs
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**ravs**: /ravz/, Chinese ravs, n.
+
+\[primarily MIT/Boston usage\] Jiao-zi (steamed or boiled) or Guo-tie (pan-fried). A Chinese appetizer, known variously in the plural as dumplings, pot stickers (the literal translation of guo-tie), and (around Boston) ‘Peking Ravioli’. The term rav is short for ‘ravioli’, and among hackers always means the Chinese kind rather than the Italian kind. Both consist of a filling in a pasta shell, but the Chinese kind includes no cheese, uses a thinner pasta, has a pork-vegetable filling (good ones include Chinese chives), and is cooked differently, either by steaming or frying. A rav or dumpling can be cooked any way, but a potsticker is always the pan-fried kind (so called because it sticks to the frying pot and has to be scraped off). “Let's get hot-and-sour soup and three orders of ravs.” See also [*oriental food*](../O/oriental-food.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rave on! 
+Home
+ raw mode
+
+
+---
+
+
+
+raw mode
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**raw mode**: n.
+
+A mode that allows a program to transfer bits directly to or from an I/O device (or, under [*bogus*](../B/bogus.html) operating systems that make a distinction, a disk file) without any processing, abstraction, or interpretation by the operating system. Compare [*rare mode*](rare-mode.html), [*cooked mode*](../C/cooked-mode.html). This is techspeak under Unix, jargon elsewhere.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+ravs 
+Home
+ RBL
+
+
+---
+
+
+
+RBL
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**RBL**: /R·B·L/
+
+Abbreviation: “Realtime Blackhole List”. A service that allows people to blacklist sites for emitting [*spam*](../S/spam.html), and makes the blacklist available in real time to electronic-mail transport programs that know how to use RBL so they can filter out mail from those sites. Drastic (and controversial) but effective. There is an RBL home page.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+raw mode 
+Home
+ rc file
+
+
+---
+
+
+
+rc file
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rc file**: /R·C fi:l/, n.
+
+\[Unix: from runcom files on the [*CTSS*](../C/CTSS.html) system 1962-63, via the startup script `/etc/rc`\] Script file containing startup instructions for an application program (or an entire operating system), usually a text file containing commands of the sort that might have been invoked manually once the system was running but are to be executed automatically each time the system starts up. See also [*dot file*](../D/dot-file.html), [*profile*](../P/profile.html) (sense 1).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+RBL 
+Home
+ RE
+
+
+---
+
+
+
+RE
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**RE**: /R·E/, n.
+
+Common spoken and written shorthand for [*regexp*](regexp.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rc file 
+Home
+ read-only user
+
+
+---
+
+
+
+read-only user
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**read-only user**: n.
+
+Describes a [*luser*](../L/luser.html) who uses computers almost exclusively for reading Usenet, bulletin boards, and/or email, rather than writing code or purveying useful information. See [*twink*](../T/twink.html), [*terminal junkie*](../T/terminal-junkie.html), [*lurker*](../L/lurker.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+RE 
+Home
+ README file
+
+
+---
+
+
+
+README file
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**README file**: n.
+
+Hacker's-eye introduction traditionally included in the top-level directory of a Unix source distribution, containing a pointer to more detailed documentation, credits, miscellaneous revision history, notes, etc. In the Mac and PC worlds, software is not usually distributed in source form, and the README is more likely to contain user-oriented material like last-minute documentation changes, error workarounds, and restrictions. When asked, hackers invariably relate the README convention to the famous scene in Lewis Carroll's *Alice's Adventures In Wonderland* in which Alice confronts magic munchies labeled “Eat Me” and “Drink Me”.
+
+The file may be named README, or READ.ME, or rarely ReadMe or readme.txt or some other variant. The all-upper-case spellings, however, are universal among Unix programmers. By ancient tradition, real source files have all-lowercase names and all-uppercase is reserved for metadata, comments, and grafitti. This is functional; because 'A' sorts before 'a' in ASCII, the README will appear in directory listings before any source file.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+read-only user 
+Home
+ real
+
+
+---
+
+
+
+real
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**real**: adj.
+
+Not simulated. Often used as a specific antonym to [*virtual*](../V/virtual.html) in any of its jargon senses.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+README file 
+Home
+ real estate
+
+
+---
+
+
+
+real estate
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**real estate**: n.
+
+May be used for any critical resource measured in units of area. Most frequently used of chip real estate, the area available for logic on the surface of an integrated circuit (see also [*nanoacre*](../N/nanoacre.html)). May also be used of floor space in a [*dinosaur pen*](../D/dinosaur-pen.html), or even space on a crowded desktop (whether physical or electronic).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+real 
+Home
+ real hack
+
+
+---
+
+
+
+real hack
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**real hack**: n.
+
+A [*crock*](../C/crock.html). This is sometimes used affectionately; see [*hack*](../H/hack.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+real estate 
+Home
+ real operating system
+
+
+---
+
+
+
+real operating system
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**real operating system**: n.
+
+The sort the speaker is used to. People from the BSDophilic academic community are likely to issue comments like “System V? Why don't you use a *real* operating system?”, people from the commercial/industrial Unix sector are known to complain “BSD? Why don't you use a *real* operating system?”, and people from IBM object “Unix? Why don't you use a *real* operating system?” Only [*MS-DOS*](../M/MS-DOS.html) is universally considered unreal. See [*holy wars*](../H/holy-wars.html), [*religious issues*](religious-issues.html), [*proprietary*](../P/proprietary.html), [*Get a real computer!*](../G/Get-a-real-computer-.html)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+real hack 
+Home
+ Real Programmer
+
+
+---
+
+
+
+Real Programmer
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**Real Programmer**: n.
+
+\[indirectly, from the book *Real Men Don't Eat Quiche*\] A particular sub-variety of hacker: one possessed of a flippant attitude toward complexity that is arrogant even when justified by experience. The archetypal Real Programmer likes to program on the [*bare metal*](../B/bare-metal.html) and is very good at same, remembers the binary opcodes for every machine he has ever programmed, thinks that HLLs are sissy, and uses a debugger to edit his code because full-screen editors are for wimps. Real Programmers aren't satisfied with code that hasn't been tuned into a state of [*tense*](../T/tense.html)ness just short of rupture. Real Programmers never use comments or write documentation: “If it was hard to write”, says the Real Programmer, “it should be hard to understand.” Real Programmers can make machines do things that were never in their spec sheets; in fact, they are seldom really happy unless doing so. A Real Programmer's code can awe with its fiendish brilliance, even as its crockishness appalls. Real Programmers live on junk food and coffee, hang line-printer art on their walls, and terrify the crap out of other programmers — because someday, somebody else might have to try to understand their code in order to change it. Their successors generally consider it a [*Good Thing*](../G/Good-Thing.html) that there aren't many Real Programmers around any more. For a famous (and somewhat more positive) portrait of a Real Programmer, see [The Story of Mel'](../story-of-mel.html "The Story of Mel") in Appendix A. The term itself was popularized by a letter to the editor in the July 1983 Datamation titled *Real Programmers Don't Use Pascal* by Ed Post, still circulating on Usenet and Internet in on-line form.
+
+Typing *Real Programmers Don't Use Pascal* into a web search engine should turn up a copy.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+real operating system 
+Home
+ Real Soon Now
+
+
+---
+
+
+
+Real Soon Now
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**Real Soon Now**: adv.
+
+\[orig. from SF's fanzine community, popularized by Jerry Pournelle's column in *BYTE*\]
+
+1\. Supposed to be available (or fixed, or cheap, or whatever) real soon now according to somebody, but the speaker is quite skeptical.
+
+2\. When one's gods, fates, or other time commitments permit one to get to it (in other words, don't hold your breath). Often abbreviated RSN. Compare [*copious free time*](../C/copious-free-time.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Real Programmer 
+Home
+ real time
+
+
+---
+
+
+
+real time
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**real time**
+
+1\. \[techspeak\] adj. Describes an application which requires a program to respond to stimuli within some small upper limit of response time (typically milli- or microseconds). Process control at a chemical plant is the [*canonical*](../C/canonical.html) example. Such applications often require special operating systems (because everything else must take a back seat to response time) and speed-tuned hardware.
+
+2\. adv. In jargon, refers to doing something while people are watching or waiting. “I asked her how to find the calling procedure's program counter on the stack and she came up with an algorithm in real time.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Real Soon Now 
+Home
+ real user
+
+
+---
+
+
+
+real user
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**real user**: n.
+
+1\. A commercial user. One who is paying *real* money for his computer usage.
+
+2\. A non-hacker. Someone using the system for an explicit purpose (a research project, a course, etc.) other than pure exploration. See [*user*](../U/user.html). Hackers who are also students may also be real users. “I need this fixed so I can do a problem set. I'm not complaining out of randomness, but as a real user.” See also [*luser*](../L/luser.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+real time 
+Home
+ Real World
+
+
+---
+
+
+
+Real World
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**Real World**: n.
+
+1\. Those institutions at which ‘programming’ may be used in the same sentence as ‘FORTRAN’, ‘[*COBOL*](../C/COBOL.html)’, ‘RPG’, ‘[*IBM*](../I/IBM.html)’, ‘DBASE’, etc. Places where programs do such commercially necessary but intellectually uninspiring things as generating payroll checks and invoices.
+
+2\. The location of non-programmers and activities not related to programming.
+
+3\. A bizarre dimension in which the standard dress is shirt and tie and in which a person's working hours are defined as 9 to 5 (see [*code grinder*](../C/code-grinder.html)).
+
+4\. Anywhere outside a university. “Poor fellow, he's left MIT and gone into the Real World.” Used pejoratively by those not in residence there. In conversation, talking of someone who has entered the Real World is not unlike speaking of a deceased person. It is also noteworthy that on the campus of Cambridge University in England, there is a gaily-painted lamp-post which bears the label ‘REALITY CHECKPOINT’. It marks the boundary between university and the Real World; check your notions of reality before passing. This joke is funnier because the Cambridge ‘campus’ is actually coextensive with the center of Cambridge town. See also [*fear and loathing*](../F/fear-and-loathing.html), [*mundane*](../M/mundane.html), and [*uninteresting*](../U/uninteresting.html).
+
+![](../graphics/cobol.png)
+
+()
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+real user 
+Home
+ reality check
+
+
+---
+
+
+
+reality check
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**reality check**: n.
+
+1\. The simplest kind of test of software or hardware; doing the equivalent of asking it what `2 + 2` is and seeing if you get 4. The software equivalent of a [*smoke test*](../S/smoke-test.html).
+
+2\. The act of letting a [*real user*](real-user.html) try out prototype software. Compare [*sanity check*](../S/sanity-check.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Real World 
+Home
+ reality-distortion field
+
+
+---
+
+
+
+reality-distortion field
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**reality-distortion field**: n.
+
+An expression used to describe the persuasive ability of managers like Steve Jobs (the term originated at Apple in the 1980s to describe his peculiar charisma). Those close to these managers become passionately committed to possibly insane projects, without regard to the practicality of their implementation or competitive forces in the marketplace.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+reality check 
+Home
+ reaper
+
+
+---
+
+
+
+reaper
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**reaper**: n.
+
+A [*prowler*](../P/prowler.html) that removes files. A file removed in this way is said to have been reaped.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+reality-distortion field 
+Home
+ recompile the world
+
+
+---
+
+
+
+recompile the world
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**recompile the world**
+
+The surprisingly large amount of work that needs to be done as the result of any small but globally visible program change. “The world” may mean the entirety of some huge program, or may in theory refer to every program of a certain class in the entire known universe. For instance, “Add one \#define to stdio.h, and you have to recompile the world.” This means that any minor change to the standard-I/O header file theoretically mandates recompiling every C program in existence, even if only to verify that the change didn't screw something else up. In practice, you may not actually have to recompile the world, but the implication is that some human cleverness is required to figure out what parts can be safely left out.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+reaper 
+Home
+ rectangle slinger
+
+
+---
+
+
+
+rectangle slinger
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rectangle slinger**: n.
+
+See [*polygon pusher*](../P/polygon-pusher.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+recompile the world 
+Home
+ recursion
+
+
+---
+
+
+
+recursion
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**recursion**: n.
+
+See [*recursion*](recursion.html). See also [*tail recursion*](../T/tail-recursion.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rectangle slinger 
+Home
+ recursive acronym
+
+
+---
+
+
+
+recursive acronym
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**recursive acronym**: n.
+
+A hackish (and especially MIT) tradition is to choose acronyms/abbreviations that refer humorously to themselves or to other acronyms/abbreviations. The original of the breed may have been TINT (“TINT Is Not TECO”). The classic examples were two MIT editors called EINE (“EINE Is Not EMACS”) and ZWEI (“ZWEI Was EINE Initially”). More recently, there is a Scheme compiler called LIAR (Liar Imitates Apply Recursively), and [*GNU*](../G/GNU.html) (q.v., sense 1) stands for “GNU's Not Unix!” — and a company with the name Cygnus, which expands to “Cygnus, Your GNU Support” (though Cygnus people say this is a [*backronym*](../B/backronym.html)). The GNU recursive acronym may have been patterned on XINU, “XINU Is Not Unix” — a particularly nice example because it is a mirror image, a backronym, and a recursive acronym. See also [*mung*](../M/mung.html), [*EMACS*](../E/EMACS.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+recursion 
+Home
+ red wire
+
+
+---
+
+
+
+red wire
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**red wire**: n.
+
+\[IBM\] Patch wires installed by programmers who have no business mucking with the hardware. It is said that the only thing more dangerous than a hardware guy with a code patch is a [*softy*](../S/softy.html) with a soldering iron.... Compare [*blue wire*](../B/blue-wire.html), [*yellow wire*](../Y/yellow-wire.html), [*purple wire*](../P/purple-wire.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+recursive acronym 
+Home
+ regexp
+
+
+---
+
+
+
+regexp
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**regexp**: /reg´eksp/, n.
+
+\[Unix\] (alt.: regex or reg-ex)
+
+1\. Common written and spoken abbreviation for regular expression, one of the wildcard patterns used, e.g., by Unix utilities such as grep(1), sed(1), and awk(1). These use conventions similar to but more elaborate than those described under [*glob*](../G/glob.html). For purposes of this lexicon, it is sufficient to note that regexps also allow complemented character sets using `^`; thus, one can specify ‘any non-alphabetic character’ with **\[^A-Za-z\]**.
+
+2\. Name of a well-known PD regexp-handling package in portable C, written by revered Usenetter Henry Spencer.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+red wire 
+Home
+ register dancing
+
+
+---
+
+
+
+register dancing
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**register dancing**: n.
+
+Many older processor architectures suffer from a serious shortage of general-purpose registers. This is especially a problem for compiler-writers, because their generated code needs places to store temporaries for things like intermediate values in expression evaluation. Some designs with this problem, like the Intel 80x86, do have a handful of special-purpose registers that can be pressed into service, providing suitable care is taken to avoid unpleasant side effects on the state of the processor: while the special-purpose register is being used to hold an intermediate value, a delicate minuet is required in which the previous value of the register is saved and then restored just before the official function (and value) of the special-purpose register is again needed.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+regexp 
+Home
+ rehi
+
+
+---
+
+
+
+rehi
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rehi**
+
+\[IRC, MUD\] “Hello again.” Very commonly used to greet people upon returning to an IRC channel after [*channel hopping*](../C/channel-hopping.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+register dancing 
+Home
+ reincarnation, cycle of
+
+
+---
+
+
+
+reincarnation, cycle of
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**reincarnation, cycle of**: n.
+
+See [*cycle of reincarnation*](../C/cycle-of-reincarnation.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rehi 
+Home
+ reinvent the wheel
+
+
+---
+
+
+
+reinvent the wheel
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**reinvent the wheel**: v.
+
+To design or implement a tool equivalent to an existing one or part of one, with the implication that doing so is silly or a waste of time. This is often a valid criticism. On the other hand, automobiles don't use wooden rollers, and some kinds of wheel have to be reinvented many times before you get them right. On the third hand, people reinventing the wheel do tend to come up with the moral equivalent of a trapezoid with an offset axle.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+reincarnation, cycle of 
+Home
+ relay rape
+
+
+---
+
+
+
+relay rape
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**relay rape**: n.
+
+The hijacking of a third party's unsecured mail server to deliver [*spam*](../S/spam.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+reinvent the wheel 
+Home
+ religion of CHI
+
+
+---
+
+
+
+religion of CHI
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**religion of CHI**: /ki:/, n.
+
+\[Case Western Reserve University\] Yet another hackish parody religion (see also [*Church of the SubGenius*](../C/Church-of-the-SubGenius.html), [*Discordianism*](../D/Discordianism.html)). In the mid-70s, the canonical “Introduction to Programming” courses at CWRU were taught in Algol, and student exercises were punched on cards and run on a Univac 1108 system using a homebrew operating system named CHI. The religion had no doctrines and but one ritual: whenever the worshiper noted that a digital clock read 11:08, he or she would recite the phrase “It is 11:08; ABS, ALPHABETIC, ARCSIN, ARCCOS, ARCTAN.” The last five words were the first five functions in the appropriate chapter of the Algol manual; note the special pronunciations /obz/ and /ark´sin/ rather than the more common /ahbz/ and /ark´si:n/. Using an alarm clock to warn of 11:08's arrival was [*considered harmful*](../C/considered-harmful.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+relay rape 
+Home
+ religious issues
+
+
+---
+
+
+
+religious issues
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**religious issues**: n.
+
+Questions which seemingly cannot be raised without touching off [*holy wars*](../H/holy-wars.html), such as “What is the best operating system (or editor, language, architecture, shell, mail reader, news reader)?”, “What about that Heinlein guy, eh?”, “What should we add to the new Jargon File?” See [*holy wars*](../H/holy-wars.html); see also [*theology*](../T/theology.html), [*bigot*](../B/bigot.html), and compare [*rathole*](rathole.html).
+
+This term is a prime example of [*ha ha only serious*](../H/ha-ha-only-serious.html). People actually develop the most amazing and religiously intense attachments to their tools, even when the tools are intangible. The most constructive thing one can do when one stumbles into the crossfire is mumble [*Get a life!*](../G/Get-a-life-.html) and leave — unless, of course, one's *own* unassailably rational and obviously correct choices are being slammed.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+religion of CHI 
+Home
+ replicator
+
+
+---
+
+
+
+replicator
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**replicator**: n.
+
+Any construct that acts to produce copies of itself; this could be a living organism, an idea (see [*meme*](../M/meme.html)), a program (see [*quine*](../Q/quine.html), [*worm*](../W/worm.html), [*wabbit*](../W/wabbit.html), [*fork bomb*](../F/fork-bomb.html), and [*virus*](../V/virus.html)), a pattern in a cellular automaton (see [*life*](../L/life.html), sense 1), or (speculatively) a robot or [*nanobot*](../N/nanobot.html). It is even claimed by some that [*Unix*](../U/Unix.html) and [*C*](../C/C.html) are the symbiotic halves of an extremely successful replicator; see [*Unix conspiracy*](../U/Unix-conspiracy.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+religious issues 
+Home
+ reply
+
+
+---
+
+
+
+reply
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**reply**: n.
+
+See [*followup*](../F/followup.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+replicator 
+Home
+ restriction
+
+
+---
+
+
+
+restriction
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**restriction**: n.
+
+A [*bug*](../B/bug.html) or design error that limits a program's capabilities, and which is sufficiently egregious that nobody can quite work up enough nerve to describe it as a [*feature*](../F/feature.html). Often used (esp. by [*marketroid*](../M/marketroid.html) types) to make it sound as though some crippling bogosity had been intended by the designers all along, or was forced upon them by arcane technical constraints of a nature no mere user could possibly comprehend (these claims are almost invariably false).
+
+Old-time hacker Joseph M. Newcomer advises that whenever choosing a quantifiable but arbitrary restriction, you should make it either a power of 2 or a power of 2 minus 1. If you impose a limit of 107 items in a list, everyone will know it is a random number — on the other hand, a limit of 15 or 16 suggests some deep reason (involving 0- or 1-based indexing in binary) and you will get less [*flamage*](../F/flamage.html) for it. Limits which are round numbers in base 10 are always especially suspect.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+reply 
+Home
+ retcon
+
+
+---
+
+
+
+retcon
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**retcon**: /ret´kon/
+
+\[short for ‘retroactive continuity’, from the Usenet newsgroup `rec.arts.comics`\]
+
+1\. n. The common situation in pulp fiction (esp. comics or soap operas) where a new story ‘reveals’ things about events in previous stories, usually leaving the ‘facts’ the same (thus preserving continuity) while completely changing their interpretation. For example, revealing that a whole season of *Dallas* was a dream was a retcon.
+
+2\. vt. To write such a story about a character or fictitious object. “Byrne has retconned Superman's cape so that it is no longer unbreakable.” “Marvelman's old adventures were retconned into synthetic dreams.” “Swamp Thing was retconned from a transformed person into a sentient vegetable.”
+
+\[This term is included because it is a good example of hackish linguistic innovation in a field completely unrelated to computers. The word retcon will probably spread through comics fandom and lose its association with hackerdom within a couple of years; for the record, it started here. —ESR\]
+
+\[1993 update: some comics fans on the net now claim that retcon was independently in use in comics fandom before `rec.arts.comics`, and have citations from around 1981. In lexicography, nothing is ever simple. —ESR\]
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+restriction 
+Home
+ RETI
+
+
+---
+
+
+
+RETI
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**RETI**: v.
+
+Syn. [*RTI*](RTI.html)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+retcon 
+Home
+ retrocomputing
+
+
+---
+
+
+
+retrocomputing
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**retrocomputing**: /ret'·roh·k@m·pyoo´ting/, n.
+
+Refers to emulations of way-behind-the-state-of-the-art hardware or software, or implementations of never-was-state-of-the-art; esp. if such implementations are elaborate practical jokes and/or parodies, written mostly for [*hack value*](../H/hack-value.html), of more ‘serious’ designs. Perhaps the most widely distributed retrocomputing utility was the pnch(6) or bcd(6) program on V7 and other early Unix versions, which would accept up to 80 characters of text argument and display the corresponding pattern in [*punched card*](../P/punched-card.html) code. Other well-known retrocomputing hacks have included the programming language [*INTERCAL*](../I/INTERCAL.html), a [*JCL*](../J/JCL.html)-emulating shell for Unix, the card-punch-emulating editor named 029, and various elaborate [*PDP-11*](../P/PDP-11.html) hardware emulators and RT-11 OS emulators written just to keep an old, sourceless [*Zork*](../Z/Zork.html) binary running.
+
+A tasty selection of retrocomputing programs are made available at the Retrocomputing Museum, http://www.catb.org/retro/.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+RETI 
+Home
+ return from the dead
+
+
+---
+
+
+
+return from the dead
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**return from the dead**: v.
+
+To regain access to the net after a long absence. Compare [*person of no account*](../P/person-of-no-account.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+retrocomputing 
+Home
+ RFC
+
+
+---
+
+
+
+RFC
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**RFC**: /R·F·C/, n.
+
+\[Request For Comment\] One of a long-es­tab­lished series of numbered Internet informational documents and standards widely followed by commercial software and freeware in the Internet and Unix communities. Perhaps the single most influential one has been RFC-822 (the Internet mail-format standard). The RFCs are unusual in that they are floated by technical experts acting on their own initiative and reviewed by the Internet at large, rather than formally promulgated through an institution such as ANSI. For this reason, they remain known as RFCs even once adopted as standards.
+
+The RFC tradition of pragmatic, experience-driven, after-the-fact standard writing done by individuals or small working groups has important advantages over the more formal, committee-driven process typical of ANSI or ISO. Emblematic of some of these advantages is the existence of a flourishing tradition of ‘joke’ RFCs; usually at least one a year is published, usually on April 1st. Well-known joke RFCs have included 527 (“ARPAWOCKY”, R. Merryman, UCSD; 22 June 1973), 748 (“Telnet Randomly-Lose Option”, Mark R. Crispin; 1 April 1978), and 1149 (“A Standard for the Transmission of IP Datagrams on Avian Carriers”, D. Waitzman, BBN STC; 1 April 1990). The first was a Lewis Carroll pastiche; the second a parody of the TCP-IP documentation style, and the third a deadpan skewering of standards-document legalese, describing protocols for transmitting Internet data packets by carrier pigeon (since actually implemented; see Appendix A). See also [*Infinite-Monkey Theorem*](../I/Infinite-Monkey-Theorem.html).
+
+The RFCs are most remarkable for how well they work — they frequently manage to have neither the ambiguities that are usually rife in informal specifications, nor the committee-perpetrated misfeatures that often haunt formal standards, and they define a network that has grown to truly worldwide proportions.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+return from the dead 
+Home
+ RFE
+
+
+---
+
+
+
+RFE
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**RFE**: /R·F·E/, n.
+
+1\. \[techspeak\] Request For Enhancement (compare [*RFC*](RFC.html)).
+
+2\. \[from ‘Radio Free Europe’, Bellcore and Sun\] Radio Free Ethernet, a system (originated by Peter Langston) for broadcasting audio among Sun SPARCstations over the ethernet.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+RFC 
+Home
+ Right Thing
+
+
+---
+
+
+
+Right Thing
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**Right Thing**: n.
+
+That which is *compellingly* the correct or appropriate thing to use, do, say, etc. Often capitalized, always emphasized in speech as though capitalized. Use of this term often implies that in fact reasonable people may disagree. “What's the right thing for LISP to do when it sees (mod a 0)? Should it return **a**, or give a divide-by-0 error?” Oppose [*Wrong Thing*](../W/Wrong-Thing.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+RFE 
+Home
+ rip
+
+
+---
+
+
+
+rip
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rip**: v.
+
+1\. To extract the digital representation of a piece of music from an audio CD. Software that does this is often called a “CD ripper”.
+
+2\. \[Amiga hackers\] To extract sound or graphics from a program that they have been compiled/assembled into, or which generates them at run-time. In the case of older Amiga games this entails searching through memory shortly after a reboot. This sense has been in use for many years and probably gave rise to the (now more common) sense 1.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Right Thing 
+Home
+ ripoff
+
+
+---
+
+
+
+ripoff
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**ripoff**: n.
+
+Synonym for [*chad*](../C/chad.html), sense 1.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rip 
+Home
+ RL
+
+
+---
+
+
+
+RL
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**RL**: //, n.
+
+\[MUD community\] Real Life. “Firiss laughs in RL” means that Firiss's player is laughing. Compare [*meatspace*](../M/meatspace.html); oppose [*VR*](../V/VR.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+ripoff 
+Home
+ roach
+
+
+---
+
+
+
+roach
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**roach**: vt.
+
+\[Bell Labs\] To destroy, esp. of a data structure. Hardware gets [*toast*](../T/toast.html)ed or [*fried*](../F/fried.html), software gets roached. Probably derived from '70s and '80s drug slang; marijuana smokers used ‘roach’ to refer to the unsmokable remnant of a joint, and to ‘roach’ a joint was therefore to destroy it.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+RL 
+Home
+ robocanceller
+
+
+---
+
+
+
+robocanceller
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**robocanceller**: /roh·boh·kan´sel·@r/
+
+A program that monitors Usenet feeds, attempting to detect and eliminate [*spam*](../S/spam.html) by sending appropriate cancel messages. Robocancellers may use the [*Breidbart Index*](../B/Breidbart-Index.html) as a trigger. Programming them is not a game for amateurs; see [*ARMM*](../A/ARMM.html). See also [*Dave the Resurrector*](../D/Dave-the-Resurrector.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+roach 
+Home
+ robot
+
+
+---
+
+
+
+robot
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**robot**: n.
+
+See [*bot*](../B/bot.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+robocanceller 
+Home
+ robust
+
+
+---
+
+
+
+robust
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**robust**: adj.
+
+Said of a system that has demonstrated an ability to recover gracefully from the whole range of exceptional inputs and situations in a given environment. One step below [*bulletproof*](../B/bulletproof.html). Carries the additional connotation of elegance in addition to just careful attention to detail. Compare [*smart*](../S/smart.html), oppose [*brittle*](../B/brittle.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+robot 
+Home
+ rococo
+
+
+---
+
+
+
+rococo
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rococo**: adj.
+
+Terminally [*baroque*](../B/baroque.html). Used to imply that a program has become so encrusted with the software equivalent of gold leaf and curlicues that they have completely swamped the underlying design. Called after the later and more extreme forms of Baroque architecture and decoration prevalent during the mid-1700s in Europe. Alan Perlis said: “Every program eventually becomes rococo, and then rubble.” Compare [*critical mass*](../C/critical-mass.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+robust 
+Home
+ rogue
+
+
+---
+
+
+
+rogue
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rogue**
+
+1\. \[Unix\] n. A Dungeons-and-Dragons-like game using character graphics, written under BSD Unix and subsequently ported to other Unix systems. The original BSD curses(3) screen-handling package was hacked together by Ken Arnold primarily to support games, and the development of rogue(6) popularized its use; it has since become one of Unix's most important and heavily used application libraries. Nethack, Omega, Larn, Angband, and an entire subgenre of computer dungeon games (all known as ‘roguelikes’) all took off from the inspiration provided by rogue(6); the popular Windows game Diablo, though graphics-intensive, has very similar play logic. See also [*nethack*](../N/nethack.html), [*moria*](../M/moria.html), [*Angband*](../A/Angband.html).
+
+2\. \[Usenet\] adj. An [*ISP*](../I/ISP.html) which permits net abuse (usually in the form of [*spam*](../S/spam.html)ming) by its customers, or which itself engages in such activities. Rogue ISPs are sometimes subject to [*IDP*](../I/IDP.html)s or [*UDP*](../U/UDP.html)s. Sometimes deliberately misspelled as “rouge”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rococo 
+Home
+ room-temperature IQ
+
+
+---
+
+
+
+room-temperature IQ
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**room-temperature IQ**: quant.
+
+\[IBM\] 80 or below (nominal room temperature is 72 degrees Fahrenheit, 22 degrees Celsius). Used in describing the expected intelligence range of the [*luser*](../L/luser.html). “Well, but how's this interface going to play with the room-temperature IQ crowd?” See [*drool-proof paper*](../D/drool-proof-paper.html). This is a much more insulting phrase in countries that use Celsius thermometers.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rogue 
+Home
+ root
+
+
+---
+
+
+
+root
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**root**: n.
+
+1\. \[Unix\] The [*superuser*](../S/superuser.html) account (with user name ‘root’) that ignores permission bits, user number 0 on a Unix system. The term [*avatar*](../A/avatar.html) is also used.
+
+2\. The top node of the system directory structure; historically the home directory of the root user, but probably named after the root of an (inverted) tree.
+
+3\. By extension, the privileged system-maintenance login on any OS. See [*root mode*](root-mode.html), [*go root*](../G/go-root.html), see also [*wheel*](../W/wheel.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+room-temperature IQ 
+Home
+ root mode
+
+
+---
+
+
+
+root mode
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**root mode**: n.
+
+Syn. with [*wizard mode*](../W/wizard-mode.html) or wheel mode. Like these, it is often generalized to describe privileged states in systems other than OSes.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+root 
+Home
+ rootkit
+
+
+---
+
+
+
+rootkit
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rootkit**: /root´kit/, n.
+
+\[very common\] A kit for maintaining [*root*](root.html); an automated [*cracking*](../C/cracking.html) tool. What [*script kiddies*](../S/script-kiddies.html) use. After a cracker has first broken in and gained root access, he or she will install modified binaries such as a modified version login with a backdoor, or a version of ps that will not report the cracker's processes). This is a rootkit.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+root mode 
+Home
+ rot13
+
+
+---
+
+
+
+rot13
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rot13**: /rot ther´teen/, n.,v.
+
+\[Usenet: from ‘rotate alphabet 13 places’\] The simple Caesar-cypher encryption that replaces each English letter with the one 13 places forward or back along the alphabet, so that “The butler did it!” becomes “Gur ohgyre qvq vg!” Most Usenet news reading and posting programs include a rot13 feature. It is used to enclose the text in a sealed wrapper that the reader must choose to open — e.g., for posting things that might offend some readers, or [*spoiler*](../S/spoiler.html)s. A major advantage of rot13 over rot(`N`) for other `N` is that it is self-inverse, so the same code can be used for encoding and decoding. See also [*spoiler space*](../S/spoiler-space.html), which has partly displaced rot13 since non-Unix-based newsreaders became common.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rootkit 
+Home
+ rotary debugger
+
+
+---
+
+
+
+rotary debugger
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rotary debugger**: n.
+
+\[Commodore\] Essential equipment for those late-night or early-morning debugging sessions. Mainly used as sustenance for the hacker. Comes in many decorator colors, such as Sausage, Pepperoni, and Garbage. See [*ANSI standard pizza*](../A/ANSI-standard-pizza.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rot13 
+Home
+ RSN
+
+
+---
+
+
+
+RSN
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**RSN**: /R·S·N/, adj.
+
+See [*Real Soon Now*](Real-Soon-Now.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rotary debugger 
+Home
+ RTBM
+
+
+---
+
+
+
+RTBM
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**RTBM**: /R·T·B·M/, imp.
+
+\[Unix\] Commonwealth Hackish variant of [*RTFM*](RTFM.html); expands to ‘Read The Bloody Manual’. RTBM is often the entire text of the first reply to a question from a [*newbie*](../N/newbie.html); the *second* would escalate to “RTFM”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+RSN 
+Home
+ RTFAQ
+
+
+---
+
+
+
+RTFAQ
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**RTFAQ**: /R·T·F·A·Q/, imp.
+
+\[Usenet: primarily written, by analogy with [*RTFM*](RTFM.html)\] Abbrev. for ‘Read the FAQ!’, an exhortation that the person addressed ought to read the newsgroup's [*FAQ list*](../F/FAQ-list.html) before posting questions.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+RTBM 
+Home
+ RTFB
+
+
+---
+
+
+
+RTFB
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**RTFB**: /R·T·F·B/, imp.
+
+\[Unix\] Abbreviation for ‘Read The Fucking Binary’. Used when neither documentation nor source for the problem at hand exists, and the only thing to do is use some debugger or monitor and directly analyze the assembler or even the machine code. “No source for the buggy port driver? Aaargh! I *hate* proprietary operating systems. Time to RTFB.”
+
+Of the various RTF? forms, ‘RTFB’ is the least pejorative against anyone asking a question for which RTFB is the answer; the anger here is directed at the absence of both source *and* adequate documentation.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+RTFAQ 
+Home
+ RTFM
+
+
+---
+
+
+
+RTFM
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**RTFM**: /R·T·F·M/, imp.
+
+\[Unix\] Abbreviation for ‘Read The Fucking Manual’.
+
+1\. Used by [*guru*](../G/guru.html)s to brush off questions they consider trivial or annoying. Compare [*Don't do that then!*](../D/Don-t-do-that-then-.html).
+
+2\. Used when reporting a problem to indicate that you aren't just asking out of [*randomness*](randomness.html). “No, I can't figure out how to interface Unix to my toaster, and yes, I have RTFM.” Unlike sense 1, this use is considered polite. See also [*FM*](../F/FM.html), [*RTFAQ*](RTFAQ.html), [*RTFB*](RTFB.html), [*RTFS*](RTFS.html), [*STFW*](../S/STFW.html), [*RTM*](RTM.html), all of which mutated from RTFM, and compare [*UTSL*](../U/UTSL.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+RTFB 
+Home
+ RTFS
+
+
+---
+
+
+
+RTFS
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**RTFS**: /R·T·F·S/
+
+\[Unix\]
+
+1\. imp. Abbreviation for ‘Read The Fucking Source’. Variant form of [*RTFM*](RTFM.html), used when the problem at hand is not necessarily obvious and not answerable from the manuals — or the manuals are not yet written and maybe never will be. For even trickier situations, see [*RTFB*](RTFB.html). Unlike RTFM, the anger inherent in RTFS is not usually directed at the person asking the question, but rather at the people who failed to provide adequate documentation.
+
+2\. imp. ‘Read The Fucking Standard’; this oath can only be used when the problem area (e.g., a language or operating system interface) has actually been codified in a ratified standards document. The existence of these standards documents (and the technically inappropriate but politically mandated compromises that they inevitably contain, and the impenetrable [*legalese*](../L/legalese.html) in which they are invariably written, and the unbelievably tedious bureaucratic process by which they are produced) can be unnerving to hackers, who are used to a certain amount of ambiguity in the specifications of the systems they use. (Hackers feel that such ambiguities are acceptable as long as the [*Right Thing*](Right-Thing.html) to do is obvious to any thinking observer; sadly, this casual attitude towards specifications becomes unworkable when a system becomes popular in the [*Real World*](Real-World.html).) Since a hacker is likely to feel that a standards document is both unnecessary and technically deficient, the deprecation inherent in this term may be directed as much against the standard as against the person who ought to read it.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+RTFM 
+Home
+ RTI
+
+
+---
+
+
+
+RTI
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**RTI**: /R·T·I/, interj.
+
+The mnemonic for the ‘return from interrupt’ instruction on many computers including the 6502 and 6800. The variant RETI is found among Z80 hackers. Equivalent to “Now, where was I?” or used to end a conversational digression. See [*pop*](../P/pop.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+RTFS 
+Home
+ RTM
+
+
+---
+
+
+
+RTM
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**RTM**: /R·T·M/
+
+1\. \[Usenet: abbreviation for ‘Read The Manual’\] Politer variant of [*RTFM*](RTFM.html).
+
+2\. Robert Tappan Morris, perpetrator of the great Internet worm of 1988 (see [*Great Worm*](../G/Great-Worm.html)); villain to many, naive hacker gone wrong to a few. Morris claimed that the worm that brought the Internet to its knees was a benign experiment that got out of control as the result of a coding error. After the storm of negative publicity that followed this blunder, Morris's username on ITS was hacked from RTM to [*RTFM*](RTFM.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+RTI 
+Home
+ RTS
+
+
+---
+
+
+
+RTS
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**RTS**: /R·T·S/, imp.
+
+Abbreviation for ‘Read The Screen’. Mainly used by hackers in the microcomputer world. Refers to what one would like to tell the [*suit*](../S/suit.html) one is forced to explain an extremely simple application to. Particularly appropriate when the suit failed to notice the ‘Press any key to continue’ prompt, and wishes to know ‘why won't it do anything’. Also seen as ‘RTFS’ in especially deserving cases.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+RTM 
+Home
+ rubber-hose cryptanalysis
+
+
+---
+
+
+
+rubber-hose cryptanalysis
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rubber-hose cryptanalysis**: n.
+
+\[sci.crypt newsgroup\] The technique of breaking a code or cipher by finding someone who has the key and applying a rubber hose vigorously and repeatedly to the soles of that luckless person's feet until the key is discovered. Shorthand for any method of coercion: the originator of the term drily noted that it “can take a surprisingly short time and is quite computationally inexpensive” relative to other cryptanalysis methods. Compare [*social engineering*](../S/social-engineering.html), [*brute force*](../B/brute-force.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+RTS 
+Home
+ rude
+
+
+---
+
+
+
+rude
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rude**: adj.
+
+1\. (of a program) Badly written.
+
+2\. Functionally poor, e.g., a program that is very difficult to use because of gratuitously poor (random?) design decisions. Oppose [*cuspy*](../C/cuspy.html).
+
+3\. Anything that manipulates a shared resource without regard for its other users in such a way as to cause a (non-fatal) problem. Examples: programs that change tty modes without resetting them on exit, or windowing programs that keep forcing themselves to the top of the window stack.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rubber-hose cryptanalysis 
+Home
+ runes
+
+
+---
+
+
+
+runes
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**runes**: pl.n.
+
+1\. Anything that requires [*heavy wizardry*](../H/heavy-wizardry.html) or [*black art*](../B/black-art.html) to [*parse*](../P/parse.html): core dumps, JCL commands, APL, or code in a language you haven't a clue how to read. Not quite as bad as [*line noise*](../L/line-noise.html), but close. Compare [*casting the runes*](../C/casting-the-runes.html), [*Great Runes*](../G/Great-Runes.html).
+
+2\. Special display characters (for example, the high-half graphics on an IBM PC).
+
+3\. \[borderline techspeak\] 16-bit characters from the Unicode multilingual character set.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rude 
+Home
+ runic
+
+
+---
+
+
+
+runic
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**runic**: adj.
+
+Syn. [*obscure*](../O/obscure.html). VMS fans sometimes refer to Unix as ‘Runix’; Unix fans return the compliment by expanding VMS to ‘Very Messy Syntax’ or ‘Vachement Mauvais Système’ (French idiom, “Hugely Bad System”).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+runes 
+Home
+ rusty iron
+
+
+---
+
+
+
+rusty iron
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rusty iron**: n.
+
+Syn. [*tired iron*](../T/tired-iron.html). It has been claimed that this is the inevitable fate of [*water MIPS*](../W/water-MIPS.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+runic 
+Home
+ rusty wire
+
+
+---
+
+
+
+rusty wire
+
+Prev 
+R
+ Next
+
+------------------------------------------------------------------------
+
+**rusty wire**: n.
+
+\[Amateur Packet Radio\] Any very noisy network medium, in which the packets are subject to frequent corruption. Most prevalent in reference to wireless links subject to all the vagaries of RF noise and marginal propagation conditions. “Yes, but how good is your whizbang new protocol on really rusty wire?”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+rusty iron 
+Home
+ S
+
+
+---
+
+
+## S
+
+
+
+S/N ratio
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**S/N ratio**: //, n.
+
+(also s/n ratio, s:n ratio). Syn. [*signal-to-noise ratio*](signal-to-noise-ratio.html). Often abbreviated SNR.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+S 
+Home
+ sacred
+
+
+---
+
+
+
+sacred
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sacred**: adj.
+
+Reserved for the exclusive use of something (an extension of the standard meaning). Often means that anyone may look at the sacred object, but clobbering it will screw whatever it is sacred to. The comment “Register 7 is sacred to the interrupt handler” appearing in a program would be interpreted by a hacker to mean that if any *other* part of the program changes the contents of register 7, dire consequences are likely to ensue.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+S/N ratio 
+Home
+ saga
+
+
+---
+
+
+
+saga
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**saga**: n.
+
+\[WPI\] A cuspy but bogus raving story about `N` random broken people.
+
+Here is a classic example of the saga form, as told by Guy L. Steele:
+
+> Jon L. White (login name JONL) and I (GLS) were office mates at MIT for many years. One April, we both flew from Boston to California for a week on research business, to consult face-to-face with some people at Stanford, particularly our mutual friend Richard P. Gabriel (RPG).
+>
+> RPG picked us up at the San Francisco airport and drove us back to Palo Alto (going [*logical*](../L/logical.html) south on route 101, parallel to [*El Camino Bignum*](../E/El-Camino-Bignum.html)). Palo Alto is adjacent to Stanford University and about 40 miles south of San Francisco. We ate at The Good Earth, a ‘health food’ restaurant, very popular, the sort whose milkshakes all contain honey and protein powder. JONL ordered such a shake — the waitress claimed the flavor of the day was “lalaberry”. I still have no idea what that might be, but it became a running joke. It was the color of raspberry, and JONL said it tasted rather bitter. I ate a better tostada there than I have ever had in a Mexican restaurant.
+>
+> After this we went to the local Uncle Gaylord's Old Fashioned Ice Cream Parlor. They make ice cream fresh daily, in a variety of intriguing flavors. It's a chain, and they have a slogan: “If you don't live near an Uncle Gaylord's — MOVE!” Also, Uncle Gaylord (a real person) wages a constant battle to force big-name ice cream makers to print their ingredients on the package (like air and plastic and other non-natural garbage). JONL and I had first discovered Uncle Gaylord's the previous August, when we had flown to a computer-science conference in Berkeley, California, the first time either of us had been on the West Coast. When not in the conference sessions, we had spent our time wandering the length of Telegraph Avenue, which (like Harvard Square in Cambridge) was lined with picturesque street vendors and interesting little shops. On that street we discovered Uncle Gaylord's Berkeley store. The ice cream there was very good. During that August visit JONL went absolutely bananas (so to speak) over one particular flavor, ginger honey.
+>
+> Therefore, after eating at The Good Earth — indeed, after every lunch and dinner and before bed during our April visit — a trip to Uncle Gaylord's (the one in Palo Alto) was mandatory. We had arrived on a Wednesday, and by Thursday evening we had been there at least four times. Each time, JONL would get ginger honey ice cream, and proclaim to all bystanders that “Ginger was the spice that drove the Europeans mad! That's why they sought a route to the East! They used it to preserve their otherwise off-taste meat.” After the third or fourth repetition RPG and I were getting a little tired of this spiel, and began to paraphrase him: “Wow! Ginger! The spice that makes rotten meat taste good!” “Say! Why don't we find some dog that's been run over and sat in the sun for a week and put some *ginger* on it for dinner?!” “Right! With a lalaberry shake!” And so on. This failed to faze JONL; he took it in good humor, as long as we kept returning to Uncle Gaylord's. He loves ginger honey ice cream.
+>
+> Now RPG and his then-wife KBT (Kathy Tracy) were putting us up (putting up with us?) in their home for our visit, so to thank them JONL and I took them out to a nice French restaurant of their choosing. I unadventurously chose the filet mignon, and KBT had je ne sais quoi du jour, but RPG and JONL had lapin (rabbit). (Waitress: “Oui, we have fresh rabbit, fresh today.” RPG: “Well, JONL, I guess we won't need any *ginger*!”)
+>
+> We finished the meal late, about 11PM, which is 2AM Boston time, so JONL and I were rather droopy. But it wasn't yet midnight. Off to Uncle Gaylord's!
+>
+> Now the French restaurant was in Redwood City, north of Palo Alto. In leaving Redwood City, we somehow got onto route 101 going north instead of south. JONL and I wouldn't have known the difference had RPG not mentioned it. We still knew very little of the local geography. I did figure out, however, that we were headed in the direction of Berkeley, and half-jokingly suggested that we continue north and go to Uncle Gaylord's in Berkeley.
+>
+> RPG said “Fine!” and we drove on for a while and talked. I was drowsy, and JONL actually dropped off to sleep for 5 minutes. When he awoke, RPG said, “Gee, JONL, you must have slept all the way over the bridge!”, referring to the one spanning San Francisco Bay. Just then we came to a sign that said “University Avenue”. I mumbled something about working our way over to Telegraph Avenue; RPG said “Right!” and maneuvered some more. Eventually we pulled up in front of an Uncle Gaylord's.
+>
+> Now, I hadn't really been paying attention because I was so sleepy, and I didn't really understand what was happening until RPG let me in on it a few moments later, but I was just alert enough to notice that we had somehow come to the Palo Alto Uncle Gaylord's after all.
+>
+> JONL noticed the resemblance to the Palo Alto store, but hadn't caught on. (The place is lit with red and yellow lights at night, and looks much different from the way it does in daylight.) He said, “This isn't the Uncle Gaylord's I went to in Berkeley! It looked like a barn! But this place looks *just like* the one back in Palo Alto!”
+>
+> RPG deadpanned, “Well, this is the one *I* always come to when I'm in Berkeley. They've got two in San Francisco, too. Remember, they're a chain.”
+>
+> JONL accepted this bit of wisdom. And he was not totally ignorant — he knew perfectly well that University Avenue was in Berkeley, not far from Telegraph Avenue. What he didn't know was that there is a completely different University Avenue in Palo Alto.
+>
+> JONL went up to the counter and asked for ginger honey. The guy at the counter asked whether JONL would like to taste it first, evidently their standard procedure with that flavor, as not too many people like it.
+>
+> JONL said, “I'm sure I like it. Just give me a cone.” The guy behind the counter insisted that JONL try just a taste first. “Some people think it tastes like soap.” JONL insisted, “Look, I *love* ginger. I eat Chinese food. I eat raw ginger roots. I already went through this hassle with the guy back in Palo Alto. I *know* I like that flavor!”
+>
+> At the words “back in Palo Alto” the guy behind the counter got a very strange look on his face, but said nothing. KBT caught his eye and winked. Through my stupor I still hadn't quite grasped what was going on, and thought RPG was rolling on the floor laughing and clutching his stomach just because JONL had launched into his spiel (“makes rotten meat a dish for princes”) for the forty-third time. At this point, RPG clued me in fully.
+>
+> RPG, KBT, and I retreated to a table, trying to stifle our chuckles. JONL remained at the counter, talking about ice cream with the guy b.t.c., comparing Uncle Gaylord's to other ice cream shops and generally having a good old time.
+>
+> At length the g.b.t.c.: said, “How's the ginger honey?” JONL said, “Fine! I wonder what exactly is in it?” Now Uncle Gaylord publishes all his recipes and even teaches classes on how to make his ice cream at home. So the g.b.t.c.: got out the recipe, and he and JONL pored over it for a while. But the g.b.t.c.: could contain his curiosity no longer, and asked again, “You really like that stuff, huh?” JONL said, “Yeah, I've been eating it constantly back in Palo Alto for the past two days. In fact, I think this batch is about as good as the cones I got back in Palo Alto!”
+>
+> G.b.t.c.: looked him straight in the eye and said, “You're *in* Palo Alto!”
+>
+> JONL turned slowly around, and saw the three of us collapse in a fit of giggles. He clapped a hand to his forehead and exclaimed, “I've been hacked!”
+
+\[My spies on the West Coast inform me that there is a close relative of the raspberry found out there called an ‘ollalieberry’ —ESR\]
+
+\[Ironic footnote: the [*meme*](../M/meme.html) about ginger vs. rotting meat is an urban legend. It's not borne out by an examination of medieval recipes or period purchase records for spices, and appears full-blown in the works of Samuel Pegge, a gourmand and notorious flake case who originated numerous food myths. The truth seems to be that ginger was used to cover not rot but the extreme salt taste of meat packed in brine, which was the best method available before refrigeration. —ESR\]
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sacred 
+Home
+ sagan
+
+
+---
+
+
+
+sagan
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sagan**: /say´gn/, n.
+
+\[from Carl Sagan's TV series *Cosmos*; think “billions and billions”\] A large quantity of anything. “There's a sagan different ways to tweak EMACS.” “The U.S. Government spends sagans on bombs and welfare — hard to say which is more destructive.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+saga 
+Home
+ SAIL
+
+
+---
+
+
+
+SAIL
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**SAIL**: /sayl/, /S·A·I·L/, n.
+
+1\. The Stanford Artificial Intelligence Lab. An important site in the early development of LISP; with the MIT AI Lab, BBN, CMU, XEROX PARC, and the Unix community, one of the major wellsprings of technical innovation and hacker-culture traditions (see the [*WAITS*](../W/WAITS.html) entry for details). The SAIL machines were shut down in late May 1990, scant weeks after the MIT AI Lab's ITS cluster was officially decommissioned.
+
+2\. The Stanford Artificial Intelligence Language used at SAIL (sense 1). It was an Algol-60 derivative with a coroutining facility and some new data types intended for building search trees and association lists.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sagan 
+Home
+ salescritter
+
+
+---
+
+
+
+salescritter
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**salescritter**: /sayls´kri\`tr/, n.
+
+Pejorative hackerism for a computer salesperson. Hackers tell the following joke:
+
+  
+Q. What's the difference between a used-car dealer and a  
+   computer salesman?  
+A. The used-car dealer knows he's lying.  \[Some versions add:  
+   ...and probably knows how to drive.\]  
+
+This reflects the widespread hacker belief that salescritters are self-selected for stupidity (after all, if they had brains and the inclination to use them, they'd be in programming). The terms salesthing and salesdroid are also common. Compare [*marketroid*](../M/marketroid.html), [*suit*](suit.html), [*droid*](../D/droid.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+SAIL 
+Home
+ salt
+
+
+---
+
+
+
+salt
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**salt**: n.
+
+A tiny bit of near-random data inserted where too much regularity would be undesirable; a data [*frob*](../F/frob.html) (sense 1). For example, the Unix crypt(3) man page mentions that “the salt string is used to perturb the DES algorithm in one of 4096 different ways.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+salescritter 
+Home
+ salt mines
+
+
+---
+
+
+
+salt mines
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**salt mines**: n.
+
+Dense quarters housing large numbers of programmers working long hours on grungy projects, with some hope of seeing the end of the tunnel in `N` years. Noted for their absence of sunshine. Compare [*playpen*](../P/playpen.html), [*sandbox*](sandbox.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+salt 
+Home
+ salt substrate
+
+
+---
+
+
+
+salt substrate
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**salt substrate**: n.
+
+\[MIT\] Collective noun used to refer to potato chips, pretzels, saltines, or any other form of snack food designed primarily as a carrier for sodium chloride. Also sodium substrate. From the technical term chip substrate, used to refer to the silicon on the top of which the active parts of integrated circuits are deposited.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+salt mines 
+Home
+ same-day service
+
+
+---
+
+
+
+same-day service
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**same-day service**: n.
+
+Ironic term used to describe long response time, particularly with respect to [*MS-DOS*](../M/MS-DOS.html) and Windows system calls (which ought to require only a tiny fraction of a second to execute). Such response time is a major incentive for programmers to write programs that are not [*well-behaved*](../W/well-behaved.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+salt substrate 
+Home
+ samizdat
+
+
+---
+
+
+
+samizdat
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**samizdat**: /sahm·iz·daht/, n.
+
+\[Russian, literally “self publishing”\] The process of disseminating documentation via underground channels. Originally referred to underground duplication and distribution of banned books in the Soviet Union; now refers by obvious extension to any less-than-official promulgation of textual material, esp. rare, obsolete, or never-formally-published computer documentation. Samizdat is obviously much easier when one has access to high-bandwidth networks and high-quality laser printers. Note that samizdat is properly used only with respect to documents which contain needed information (see also [*hacker ethic*](../H/hacker-ethic.html)) but which are for some reason otherwise unavailable, but *not* in the context of documents which are available through normal channels, for which unauthorized duplication would be unethical copyright violation. See [*Lions Book*](../L/Lions-Book.html) for a historical example.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+same-day service 
+Home
+ samurai
+
+
+---
+
+
+
+samurai
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**samurai**: n.
+
+A hacker who hires out for legal cracking jobs, snooping for factions in corporate political fights, lawyers pursuing privacy-rights and First Amendment cases, and other parties with legitimate reasons to need an electronic locksmith. In 1991, mainstream media reported the existence of a loose-knit culture of samurai that meets electronically on BBS systems, mostly bright teenagers with personal micros; they have modeled themselves explicitly on the historical samurai of Japan and on the “net cowboys” of William Gibson's [*cyberpunk*](../C/cyberpunk.html) novels. Those interviewed claim to adhere to a rigid ethic of loyalty to their employers and to disdain the vandalism and theft practiced by criminal crackers as beneath them and contrary to the hacker ethic; some quote Miyamoto Musashi's *Book of Five Rings*, a classic of historical samurai doctrine, in support of these principles. See also [*sneaker*](sneaker.html), [*Stupids*](Stupids.html), [*social engineering*](social-engineering.html), [*cracker*](../C/cracker.html), [*hacker ethic*](../H/hacker-ethic.html), and [*dark-side hacker*](../D/dark-side-hacker.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+samizdat 
+Home
+ sandbender
+
+
+---
+
+
+
+sandbender
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sandbender**: n.
+
+\[IBM\] A person involved with silicon lithography and the physical design of chips. Compare [*ironmonger*](../I/ironmonger.html), [*polygon pusher*](../P/polygon-pusher.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+samurai 
+Home
+ sandbox
+
+
+---
+
+
+
+sandbox
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sandbox**: n.
+
+(also ‘sandbox, the’)
+
+1\. Common term for the R&D department at many software and computer companies (where hackers in commercial environments are likely to be found). Half-derisive, but reflects the truth that research is a form of creative play. Compare [*playpen*](../P/playpen.html).
+
+2\. Syn. [*link farm*](../L/link-farm.html).
+
+3\. A controlled environment within which potentially dangerous programs are run. Used esp. in reference to Java implementations.
+
+4\. A checked-out copy of a source tree, on which one may safely perform builds without interfereing with others.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sandbender 
+Home
+ sanity check
+
+
+---
+
+
+
+sanity check
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sanity check**: n.
+
+\[very common\]
+
+1\. The act of checking a piece of code (or anything else, e.g., a Usenet posting) for completely stupid mistakes. Implies that the check is to make sure the author was sane when it was written; e.g., if a piece of scientific software relied on a particular formula and was giving unexpected results, one might first look at the nesting of parentheses or the coding of the formula, as a sanity check, before looking at the more complex I/O or data structure manipulation routines, much less the algorithm itself. Compare [*reality check*](../R/reality-check.html).
+
+2\. A run-time test, either validating input or ensuring that the program hasn't screwed up internally (producing an inconsistent value or state).
+
+3\. Conversationally, saying “sanity check” means you are requesting a check of your assumptions. “Wait a minute, sanity check, are we talking about the same Kevin here?”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sandbox 
+Home
+ Saturday-night special
+
+
+---
+
+
+
+Saturday-night special
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**Saturday-night special**: n.
+
+\[from police slang for a cheap handgun\] A [*quick-and-dirty*](../Q/quick-and-dirty.html) program or feature kluged together during off hours, under a deadline, and in response to pressure from a [*salescritter*](salescritter.html). Such hacks are dangerously unreliable, but all too often sneak into a production release after insufficient review.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sanity check 
+Home
+ say
+
+
+---
+
+
+
+say
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**say**: vt.
+
+1\. To type to a terminal. “To list a directory verbosely, you have to say **ls -l**.” Tends to imply a [*newline*](../N/newline.html)-terminated command (a ‘sentence’).
+
+2\. A computer may also be said to ‘say’ things to you, even if it doesn't have a speech synthesizer, by displaying them on a terminal in response to your commands. Hackers find it odd that this usage confuses [*mundane*](../M/mundane.html)s.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Saturday-night special 
+Home
+ scag
+
+
+---
+
+
+
+scag
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**scag**: vt.
+
+To destroy the data on a disk, either by corrupting the filesystem or by causing media damage. “That last power hit scagged the system disk.” Compare [*scrog*](scrog.html), [*roach*](../R/roach.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+say 
+Home
+ scanno
+
+
+---
+
+
+
+scanno
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**scanno**: /skan´oh/, n.
+
+An error in a document caused by a scanner glitch, analogous to a typo or [*thinko*](../T/thinko.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+scag 
+Home
+ scary devil monastery
+
+
+---
+
+
+
+scary devil monastery
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**scary devil monastery**: n.
+
+Anagram frequently used to refer to the newsgroup `alt.sysadmin.recovery`, which is populated with characters that rather justify the reference.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+scanno 
+Home
+ schroedinbug
+
+
+---
+
+
+
+schroedinbug
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**schroedinbug**: /shroh´din·buhg/, n.
+
+\[MIT: from the Schroedinger's Cat thought-experiment in quantum physics\] A design or implementation bug in a program that doesn't manifest until someone reading source or using the program in an unusual way notices that it never should have worked, at which point the program promptly stops working for everybody until fixed. Though (like [*bit rot*](../B/bit-rot.html)) this sounds impossible, it happens; some programs have harbored latent schroedinbugs for years. Compare [*heisenbug*](../H/heisenbug.html), [*Bohr bug*](../B/Bohr-bug.html), [*mandelbug*](../M/mandelbug.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+scary devil monastery 
+Home
+ science-fiction fandom
+
+
+---
+
+
+
+science-fiction fandom
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**science-fiction fandom**: n.
+
+Another voluntary subculture having a very heavy overlap with hackerdom; most hackers read SF and/or fantasy fiction avidly, and many go to ‘cons’ (SF conventions) or are involved in fandom-connected activities such as the Society for Creative Anachronism. Some hacker jargon originated in SF fandom; see [*defenestration*](../D/defenestration.html), [*great-wall*](../G/great-wall.html), [*cyberpunk*](../C/cyberpunk.html), [*h*](../H/h.html), [*ha ha only serious*](../H/ha-ha-only-serious.html), [*IMHO*](../I/IMHO.html), [*mundane*](../M/mundane.html), [*neep-neep*](../N/neep-neep.html), [*Real Soon Now*](../R/Real-Soon-Now.html). Additionally, the jargon terms [*cowboy*](../C/cowboy.html), [*cyberspace*](../C/cyberspace.html), [*de-rezz*](../D/de-rezz.html), [*go flatline*](../G/go-flatline.html), [*ice*](../I/ice.html), [*phage*](../P/phage.html), [*virus*](../V/virus.html), [*wetware*](../W/wetware.html), [*wirehead*](../W/wirehead.html), and [*worm*](../W/worm.html) originated in SF stories.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+schroedinbug 
+Home
+ SCNR
+
+
+---
+
+
+
+SCNR
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**SCNR**: abbrev
+
+\[common\] Sorry, Could Not Resist. Normally used to semi-apologize for an obvious wisecrack.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+science-fiction fandom 
+Home
+ scram switch
+
+
+---
+
+
+
+scram switch
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**scram switch**: n.
+
+\[from the nuclear power industry\] An emergency-power-off switch (see [*Big Red Switch*](../B/Big-Red-Switch.html)), esp. one positioned to be easily hit by evacuating personnel. In general, this is *not* something you [*frob*](../F/frob.html) lightly; these often initiate expensive events (such as Halon dumps) and are installed in a [*dinosaur pen*](../D/dinosaur-pen.html) for use in case of electrical fire or in case some luckless [*field servoid*](../F/field-servoid.html) should put 120 volts across himself while [*Easter egging*](../E/Easter-egging.html). (See also [*molly-guard*](../M/molly-guard.html), [*TMRC*](../T/TMRC.html).)
+
+“Scram” was in origin a backronym for “Safety Cut Rope Axe Man” coined by Enrico Fermi himself. The story goes that in the earliest nuclear power experiments the engineers recognized the possibility that the reactor wouldn't behave exactly as predicted by their mathematical models. Accordingly, they made sure that they had mechanisms in place that would rapidly drop the control rods back into the reactor. One mechanism took the form of ‘scram technicians’. These individuals stood next to the ropes or cables that raised and lowered the control rods. Equipped with axes or cable-cutters, these technicians stood ready for the (literal) ‘scram’ command. If necessary, they would cut the cables, and gravity would expeditiously return the control rods to the reactor, thereby averting yet another kind of [*core dump*](../C/core-dump.html).
+
+Modern reactor control rods are held in place with claw-like devices, held closed by current. SCRAM switches are circuit breakers that immediately open the circuit to the rod arms, resulting in the rapid insertion and subsequent bottoming of the control rods.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+SCNR 
+Home
+ scratch
+
+
+---
+
+
+
+scratch
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**scratch**
+
+1\. \[from scratchpad\] adj. Describes a data structure or recording medium attached to a machine for testing or temporary-use purposes; one that can be [*scribble*](scribble.html)d on without loss. Usually in the combining forms scratch memory, scratch register, scratch disk, scratch tape, scratch volume. See also [*scratch monkey*](scratch-monkey.html).
+
+2\. \[primarily IBM, also Commodore\] vt. To delete (as in a file).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+scram switch 
+Home
+ scratch monkey
+
+
+---
+
+
+
+scratch monkey
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**scratch monkey**: n.
+
+As in “Before testing or reconfiguring, always mount a [*scratch monkey*](scratch-monkey.html)”, a proverb used to advise caution when dealing with irreplaceable data or devices. Used to refer to any scratch volume hooked to a computer during any risky operation as a replacement for some precious resource or data that might otherwise get trashed.
+
+This term preserves the memory of Mabel, the Swimming Wonder Monkey, star of a biological research program at the University of Toronto. Mabel was not (so the legend goes) your ordinary monkey; the university had spent years teaching her how to swim, breathing through a regulator, in order to study the effects of different gas mixtures on her physiology. Mabel suffered an untimely demise one day when a [*DEC*](../D/DEC.html) [*field circus*](../F/field-circus.html) engineer troubleshooting a crash on the program's [*VAX*](../V/VAX.html) inadvertently interfered with some custom hardware that was wired to Mabel.
+
+It is reported that, after calming down an understandably irate customer sufficiently to ascertain the facts of the matter, a DEC troubleshooter called up the [*field circus*](../F/field-circus.html) manager responsible and asked him sweetly, “Can you swim?” Not all the consequences to humans were so amusing; the sysop of the machine in question was nearly thrown in jail at the behest of certain clueless [*droid*](../D/droid.html)s at the local ‘humane’ society. The moral is clear: When in doubt, always mount a scratch monkey. \[The actual incident occured in 1979 or 1980. There is a version of this story, complete with reported dialogue between one of the project people and DEC field service, that has been circulating on Internet since 1986. It is hilarious and mythic, but gets some facts wrong. For example, it reports the machine as a [*PDP-11*](../P/PDP-11.html) and alleges that Mabel's demise occurred when DEC [*PM*](../P/PM.html)ed the machine. Earlier versions of this entry were based on that story; this one has been corrected from an interview with the hapless sysop. —ESR\]
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+scratch 
+Home
+ scream and die
+
+
+---
+
+
+
+scream and die
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**scream and die**: v.
+
+Syn. [*cough and die*](../C/cough-and-die.html), but connotes that an error message was printed or displayed before the program crashed.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+scratch monkey 
+Home
+ screaming tty
+
+
+---
+
+
+
+screaming tty
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**screaming tty**: n.
+
+\[Unix\] A terminal line which spews an infinite number of random characters at the operating system. This can happen if the terminal is either disconnected or connected to a powered-off terminal but still enabled for login; misconfiguration, misimplementation, or simple bad luck can start such a terminal screaming. A screaming tty or two can seriously degrade the performance of a vanilla Unix system; the arriving “characters” are treated as userid/password pairs and tested as such. The Unix password encryption algorithm is designed to be computationally intensive in order to foil brute-force crack attacks, so although none of the logins succeeds; the overhead of rejecting them all can be substantial.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+scream and die 
+Home
+ screen
+
+
+---
+
+
+
+screen
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**screen**: n.
+
+\[Atari ST [*demoscene*](../D/demoscene.html)\] One [*demoeffect*](../D/demoeffect.html) or one screenful of them. Probably comes from old Sierra-style adventures or shoot-em-ups where one travels from one place to another one screenful at a time.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+screaming tty 
+Home
+ screen name
+
+
+---
+
+
+
+screen name
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**screen name**: n.
+
+A [*handle*](../H/handle.html) sense
+
+1\. This term has been common among users of IRC, MUDs, and commercial on-line services since the mid-1990s. Hackers recognize the term but don't generally use it.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+screen 
+Home
+ screen scraping
+
+
+---
+
+
+
+screen scraping
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**screen scraping**: v.
+
+The act of capturing data from a system or program by snooping the contents of some display that is not actually intended for data transport or inspection by programs. Around 1980 this term referred to tricks like reading the display memory of a smart terminal through its auxiliary port. Nowadays it often refers to parsing the HTML in generated web pages with programs designed to mine out particular patterns of content. In either guise screen-scraping is an ugly, ad-hoc, last-resort technique that is very likely to break on even minor changes to the format of the data being snooped.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+screen name 
+Home
+ screw
+
+
+---
+
+
+
+screw
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**screw**: n.
+
+\[MIT\] A [*lose*](../L/lose.html), usually in software. Especially used for user-visible misbehavior caused by a bug or misfeature. This use has become quite widespread outside MIT.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+screen scraping 
+Home
+ screwage
+
+
+---
+
+
+
+screwage
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**screwage**: /skroo'@j/, n.
+
+Like [*lossage*](../L/lossage.html) but connotes that the failure is due to a designed-in misfeature rather than a simple inadequacy or a mere bug.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+screw 
+Home
+ scribble
+
+
+---
+
+
+
+scribble
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**scribble**: n.
+
+To modify a data structure in a random and unintentionally destructive way. “Bletch! Somebody's disk-compactor program went berserk and scribbled on the i-node table.” “It was working fine until one of the allocation routines scribbled on low core.” Synonymous with [*trash*](../T/trash.html); compare [*mung*](../M/mung.html), which conveys a bit more intention, and [*mangle*](../M/mangle.html), which is more violent and final.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+screwage 
+Home
+ script kiddies
+
+
+---
+
+
+
+script kiddies
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**script kiddies**: pl.n.
+
+1\. \[very common\] The lowest form of [*cracker*](../C/cracker.html); script kiddies do mischief with scripts and [*rootkit*](../R/rootkit.html)s written by others, often without understanding the [*exploit*](../E/exploit.html) they are using. Used of people with limited technical expertise using easy-to-operate, pre-configured, and/or automated tools to conduct disruptive activities against networked systems. Since most of these tools are fairly well-known by the security community, the adverse impact of such actions is usually minimal.
+
+2\. People who cannot program, but who create tacky HTML pages by copying JavaScript routines from other tacky HTML pages. More generally, a script kiddie writes (or more likely cuts and pastes) code without either having or desiring to have a mental model of what the code does; someone who thinks of code as magical incantations and asks only “what do I need to type to make this happen?”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+scribble 
+Home
+ scrog
+
+
+---
+
+
+
+scrog
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**scrog**: /skrog/, vt.
+
+\[Bell Labs\] To damage, trash, or corrupt a data structure. “The list header got scrogged.” Also reported as skrog, and ascribed to the comic strip *The Wizard of Id*. Compare [*scag*](scag.html); possibly the two are related. Equivalent to [*scribble*](scribble.html) or [*mangle*](../M/mangle.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+script kiddies 
+Home
+ scrool
+
+
+---
+
+
+
+scrool
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**scrool**: /skrool/, n.
+
+\[from the pioneering Roundtable chat system in Houston ca.: 1984; prob.: originated as a typo for ‘scroll’\] The log of old messages, available for later perusal or to help one get back in synch with the conversation. It was originally called the scrool monster, because an early version of the roundtable software had a bug where it would dump all 8K of scrool on a user's terminal.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+scrog 
+Home
+ scrozzle
+
+
+---
+
+
+
+scrozzle
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**scrozzle**: /skroz´l/, vt.
+
+Used when a self-modifying code segment runs incorrectly and corrupts the running program or vital data. “The damn compiler scrozzled itself again!”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+scrool 
+Home
+ scruffies
+
+
+---
+
+
+
+scruffies
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**scruffies**: n.
+
+See [*neats vs. scruffies*](../N/neats-vs--scruffies.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+scrozzle 
+Home
+ SCSI
+
+
+---
+
+
+
+SCSI
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**SCSI**: n.
+
+\[Small Computer System Interface\] A bus-independent standard for system-level interfacing between a computer and intelligent devices. Typically annotated in literature with ‘sexy’ (/sek´see/), ‘sissy’ (/sis´ee/), and ‘scuzzy’ (/skuh´zee/) as pronunciation guides — the last being the overwhelmingly predominant form, much to the dismay of the designers and their marketing people. One can usually assume that a person who pronounces it /S-C-S-I/ is clueless.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+scruffies 
+Home
+ SCSI voodoo
+
+
+---
+
+
+
+SCSI voodoo
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**SCSI voodoo**: /skuz´ee voo´doo/
+
+\[common among Mac users\] [*SCSI*](SCSI.html) interface hardware is notoriously fickle of temperament. Often, the SCSI bus will fail to work unless the cable order of devices is re-arranged, SCSI termination is added or removed (sometimes double-termination or *no* termination will fix the problem), or particular devices are given particular SCSI IDs. The skills needed to trick the naturally skittish demons of SCSI into working are collectively known as SCSI voodoo. Compare [*magic*](../M/magic.html), [*deep magic*](../D/deep-magic.html), [*heavy wizardry*](../H/heavy-wizardry.html), [*rain dance*](../R/rain-dance.html), [*cargo cult programming*](../C/cargo-cult-programming.html), [*wave a dead chicken*](../W/wave-a-dead-chicken.html), [*voodoo programming*](../V/voodoo-programming.html).
+
+While ordinary mortals frequently experience near-terminal frustration when attempting to configure SCSI device chains, it is said that a true master of this arcane art can (through rituals involving chicken blood, ground rhino horn, hairs of a virgin, eye of newt, etc.) hook up your personal computer with three scanners, a Zip drive, an IDE hard drive, a home weather station, a Smith-Corona typewriter, and the neighbor's garage door.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+SCSI 
+Home
+ search-and-destroy mode
+
+
+---
+
+
+
+search-and-destroy mode
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**search-and-destroy mode**: n.
+
+Hackerism for a noninteractive search-and-replace facility in an editor, so called because an incautiously chosen match pattern can cause [*infinite*](../I/infinite.html) damage.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+SCSI voodoo 
+Home
+ second-system effect
+
+
+---
+
+
+
+second-system effect
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**second-system effect**: n.
+
+(sometimes, more euphoniously, second-system syndrome) When one is designing the successor to a relatively small, elegant, and successful system, there is a tendency to become grandiose in one's success and design an [*elephantine*](../E/elephantine.html) feature-laden monstrosity. The term was first used by Fred Brooks in his classic *The Mythical Man-Month: Essays on Software Engineering* (Addison-Wesley, 1975; ISBN 0-201-00650-2). It described the jump from a set of nice, simple operating systems on the IBM 70xx series to OS/360 on the 360 series. A similar effect can also happen in an evolving system; see [*Brooks's Law*](../B/Brookss-Law.html), [*creeping elegance*](../C/creeping-elegance.html), [*creeping featurism*](../C/creeping-featurism.html). See also [*Multics*](../M/Multics.html), [*OS/2*](../O/OS-2.html), [*X*](../X/X.html), [*software bloat*](software-bloat.html).
+
+This version of the jargon lexicon has been described (with altogether too much truth for comfort) as an example of second-system effect run amok on jargon-1....
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+search-and-destroy mode 
+Home
+ secondary damage
+
+
+---
+
+
+
+secondary damage
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**secondary damage**: n.
+
+When a fatal error occurs (esp. a [*segfault*](segfault.html)) the immediate cause may be that a pointer has been trashed due to a previous [*fandango on core*](../F/fandango-on-core.html). However, this fandango may have been due to an *earlier* fandango, so no amount of analysis will reveal (directly) how the damage occurred. “The data structure was clobbered, but it was secondary damage.” By extension, the corruption resulting from `N` cascaded fandangoes on core is ‘`N`th-level damage’. There is at least one case on record in which 17 hours of [*grovel*](../G/grovel.html)ling with **adb** actually dug up the underlying bug behind an instance of seventh-level damage! The hacker who accomplished this near-superhuman feat was presented with an award by his fellows.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+second-system effect 
+Home
+ security through obscurity
+
+
+---
+
+
+
+security through obscurity
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**security through obscurity**
+
+(alt.: security by obscurity) A term applied by hackers to most OS vendors' favorite way of coping with security holes — namely, ignoring them, documenting neither any known holes nor the underlying security algorithms, trusting that nobody will find out about them and that people who do find out about them won't exploit them. This “strategy” never works for long and occasionally sets the world up for debacles like the [*RTM*](../R/RTM.html) worm of 1988 (see [*Great Worm*](../G/Great-Worm.html)), but once the brief moments of panic created by such events subside most vendors are all too willing to turn over and go back to sleep. After all, actually fixing the bugs would siphon off the resources needed to implement the next user-interface frill on marketing's wish list — and besides, if they started fixing security bugs customers might begin to *expect* it and imagine that their warranties of merchantability gave them some sort of *right* to a system with fewer holes in it than a shotgunned Swiss cheese, and *then* where would we be?
+
+Historical note: There are conflicting stories about the origin of this term. It has been claimed that it was first used in the Usenet newsgroup `comp.sys.apollo` during a campaign to get HP/Apollo to fix security problems in its Unix-[*clone*](../C/clone.html) Aegis/DomainOS (they didn't change a thing). [*ITS*](../I/ITS.html) fans, on the other hand, say it was coined years earlier in opposition to the incredibly paranoid [*Multics*](../M/Multics.html) people down the hall, for whom security was everything. In the ITS culture it referred to (1) the fact that by the time a tourist figured out how to make trouble he'd generally gotten over the urge to make it, because he felt part of the community; and (2) (self-mockingly) the poor coverage of the documentation and obscurity of many commands. One instance of *deliberate* security through obscurity is recorded; the command to allow patching the running ITS system (escape escape control-R) echoed as $$^D. If you actually typed alt alt ^D, that set a flag that would prevent patching the system even if you later got it right.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+secondary damage 
+Home
+ SED
+
+
+---
+
+
+
+SED
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**SED**: /S·E·D/, n.
+
+\[TMRC, from ‘Light-Emitting Diode’\] Smoke-emitting diode. A [*friode*](../F/friode.html) that lost the war. See also [*LER*](../L/LER.html). \[Not to be confused with sed(1), the Unix stream editor. —ESR\]
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+security through obscurity 
+Home
+ See figure 1
+
+
+---
+
+
+
+See figure 1
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**See figure 1**
+
+Metaphorically, “Get stuffed.” From the title of a famous parody that can easily be found with a web search on this phrase; figure 1, in fact, depicts the digitus impudicus.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+SED 
+Home
+ segfault
+
+
+---
+
+
+
+segfault
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**segfault**: n.,vi.
+
+Syn. [*segment*](segment.html), [*segmentation fault*](segmentation-fault.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+See figure 1 
+Home
+ seggie
+
+
+---
+
+
+
+seggie
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**seggie**: /seg´ee/, n.
+
+\[Unix\] Shorthand for [*segmentation fault*](segmentation-fault.html) reported from Britain.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+segfault 
+Home
+ segment
+
+
+---
+
+
+
+segment
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**segment**: /seg´ment/, vi.
+
+To experience a [*segmentation fault*](segmentation-fault.html). Confusingly, this is often pronounced more like the noun ‘segment’ than like mainstream v. segment; this is because it is actually a noun shorthand that has been verbed.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+seggie 
+Home
+ segmentation fault
+
+
+---
+
+
+
+segmentation fault
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**segmentation fault**: n.
+
+\[Unix\]
+
+1\. \[techspeak\] An error in which a running program attempts to access memory not allocated to it and [*core dump*](../C/core-dump.html)s with a segmentation violation error. This is often caused by improper usage of pointers in the source code, dereferencing a null pointer, or (in C) inadvertently using a non-pointer variable as a pointer. The classic example is:
+
+  
+   int i;  
+   scanf ("%d", i);  /\* should have used &i \*/  
+
+2\. To lose a train of thought or a line of reasoning. Also uttered as an exclamation at the point of befuddlement.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+segment 
+Home
+ segv
+
+
+---
+
+
+
+segv
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**segv**: /seg´vee/, n.,vi.
+
+Yet another synonym for [*segmentation fault*](segmentation-fault.html) (actually, in this case, ‘segmentation violation’).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+segmentation fault 
+Home
+ self-reference
+
+
+---
+
+
+
+self-reference
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**self-reference**: n.
+
+See [*self-reference*](self-reference.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+segv 
+Home
+ selvage
+
+
+---
+
+
+
+selvage
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**selvage**: /sel´v@j/, n.
+
+\[from sewing and weaving\] See [*chad*](../C/chad.html) (sense 1).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+self-reference 
+Home
+ semi
+
+
+---
+
+
+
+semi
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**semi**: /se´mee/, /se´mi:/
+
+1\. n. Abbreviation for ‘semicolon’, when speaking. “Commands to [*grind*](../G/grind.html) are prefixed by semi-semi-star” means that the prefix is `;;*`, not 1/4 of a star.
+
+2\. A prefix used with words such as ‘immediately’ as a qualifier. “When is the system coming up?” “Semi-immediately.” (That is, maybe not for an hour.) “We did consider that possibility semi-seriously.” See also [*infinite*](../I/infinite.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+selvage 
+Home
+ semi-automated
+
+
+---
+
+
+
+semi-automated
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**semi-automated**: adj.
+
+\[US Geological Survey\] A procedure that has yet to be completely automated; it still requires a smidge of clueful human interaction. Semi-automated programs usually come with written-out operator instructions that are worth their weight in gold — without them, very nasty things can happen. At USGS semi-automated programs are often referred to as “semi-automated weapons”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+semi 
+Home
+ semi-infinite
+
+
+---
+
+
+
+semi-infinite
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**semi-infinite**: n.
+
+See [*infinite*](../I/infinite.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+semi-automated 
+Home
+ senior bit
+
+
+---
+
+
+
+senior bit
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**senior bit**: n.
+
+\[IBM; rare\] Syn. [*meta bit*](../M/meta-bit.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+semi-infinite 
+Home
+ September that never ended
+
+
+---
+
+
+
+September that never ended
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**September that never ended**
+
+All time since September 1993. One of the seasonal rhythms of the Usenet used to be the annual September influx of clueless newbies who, lacking any sense of [*netiquette*](../N/netiquette.html), made a general nuisance of themselves. This coincided with people starting college, getting their first internet accounts, and plunging in without bothering to learn what was acceptable. These relatively small drafts of newbies could be assimilated within a few months. But in September 1993, AOL users became able to post to Usenet, nearly overwhelming the old-timers' capacity to acculturate them; to those who nostalgically recall the period before, this triggered an inexorable decline in the quality of discussions on newsgroups. Syn. eternal September. See also [*AOL!*](../A/AOL-.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+senior bit 
+Home
+ server
+
+
+---
+
+
+
+server
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**server**: n.
+
+A kind of [*daemon*](../D/daemon.html) that performs a service for the requester and which often runs on a computer other than the one on which the requestor/client runs. A particularly common term on the Internet, which is rife with web servers, name servers, domain servers, ‘news servers’, finger servers, and the like.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+September that never ended 
+Home
+ SEX
+
+
+---
+
+
+
+SEX
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**SEX**: /seks/
+
+\[Sun Users' Group & elsewhere\] n.
+
+1\. Software EXchange. A technique invented by the blue-green algae hundreds of millions of years ago to speed up their evolution, which had been terribly slow up until then. Today, SEX parties are popular among hackers and others (of course, these are no longer limited to exchanges of genetic software). In general, SEX parties are a [*Good Thing*](../G/Good-Thing.html), but unprotected SEX can propagate a [*virus*](../V/virus.html). See also [*pubic directory*](../P/pubic-directory.html).
+
+2\. The rather Freudian mnemonic often used for Sign EXtend, a machine instruction found in the [*PDP-11*](../P/PDP-11.html) and many other architectures. The RCA 1802 chip used in the early Elf and SuperElf personal computers had a ‘SEt X register’ SEX instruction, but this seems to have had little folkloric impact. The Data General instruction set also had **SEX**.
+
+[*DEC*](../D/DEC.html)'s engineers nearly got a [*PDP-11*](../P/PDP-11.html) assembler that used the **SEX** mnemonic out the door at one time, but (for once) marketing wasn't asleep and forced a change. That wasn't the last time this happened, either. The author of *The Intel 8086 Primer*, who was one of the original designers of the 8086, noted that there was originally a **SEX** instruction on that processor, too. He says that Intel management got cold feet and decreed that it be changed, and thus the instruction was renamed **CBW** and **CWD** (depending on what was being extended). Amusingly, the Intel 8048 (the microcontroller used in IBM PC keyboards) is also missing straight **SEX** but has logical-or and logical-and instructions **ORL** and **ANL**.
+
+The Motorola 6809, used in the Radio Shack Color Computer and in U.K.'s ‘Dragon 32’ personal computer, actually had an official **SEX** instruction; the 6502 in the Apple II with which it competed did not. British hackers thought this made perfect mythic sense; after all, it was commonly observed, you could (on some theoretical level) have sex with a dragon, but you can't have sex with an apple.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+server 
+Home
+ sex changer
+
+
+---
+
+
+
+sex changer
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sex changer**: n.
+
+Syn. [*gender mender*](../G/gender-mender.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+SEX 
+Home
+ shambolic link
+
+
+---
+
+
+
+shambolic link
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**shambolic link**: /sham·bol´ik link/, n.
+
+A Unix symbolic link, particularly when it confuses you, points to nothing at all, or results in your ending up in some completely unexpected part of the filesystem....
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sex changer 
+Home
+ shar file
+
+
+---
+
+
+
+shar file
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**shar file**: /shar´ fi:l/, n.
+
+Syn. [*sharchive*](sharchive.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+shambolic link 
+Home
+ sharchive
+
+
+---
+
+
+
+sharchive
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sharchive**: /shar´ki:v/, n.
+
+\[Unix and Usenet; from /bin/sh archive\] A [*flatten*](../F/flatten.html)ed representation of a set of one or more files, with the unique property that it can be unflattened (the original files restored) by feeding it through a standard Unix shell; thus, a sharchive can be distributed to anyone running Unix, and no special unpacking software is required. Sharchives are also intriguing in that they are typically created by shell scripts; the script that produces sharchives is thus a script which produces self-unpacking scripts, which may themselves contain scripts. Sharchives are also commonly referred to as ‘shar files’ after the name of the most common program for generating them.
+
+The downsides of sharchives are that they are an ideal venue for [*Trojan horse*](../T/Trojan-horse.html) attacks and that, for recipients not running Unix, no simple un-sharchiving program is possible; sharchives can and do make use of arbitrarily-powerful shell features. For these reasons, this technique has largely fallen out of use since the mid-1990s.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+shar file 
+Home
+ Share and enjoy!
+
+
+---
+
+
+
+Share and enjoy!
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**Share and enjoy!**: imp.
+
+1\. Commonly found at the end of software release announcements and [*README file*](../R/README-file.html)s, this phrase indicates allegiance to the hacker ethic of free information sharing (see [*hacker ethic*](../H/hacker-ethic.html), sense 1).
+
+2\. The motto of the complaints division of Sirius Cybernetics Corporation (the ultimate gaggle of incompetent [*suit*](suit.html)s) in Douglas Adams's *Hitch Hiker's Guide to the Galaxy*. The irony of using this as a cultural recognition signal appeals to hackers.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sharchive 
+Home
+ shareware
+
+
+---
+
+
+
+shareware
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**shareware**: /sheir´weir/, n.
+
+A kind of [*freeware*](../F/freeware.html) for which the author requests some payment, usually in the accompanying documentation files or in an announcement made by the software itself. Such payment may or may not buy additional support or functionality. See also [*careware*](../C/careware.html), [*charityware*](../C/charityware.html), [*crippleware*](../C/crippleware.html), [*FRS*](../F/FRS.html), [*guiltware*](../G/guiltware.html), [*postcardware*](../P/postcardware.html), and [*-ware*](../W/suffix-ware.html); compare [*payware*](../P/payware.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Share and enjoy! 
+Home
+ sharing violation
+
+
+---
+
+
+
+sharing violation
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sharing violation**
+
+\[From a file error common to several [*OS*](../O/OS.html)es\] A response to receiving information, typically of an excessively personal nature, that you were probably happier not knowing. “You know those little noises that Pat makes in bed?” “Whoa! Sharing violation!” In contrast to the original file error, which indicated that you were *not* being given data that you *did* want.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+shareware 
+Home
+ shebang
+
+
+---
+
+
+
+shebang
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**shebang**: /sh@·bang/, n.
+
+\[possibly a portmanteau of “sharp bang”\] The character sequence “\#!” that frequently begins executable shell scripts under Unix. Probably derived from “shell bang” under the influence of American slang “the whole shebang” (everything, the works).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sharing violation 
+Home
+ shelfware
+
+
+---
+
+
+
+shelfware
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**shelfware**: /shelf´weir/, n.
+
+Software purchased on a whim (by an individual user) or in accordance with policy (by a corporation or government agency), but not actually required for any particular use. Therefore, it often ends up on some shelf.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+shebang 
+Home
+ shell
+
+
+---
+
+
+
+shell
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**shell**: n.
+
+\[orig. [*Multics*](../M/Multics.html) techspeak, widely propagated via Unix\]
+
+1\. \[techspeak\] The command interpreter used to pass commands to an operating system; so called because it is the part of the operating system that interfaces with the outside world.
+
+2\. More generally, any interface program that mediates access to a special resource or [*server*](server.html) for convenience, efficiency, or security reasons; for this meaning, the usage is usually a shell around whatever. This sort of program is also called a wrapper.
+
+3\. A skeleton program, created by hand or by another program (like, say, a parser generator), which provides the necessary [*incantation*](../I/incantation.html)s to set up some task and the control flow to drive it (the term [*driver*](../D/driver.html) is sometimes used synonymously). The user is meant to fill in whatever code is needed to get real work done. This usage is common in the AI and Microsoft Windows worlds, and confuses Unix hackers.
+
+Historical note: Apparently, the original Multics shell (sense 1) was so called because it was a shell (sense 3); it ran user programs not by starting up separate processes, but by dynamically linking the programs into its own code, calling them as subroutines, and then dynamically de-linking them on return. The VMS command interpreter still does something very like this.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+shelfware 
+Home
+ shell out
+
+
+---
+
+
+
+shell out
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**shell out**: vi.
+
+\[Unix\] To [*spawn*](spawn.html) an interactive subshell from within a program (e.g., a mailer or editor). “Bang foo runs foo in a subshell, while bang alone shells out.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+shell 
+Home
+ shift left (or right) logical
+
+
+---
+
+
+
+shift left (or right) logical
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**shift left (or right) logical**
+
+\[from any of various machines' instruction sets\]
+
+1\. vi. To move oneself to the left (right). To move out of the way.
+
+2\. imper. “Get out of my seat! You can shift to that empty one to the left (right).” Often used without the logical, or as left shift instead of shift left. Sometimes heard as LSH /lish/, from the [*PDP-10*](../P/PDP-10.html) instruction set. See [*Programmer's Cheer*](../P/Programmers-Cheer.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+shell out 
+Home
+ shim
+
+
+---
+
+
+
+shim
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**shim**: n.
+
+1\. A small piece of data inserted in order to achieve a desired memory alignment or other addressing property. For example, the [*PDP-11*](../P/PDP-11.html) Unix linker, in split I&D (instructions and data) mode, inserts a two-byte shim at location 0 in data space so that no data object will have an address of 0 (and be confused with the C null pointer). See also [*loose bytes*](../L/loose-bytes.html).
+
+2\. A type of small transparent image inserted into HTML documents by certain WYSIWYG HTML editors, used to set the spacing of elements meant to have a fixed positioning within a TABLE or DIVision. Hackers who work on the HTML code of such pages afterwards invariably curse these for their crocky dependence on the particular spacing of original image file, the editor that generated them, and the version of the browser used to view them. Worse, they are a poorly designed [*kludge*](../K/kludge.html) which the advent of Cascading Style Sheets makes wholly unnecessary; Any fool can plainly see that use of borders, layers and positioned elements is the Right Thing (or would be if adequate support for CSS were more common).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+shift left (or right) logical 
+Home
+ shitogram
+
+
+---
+
+
+
+shitogram
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**shitogram**: /shit´oh·gram/, n.
+
+A *really* nasty piece of email. Compare [*nastygram*](../N/nastygram.html), [*flame*](../F/flame.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+shim 
+Home
+ shotgun debugging
+
+
+---
+
+
+
+shotgun debugging
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**shotgun debugging**: n.
+
+The software equivalent of [*Easter egging*](../E/Easter-egging.html); the making of relatively undirected changes to software in the hope that a bug will be perturbed out of existence. This almost never works, and usually introduces more bugs.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+shitogram 
+Home
+ shovelware
+
+
+---
+
+
+
+shovelware
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**shovelware**: /shuh´v@l·weir\`/, n.
+
+1\. Extra software dumped onto a CD-ROM or tape to fill up the remaining space on the medium after the software distribution it's intended to carry, but not integrated with the distribution.
+
+2\. A slipshod compilation of software dumped onto a CD-ROM without much care for organization or even usability.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+shotgun debugging 
+Home
+ showstopper
+
+
+---
+
+
+
+showstopper
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**showstopper**: n.
+
+A hardware or (especially) software bug that makes an implementation effectively unusable; one that absolutely has to be fixed before development can go on. Opposite in connotation from its original theatrical use, which refers to something stunningly *good*.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+shovelware 
+Home
+ shriek
+
+
+---
+
+
+
+shriek
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**shriek**: n.
+
+See [*excl*](../E/excl.html). Occasional CMU usage, also in common use among APL fans and mathematicians, especially category theorists.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+showstopper 
+Home
+ Shub-Internet
+
+
+---
+
+
+
+Shub-Internet
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**Shub-Internet**: /shuhb´ in´t@r·net/, n.
+
+\[MUD: from H. P. Lovecraft's evil fictional deity Shub-Niggurath, the Black Goat with a Thousand Young\] The harsh personification of the Internet: Beast of a Thousand Processes, Eater of Characters, Avatar of Line Noise, and Imp of Call Waiting; the hideous multi-tendriled entity formed of all the manifold connections of the net. A sect of MUDders worships Shub-Internet, sacrificing objects and praying for good connections. To no avail — its purpose is malign and evil, and it is the cause of all network slowdown. Often heard as in “Freela casts a tac nuke at Shub-Internet for slowing her down.” (A forged response often follows along the lines of: “Shub-Internet gulps down the tac nuke and burps happily.”) Also cursed by users of the Web, FTP and telnet when the network lags. The dread name of Shub-Internet is seldom spoken aloud, as it is said that repeating it three times will cause the being to wake, deep within its lair beneath the Pentagon. Compare [*Random Number God*](../R/Random-Number-God.html).
+
+\[January 1996: It develops that one of the computer administrators in the basement of the Pentagon read this entry and fell over laughing. As a result, you too can now poke Shub-Internet by [*ping*](../P/ping.html)ing `shub-internet.ims.disa.mil`. Compare [*kremvax*](../K/kremvax.html). —ESR\]
+
+\[April 1999: shub-internet.ims.disa.mil is no more, alas. But Shub-Internet lives, and even has a home page. —ESR\]
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+shriek 
+Home
+ SIG
+
+
+---
+
+
+
+SIG
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**SIG**: /sig/, n.
+
+(also common as a prefix in combining forms) A Special Interest Group, in one of several technical areas, sponsored by the Association for Computing Machinery; well-known ones include SIGPLAN (the Special Interest Group on Programming Languages), SIGARCH (the Special Interest Group for Computer Architecture) and SIGGRAPH (the Special Interest Group for Computer Graphics). Hackers, not surprisingly, like to overextend this naming convention to less formal associations like SIGBEER (at ACM conferences) and SIGFOOD (at University of Illinois).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Shub-Internet 
+Home
+ sig block
+
+
+---
+
+
+
+sig block
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sig block**: /sig blok/, n.
+
+\[Internet and Usenet; often written ‘.sig’ there\] Short for ‘signature’, used specifically to refer to the electronic signature block that most Unix mail- and news-posting software will [*automagically*](../A/automagically.html) append to outgoing mail and news. The composition of one's sig can be quite an art form, including an ASCII logo, one's choice of witty sayings (see [*sig quote*](sig-quote.html), [*fool file*](../F/fool-file.html)), or even source code for small programs about which the author wishes to make a statement; but many consider large sigs a waste of [*bandwidth*](../B/bandwidth.html), and it has been observed that the size of one's sig block is usually inversely proportional to one's longevity and level of prestige on the net. See also [*doubled sig*](../D/doubled-sig.html), [*McQuary limit*](../M/McQuary-limit.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+SIG 
+Home
+ sig quote
+
+
+---
+
+
+
+sig quote
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sig quote**: /sig kwoht/, n.
+
+\[Usenet\] A maxim, quote, proverb, joke, or slogan embedded in one's [*sig block*](sig-block.html) and intended to convey something of one's philosophical stance, pet peeves, or sense of humor. “Calm down, it's only ones and zeroes.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sig block 
+Home
+ sig virus
+
+
+---
+
+
+
+sig virus
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sig virus**: n.
+
+A parasitic [*meme*](../M/meme.html) embedded in a [*sig block*](sig-block.html). There was a [*meme plague*](../M/meme-plague.html) or fad for these on Usenet in late 1991. Most were equivalents of “I am a .sig virus. Please reproduce me in your .sig block.”. Of course, the .sig virus's memetic hook is the giggle value of going along with the gag; this, however, was a self-limiting phenomenon as more and more people picked up on the idea. There were creative variants on it; some people stuck ‘sig virus antibody’ texts in their sigs, and there was at least one instance of a sig virus eater.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sig quote 
+Home
+ sigmonster
+
+
+---
+
+
+
+sigmonster
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sigmonster**: n.
+
+\[common\] A beast that randomly chooses one of a selection of signatures for appending to mail and news messages. The creature is most often mentioned directly when it has been in particularly good form and selected a signature appropriate to the topic being discussed; the construction “P.S.: good sigmonster, have a cookie” is not uncommon. While the are sigmonster programs floating around on the net, most hackers who keep one use a silly little Perl or Python script that they threw together in the middle of the night under the influence of far too much caffeine.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sig virus 
+Home
+ signal-to-noise ratio
+
+
+---
+
+
+
+signal-to-noise ratio
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**signal-to-noise ratio**: n.
+
+\[from analog electronics\] Used by hackers in a generalization of its technical meaning. ‘Signal’ refers to useful information conveyed by some communications medium, and ‘noise’ to anything else on that medium. Hence a low ratio implies that it is not worth paying attention to the medium in question. Figures for such metaphorical ratios are never given. The term is most often applied to [*Usenet*](../U/Usenet.html) newsgroups during [*flame war*](../F/flame-war.html)s. Compare [*bandwidth*](../B/bandwidth.html). See also [*coefficient of X*](../C/coefficient-of-X.html), [*lost in the noise*](../L/lost-in-the-noise.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sigmonster 
+Home
+ silicon
+
+
+---
+
+
+
+silicon
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**silicon**: n.
+
+Hardware, esp. ICs or microprocessor-based computer systems (compare [*iron*](../I/iron.html)). Contrasted with software. See also [*sandbender*](sandbender.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+signal-to-noise ratio 
+Home
+ silly walk
+
+
+---
+
+
+
+silly walk
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**silly walk**: vi.
+
+\[from Monty Python's Flying Circus\]
+
+1\. A ridiculous procedure required to accomplish a task. Like [*grovel*](../G/grovel.html), but more [*random*](../R/random.html) and humorous. “I had to silly-walk through half the /usr directories to find the maps file.”
+
+2\. Syn. [*fandango on core*](../F/fandango-on-core.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+silicon 
+Home
+ silo
+
+
+---
+
+
+
+silo
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**silo**: n.
+
+The FIFO input-character buffer in an RS-232 line card. So called from [*DEC*](../D/DEC.html) terminology used on DH and DZ line cards for the [*VAX*](../V/VAX.html) and [*PDP-11*](../P/PDP-11.html), presumably because it was a storage space for fungible stuff that went in at the top and came out at the bottom.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+silly walk 
+Home
+ since time T equals minus infinity
+
+
+---
+
+
+
+since time T equals minus infinity
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**since time T equals minus infinity**: adv.
+
+A long time ago; for as long as anyone can remember; at the time that some particular frob was first designed. Usually the word ‘time’ is omitted. See also [*time T*](../T/time-T.html); contrast [*epoch*](../E/epoch.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+silo 
+Home
+ sitename
+
+
+---
+
+
+
+sitename
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sitename**: /si:t´naym/, n.
+
+\[Unix/Internet\] The unique electronic name of a computer system, used to identify it in email, Usenet, or other forms of electronic information interchange. The folklore interest of sitenames stems from the creativity and humor they often display. Interpreting a sitename is not unlike interpreting a vanity license plate; one has to mentally unpack it, allowing for mono-case and length restrictions and the lack of whitespace. Hacker tradition deprecates dull, institutional-sounding names in favor of punchy, humorous, and clever coinages (except that it is considered appropriate for the official public gateway machine of an organization to bear the organization's name or acronym). Mythological references, cartoon characters, animal names, and allusions to SF or fantasy literature are probably the most popular sources for sitenames (in roughly descending order). The obligatory comment when discussing these is Harris's Lament: “All the good ones are taken!” See also [*network address*](../N/network-address.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+since time T equals minus infinity 
+Home
+ skrog
+
+
+---
+
+
+
+skrog
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**skrog**: v.
+
+Syn. [*scrog*](scrog.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sitename 
+Home
+ skulker
+
+
+---
+
+
+
+skulker
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**skulker**: n.
+
+Syn. [*prowler*](../P/prowler.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+skrog 
+Home
+ slab
+
+
+---
+
+
+
+slab
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**slab**:
+
+1\. n. A continuous horizontal line of pixels, all with the same color.
+
+2\. vi. To paint a slab on an output device. Apple's QuickDraw, like most other professional-level graphics systems, renders polygons and lines not with Bresenham's algorithm, but by calculating slab points for each scan line on the screen in succession, and then slabbing in the actual image pixels.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+skulker 
+Home
+ slack
+
+
+---
+
+
+
+slack
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**slack**: n.
+
+1\. Space allocated to a disk file but not actually used to store useful information. The techspeak equivalent is ‘internal fragmentation’. Antonym: [*hole*](../H/hole.html).
+
+2\. In the theology of the [*Church of the SubGenius*](../C/Church-of-the-SubGenius.html), a mystical substance or quality that is the prerequisite of all human happiness.
+
+Since Unix files are stored compactly, except for the unavoidable wastage in the last block or fragment, it might be said that “Unix has no slack”. See [*ha ha only serious*](../H/ha-ha-only-serious.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+slab 
+Home
+ slash
+
+
+---
+
+
+
+slash
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**slash**: n.
+
+Common name for the slant (‘/’, ASCII 0101111) character. See [*ASCII*](../A/ASCII.html) for other synonyms.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+slack 
+Home
+ slashdot effect
+
+
+---
+
+
+
+slashdot effect
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**slashdot effect**: n.
+
+1\. Also spelled “/. effect”; what is said to have happened when a website becoming virtually unreachable because too many people are hitting it after the site was mentioned in an interesting article on the popular Slashdot news service. The term is quite widely used by /. readers, including variants like “That site has been slashdotted again!”
+
+2\. In a perhaps inevitable generation, the term is being used to describe any similar effect from being listed on a popular site. This would better be described as a [*flash crowd*](../F/flash-crowd.html). Differs from a [*DoS attack*](../D/DoS-attack.html) in being unintentional.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+slash 
+Home
+ sleep
+
+
+---
+
+
+
+sleep
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sleep**: vi.
+
+1\. \[techspeak\] To relinquish a claim (of a process on a multitasking system) for service; to indicate to the scheduler that a process may be deactivated until some given event occurs or a specified time delay elapses.
+
+2\. In jargon, used very similarly to v. [*block*](../B/block.html); also in sleep on, syn.: with block on. Often used to indicate that the speaker has relinquished a demand for resources until some (possibly unspecified) external event: “They can't get the fix I've been asking for into the next release, so I'm going to sleep on it until the release, then start hassling them again.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+slashdot effect 
+Home
+ slim
+
+
+---
+
+
+
+slim
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**slim**: n.
+
+A small, derivative change (e.g., to code).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sleep 
+Home
+ slop
+
+
+---
+
+
+
+slop
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**slop**: n.
+
+1\. A one-sided [*fudge factor*](../F/fudge-factor.html), that is, an allowance for error but in only one of two directions. For example, if you need a piece of wire 10 feet long and have to guess when you cut it, you make very sure to cut it too long, by a large amount if necessary, rather than too short by even a little bit, because you can always cut off the slop but you can't paste it back on again. When discrete quantities are involved, slop is often introduced to avoid the possibility of being on the losing side of a [*fencepost error*](../F/fencepost-error.html).
+
+2\. The percentage of ‘extra’ code generated by a compiler over the size of equivalent assembler code produced by [*hand-hacking*](../H/hand-hacking.html); i.e., the space (or maybe time) you lose because you didn't do it yourself. This number is often used as a measure of the goodness of a compiler; slop below 5% is very good, and 10% is usually acceptable. With modern compiler technology, esp. on RISC machines, the compiler's slop may actually be *negative*; that is, humans may be unable to generate code as good. This is one of the reasons assembler programming is no longer common.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+slim 
+Home
+ slopsucker
+
+
+---
+
+
+
+slopsucker
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**slopsucker**: /slop´suhk·r/, n.
+
+A lowest-priority task that waits around until everything else has ‘had its fill’ of machine resources. Only when the machine would otherwise be idle is the task allowed to \`‘suck up the slop’. Also called a hungry puppy or bottom feeder. One common variety of slopsucker hunts for large prime numbers. Compare [*background*](../B/background.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+slop 
+Home
+ Slowlaris
+
+
+---
+
+
+
+Slowlaris
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**Slowlaris**: /slo'·lahr·is/, n.
+
+\[Usenet; poss. from the variety of prosimian called a “slow loris”. The variant ‘Slowlartus’ is also common, related to [*LART*](../L/LART.html)\] Common hackish term for Solaris, Sun's System VR4 version of Unix that came out of the standardization wars of the early 1990s. So named because especially on older hardware, responsiveness was much less crisp than under the preceding SunOS. Early releases of Solaris (that is, Solaris 2, as some [*marketroid*](../M/marketroid.html)s at Sun retroactively rechristened SunOS as Solaris 1) were quite buggy, and Sun was forced by customer demand to support SunOS for quite some time. Newer versions are acknowledged to be among the best commercial Unix variants in 1998, but still lose single-processor benchmarks to Sparc [*Linux*](../L/Linux.html). Compare [*HP-SUX*](../H/HP-SUX.html), [*sun-stools*](sun-stools.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+slopsucker 
+Home
+ slurp
+
+
+---
+
+
+
+slurp
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**slurp**: vt.
+
+To read a large data file entirely into [*core*](../C/core.html) before working on it. This may be contrasted with the strategy of reading a small piece at a time, processing it, and then reading the next piece. “This program slurps in a 1K-by-1K matrix and does an FFT.” See also [*sponge*](sponge.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Slowlaris 
+Home
+ slurp the robot
+
+
+---
+
+
+
+slurp the robot
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**slurp the robot**
+
+See [*STR*](STR.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+slurp 
+Home
+ smart
+
+
+---
+
+
+
+smart
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**smart**: adj.
+
+Said of a program that does the [*Right Thing*](../R/Right-Thing.html) in a wide variety of complicated circumstances. There is a difference between calling a program smart and calling it intelligent; in particular, there do not exist any intelligent programs (yet — see [*AI-complete*](../A/AI-complete.html)). Compare [*robust*](../R/robust.html) (smart programs can be [*brittle*](../B/brittle.html)).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+slurp the robot 
+Home
+ smart terminal
+
+
+---
+
+
+
+smart terminal
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**smart terminal**: n.
+
+1\. A terminal that has enough computing capability to render graphics or to offload some kind of front-end processing from the computer it talks to. The development of workstations and personal computers has made this term and the product it describes semi-obsolescent, but one may still hear variants of the phrase act like a smart terminal used to describe the behavior of workstations or PCs with respect to programs that execute almost entirely out of a remote [*server*](server.html)'s storage, using local devices as displays.
+
+2\. obs. Any terminal with an addressable cursor; the opposite of a [*glass tty*](../G/glass-tty.html). Today, a terminal with merely an addressable cursor, but with none of the more-powerful features mentioned in sense 1, is called a [*dumb terminal*](../D/dumb-terminal.html).
+
+There is a classic quote from Rob Pike (inventor of the [*blit*](../B/blit.html) terminal): “A smart terminal is not a smart*ass* terminal, but rather a terminal you can educate.” This illustrates a common design problem: The attempt to make peripherals (or anything else) intelligent sometimes results in finicky, rigid ‘special features’ that become just so much dead weight if you try to use the device in any way the designer didn't anticipate. Flexibility and programmability, on the other hand, are *really* smart. Compare [*hook*](../H/hook.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+smart 
+Home
+ smash case
+
+
+---
+
+
+
+smash case
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**smash case**: vi.
+
+To lose or obliterate the uppercase/lowercase distinction in text input. “MS-DOS will automatically smash case in the names of all the files you create.” Compare [*fold case*](../F/fold-case.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+smart terminal 
+Home
+ smash the stack
+
+
+---
+
+
+
+smash the stack
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**smash the stack**: n.
+
+\[C programming\] To corrupt the execution stack by writing past the end of a local array or other data structure. Code that smashes the stack can cause a return from the routine to jump to a random address, resulting in some of the most insidious data-dependent bugs known to mankind. Variants include trash the stack, [*scribble*](scribble.html) the stack, [*mangle*](../M/mangle.html) the stack; the term \*\*[*mung*](../M/mung.html) the stack is not used, as this is never done intentionally. See [*spam*](spam.html); see also [*aliasing bug*](../A/aliasing-bug.html), [*fandango on core*](../F/fandango-on-core.html), [*memory leak*](../M/memory-leak.html), [*memory smash*](../M/memory-smash.html), [*precedence lossage*](../P/precedence-lossage.html), [*overrun screw*](../O/overrun-screw.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+smash case 
+Home
+ smiley
+
+
+---
+
+
+
+smiley
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**smiley**: n.
+
+See [*emoticon*](../E/emoticon.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+smash the stack 
+Home
+ smoke
+
+
+---
+
+
+
+smoke
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**smoke**: vi.
+
+1\. To [*crash*](../C/crash.html) or blow up, usually spectacularly. “The new version smoked, just like the last one.” Used for both hardware (where it often describes an actual physical event), and software (where it's merely colorful).
+
+2\. \[from automotive slang\] To be conspicuously fast. “That processor really smokes.” Compare [*magic smoke*](../M/magic-smoke.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+smiley 
+Home
+ smoke and mirrors
+
+
+---
+
+
+
+smoke and mirrors
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**smoke and mirrors**: n.
+
+Marketing deceptions. The term is mainstream in this general sense. Among hackers it's strongly associated with bogus demos and crocked [*benchmark*](../B/benchmark.html)s (see also [*MIPS*](../M/MIPS.html), [*machoflops*](../M/machoflops.html)). “They claim their new box cranks 50 MIPS for under $5000, but didn't specify the instruction mix — sounds like smoke and mirrors to me.” The phrase, popularized by newspaper columnist Jimmy Breslin c.1975, has been said to derive from carnie slang for magic acts and ‘freak show’ displays that depend on *trompe l'oeil* effects, but also calls to mind the fierce Aztec god Tezcatlipoca (lit. “Smoking Mirror”) for whom the hearts of huge numbers of human sacrificial victims were regularly cut out. Upon hearing about a rigged demo or yet another round of fantasy-based marketing promises, hackers often feel analogously disheartened. See also [*stealth manager*](stealth-manager.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+smoke 
+Home
+ smoke test
+
+
+---
+
+
+
+smoke test
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**smoke test**: n.
+
+1\. A rudimentary form of testing applied to electronic equipment following repair or reconfiguration, in which power is applied and the tester checks for sparks, smoke, or other dramatic signs of fundamental failure. See [*magic smoke*](../M/magic-smoke.html).
+
+2\. By extension, the first run of a piece of software after construction or a critical change. See and compare [*reality check*](../R/reality-check.html).
+
+There is an interesting semi-parallel to this term among typographers and printers: When new typefaces are being punch-cut by hand, a smoke test (hold the letter in candle smoke, then press it onto paper) is used to check out new dies.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+smoke and mirrors 
+Home
+ smoking clover
+
+
+---
+
+
+
+smoking clover
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**smoking clover**: n.
+
+\[ITS\] A [*display hack*](../D/display-hack.html) originally due to Bill Gosper. Many convergent lines are drawn on a color monitor in such a way that every pixel struck has its color incremented. The lines all have one endpoint in the middle of the screen; the other endpoints are spaced one pixel apart around the perimeter of a large square. The color map is then repeatedly rotated. This results in a striking, rainbow-hued, shimmering four-leaf clover. Gosper joked about keeping it hidden from the FDA (the U.S.'s Food and Drug Administration) lest its hallucinogenic properties cause it to be banned.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+smoke test 
+Home
+ smoot
+
+
+---
+
+
+
+smoot
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**smoot**: /smoot/, n.
+
+\[MIT\] A unit of length equal five feet seven inches. The length of the Harvard Bridge in Boston is famously 364.4 smoots plus an ear (the ear is allegedly the width of the earhole in the side of the football helmet the victim was wearing when he was rolled over the bridge). This legend began with a fraternity prank in 1958 during which the body length of Oliver Smoot (class of '62) was actually used to measure out that distance. It is commemorated by smoot marks that MIT students repaint every few years; the tradition even survived the demolition and rebuilding of the bridge in the late 1980s. The Boston police have been known to use smoot markers to indicate accident locations on the bridge. Apparently Smoot's experience as a unit of measurement led to a life-long career; he eventually became Chairman of the Board of the American National Standards Institute, and later President of the International Organization for Standardization.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+smoking clover 
+Home
+ SMOP
+
+
+---
+
+
+
+SMOP
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**SMOP**: /S·M·O·P/, n.
+
+\[Simple (or Small) Matter of Programming\]
+
+1\. A piece of code, not yet written, whose anticipated length is significantly greater than its complexity. Used to refer to a program that could obviously be written, but is not worth the trouble. Also used ironically to imply that a difficult problem can be easily solved because a program can be written to do it; the irony is that it is very clear that writing such a program will be a great deal of work. “It's easy to enhance a FORTRAN compiler to compile COBOL as well; it's just a SMOP.”
+
+2\. Often used ironically by the intended victim when a suggestion for a program is made which seems easy to the suggester, but is obviously (to the victim) a lot of work. Compare [*minor detail*](../M/minor-detail.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+smoot 
+Home
+ smurf
+
+
+---
+
+
+
+smurf
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**smurf**: /smerf/, n.
+
+1\. \[from the `soc.motss` newsgroup on Usenet, after some obnoxiously gooey cartoon characters\] A newsgroup regular with a habitual style that is irreverent, silly, and cute. Like many other hackish terms for people, this one may be praise or insult depending on who uses it. In general, being referred to as a smurf is probably not going to make your day unless you've previously adopted the label yourself in a spirit of irony. Compare [*old fart*](../O/old-fart.html).
+
+2\. \[techspeak\] A ping packet with a forged source address sent to some other network's broadcast address. All the machines on the destination network will send a ping response to the forged source address (the victim). This both overloads the victim's network and hides the location of the attacker.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+SMOP 
+Home
+ SNAFU principle
+
+
+---
+
+
+
+SNAFU principle
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**SNAFU principle**: /sna´foo prin´si·pl/, n.
+
+\[from a WWII Army ac­ro­nym for ‘Situation Normal, All Fucked Up’\] “True communication is possible only between equals, because inferiors are more consistently rewarded for telling their superiors pleasant lies than for telling the truth.:” — a central tenet of [*Discordianism*](../D/Discordianism.html), often invoked by hackers to explain why authoritarian hierarchies screw up so reliably and systematically. The effect of the SNAFU principle is a progressive disconnection of decision-makers from reality. This lightly adapted version of a fable dating back to the early 1960s illustrates the phenomenon perfectly:
+
+  
+In the beginning was the plan,  
+       and then the specification;  
+And the plan was without form,  
+       and the specification was void.  
+  
+And darkness  
+       was on the faces of the implementors thereof;  
+And they spake unto their leader,  
+       saying:  
+“It is a crock of shit,  
+       and smells as of a sewer.”  
+  
+And the leader took pity on them,  
+       and spoke to the project leader:  
+“It is a crock of excrement,  
+       and none may abide the odor thereof.”  
+  
+And the project leader  
+       spake unto his section head, saying:  
+“It is a container of excrement,  
+       and it is very strong, such that none may abide it.”  
+  
+The section head then hurried to his department manager,  
+       and informed him thus:  
+“It is a vessel of fertilizer,  
+       and none may abide its strength.”  
+  
+The department manager carried these words  
+      to his general manager,  
+and spoke unto him  
+      saying:  
+“It containeth that which aideth the growth of plants,  
+      and it is very strong.”  
+  
+And so it was that the general manager rejoiced  
+      and delivered the good news unto the Vice President.  
+“It promoteth growth,  
+      and it is very powerful.”  
+  
+The Vice President rushed to the President's side,  
+      and joyously exclaimed:  
+“This powerful new software product  
+      will promote the growth of the company!”  
+  
+And the President looked upon the product,  
+      and saw that it was very good.  
+
+After the subsequent and inevitable disaster, the [*suit*](suit.html)s protect themselves by saying “I was misinformed!”, and the implementors are demoted or fired. Compare [*Conway's Law*](../C/Conways-Law.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+smurf 
+Home
+ snail
+
+
+---
+
+
+
+snail
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**snail**: vt.
+
+To [*snail-mail*](snail-mail.html) something. “Snail me a copy of those graphics, will you?”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+SNAFU principle 
+Home
+ snail-mail
+
+
+---
+
+
+
+snail-mail
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**snail-mail**: n.
+
+Paper mail, as opposed to electronic. Sometimes written as the single word ‘SnailMail’. One's postal address is, correspondingly, a snail address. Derives from earlier coinage *‘USnail*’ (from ‘U.S. Mail’), for which there have even been parody posters and stamps made. Also (less commonly) called P-mail, from ‘paper mail’ or ‘physical mail’. Oppose [*email*](../E/email.html).
+
+(Note: Actual garden snails progress at about 10 meters per hour, which is about 25-50 times slower than the U.K.'s Royal Mail; comparable measurements for other countries have not yet been made. More biologically apt terms might be “sloth-mail” at 250 m/hr or “tortoise-mail” at 270 m/hr. See http://www.newscientist.com/lastword/answers/789communication.jsp?tp=communication for details.)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+snail 
+Home
+ snap
+
+
+---
+
+
+
+snap
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**snap**: v.
+
+To replace a pointer to a pointer with a direct pointer; to replace an old address with the forwarding address found there. If you telephone the main number for an institution and ask for a particular person by name, the operator may tell you that person's extension before connecting you, in the hopes that you will snap your pointer and dial direct next time. The underlying metaphor may be that of a rubber band stretched through a number of intermediate points; if you remove all the thumbtacks in the middle, it snaps into a straight line from first to last. See [*chase pointers*](../C/chase-pointers.html).
+
+Often, the behavior of a [*trampoline*](../T/trampoline.html) is to perform an error check once and then snap the pointer that invoked it so as henceforth to bypass the trampoline (and its one-shot error check). In this context one also speaks of snapping links. For example, in a LISP implementation, a function interface trampoline might check to make sure that the caller is passing the correct number of arguments; if it is, and if the caller and the callee are both compiled, then snapping the link allows that particular path to use a direct procedure-call instruction with no further overhead.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+snail-mail 
+Home
+ snarf
+
+
+---
+
+
+
+snarf
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**snarf**: /snarf/, vt.
+
+1\. To grab, esp. to grab a large document or file for the purpose of using it with or without the author's permission. See also [*BLT*](../B/BLT.html).
+
+2\. \[in the Unix community\] To fetch a file or set of files across a network. See also [*blast*](../B/blast.html). This term was mainstream in the late 1960s, meaning ‘to eat piggishly’. It may still have this connotation in context. “He's in the snarfing phase of hacking — FTPing megs of stuff a day.”
+
+3\. To acquire, with little concern for legal forms or politesse (but not quite by stealing). “They were giving away samples, so I snarfed a bunch of them.”
+
+4\. Syn. for [*slurp*](slurp.html). “This program starts by snarfing the entire database into core, then....”
+
+5\. \[GEnie\] To spray food or [*programming fluid*](../P/programming-fluid.html)s due to laughing at the wrong moment. “I was drinking coffee, and when I read your post I snarfed all over my desk.” “If I keep reading this topic, I think I'll have to snarf-proof my computer with a keyboard [*condom*](../C/condom.html).” \[This sense appears to be widespread among mundane teenagers —ESR\] The sound of snarfing is [*splork!*](splork-.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+snap 
+Home
+ snarf &amp; barf
+
+
+---
+
+
+
+snarf &amp; barf
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**snarf & barf**: /snarf´n·barf\`/, n.
+
+Under a [*WIMP environment*](../W/WIMP-environment.html), the act of grabbing a region of text and then stuffing the contents of that region into another region (or the same one) to avoid retyping a command line. In the late 1960s, this was a mainstream expression for an ‘eat now, regret it later’ cheap-restaurant expedition.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+snarf 
+Home
+ snarf down
+
+
+---
+
+
+
+snarf down
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**snarf down**: v.
+
+To [*snarf*](snarf.html), with the connotation of absorbing, processing, or understanding. “I'll snarf down the latest version of the [*nethack*](../N/nethack.html) user's guide — it's been a while since I played last and I don't know what's changed recently.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+snarf &amp; barf 
+Home
+ snark
+
+
+---
+
+
+
+snark
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**snark**: n.
+
+\[Lewis Carroll, via the Michigan Terminal System\]
+
+1\. A system failure. When a user's process bombed, the operator would get the message “Help, Help, Snark in MTS!”
+
+2\. More generally, any kind of unexplained or threatening event on a computer (especially if it might be a boojum). Often used to refer to an event or a log file entry that might indicate an attempted security violation.
+
+3\. UUCP name of `snark.thyrsus.com`, home site of the Jargon File versions from 2.\*.\* on (i.e., this lexicon).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+snarf down 
+Home
+ sneaker
+
+
+---
+
+
+
+sneaker
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sneaker**: n.
+
+An individual hired to break into places in order to test their security; analogous to [*tiger team*](../T/tiger-team.html). Compare [*samurai*](samurai.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+snark 
+Home
+ sneakernet
+
+
+---
+
+
+
+sneakernet
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sneakernet**: /snee´ker·net/, n.
+
+Term used (generally with ironic intent) for transfer of electronic information by physically carrying tape, disks, or some other media from one machine to another. “Never underestimate the bandwidth of a station wagon filled with magtape, or a 747 filled with CD-ROMs.” Also called ‘Tennis-Net’, ‘Armpit-Net’, ‘Floppy-Net’ or ‘Shoenet’; in the 1990s, ‘Nike network’ after a well-known sneaker brand.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sneaker 
+Home
+ sniff
+
+
+---
+
+
+
+sniff
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sniff**: v.,n.
+
+1\. To watch packets traversing a network. Most often in the phrase packet sniffer, a program for doing same. 2. Synonym for [*poll*](../P/poll.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sneakernet 
+Home
+ snippage
+
+
+---
+
+
+
+snippage
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**snippage**: n.
+
+Synonym for [*deletia*](../D/deletia.html); the fact that something has been snipped when quoting is often indicated with the pseudo-HTML \.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sniff 
+Home
+ SO
+
+
+---
+
+
+
+SO
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**SO**: /S·O/, n.
+
+1\. (also S.O.) Abbrev. for Significant Other, almost invariably written abbreviated and pronounced /S·O/ by hackers. Used to refer to one's primary relationship, esp. a live-in to whom one is not married. See [*MOTAS*](../M/MOTAS.html), [*MOTOS*](../M/MOTOS.html), [*MOTSS*](../M/MOTSS.html).
+
+2\. \[techspeak\] The Shift Out control character in ASCII (Control-N, 0001110).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+snippage 
+Home
+ social engineering
+
+
+---
+
+
+
+social engineering
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**social engineering**: n.
+
+Term used among [*cracker*](../C/cracker.html)s and [*samurai*](samurai.html) for cracking techniques that rely on weaknesses in [*wetware*](../W/wetware.html) rather than software; the aim is to trick people into revealing passwords or other information that compromises a target system's security. Classic scams include phoning up a mark who has the required information and posing as a field service tech or a fellow employee with an urgent access problem. See also the [*tiger team*](../T/tiger-team.html) story in the [*patch*](../P/patch.html) entry, and [*rubber-hose cryptanalysis*](../R/rubber-hose-cryptanalysis.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+SO 
+Home
+ social science number
+
+
+---
+
+
+
+social science number
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**social science number**: n., //
+
+\[IBM\] A statistic that is [*content-free*](../C/content-free.html), or nearly so. A measure derived via methods of questionable validity from data of a dubious and vague nature. Predictively, having a social science number in hand is seldom much better than nothing, and can be considerably worse. As a rule, [*management*](../M/management.html) loves them. See also [*numbers*](../N/numbers.html), [*math-out*](../M/math-out.html), [*pretty pictures*](../P/pretty-pictures.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+social engineering 
+Home
+ sock puppet
+
+
+---
+
+
+
+sock puppet
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sock puppet**: n.
+
+\[Usenet: from the act of placing a sock over your hand and talking to it and pretending it's talking back\] In Usenet parlance, a [*pseudo*](../P/pseudo.html) through which the puppeteer posts follow-ups to their own original message to give the appearance that a number of people support the views held in the original message. See also [*astroturfing*](../A/astroturfing.html), [*tentacle*](../T/tentacle.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+social science number 
+Home
+ sodium substrate
+
+
+---
+
+
+
+sodium substrate
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sodium substrate**: n.
+
+Syn [*salt substrate*](salt-substrate.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sock puppet 
+Home
+ soft boot
+
+
+---
+
+
+
+soft boot
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**soft boot**: n.
+
+See [*boot*](../B/boot.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sodium substrate 
+Home
+ softcopy
+
+
+---
+
+
+
+softcopy
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**softcopy**: /soft´kop·ee/, n.
+
+\[by analogy with hardcopy\] A machine-readable form of corresponding hardcopy. See [*bits*](../B/bits.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+soft boot 
+Home
+ software bloat
+
+
+---
+
+
+
+software bloat
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**software bloat**: n.
+
+The results of [*second-system effect*](second-system-effect.html) or [*creeping featuritis*](../C/creeping-featuritis.html). Commonly cited examples include ls(1), [*X*](../X/X.html), [*BSD*](../B/BSD.html), and [*OS/2*](../O/OS-2.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+softcopy 
+Home
+ software hoarding
+
+
+---
+
+
+
+software hoarding
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**software hoarding**: n.
+
+Pejorative term employed by members and adherents of the [*GNU*](../G/GNU.html) project to describe the act of holding software proprietary, keeping it under trade secret or license terms which prohibit free redistribution and modification. Used primarily in Free Software Foundation propaganda. For a summary of related issues, see [*GNU*](../G/GNU.html) and [*free software*](../F/free-software.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+software bloat 
+Home
+ software laser
+
+
+---
+
+
+
+software laser
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**software laser**: n.
+
+An optical laser works by bouncing photons back and forth between two mirrors, one totally reflective and one partially reflective. If the lasing material (usually a crystal) has the right properties, photons scattering off the atoms in the crystal will excite cascades of more photons, all in lockstep. Eventually the beam will escape through the partially-reflective mirror. One kind of [*sorcerer's apprentice mode*](sorcerers-apprentice-mode.html) involving [*bounce message*](../B/bounce-message.html)s can produce closely analogous results, with a [*cascade*](../C/cascade.html) of messages escaping to flood nearby systems. By mid-1993 there had been at least two publicized incidents of this kind.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+software hoarding 
+Home
+ software rot
+
+
+---
+
+
+
+software rot
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**software rot**: n.
+
+Term used to describe the tendency of software that has not been used in a while to [*lose*](../L/lose.html); such failure may be semi-humorously ascribed to [*bit rot*](../B/bit-rot.html). More commonly, software rot strikes when a program's assumptions become out of date. If the design was insufficiently [*robust*](../R/robust.html), this may cause it to fail in mysterious ways. Syn. code rot. See also [*link rot*](../L/link-rot.html).
+
+For example, owing to endemic shortsightedness in the design of COBOL programs, a good number of them succumbed to software rot when their 2-digit year counters underwent [*wrap around*](../W/wrap-around.html) at the beginning of the year 2000. Actually, related lossages often afflict centenarians who have to deal with computer software designed by unimaginative clods. One such incident became the focus of a minor public flap in 1990, when a gentleman born in 1889 applied for a driver's license renewal in Raleigh, North Carolina. The new system refused to issue the card, probably because with 2-digit years the ages 101 and 1 cannot be distinguished.
+
+Historical note: Software rot in an even funnier sense than the mythical one was a real problem on early research computers (e.g., the R1; see [*grind crank*](../G/grind-crank.html)). If a program that depended on a peculiar instruction hadn't been run in quite a while, the user might discover that the opcodes no longer did the same things they once did. (“Hey, so-and-so needs an instruction to do such-and-such. We can [*snarf*](snarf.html) this opcode, right? No one uses it.”) Another classic example of this sprang from the time an MIT hacker found a simple way to double the speed of the unconditional jump instruction on a PDP-6, so he patched the hardware. Unfortunately, this broke some fragile timing software in a music-playing program, throwing its output out of tune. This was fixed by adding a defensive initialization routine to compare the speed of a timing loop with the real-time clock; in other words, it figured out how fast the PDP-6 was that day, and corrected appropriately.
+
+Compare [*bit rot*](../B/bit-rot.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+software laser 
+Home
+ softwarily
+
+
+---
+
+
+
+softwarily
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**softwarily**: /soft·weir´i·lee/, adv.
+
+In a way pertaining to software. “The system is softwarily unreliable.” The adjective \*\*‘softwary’ is *not* used. See [*hardwarily*](../H/hardwarily.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+software rot 
+Home
+ softy
+
+
+---
+
+
+
+softy
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**softy**: n.
+
+\[IBM\] Hardware hackers' term for a software expert who is largely ignorant of the mysteries of hardware.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+softwarily 
+Home
+ some random X
+
+
+---
+
+
+
+some random X
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**some random X**: adj.
+
+Used to indicate a member of class X, with the implication that Xs are interchangeable. “I think some random cracker tripped over the guest timeout last night.” See also [*J. Random*](../J/J--Random.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+softy 
+Home
+ sorcerer's apprentice mode
+
+
+---
+
+
+
+sorcerer's apprentice mode
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sorcerer's apprentice mode**: n.
+
+\[from Goethe's *Der Zauberlehrling* via Paul Dukas's *L'apprenti sorcier* in the film *Fantasia*.\] A bug in a protocol where, under some circumstances, the receipt of a message causes multiple messages to be sent, each of which, when received, triggers the same bug. Used esp. of such behavior caused by [*bounce message*](../B/bounce-message.html) loops in [*email*](../E/email.html) software. Compare [*broadcast storm*](../B/broadcast-storm.html), [*network meltdown*](../N/network-meltdown.html), [*software laser*](software-laser.html), [*ARMM*](../A/ARMM.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+some random X 
+Home
+ source
+
+
+---
+
+
+
+source
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**source**: n.
+
+\[very common\] In reference to software, source is invariably shorthand for ‘source code’, the preferred human-readable and human-modifiable form of the program. This is as opposed to object code, the derived binary executable form of a program. This shorthand readily takes derivative forms; one may speak of “the sources of a system” or of “having source”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sorcerer's apprentice mode 
+Home
+ source of all good bits
+
+
+---
+
+
+
+source of all good bits
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**source of all good bits**: n.
+
+A person from whom (or a place from which) useful information may be obtained. If you need to know about a program, a [*guru*](../G/guru.html) might be the source of all good bits. The title is often applied to a particularly competent secretary.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+source 
+Home
+ space-cadet keyboard
+
+
+---
+
+
+
+space-cadet keyboard
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**space-cadet keyboard**: n.
+
+A now-legendary device used on MIT LISP machines, which inspired several still-current jargon terms and influenced the design of [*EMACS*](../E/EMACS.html). It was equipped with no fewer than *seven* shift keys: four keys for [*bucky bits*](../B/bucky-bits.html) (‘control’, ‘meta’, ‘hyper’, and ‘super’) and three regular shift keys, called ‘shift’, ‘top’, and ‘front’. Many keys had three symbols on them: a letter and a symbol on the top, and a Greek letter on the front. For example, the ‘L’ key had an ‘L’ and a two-way arrow on the top, and the Greek letter lambda on the front. By pressing this key with the right hand while playing an appropriate ‘chord’ with the left hand on the shift keys, you could get the following results:
+
+L
+lowercase l
+
+shift-L
+uppercase L
+
+front-L
+λ
+
+front-shift-L
+Λ
+
+top-L
+⇔ (front and shift are ignored)
+
+And of course each of these might also be typed with any combination of the control, meta, hyper, and super keys. On this keyboard, you could type over 8000 different characters! This allowed the user to type very complicated mathematical text, and also to have thousands of single-character commands at his disposal. The keyboard of the Symbolics Lisp machine was a simplified version, lacking Top and Front keys, that could only send about 2000 characters.
+
+Many hackers were actually willing to memorize the command meanings of that many characters if it reduced typing time (this attitude obviously shaped the interface of EMACS). Other hackers, however, thought having that many bucky bits was overkill, and objected that such a keyboard can require three or four hands to operate. See [*bucky bits*](../B/bucky-bits.html), [*cokebottle*](../C/cokebottle.html), [*double bucky*](../D/double-bucky.html), [*meta bit*](../M/meta-bit.html), [*quadruple bucky*](../Q/quadruple-bucky.html).
+
+![](../graphics/symbolics-keyboard.jpg)
+
+Simplified Symbolics version of the space-cadet keyboard
+
+(Some relatively bad photographs of the earlier, more elaborate version are available on the Web.).
+
+Note: early versions of this entry incorrectly identified the space-cadet keyboard with the Knight keyboard. Though both were designed by Tom Knight, the latter term was properly applied only to a keyboard used for ITS on the PDP-10 and modeled on the Stanford keyboard (as described under [*bucky bits*](../B/bucky-bits.html)). The true space-cadet keyboard evolved from the first Knight keyboard.
+
+![](../graphics/73-05-19.png)
+
+An early [*space-cadet keyboard*](space-cadet-keyboard.html)
+
+(The next cartoon in the Crunchly saga is [73-05-20](../D/drop-outs.html#crunchly73-05-20). The previous one is [73-05-18](../M/math-out.html#crunchly73-05-18).)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+source of all good bits 
+Home
+ spaceship operator
+
+
+---
+
+
+
+spaceship operator
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spaceship operator**: n.
+
+The glyph ``, so-called apparently because in the low-resolution constant-width font used on many terminals it vaguely resembles a flying saucer. [*Perl*](../P/Perl.html) uses this to denote the signum-of-difference operation.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+space-cadet keyboard 
+Home
+ SPACEWAR
+
+
+---
+
+
+
+SPACEWAR
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**SPACEWAR**: n.
+
+A space-combat simulation game, inspired by E. E. “Doc” Smith's *Lensman* books, in which two spaceships duel around a central sun, shooting torpedoes at each other and jumping through hyperspace. This game was first implemented on the PDP-1 at MIT in 1962. In 1968-69, a descendant of the game motivated Ken Thompson to build, in his spare time on a scavenged PDP-7, the operating system that became [*Unix*](../U/Unix.html). Less than nine years after that, SPACEWAR was commercialized as one of the first video games; descendants are still [*feep*](../F/feep.html)ing in video arcades everywhere.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spaceship operator 
+Home
+ spaghetti code
+
+
+---
+
+
+
+spaghetti code
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spaghetti code**: n.
+
+Code with a complex and tangled control structure, esp. one using many GOTOs, exceptions, or other ‘unstructured’ branching constructs. Pejorative. The synonym kangaroo code has been reported, doubtless because such code has so many jumps in it.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+SPACEWAR 
+Home
+ spaghetti inheritance
+
+
+---
+
+
+
+spaghetti inheritance
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spaghetti inheritance**: n.
+
+\[encountered among users of object-oriented languages that use inheritance, such as Smalltalk\] A convoluted class-subclass graph, often resulting from carelessly deriving subclasses from other classes just for the sake of reusing their code. Coined in a (successful) attempt to discourage such practice, through guilt-by-association with [*spaghetti code*](spaghetti-code.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spaghetti code 
+Home
+ spam
+
+
+---
+
+
+
+spam
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spam**: vt.,vi.,n.
+
+\[from *Monty Python's Flying Circus*\]
+
+1\. To crash a program by overrunning a fixed-size buffer with excessively large input data. See also [*buffer overflow*](../B/buffer-overflow.html), [*overrun screw*](../O/overrun-screw.html), [*smash the stack*](smash-the-stack.html).
+
+2\. To cause a newsgroup to be flooded with irrelevant or inappropriate messages. You can spam a newsgroup with as little as one well- (or ill-) planned message (e.g. asking “What do you think of abortion?” on `soc.women`). This is often done with [*cross-post*](../C/cross-post.html)ing (e.g. any message which is cross-posted to `alt.rush-limbaugh` and `alt.politics.homosexuality` will almost inevitably spam both groups). This overlaps with [*troll*](../T/troll.html) behavior; the latter more specific term has become more common.
+
+3\. To send many identical or nearly-identical messages separately to a large number of Usenet newsgroups. This is more specifically called ECP, Excessive Cross-Posting. This is one sure way to infuriate nearly everyone on the Net. See also [*velveeta*](../V/velveeta.html) and [*jello*](../J/jello.html).
+
+4\. To bombard a newsgroup with multiple copies of a message. This is more specifically called EMP, Excessive Multi-Posting.
+
+5\. To mass-mail unrequested identical or nearly-identical email messages, particularly those containing advertising. Especially used when the mail addresses have been culled from network traffic or databases without the consent of the recipients. Synonyms include [*UCE*](../U/UCE.html), [*UBE*](../U/UBE.html). As a noun, ‘spam’ refers to the messages so sent.
+
+6\. Any large, annoying, quantity of output. For instance, someone on IRC who walks away from their screen and comes back to find 200 lines of text might say “Oh no, spam”.
+
+The later definitions have become much more prevalent as the Internet has opened up to non-techies, and to most people senses 3 4 and 5 are now primary. All three behaviors are considered abuse of the net, and are almost universally grounds for termination of the originator's email account or network connection. In these senses the term ‘spam’ has gone mainstream, though without its original sense or folkloric freight — there is apparently a widespread myth among [*luser*](../L/luser.html)s that “spamming” is what happens when you dump cans of Spam into a revolving fan. Hormel, the makers of Spam, have published a surprisingly enlightened position statement on the Internet usage.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spaghetti inheritance 
+Home
+ spam bait
+
+
+---
+
+
+
+spam bait
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spam bait**: n.
+
+Email addresses included in, or comprising the entirety of, a Usenet message so that spammers mining a newsgroup with an [*address harvester*](../A/address-harvester.html) will collect them. These addresses can be people who have offended or annoyed the poster, or who are included so that a spammer will spam an official, thereby causing himself trouble. One particularly effective form of spam bait is the address of a [*teergrube*](../T/teergrube.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spam 
+Home
+ spamblock
+
+
+---
+
+
+
+spamblock
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spamblock**: /spam´blok/, n.
+
+\[poss. by analogy to sunblock\] Text inserted in an email address to render it invalid and thus useless to spammers. For example, the address `` might be transformed to ``. Adding spamblock to an address is often referred to as munging it (see [*munge*](../M/munge.html)). This evasion tactic depends on the fact that most spammers collect names with some sort of [*address harvester*](../A/address-harvester.html) on volumes too high to de-mung by hand, but individual humans reading an email message can readily spot and remove a spamblock in the From address.
+
+Note: This is not actually a very effective tactic, and may already be passing out of use in early 1999 after about two years of life. In both mail and news, it's essentially impossible to keep a smart address harvester from mining out the addresses in the message header and trace lines. Therefore the only people who can be protected are third parties mentioned by email address in the message — not a common enough case to interest spammers.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spam bait 
+Home
+ spamhaus
+
+
+---
+
+
+
+spamhaus
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spamhaus**: spam´hows, n.
+
+Pejorative term for an internet service provider that permits or even encourages [*spam*](spam.html) mailings from its systems. The plural is spamhausen. There is a web page devoted to tracking spamhausen.
+
+The most notorious of the spamhausen was Sanford Wallace's Cyber Promotions Inc., shut down by a lawsuit on 16 October 1997. The anniversary of the shutdown is celebrated on Usenet as Spam Freedom Day, but lesser imitators of the Spamford still infest various murky corners of the net. Since prosecution of spammers became routine under the junk-fax laws and statues specifically targeting spam, spamhausen have declined in relative importance; today, hit-and-run attacks by spammers using [*relay rape*](../R/relay-rape.html) and [*throwaway account*](../T/throwaway-account.html)s on reputable ISPs seem to account for most of the flow.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spamblock 
+Home
+ spamvertize
+
+
+---
+
+
+
+spamvertize
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spamvertize**: v.
+
+To advertise using [*spam*](spam.html). Pejorative.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spamhaus 
+Home
+ spangle
+
+
+---
+
+
+
+spangle
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spangle**: n.
+
+\[UK\] The singular of [*bells and whistles*](../B/bells-and-whistles.html). See also [*spungle*](spungle.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spamvertize 
+Home
+ spawn
+
+
+---
+
+
+
+spawn
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spawn**: n.,vi.
+
+1\. \[techspeak\] In Unix parlance, to create a child process from within a process. Technically this is a ‘fork’; the term ‘spawn’ is a bit more general and is used for threads (lightweight processes) as well as traditional heavyweight processes.
+
+2\. In gaming, meant to indicate where (spawn-point) and when a player comes to life (or re-spawns) after being killed. Opposite of [*frag*](../F/frag.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spangle 
+Home
+ special-case
+
+
+---
+
+
+
+special-case
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**special-case**: vt.
+
+To write unique code to handle input to or situations arising in a program that are somehow distinguished from normal processing. This would be used for processing of mode switches or interrupt characters in an interactive interface (as opposed, say, to text entry or normal commands), or for processing of [*hidden flag*](../H/hidden-flag.html)s in the input of a batch program or [*filter*](../F/filter.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spawn 
+Home
+ speed of light
+
+
+---
+
+
+
+speed of light
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**speed of light**
+
+The absolutely fastest a particular algorithm or application could be implemented, given a set of constraints that are assumed to be unchangeable. For example, “This would take 60 microseconds without any processing whatsoever, so that's the speed of light.” However, as one brilliant hacker once commented: “Remember that the speed of light only is constant if you can't redesign the universe.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+special-case 
+Home
+ speedometer
+
+
+---
+
+
+
+speedometer
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**speedometer**: n.
+
+A pattern of lights displayed on a linear set of LEDs (today) or nixie tubes (yesterday, on ancient mainframes). The pattern is shifted left every `N` times the operating system goes through its [*main loop*](../M/main-loop.html). A swiftly moving pattern indicates that the system is mostly idle; the speedometer slows down as the system becomes overloaded. The speedometer on Sun Microsystems hardware bounces back and forth like the eyes on one of the Cylons from the wretched *Battlestar Galactica* TV series.
+
+Historical note: One computer, the GE 600 (later Honeywell 6000) actually had an *analog* speedometer on the front panel, calibrated in instructions executed per second.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+speed of light 
+Home
+ spell
+
+
+---
+
+
+
+spell
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spell**: n.
+
+Syn. [*incantation*](../I/incantation.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+speedometer 
+Home
+ spelling flame
+
+
+---
+
+
+
+spelling flame
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spelling flame**: n.
+
+\[Usenet\] A posting ostentatiously correcting a previous article's spelling as a way of casting scorn on the point the article was trying to make, instead of actually responding to that point (compare [*dictionary flame*](../D/dictionary-flame.html)). Of course, people who are more than usually slovenly spellers are prone to think *any* correction is a spelling flame. It's an amusing comment on human nature that spelling flames themselves often contain spelling errors.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spell 
+Home
+ spider
+
+
+---
+
+
+
+spider
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spider**
+
+The Web-walking part of a search engine that collects pages for indexing in the search engine's database. Also called a [*bot*](../B/bot.html). The best-known spider is Scooter, the web-walker for the Alta Vista search engine.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spelling flame 
+Home
+ spider food
+
+
+---
+
+
+
+spider food
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spider food**: n.
+
+Keywords embedded (usually invisibly) into a web page to attract search engines (spiders). The intended result of including spider food in one's web page is to insure that the page appears high on the list of matching entries to a search engine query. There are right and wrong ways to do this; the right way is a discreet ‘meta keywords’ tag, the wrong way is to embed many repeats of a keyword in comments (and many search engines now detect and ignore the latter).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spider 
+Home
+ spiffy
+
+
+---
+
+
+
+spiffy
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spiffy**: /spi´fee/, adj.
+
+1\. Said of programs having a pretty, clever, or exceptionally well-designed interface. “Have you seen the spiffy [*X*](../X/X.html) version of [*empire*](../E/empire.html) yet?”
+
+2\. Said sarcastically of a program that is perceived to have little more than a flashy interface going for it. Which meaning should be drawn depends delicately on tone of voice and context. This word was common mainstream slang during the 1940s, in a sense close to 1.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spider food 
+Home
+ spike
+
+
+---
+
+
+
+spike
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spike**: v.
+
+1\. To defeat a selection mechanism by introducing a (sometimes temporary) device that forces a specific result. The word is used in several industries; telephone engineers refer to spiking a relay by inserting a pin to hold the relay in either the closed or open state, and railroaders refer to spiking a track switch so that it cannot be moved. In programming environments it normally refers to a temporary change, usually for testing purposes (as opposed to a permanent change, which would be called [*hardwired*](../H/hardwired.html)).
+
+2\. \[borderline techspeak\] A visible peak in an otherwise rather constant graph (e.g. a sudden surge in line voltage, an unexpected short “high” on a logical line in a circuit). Hackers frequently use this for a sudden short increase in some quantity such as system load or network traffic.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spiffy 
+Home
+ spin
+
+
+---
+
+
+
+spin
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spin**: vi.
+
+Equivalent to [*buzz*](../B/buzz.html). More common among C and Unix programmers. See the discussion of ‘spinlock’ under [*busy-wait*](../B/busy-wait.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spike 
+Home
+ Spinning Pizza of Death
+
+
+---
+
+
+
+Spinning Pizza of Death
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**Spinning Pizza of Death**: n.
+
+\[OS X; common\] The quartered-circle busy indicator on Mac OS X versions before 10.2, after which it was replaced by a sort of rainbow pinwheel thingy. It was analogous to the Microsoft Windows hourglass, but OS X 10.0's legendary slowness under the Aqua toolkit made this term rather more evocative. See [*Death, X of*](../D/Death--X-of.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spin 
+Home
+ spl
+
+
+---
+
+
+
+spl
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spl**: /S·P·L/
+
+\[abbrev, from Set Priority Level\] The way traditional Unix kernels implement mutual exclusion by running code at high interrupt levels. Used in jargon to describe the act of tuning in or tuning out ordinary communication. Classically, spl levels run from 1 to 7; “Fred's at spl 6 today” would mean that he is very hard to interrupt. “Wait till I finish this; I'll spl down then.” See also [*interrupts locked out*](../I/interrupts-locked-out.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Spinning Pizza of Death 
+Home
+ splash screen
+
+
+---
+
+
+
+splash screen
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**splash screen**: n.
+
+\[Mac users\] Syn. [*banner*](../B/banner.html), sense 3.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spl 
+Home
+ splat
+
+
+---
+
+
+
+splat
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**splat**: n.
+
+1\. Name used in many places (DEC, IBM, and others) for the asterisk (`*`) character (ASCII 0101010). This may derive from the ‘squashed-bug’ appearance of the asterisk on many early line printers.
+
+2\. \[MIT\] Name used by some people for the `#` character (ASCII 0100011).
+
+3\. The [*feature key*](../F/feature-key.html) on a Mac (same as [*alt*](../A/alt.html), sense 2).
+
+4\. obs. Name used by some people for the Stanford/ITS extended ASCII ⊗ character. This character is also called blobby and frob, among other names; it is sometimes used by mathematicians as a notation for tensor product.
+
+5\. obs. Name for the semi-mythical Stanford extended ASCII ⊕ character. See also [*ASCII*](../A/ASCII.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+splash screen 
+Home
+ splat out
+
+
+---
+
+
+
+splat out
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**splat out**: v.
+
+\[Usenet; syn. disemvowel\] To partially obscure a potentially provocative word by substituting [*splat*](splat.html) characters for some of its letters (usually, but not always, the vowels). The purpose is not to make the word unrecognizable but to make it a mention rather than a use, so that no flamewar ensues. Words often splatted out include N\*z\* (see [*Godwin's Law*](../G/Godwins-Law.html)), k\*bo\* (see [*KIBO*](../K/KIBO.html), sense 2), \*v\*l\*t\*\*n (anywhere fundamentalists might be lurking), \*b\*rt\*\*n, and g\*n c\*ntr\*l. Compare [*UN\*X*](../U/UN-asterisk-X.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+splat 
+Home
+ splork!
+
+
+---
+
+
+
+splork!
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**splork!**
+
+\[Usenet; common\] The sound of coffee (or other beverage) hitting the monitor and/or keyboard after being forced out of the mouth via the nose. It usually follows an unexpectedly funny thing in a Usenet post. Compare [*snarf*](snarf.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+splat out 
+Home
+ spod
+
+
+---
+
+
+
+spod
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spod**: n.
+
+\[UK\]
+
+1\. A lower form of life found on [*talker system*](../T/talker-system.html)s and [*MUD*](../M/MUD.html)s. The spod has few friends in [*RL*](../R/RL.html) and uses talkers instead, finding communication easier and preferable over the net. He has all the negative traits of the computer geek without having any interest in computers per se. Lacking any knowledge of or interest in how networks work, and considering his access a God-given right, he is a major irritant to sysadmins, clogging up lines in order to reach new MUDs, following passed-on instructions on how to sneak his way onto Internet (“Wow! It's in America!”) and complaining when he is not allowed to use busy routes. A true spod will start any conversation with “Are you male or female?” (and follow it up with “Got any good numbers/IDs/passwords?”) and will not talk to someone physically present in the same terminal room until they log onto the same machine that he is using and enter talk mode. Compare [*newbie*](../N/newbie.html), [*tourist*](../T/tourist.html), [*weenie*](../W/weenie.html), [*twink*](../T/twink.html), [*terminal junkie*](../T/terminal-junkie.html), [*warez d00dz*](../W/warez-d00dz.html).
+
+2\. A [*backronym*](../B/backronym.html) for “Sole Purpose, Obtain a Degree”; according to some self-described spods, this term is used by indifferent students to condemn their harder-working fellows. Compare the defiant adoption of the term [*geek*](../G/geek.html) in the mid-1990s by people who would previously have been stigmatized by it. Spods in the positive sense are talker users who've accumulated a large amount of spod time, that is, they spend a lot of time logged in to that talker (for example, my spod time on Uberworld as of this moment is 131 days, 15 hours and 20 minutes). Spods are generally highly knowledgeable about talkers and SGXStalker coding, as well as computers and the internet in general.
+
+3\. \[Glasgow University\] An otherwise competent hacker who spends way too much time on talker systems.
+
+4\. \[obs.\] An ordinary person; a [*random*](../R/random.html). This is the meaning with which the term was coined, but the inventor informs us he has himself accepted sense 1.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+splork! 
+Home
+ spoiler
+
+
+---
+
+
+
+spoiler
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spoiler**: n.
+
+\[Usenet\]
+
+1\. A remark which reveals important plot elements from books or movies, thus denying the reader (of the article) the proper suspense when reading the book or watching the movie.
+
+2\. Any remark which telegraphs the solution of a problem or puzzle, thus denying the reader the pleasure of working out the correct answer (see also [*interesting*](../I/interesting.html)). Either sense readily forms compounds like total spoiler, quasi-spoiler and even pseudo-spoiler.
+
+By convention, articles which are spoilers in either sense should contain the word ‘spoiler’ in the Subject: line, or guarantee via various tricks that the answer appears only after several screens-full of warning, or conceal the sensitive information via [*rot13*](../R/rot13.html), [*spoiler space*](spoiler-space.html) or some combination of these techniques.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spod 
+Home
+ spoiler space
+
+
+---
+
+
+
+spoiler space
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spoiler space**
+
+\[also spoiler spoo or spoiler protection\] A screenful of blank or spacer lines deliberately inserted in a message following a [*spoiler*](spoiler.html) warning, so the actual spoiler can't be seen without hitting a key. Formfeeds used to be used for this, but are now rare because so many people read news through Web interfaces on which they have no good interpretation.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spoiler 
+Home
+ sponge
+
+
+---
+
+
+
+sponge
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sponge**: n.
+
+\[Unix\] A special case of a [*filter*](../F/filter.html) that reads its entire input before writing any output; the canonical example is a sort utility. Unlike most filters, a sponge can conveniently overwrite the input file with the output data stream. If a file system has versioning (as ITS did and VMS does now) the sponge/filter distinction loses its usefulness, because directing filter output would just write a new version. See also [*slurp*](slurp.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spoiler space 
+Home
+ spoof
+
+
+---
+
+
+
+spoof
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spoof**: vi.
+
+To capture, alter, and retransmit a communication stream in a way that misleads the recipient. As used by hackers, refers especially to altering TCP/IP packet source addresses or other packet-header data in order to masquerade as a trusted machine. This term has become very widespread and is borderline techspeak. Interestingly, it was already in use in its modern sense more than a century ago among Victorian telegraphers; it shows up in Kipling.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sponge 
+Home
+ spool
+
+
+---
+
+
+
+spool
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spool**: vi.
+
+\[from early IBM ‘Simultaneous Peripheral Operation On-Line’, but is widely thought to be a [*backronym*](../B/backronym.html)\] To send files to some device or program (a spooler) that queues them up and does something useful with them later. Without qualification, the spooler is the print spooler controlling output of jobs to a printer; but the term has been used in connection with other peripherals (especially plotters and graphics devices) and occasionally even for input devices. See also [*demon*](../D/demon.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spoof 
+Home
+ spool file
+
+
+---
+
+
+
+spool file
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spool file**: n.
+
+Any file to which data is [*spool*](spool.html)ed to await the next stage of processing. Especially used in circumstances where spooling the data copes with a mismatch between speeds in two devices or pieces of software. For example, when you send mail under Unix, it's typically copied to a spool file to await a transport [*demon*](../D/demon.html)'s attentions. This is borderline techspeak.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spool 
+Home
+ sporgery
+
+
+---
+
+
+
+sporgery
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sporgery**
+
+\[portmanteau of ‘spam’ or ‘spew’ and ‘forgery’. Massive floods of forged articles intended to disrupt a newsgroup. Typically these have reasonable-looking headers but complete gibberish for content, making the legitimate articles too difficult to find. This tactic has been most notoriously used by the Church of Scientology to disrupt discussion on the newsgroup `alt.religion.scientology`, but is unfortunately not by any means confined to that group.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spool file 
+Home
+ sport death
+
+
+---
+
+
+
+sport death
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sport death**: n.
+
+\[MIT\] The masochistic extreme of hacking, where the body and mind are pushed until their limits are reached, and the body is barely able to support the mind. Then, once your extremes are reached, you push as far beyond that point as you can, far beyond normal notions of all-nighters and caffeine diets.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sporgery 
+Home
+ spungle
+
+
+---
+
+
+
+spungle
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spungle**: n.
+
+\[Durham, UK; portmanteau, [*spangle*](spangle.html) + bungle\] A [*spangle*](spangle.html) of no actual usefulness. Example: Roger the Bent Paperclip in Microsoft Word '98. A spungle's only virtue is that it looks pretty, unless you find creeping featurism ugly.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sport death 
+Home
+ spyware
+
+
+---
+
+
+
+spyware
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**spyware**: n.
+
+1\. Software which, when installed by a user insufficiently enlightened to avoid it, enables third parties to snoop the user's hard drive or monitor their network transactions. Though the term seems to have entered use in the late 1990s, it achieved real popularity as applied to Microsoft Windows XP. Some [*back door*](../B/back-door.html) features in XP permit Microsoft to (for example) covertly scan your disk directories for the names of files it might deem to be [*warez*](../W/warez.html).
+
+2\. Systems for spying on email and web traffic, such as the FBI's Carnivore.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spungle 
+Home
+ squirrelcide
+
+
+---
+
+
+
+squirrelcide
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**squirrelcide**: n.
+
+\[common on Usenet's `comp.risks` newsgroup.\] (alt.: squirrelicide) What all too frequently happens when a squirrel decides to exercise its species's unfortunate penchant for shorting out power lines with their little furry bodies. Result: one dead squirrel, one down computer installation. In this situation, the computer system is said to have been squirrelcided.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+spyware 
+Home
+ stack
+
+
+---
+
+
+
+stack
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**stack**: n.
+
+The set of things a person has to do in the future. One speaks of the next project to be attacked as having risen to the top of the stack. “I'm afraid I've got real work to do, so this'll have to be pushed way down on my stack.” “I haven't done it yet because every time I pop my stack something new gets pushed.” If you are interrupted several times in the middle of a conversation, “My stack overflowed” means “I forget what we were talking about.” The implication is that more items were pushed onto the stack than could be remembered, so the least recent items were lost. The usual physical example of a stack is to be found in a cafeteria: a pile of plates or trays sitting on a spring in a well, so that when you put one on the top they all sink down, and when you take one off the top the rest spring up a bit. See also [*push*](../P/push.html) and [*pop*](../P/pop.html).
+
+(*The Art of Computer Programming*, second edition, vol. 1, p. 236) says:
+
+> Many people who realized the importance of stacks and queues independently have given other names to these structures: stacks have been called push-down lists, reversion storages, cellars, nesting stores, piles, last-in-first-out (“LIFO”) lists, and even yo-yo lists!
+
+The term “stack” was originally coined by Edsger Dijkstra, who was quite proud of it.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+squirrelcide 
+Home
+ stack puke
+
+
+---
+
+
+
+stack puke
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**stack puke**: n.
+
+Some processor architectures are said to ‘puke their guts onto the stack’ to save their internal state during exception processing. The Motorola 68020, for example, regurgitates up to 92 bytes on a bus fault. On a pipelined machine, this can take a while.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+stack 
+Home
+ stale pointer bug
+
+
+---
+
+
+
+stale pointer bug
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**stale pointer bug**: n.
+
+Synonym for [*aliasing bug*](../A/aliasing-bug.html) used esp. among microcomputer hackers.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+stack puke 
+Home
+ Stanford Bunny
+
+
+---
+
+
+
+Stanford Bunny
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**Stanford Bunny**
+
+The successor of the [*Utah Teapot*](../U/Utah-teapot.html). The model is of a chocolate Easter bunny consisting of about 5000 polygons. It is small by 2002 standards, but is more illustrative than the teapot of of techniques such as surface radiance (e.g. radiosity) and self-reflection. There is a history page. Compare [*lenna*](../L/lenna.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+stale pointer bug 
+Home
+ star out
+
+
+---
+
+
+
+star out
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**star out**: v.
+
+\[University of York, England\] To replace a user's encrypted password in /etc/passwd with a single asterisk. Under Unix this is not a legal encryption of any password; hence the user is not permitted to log in. In general, accounts like adm, news, and daemon are permanently “starred out”; occasionally a real user might have this inflicted upon him/her as a punishment, e.g. “Graham was starred out for playing Omega in working hours”. Also occasionally known as The Order Of The Gold Star in this context. “Don't do that, or you'll be awarded the Order of the Gold Star...” Compare [*disusered*](../D/disusered.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Stanford Bunny 
+Home
+ state
+
+
+---
+
+
+
+state
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**state**: n.
+
+1\. Condition, situation. “What's the state of your latest hack?” “It's winning away.” “The system tried to read and write the disk simultaneously and got into a totally [*wedged*](../W/wedged.html) state.” The standard question “What's your state?” means “What are you doing?” or “What are you about to do?” Typical answers are “about to gronk out”, or “hungry”. Another standard question is “What's the state of the world?”, meaning “What's new?” or “What's going on?”. The more terse and humorous way of asking these questions would be “State-p?”. Another way of phrasing the first question under sense 1 would be “state-p latest hack?”.
+
+2\. Information being maintained in non-permanent memory (electronic or human).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+star out 
+Home
+ stealth manager
+
+
+---
+
+
+
+stealth manager
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**stealth manager**: n.
+
+\[Corporate DP\] A manager that appears out of nowhere, promises undeliverable software to unknown end users, and vanishes before the programming staff realizes what has happened. See [*smoke and mirrors*](smoke-and-mirrors.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+state 
+Home
+ steam-powered
+
+
+---
+
+
+
+steam-powered
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**steam-powered**: adj.
+
+Old-fashioned or underpowered; archaic. This term does not have a strong negative loading and may even be used semi-affectionately for something that clanks and wheezes a lot but hangs in there doing the job.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+stealth manager 
+Home
+ steved
+
+
+---
+
+
+
+steved
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**steved**: adj.,v., /steevd/
+
+\[Apple employees and users\] Terminated, said of a development project. Originated after Steven P. Jobs returned to Apple as acting CEO in 1997. Jobs immediated axed several development projects, including OpenDoc and Newton that had been launched by John Sculley, the man who had ousted Jobs in the mid 1980s. Now any project shut down at Apple and often at any large firm connected with Apple may be said to have gotten steved. It is usually spelled lowercase despite the origin. It is almost always past-tense and used quasi-adjectivally.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+steam-powered 
+Home
+ STFW
+
+
+---
+
+
+
+STFW
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**STFW**: imp., /S·T·F·W/
+
+\[Usenet\] Common abbreviation for “Search The Fucking Web”, a suggestion that what you're asking for is a query better handled by a search engine than a human being. Usage is common and exactly parallel to both senses of [*RTFM*](../R/RTFM.html). A politer equivalent is [*GIYF*](../G/GIYF.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+steved 
+Home
+ stir-fried random
+
+
+---
+
+
+
+stir-fried random
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**stir-fried random**: n.
+
+(alt.: stir-fried mumble) Term used for the best dish of many of those hackers who can cook. Consists of random fresh veggies and meat wokked with random spices. Tasty and economical. See [*random*](../R/random.html), [*great-wall*](../G/great-wall.html), [*ravs*](../R/ravs.html), [*laser chicken*](../L/laser-chicken.html), [*oriental food*](../O/oriental-food.html); see also [*mumble*](../M/mumble.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+STFW 
+Home
+ stomp on
+
+
+---
+
+
+
+stomp on
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**stomp on**: vt.
+
+To inadvertently overwrite something important, usually automatically. “All the work I did this weekend got stomped on last night by the nightly server script.” Compare [*scribble*](scribble.html), [*mangle*](../M/mangle.html), [*trash*](../T/trash.html), [*scrog*](scrog.html), [*roach*](../R/roach.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+stir-fried random 
+Home
+ Stone Age
+
+
+---
+
+
+
+Stone Age
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**Stone Age**: n.,adj.
+
+1\. In computer folklore, an ill-defined period from ENIAC (ca. 1943) to the mid-1950s; the great age of electromechanical [*dinosaur*](../D/dinosaur.html)s. Sometimes used for the entire period up to 1960--61 (see [*Iron Age*](../I/Iron-Age.html)); however, it is funnier and more descriptive to characterize the latter period in terms of a ‘Bronze Age’ era of transistor-logic, pre-ferrite-[*core*](../C/core.html) machines with drum or CRT mass storage (as opposed to just mercury delay lines and/or relays). See also [*Iron Age*](../I/Iron-Age.html).
+
+![](../graphics/76-05-01.png)
+
+How things weren't in the [*Stone Age*](Stone-Age.html).
+
+(The next cartoon in the Crunchly saga is [76-07-18](../C/core-dump.html#crunchly76-07-18). The previous cartoon was [76-03-14:5-8](../F/flush.html#crunchly-5678).)
+
+2\. More generally, a pejorative for any crufty, ancient piece of hardware or software technology. Note that this is used even by people who were there for the [*Stone Age*](Stone-Age.html) (sense 1).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+stomp on 
+Home
+ stone knives and bearskins
+
+
+---
+
+
+
+stone knives and bearskins
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**stone knives and bearskins**: n.
+
+\[from the Star Trek Classic episode *The City on the Edge of Forever*\] A term traditionally used to describe (and deprecate) computing environments that are grotesquely primitive in light of what is known about good ways to design things. As in “Don't get too used to the facilities here. Once you leave SAIL it's stone knives and bearskins as far as the eye can see”. Compare [*steam-powered*](steam-powered.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Stone Age 
+Home
+ stoppage
+
+
+---
+
+
+
+stoppage
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**stoppage**: /sto´p@j/, n.
+
+Extreme [*lossage*](../L/lossage.html) that renders something (usually something vital) completely unusable. “The recent system stoppage was caused by a [*fried*](../F/fried.html) transformer.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+stone knives and bearskins 
+Home
+ store
+
+
+---
+
+
+
+store
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**store**: n.
+
+\[prob.: from techspeak main store\] In some varieties of Commonwealth hackish, the preferred synonym for [*core*](../C/core.html). Thus, bringing a program into store means not that one is returning shrink-wrapped software but that a program is being [*swap*](swap.html)ped in.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+stoppage 
+Home
+ STR
+
+
+---
+
+
+
+STR
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**STR**
+
+Spot the reference. Used in [*scary devil monastery*](scary-devil-monastery.html) to mark the witticism one just uttered as a quote from some work of art or literature, the more obscure the better. Those who know where the reference comes from reply in the form “You are $CHARACTER, and you owe me $ITEM”, where $CHARACTER is a character from the story being referenced and $ITEM is something associated with that character. This acronym is never actually expanded to its proper meaning in the newsgroup; posters instead use obscure expansions, the most common being “slurp the robot”, leading to comments like “I pulled my hair out, but couldn't figure out which robot you're slurping”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+store 
+Home
+ strided
+
+
+---
+
+
+
+strided
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**strided**: /stri:´d@d/, adj.
+
+\[scientific computing\] Said of a sequence of memory reads and writes to addresses, each of which is separated from the last by a constant interval called the stride length. These can be a worst-case access pattern for the standard memory-caching schemes when the stride length is a multiple of the cache line size. Strided references are often generated by loops through an array, and (if your data is large enough that access-time is significant) it can be worthwhile to tune for better locality by inverting double loops or by partially unrolling the outer loop of a loop nest. This usage is borderline techspeak; the related term memory stride is definitely techspeak.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+STR 
+Home
+ stroke
+
+
+---
+
+
+
+stroke
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**stroke**: n.
+
+Common name for the slant (‘/’, ASCII 0101111) character. See [*ASCII*](../A/ASCII.html) for other synonyms.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+strided 
+Home
+ strudel
+
+
+---
+
+
+
+strudel
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**strudel**: n.
+
+Common (spoken) name for the at-sign (‘@’, ASCII 1000000) character. See [*ASCII*](../A/ASCII.html) for other synonyms.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+stroke 
+Home
+ stubroutine
+
+
+---
+
+
+
+stubroutine
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**stubroutine**: /stuhb´roo·teen/, n.
+
+\[contraction of stub subroutine\] Tiny, often vacuous placeholder for a subroutine that is to be written or fleshed out later.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+strudel 
+Home
+ studly
+
+
+---
+
+
+
+studly
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**studly**: adj.
+
+Impressive; powerful. Said of code and designs which exhibit both complexity and a virtuoso flair. Has connotations similar to [*hairy*](../H/hairy.html) but is more positive in tone. Often in the emphatic most studly or as noun-form studliness. “Smail 3.0's configuration parser is most studly.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+stubroutine 
+Home
+ studlycaps
+
+
+---
+
+
+
+studlycaps
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**studlycaps**: /stuhd´lee·kaps/, n.
+
+A hackish form of silliness similar to [*BiCapitalization*](../B/BiCapitalization.html) for trademarks, but applied randomly and to arbitrary text rather than to trademarks. ThE oRigiN and SigNificaNce of thIs pRacTicE iS oBscuRe.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+studly 
+Home
+ stunning
+
+
+---
+
+
+
+stunning
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**stunning**: adj.
+
+Mind-bogglingly stupid. Usually used in sarcasm. “You want to code *what* in Ada? That's a ... stunning idea!”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+studlycaps 
+Home
+ stupid-sort
+
+
+---
+
+
+
+stupid-sort
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**stupid-sort**: n.
+
+Syn. [*bogo-sort*](../B/bogo-sort.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+stunning 
+Home
+ Stupids
+
+
+---
+
+
+
+Stupids
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**Stupids**: n.
+
+Term used by [*samurai*](samurai.html) for the [*suit*](suit.html)s who employ them; succinctly expresses an attitude at least as common, though usually better disguised, among other subcultures of hackers. There may be intended reference here to an SF story originally published in 1952 but much anthologized since, Mark Clifton's *Star, Bright*. In it, a super-genius child classifies humans into a very few ‘Brights’ like herself, a huge majority of ‘Stupids’, and a minority of ‘Tweens’, the merely ordinary geniuses.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+stupid-sort 
+Home
+ Sturgeon's Law
+
+
+---
+
+
+
+Sturgeon's Law
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**Sturgeon's Law**: prov.
+
+“Ninety percent of everything is crud”. Derived from a quote by science fiction author Theodore Sturgeon, who once said, “Sure, 90% of science fiction is crud. That's because 90% of everything is crud.” Sturgeon himself called this “Sturgeon's Revelation”, and it first appeared in the March 1958 issue of *Venture Science Fiction*; he gave Sturgeon's Law as “Nothing is always absolutely so.” Oddly, when Sturgeon's Revelation is cited, the final word is almost invariably changed to ‘crap’. Compare [*Hanlon's Razor*](../H/Hanlons-Razor.html), [*Ninety-Ninety Rule*](../N/Ninety-Ninety-Rule.html). Though this maxim originated in SF fandom, most hackers recognize it and are all too aware of its truth.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Stupids 
+Home
+ sucking mud
+
+
+---
+
+
+
+sucking mud
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sucking mud**: adj.
+
+\[Applied Data Research\] (also pumping mud) Crashed or [*wedged*](../W/wedged.html). Usually said of a machine that provides some service to a network, such as a file server. This Dallas regionalism derives from the East Texas oilfield lament, “Shut 'er down, Ma, she's a-suckin' mud”. Often used as a query. “We are going to reconfigure the network, are you ready to suck mud?”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Sturgeon's Law 
+Home
+ sufficiently small
+
+
+---
+
+
+
+sufficiently small
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sufficiently small**: adj.
+
+Syn. [*suitably small*](suitably-small.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sucking mud 
+Home
+ suit
+
+
+---
+
+
+
+suit
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**suit**: n.
+
+1\. Ugly and uncomfortable ‘business clothing’ often worn by non-hackers. Invariably worn with a ‘tie’, a strangulation device that partially cuts off the blood supply to the brain. It is thought that this explains much about the behavior of suit-wearers. Compare [*droid*](../D/droid.html).
+
+2\. A person who habitually wears suits, as distinct from a techie or hacker. See [*pointy-haired*](../P/pointy-haired.html), [*burble*](../B/burble.html), [*management*](../M/management.html), [*Stupids*](Stupids.html), [*SNAFU principle*](SNAFU-principle.html), [*PHB*](../P/PHB.html), and [*brain-damaged*](../B/brain-damaged.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sufficiently small 
+Home
+ suitable win
+
+
+---
+
+
+
+suitable win
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**suitable win**: n.
+
+See [*win*](../W/win.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+suit 
+Home
+ suitably small
+
+
+---
+
+
+
+suitably small
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**suitably small**: adj.
+
+\[perverted from mathematical jargon\] An expression used ironically to characterize unquantifiable behavior that differs from expected or required behavior. For example, suppose a newly created program came up with a correct full-screen display, and one publicly exclaimed: “It works!” Then, if the program dumped core on the first mouse click, one might add: “Well, for suitably small values of ‘works’.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+suitable win 
+Home
+ Sun
+
+
+---
+
+
+
+Sun
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**Sun**: n.
+
+Sun Microsystems. Hackers remember that the name was originally an acronym, Stanford University Network. Sun started out around 1980 with some hardware hackers (mainly) from Stanford talking to some software hackers (mainly) from UC Berkeley; Sun's original technology concept married a clever board design based on the Motorola 68000 to [*BSD*](../B/BSD.html) Unix. Sun went on to lead the workstation industry through the 1980s, and for years afterwards remained an engineering-driven company and a good place for hackers to work. Though Sun drifted away from its techie origins after 1990 and has since made some strategic moves that disappointed and annoyed many hackers (especially by maintaining proprietary control of Java and rejecting Linux), it's still considered within the family in much the same way [*DEC*](../D/DEC.html) was in the 1970s and early 1980s.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+suitably small 
+Home
+ sun lounge
+
+
+---
+
+
+
+sun lounge
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sun lounge**: n.
+
+\[UK\] The room where all the Sun workstations live. The humor in this term comes from the fact that it's also in mainstream use to describe a solarium, and all those Sun workstations clustered together give off an amazing amount of heat.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Sun 
+Home
+ sun-stools
+
+
+---
+
+
+
+sun-stools
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sun-stools**: n.
+
+Unflattering hackerism for SunTools, a pre-X windowing environment notorious in its day for size, slowness, and misfeatures. [*X*](../X/X.html), however, is larger and (some claim) slower; see [*second-system effect*](second-system-effect.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sun lounge 
+Home
+ sunspots
+
+
+---
+
+
+
+sunspots
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sunspots**: n.
+
+1\. Notional cause of an odd error. “Why did the program suddenly turn the screen blue?” “Sunspots, I guess.”
+
+2\. Also the cause of [*bit rot*](../B/bit-rot.html) — from the myth that sunspots will increase [*cosmic rays*](../C/cosmic-rays.html), which can flip single bits in memory. See also [*phase of the moon*](../P/phase-of-the-moon.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sun-stools 
+Home
+ super source quench
+
+
+---
+
+
+
+super source quench
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**super source quench**: n.
+
+A special packet designed to shut up an Internet host. The Internet Protocol (IP) has a control message called Source Quench that asks a host to transmit more slowly on a particular connection to avoid congestion. It also has a Redirect control message intended to instruct a host to send certain packets to a different local router. A “super source quench” is actually a redirect control packet, forged to look like it came from a local router, that instructs a host to send all packets to its own local loopback address. This will effectively tie many Internet hosts up in knots. Compare [*Godzillagram*](../G/Godzillagram.html), [*breath-of-life packet*](../B/breath-of-life-packet.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sunspots 
+Home
+ superloser
+
+
+---
+
+
+
+superloser
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**superloser**: n.
+
+\[Unix\] A superuser with no clue — someone with root privileges on a Unix system and no idea what he/she is doing, the moral equivalent of a three-year-old with an unsafetied Uzi. Anyone who thinks this is an uncommon situation reckons without the territorial urges of [*management*](../M/management.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+super source quench 
+Home
+ superprogrammer
+
+
+---
+
+
+
+superprogrammer
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**superprogrammer**: n.
+
+A prolific programmer; one who can code exceedingly well and quickly. Not all hackers are superprogrammers, but many are. (Productivity can vary from one programmer to another by three orders of magnitude. For example, one programmer might be able to write an average of 3 lines of working code in one day, while another, with the proper tools, might be able to write 3,000. This range is astonishing; it is matched in very few other areas of human endeavor.) The term superprogrammer is more commonly used within such places as IBM than in the hacker community. It tends to stress naive measures of productivity and to underweight creativity, ingenuity, and getting the job *done* — and to sidestep the question of whether the 3,000 lines of code do more or less useful work than three lines that do the [*Right Thing*](../R/Right-Thing.html). Hackers tend to prefer the terms [*hacker*](../H/hacker.html) and [*wizard*](../W/wizard.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+superloser 
+Home
+ superuser
+
+
+---
+
+
+
+superuser
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**superuser**: n.
+
+\[Unix\] Syn. [*root*](../R/root.html), [*avatar*](../A/avatar.html). This usage has spread to non-Unix environments; the superuser is any account with all [*wheel*](../W/wheel.html) bits on. A more specific term than [*wheel*](../W/wheel.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+superprogrammer 
+Home
+ support
+
+
+---
+
+
+
+support
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**support**: n.
+
+After-sale handholding; something many software vendors promise but few deliver. To hackers, most support people are useless — because by the time a hacker calls support he or she will usually know the software and the relevant manuals better than the support people (sadly, this is *not* a joke or exaggeration). A hacker's idea of ‘support’ is a *têete-à-têete* with the software's designer.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+superuser 
+Home
+ surf
+
+
+---
+
+
+
+surf
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**surf**: v.
+
+\[from the ‘surf’ idiom for rapidly flipping TV channels\] To traverse the Internet in search of interesting stuff, used esp. if one is doing so with a World Wide Web browser. It is also common to speak of surfing in to a particular resource.
+
+Hackers adopted this term early, but many have stopped using it since it went completely mainstream around 1995. The passive, couch-potato connotations that go with TV channel surfing were never pleasant, and hearing non-hackers wax enthusiastic about “surfing the net” tends to make hackers feel a bit as though their home is being overrun by ignorami.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+support 
+Home
+ Suzie COBOL
+
+
+---
+
+
+
+Suzie COBOL
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**Suzie COBOL**: /soo´zee koh´bol/
+
+1\. \[IBM: prob.: from Frank Zappa's ‘Suzy Creamcheese’\] n. A coder straight out of training school who knows everything except the value of comments in plain English. Also (fashionable among personkind wishing to avoid accusations of sexism) ‘Sammy Cobol’ or (in some non-IBM circles) ‘Cobol Charlie’.
+
+2\. \[proposed\] Meta-name for any [*code grinder*](../C/code-grinder.html), analogous to [*J. Random Hacker*](../J/J--Random-Hacker.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+surf 
+Home
+ swab
+
+
+---
+
+
+
+swab
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**swab**: /swob/
+
+\[From the mnemonic for the [*PDP-11*](../P/PDP-11.html) ‘SWAp Byte’ instruction, as immortalized in the dd(1) option **conv=swab** (see [*dd*](../D/dd.html))\]
+
+1\. vt. To solve the [*NUXI problem*](../N/NUXI-problem.html) by swapping bytes in a file
+
+2\. n. The program in V7 Unix used to perform this action, or anything functionally equivalent to it. See also [*big-endian*](../B/big-endian.html), [*little-endian*](../L/little-endian.html), [*middle-endian*](../M/middle-endian.html), [*bytesexual*](../B/bytesexual.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Suzie COBOL 
+Home
+ swap
+
+
+---
+
+
+
+swap
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**swap**: vt.
+
+1\. \[techspeak\] To move information from a fast-access memory to a slow-access memory (swap out), or vice versa (swap in). Often refers specifically to the use of disks as virtual memory. As pieces of data or program are needed, they are swapped into [*core*](../C/core.html) for processing; when they are no longer needed they may be swapped out again.
+
+2\. The jargon use of these terms analogizes people's short-term memories with core. Cramming for an exam might be spoken of as swapping in. If you temporarily forget someone's name, but then remember it, your excuse is that it was swapped out. To keep something swapped in means to keep it fresh in your memory: “I reread the TECO manual every few months to keep it swapped in.” If someone interrupts you just as you got a good idea, you might say “Wait a moment while I swap this out”, implying that a piece of paper is your extra-somatic memory and that if you don't swap the idea out by writing it down it will get overwritten and lost as you talk. Compare [*page in*](../P/page-in.html), [*page out*](../P/page-out.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+swab 
+Home
+ swap space
+
+
+---
+
+
+
+swap space
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**swap space**: n.
+
+Storage space, especially temporary storage space used during a move or reconfiguration. “I'm just using that corner of the machine room for swap space.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+swap 
+Home
+ swapped in
+
+
+---
+
+
+
+swapped in
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**swapped in**: n.
+
+See [*swap*](swap.html). See also [*page in*](../P/page-in.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+swap space 
+Home
+ swapped out
+
+
+---
+
+
+
+swapped out
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**swapped out**: n.
+
+See [*swap*](swap.html). See also [*page out*](../P/page-out.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+swapped in 
+Home
+ Swiss-Army chainsaw
+
+
+---
+
+
+
+Swiss-Army chainsaw
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**Swiss-Army chainsaw**
+
+In early Unix days, a well-known technical paper analogized the lexical analyzer generator lex(1) to a Swiss-army knife; this was a comment on the remarkable variety of more general uses discovered for a program originally designed as a special-purpose code generator for writing compilers. Two decades later, well-known hacker Henry Spencer described the [*Perl*](../P/Perl.html) scripting language as a “Swiss-Army chainsaw”, intending to convey his evaluation of the language as exceedingly powerful but ugly and noisy and prone to belch noxious fumes. This had two results: (1) Perl fans adopted the epithet as a badge of pride, and (2) it entered more general usage to describe software that is highly versatile but distressingly inelegant.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+swapped out 
+Home
+ swizzle
+
+
+---
+
+
+
+swizzle
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**swizzle**: v.
+
+To convert external names, array indices, or references within a data structure into address pointers when the data structure is brought into main memory from external storage (also called pointer swizzling); this may be done for speed in chasing references or to simplify code (e.g., by turning lots of name lookups into pointer dereferences). The converse operation is sometimes termed unswizzling. See also [*snap*](snap.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Swiss-Army chainsaw 
+Home
+ sync
+
+
+---
+
+
+
+sync
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sync**: /sink/, vi.
+
+(var.: synch)
+
+1\. To synchronize, to bring into synchronization.
+
+2\. \[techspeak\] To force all pending I/O to the disk; see [*flush*](../F/flush.html), sense 2.
+
+3\. More generally, to force a number of competing processes or agents to a state that would be ‘safe’ if the system were to crash; thus, to checkpoint (in the database-theory sense).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+swizzle 
+Home
+ syntactic salt
+
+
+---
+
+
+
+syntactic salt
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**syntactic salt**: n.
+
+The opposite of [*syntactic sugar*](syntactic-sugar.html), a feature designed to make it harder to write bad code. Specifically, syntactic salt is a hoop the programmer must jump through just to prove that he knows what's going on, rather than to express a program action. Some programmers consider required type declarations to be syntactic salt. A requirement to write **end if**, **end while**, **end do**, etc.: to terminate the last block controlled by a control construct (as opposed to just **end**) would definitely be syntactic salt. Syntactic salt is like the real thing in that it tends to raise hackers' blood pressures in an unhealthy way. Compare [*candygrammar*](../C/candygrammar.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sync 
+Home
+ syntactic sugar
+
+
+---
+
+
+
+syntactic sugar
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**syntactic sugar**: n.
+
+\[coined by Peter Landin\] Features added to a language or other formalism to make it ‘sweeter’ for humans, but which do not affect the expressiveness of the formalism (compare [*chrome*](../C/chrome.html)). Used esp. when there is an obvious and trivial translation of the ‘sugar’ feature into other constructs already present in the notation. C's **a\[i\]** notation is syntactic sugar for \*(a + i). “Syntactic sugar causes cancer of the semicolon.” — Alan Perlis.
+
+The variants syntactic saccharin and syntactic syrup are also recorded. These denote something even more gratuitous, in that syntactic sugar serves a purpose (making something more acceptable to humans), but syntactic saccharin or syrup serve no purpose at all. Compare [*candygrammar*](../C/candygrammar.html), [*syntactic salt*](syntactic-salt.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+syntactic salt 
+Home
+ sys-frog
+
+
+---
+
+
+
+sys-frog
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sys-frog**: /sis´frog/, n.
+
+\[the PLATO system\] Playful variant of sysprog, which is in turn short for ‘systems programmer’.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+syntactic sugar 
+Home
+ sysadmin
+
+
+---
+
+
+
+sysadmin
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sysadmin**: /sis´ad·min/, n.
+
+Common contraction of ‘system admin’; see [*admin*](../A/admin.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sys-frog 
+Home
+ sysape
+
+
+---
+
+
+
+sysape
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sysape**: /sys´ayp/, n.
+
+A rather derogatory term for a computer operator; a play on [*sysop*](sysop.html) common at sites that use the banana hierarchy of problem complexity (see [*one-banana problem*](../O/one-banana-problem.html)).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sysadmin 
+Home
+ sysop
+
+
+---
+
+
+
+sysop
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**sysop**: /sis´op/, n.
+
+\[esp. in the BBS world\] The operator (and usually the owner) of a bulletin-board system. A common neophyte mistake on [*FidoNet*](../F/FidoNet.html) is to address a message to sysop in an international FidoNet board, thus sending it to hundreds of sysops around the world.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sysape 
+Home
+ system
+
+
+---
+
+
+
+system
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**system**: n.
+
+1\. The supervisor program or OS on a computer.
+
+2\. The entire computer system, including input/output devices, the supervisor program or OS, and possibly other software.
+
+3\. Any large-scale program.
+
+4\. Any method or algorithm.
+
+5\. System hacker: one who hacks the system (in senses 1 and 2 only; for sense 3 one mentions the particular program: e.g., LISP hacker)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+sysop 
+Home
+ system mangler
+
+
+---
+
+
+
+system mangler
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**system mangler**: n.
+
+Humorous synonym for ‘system manager’, poss. from the fact that one major IBM OS had a [*root*](../R/root.html) account called SYSMANGR. Refers specifically to a systems programmer in charge of administration, software maintenance, and updates at some site. Unlike [*admin*](../A/admin.html), this term emphasizes the technical end of the skills involved.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+system 
+Home
+ systems jock
+
+
+---
+
+
+
+systems jock
+
+Prev 
+S
+ Next
+
+------------------------------------------------------------------------
+
+**systems jock**: n.
+
+See [*jock*](../J/jock.html), sense 2.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+system mangler 
+Home
+ T
+
+
+---
+
+
+## T
+
+
+
+T
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**T**: /T/
+
+1\. \[from LISP terminology for ‘true’\] Yes. Used in reply to a question (particularly one asked using [The -P convention](../p-convention.html "The -P Convention")). In LISP, the constant T means ‘true’, among other things. Some Lisp hackers use ‘T’ and ‘NIL’ instead of ‘Yes’ and ‘No’ almost reflexively. This sometimes causes misunderstandings. When a waiter or flight attendant asks whether a hacker wants coffee, he may absently respond ‘T’, meaning that he wants coffee; but of course he will be brought a cup of tea instead. Fortunately, most hackers (particularly those who frequent Chinese restaurants) like tea at least as well as coffee — so it is not that big a problem.
+
+2\. See [*time T*](time-T.html) (also [*since time T equals minus infinity*](../S/since-time-T-equals-minus-infinity.html)).
+
+3\. \[techspeak\] In transaction-processing circles, an abbreviation for the noun ‘transaction’.
+
+4\. \[Purdue\] Alternate spelling of [*tee*](tee.html).
+
+5\. A dialect of [*LISP*](../L/LISP.html) developed at Yale. (There is an intended allusion to NIL, “New Implementation of Lisp”, another dialect of Lisp developed for the [*VAX*](../V/VAX.html))
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+T 
+Home
+ tail recursion
+
+
+---
+
+
+
+tail recursion
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tail recursion**: n.
+
+If you aren't sick of it already, see [*tail recursion*](tail-recursion.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+T 
+Home
+ talk mode
+
+
+---
+
+
+
+talk mode
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**talk mode**: n.
+
+A feature supported by Unix and some other OSes that allows two or more logged-in users to set up a real-time on-line conversation. It combines the immediacy of talking with all the precision (and verbosity) that written language entails. It is difficult to communicate inflection, though conventions have arisen for some of these (see the section on writing style in the Prependices for details).
+
+Talk mode has a special set of jargon words, used to save typing, which are not used orally. Some of these are identical to (and probably derived from) Morse-code jargon used by ham-radio amateurs since the 1920s.
+
+AFAIAC
+as far as I am concerned
+
+AFAIK
+as far as I know
+
+BCNU
+be seeing you
+
+BTW
+by the way
+
+BYE?
+are you ready to unlink? (this is the standard way to end a talk-mode conversation; the other person types BYE to confirm, or else continues the conversation)
+
+CUL
+see you later
+
+ENQ?
+are you busy? (expects ACK or NAK in return)
+
+FOO?
+are you there? (often used on unexpected links, meaning also “Sorry if I butted in &amp;ellipsis;” (linker) or “What's up?” (linkee))
+
+FWIW
+for what it's worth
+
+FYI
+for your information
+
+FYA
+for your amusement
+
+GA
+go ahead (used when two people have tried to type simultaneously; this cedes the right to type to the other)
+
+GRMBL
+grumble (expresses disquiet or disagreement)
+
+HELLOP
+hello? (an instance of the ‘-P’ convention)
+
+IIRC
+if I recall correctly
+
+JAM
+just a minute (equivalent to SEC.... )
+
+MIN
+same as JAM
+
+NIL
+no (see NIL)
+
+NP
+no problem
+
+O
+over to you
+
+OO
+over and out
+
+/
+another form of “over to you” (from x/y as “x over y”)
+
+\
+lambda (used in discussing LISPy things)
+
+OBTW
+oh, by the way
+
+OTOH
+on the other hand
+
+R U THERE?
+are you there?
+
+SEC
+wait a second (sometimes written SEC... )
+
+SYN
+Are you busy? (expects ACK, SYN|ACK, or RST in return; this is modeled on the TCP/IP handshake sequence)
+
+T
+yes (see the main entry for T)
+
+TNX
+thanks
+
+TNX 1.0E6
+thanks a million (humorous)
+
+TNXE6
+another form of “thanks a million”
+
+TTBOMK
+to the best of my knowledge
+
+WRT
+with regard to, or with respect to.
+
+WTF
+the universal interrogative particle; WTF knows what it means?
+
+WTH
+what the hell?
+
+&lt;double newline&gt;
+When the typing party has finished, he/she types two newlines to signal that he/she is done; this leaves a blank line between 'speeches' in the conversation, making it easier to reread the preceding text.
+
+YHTBT
+You Had To Be There. Used of a situation which loses significant meaning in the telling, usually because it's difficult to convey tone and timing.
+
+&lt;name&gt;:
+When three or more terminals are linked, it is conventional for each typist to prepend his/her login name or handle and a colon (or a hyphen) to each line to indicate who is typing (some conferencing facilities do this automatically). The login name is often shortened to a unique prefix (possibly a single letter) during a very long conversation.
+
+/\/\/\
+A giggle or chuckle. On a MUD, this usually means 'earthquake fault'.
+
+&lt;g&gt;
+grin
+
+&lt;gd&amp;r&gt;
+grinning, ducking, and running
+
+BBL
+be back later
+
+BRB
+be right back
+
+HHOJ
+ha ha only joking
+
+HHOK
+ha ha only kidding
+
+HHOS
+ha ha only serious
+
+IMHO
+in my humble opinion (see IMHO)
+
+LOL
+laughing out loud
+
+NHOH
+Never Heard of Him/Her (often used in initgame)
+
+ROTF
+rolling on the floor
+
+ROTFL
+rolling on the floor laughing
+
+AFK
+away from keyboard
+
+b4
+before
+
+CU l8tr
+see you later
+
+MORF
+male or female?
+
+TTFN
+ta-ta for now
+
+TTYL
+talk to you later
+
+OIC
+oh, I see
+
+rehi
+hello again
+
+Most of these are not used at universities or in the Unix world, though ROTF and TTFN have gained some currency there and IMHO is common; conversely, most of the people who know these are unfamiliar with FOO?, BCNU, HELLOP, [*NIL*](../N/NIL.html), and [*T*](T.html).
+
+The [*MUD*](../M/MUD.html) community uses a mixture of Usenet/Internet emoticons, a few of the more natural of the old-style talk-mode abbrevs, and some of the ‘social’ list above; specifically, MUD respondents report use of BBL, BRB, LOL, b4, BTW, WTF, TTFN, and WTH. The use of rehi is also common; in fact, mudders are fond of re- compounds and will frequently rehug or rebonk (see [*bonk/oif*](../B/bonk-oif.html)) people. The word re by itself is taken as ‘regreet’. In general, though, MUDders express a preference for typing things out in full rather than using abbreviations; this may be due to the relative youth of the MUD cultures, which tend to include many touch typists and to assume high-speed links. The following uses specific to MUDs are reported:
+
+CU l8er
+see you later (mutant of CU l8tr)
+
+FOAD
+fuck off and die (use of this is generally OTT)
+
+OTT
+over the top (excessive, uncalled for)
+
+ppl
+abbrev for “people”
+
+THX
+thanks (mutant of TNX; clearly this comes in batches of 1138 (the Lucasian K)).
+
+UOK?
+are you OK?
+
+Some [*B1FF*](../B/B1FF.html)isms (notably the variant spelling **d00d**) appear to be passing into wider use among some subgroups of MUDders.
+
+One final note on talk mode style: neophytes, when in talk mode, often seem to think they must produce letter-perfect prose because they are typing rather than speaking. This is not the best approach. It can be very frustrating to wait while your partner pauses to think of a word, or repeatedly makes the same spelling error and backs up to fix it. It is usually best just to leave typographical errors behind and plunge forward, unless severe confusion may result; in that case it is often fastest just to type “xxx” and start over from before the mistake.
+
+See also [*hakspek*](../H/hakspek.html), [*emoticon*](../E/emoticon.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tail recursion 
+Home
+ talker system
+
+
+---
+
+
+
+talker system
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**talker system**: n.
+
+British hackerism for software that enables real-time chat or [*talk mode*](talk-mode.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+talk mode 
+Home
+ TAN
+
+
+---
+
+
+
+TAN
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**TAN**: adj.
+
+\[Usenet, particularly `rec.arts.sf.written.robert-jordan`\] Abbrev. of ‘tangent’, as in “off on a tangent”, and synonym for [*OT*](../O/OT.html). A number of hacker-humor synonyms are used for TAN in some newsgroups. Instances such as BEIGE, OFF-WHITE, BROWNISH-GRAY, and LIGHT BROWN have been observed. It is generally understood on newsgroups with this convention that any color descriptor is a TAN synonym if (a) used as the first word(s) of the topic of a Usenet post, (b) written in ALL CAPS, and (c) followed immediately by a colon. Usage: “OFF-WHITE: 2000 Presidential candidates” on an SF newsgroup.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+talker system 
+Home
+ tanked
+
+
+---
+
+
+
+tanked
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tanked**: adj.
+
+Same as [*down*](../D/down.html), used primarily by Unix hackers. See also [*hosed*](../H/hosed.html). Popularized as a synonym for ‘drunk’ by Steve Dallas in the late lamented *Bloom County* comic strip.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+TAN 
+Home
+ TANSTAAFL
+
+
+---
+
+
+
+TANSTAAFL
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**TANSTAAFL**: /tan´stah·fl/
+
+\[acronym, from Robert Heinlein's classic SF novel *The Moon is a Harsh Mistress*.\] “There Ain't No Such Thing As A Free Lunch”, often invoked when someone is balking at the prospect of using an unpleasantly [*heavyweight*](../H/heavyweight.html) technique, or at the poor quality of some piece of software, or at the [*signal-to-noise ratio*](../S/signal-to-noise-ratio.html) of unmoderated Usenet newsgroups. “What? Don't tell me I have to implement a database back end to get my address book program to work!” “Well, TANSTAAFL you know.” This phrase owes some of its popularity to the high concentration of science-fiction fans and political libertarians in hackerdom (see [Appendix B](../appendixb.html "Appendix B. A Portrait of J. Random Hacker") for discussion).
+
+Outside hacker circles the variant TINSTAAFL (“There is No Such Thing...”) is apparently more common, and can be traced back to 1952 in the writings of ethicist Alvin Hansen. TANSTAAFL may well have arisen from it by mutation.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tanked 
+Home
+ tape monkey
+
+
+---
+
+
+
+tape monkey
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tape monkey**: n.
+
+A junior system administrator, one who might plausibly be assigned to do physical swapping of tapes and subsequent storage. When a backup needs to be restored, one might holler “Tape monkey!” (Compare [*one-banana problem*](../O/one-banana-problem.html)) Also used to dismiss jobs not worthy of a highly trained sysadmin's ineffable talents: “Cable up her PC? You must be joking — I'm no tape monkey.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+TANSTAAFL 
+Home
+ tar and feather
+
+
+---
+
+
+
+tar and feather
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tar and feather**: vi.
+
+\[from Unix tar(1)\] To create a transportable archive from a group of files by first sticking them together with tar(1) (the Tape ARchiver) and then compressing the result (see [*compress*](../C/compress.html)). The latter action is dubbed feathering partly for euphony and (if only for contrived effect) by analogy to what you do with an airplane propeller to decrease wind resistance, or with an oar to reduce water resistance; smaller files, after all, slip through comm links more easily. Compare the more common [*tarball*](tarball.html). Earlier, the phrase referred to a punishment in which the victims had tar being poured upon them and then, whilst the tar was still sticky, having a pillow full of feathers - or other material — thrown at them. See http://www.nwta.com/Spy/spring99/tar.html.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tape monkey 
+Home
+ tarball
+
+
+---
+
+
+
+tarball
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tarball**: n.
+
+\[very common; prob. based on the “tar baby” in the Uncle Remus folk tales\] An archive, created with the Unix tar(1) utility, containing myriad related files. “Here, I'll just ftp you a tarball of the whole project.” Tarballs have been the standard way to ship around source-code distributions since the mid-1980s; in retrospect it seems odd that this term did not enter common usage until the late 1990s.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tar and feather 
+Home
+ tardegy
+
+
+---
+
+
+
+tardegy
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tardegy**: tar´d­jee, n.
+
+\[deliberate mangling of tragedy\] An incident in which someone who clearly deserves to be selected out of the gene pool on grounds of extreme stupidity meets with a messy end. Coined on the Darwin list, which is dedicated to chronicling such incidents; but almost all hackers would instantly recognize the intention of the term and laugh.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tarball 
+Home
+ taste
+
+
+---
+
+
+
+taste
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**taste**: n.
+
+1\. The quality in a program that tends to be inversely proportional to the number of features, hacks, and kluges programmed into it. Also tasty, tasteful, tastefulness. “This feature comes in `N` tasty flavors.” Although tasty and flavorful are essentially synonyms, taste and [*flavor*](../F/flavor.html) are not. Taste refers to sound judgment on the part of the creator; a program or feature can *exhibit* taste but cannot *have* taste. On the other hand, a feature can have [*flavor*](../F/flavor.html). Also, [*flavor*](../F/flavor.html) has the additional meaning of ‘kind’ or ‘variety’ not shared by taste. The marked sense of [*flavor*](../F/flavor.html) is more popular than taste, though both are widely used. See also [*elegant*](../E/elegant.html).
+
+2\. Alt. sp. of [*tayste*](tayste.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tardegy 
+Home
+ tayste
+
+
+---
+
+
+
+tayste
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tayste**: /tayst/
+
+n. Two bits; also as [*taste*](taste.html). Syn. [*crumb*](../C/crumb.html), [*quarter*](../Q/quarter.html). See [*nybble*](../N/nybble.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+taste 
+Home
+ TCB
+
+
+---
+
+
+
+TCB
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**TCB**: /T·C·B/, n.
+
+\[IBM\] 1. Trouble Came Back. An intermittent or difficult-to-reproduce problem that has failed to respond to neglect or [*shotgun debugging*](../S/shotgun-debugging.html). Compare [*heisenbug*](../H/heisenbug.html). Not to be confused with:
+
+2\. Trusted Computing Base, an ‘official’ jargon term from the [*Orange Book*](../O/Orange-Book.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tayste 
+Home
+ TCP/IP
+
+
+---
+
+
+
+TCP/IP
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**TCP/IP**: /T´C·P I´P/, n.
+
+1\. \[Transmission Control Protocol/Internet Protocol\] The wide-area-networking protocol that makes the Internet work, and the only one most hackers can speak the name of without laughing or retching. Unlike such allegedly ‘standard’ competitors such as X.25, DECnet, and the ISO 7-layer stack, TCP/IP evolved primarily by actually being *used*, rather than being handed down from on high by a vendor or a heavily-politicized standards committee. Consequently, it (a) works, (b) actually promotes cheap cross-platform connectivity, and (c) annoys the hell out of corporate and governmental empire-builders everywhere. Hackers value all three of these properties. See [*creationism*](../C/creationism.html).
+
+2\. \[Amateur Packet Radio\] Formerly expanded as “The Crap Phil Is Pushing”. The reference is to Phil Karn, KA9Q, and the context was an ongoing technical/political war between the majority of sites still running AX.25 and the TCP/IP relays. TCP/IP won.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+TCB 
+Home
+ TECO
+
+
+---
+
+
+
+TECO
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**TECO**: /tee´koh/, n.,v. obs.
+
+1\. \[originally an acronym for ‘\[paper\] Tape Editor and COrrector’; later, ‘Text Editor and COrrector’\] n. A text editor developed at MIT and modified by just about everybody. With all the dialects included, TECO may have been the most prolific editor in use before [*EMACS*](../E/EMACS.html), to which it was directly ancestral. Noted for its powerful programming-language-like features and its unspeakably [*hairy*](../H/hairy.html) syntax. It is literally the case that every string of characters is a valid TECO program (though probably not a useful one); one common game used to be mentally working out what the TECO commands corresponding to human names did.
+
+2\. vt. Originally, to edit using the TECO editor in one of its infinite variations (see below).
+
+3\. vt.,obs. To edit even when TECO is *not* the editor being used! This usage is rare and now primarily historical.
+
+As an example of TECO's obscurity, here is a TECO program that takes a list of names such as:
+
+  
+Loser, J. Random  
+Quux, The Great  
+Dick, Moby  
+
+sorts them alphabetically according to surname, and then puts the surname last, removing the comma, to produce the following:
+
+  
+Moby Dick  
+J. Random Loser  
+The Great Quux  
+
+The program is
+
+  
+\[1 J^P$L$$  
+J \$$  
+
+(where ^B means ‘Control-B’ (ASCII 0000010) and $ is actually an [*alt*](../A/alt.html) or escape (ASCII 0011011) character).
+
+In fact, this very program was used to produce the second, sorted list from the first list. The first hack at it had a [*bug*](../B/bug.html): GLS (the author) had accidentally omitted the **@** in front of **F^B**, which as anyone can see is clearly the [*Wrong Thing*](../W/Wrong-Thing.html). It worked fine the second time. There is no space to describe all the features of TECO, but it may be of interest that **^P** means ‘sort’ and **J\** is an idiomatic series of commands for ‘do once for every line’.
+
+In mid-1991, TECO is pretty much one with the dust of history, having been replaced in the affections of hackerdom by [*EMACS*](../E/EMACS.html). Descendants of an early (and somewhat lobotomized) version adopted by DEC can still be found lurking on VMS and a couple of crufty [*PDP-11*](../P/PDP-11.html) operating systems, however, and ports of the more advanced MIT versions remain the focus of some antiquarian interest. See also [*retrocomputing*](../R/retrocomputing.html), [*write-only language*](../W/write-only-language.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+TCP/IP 
+Home
+ tee
+
+
+---
+
+
+
+tee
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tee**: n.,vt.
+
+\[Purdue\] A carbon copy of an electronic transmission. “Oh, you're sending him the [*bits*](../B/bits.html) to that? Slap on a tee for me.” From the Unix command tee(1), itself named after a pipe fitting (see [*plumbing*](../P/plumbing.html)). Can also mean ‘save one for me’, as in “Tee a slice for me!” Also spelled ‘T’.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+TECO 
+Home
+ teergrube
+
+
+---
+
+
+
+teergrube
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**teergrube**: /teer´groob·@/, n.
+
+\[German for tar pit\] A trap set to punish spammers who use an [*address harvester*](../A/address-harvester.html); a mail server deliberately set up to be really, really slow. To activate it, scatter addresses that look like users on the teergrube's host in places where the address harvester will be trolling (one popular way is to embed the fake address in a Usenet sig block next to a human-readable warning not to send mail to it). The address harvester will dutifully collect the address. When the spammer tries to mailbomb it, his mailer will get stuck.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tee 
+Home
+ teledildonics
+
+
+---
+
+
+
+teledildonics
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**teledildonics**: /tel\`@·dil·do'·niks/, n.
+
+Sex in a computer simulated virtual reality, esp. computer-mediated sexual interaction between the [*VR*](../V/VR.html) presences of two humans. This practice is not yet possible except in the rather limited form of erotic conversation on [*MUD*](../M/MUD.html)s and the like. The term, however, is widely recognized in the VR community as a [*ha ha only serious*](../H/ha-ha-only-serious.html) projection of things to come. “When we can sustain a multi-sensory surround good enough for teledildonics, *then* we'll know we're getting somewhere.” See also [*hot chat*](../H/hot-chat.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+teergrube 
+Home
+ ten-finger interface
+
+
+---
+
+
+
+ten-finger interface
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**ten-finger interface**: n.
+
+The interface between two networks that cannot be directly connected for security reasons; refers to the practice of placing two terminals side by side and having an operator read from one and type into the other.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+teledildonics 
+Home
+ tense
+
+
+---
+
+
+
+tense
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tense**: adj.
+
+Of programs, very clever and efficient. A tense piece of code often got that way because it was highly tuned, but sometimes it was just based on a great idea. A comment in a clever routine by Mike Kazar, once a grad-student hacker at CMU: “This routine is so tense it will bring tears to your eyes.” A tense programmer is one who produces tense code.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+ten-finger interface 
+Home
+ tentacle
+
+
+---
+
+
+
+tentacle
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tentacle**: n.
+
+A covert [*pseudo*](../P/pseudo.html), sense 1. An artificial identity created in cyberspace for nefarious and deceptive purposes. The implication is that a single person may have multiple tentacles. This term was originally floated in some paranoid ravings on the cypherpunks list (see [*cypherpunk*](../C/cypherpunk.html)), and adopted in a spirit of irony by other, saner members. It has since shown up, used seriously, in the documentation for some remailer software, and is now (1994) widely recognized on the net. Compare [*astroturfing*](../A/astroturfing.html), [*sock puppet*](../S/sock-puppet.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tense 
+Home
+ tenured graduate student
+
+
+---
+
+
+
+tenured graduate student
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tenured graduate student**: n.
+
+One who has been in graduate school for 10 years (the usual maximum is 5 or 6): a ‘ten-yeared’ student (get it?). Actually, this term may be used of any grad student beginning in his seventh year. Students don't really get tenure, of course, the way professors do, but a tenth-year graduate student has probably been around the university longer than any untenured professor.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tentacle 
+Home
+ tera-
+
+
+---
+
+
+
+tera-
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tera-**: /te´r@/, pref.
+
+\[SI\] See [*quantifiers*](../Q/quantifiers.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tenured graduate student 
+Home
+ teraflop club
+
+
+---
+
+
+
+teraflop club
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**teraflop club**: /te´r@·flop kluhb/, n.
+
+\[FLOP = Floating Point Operation\] A mythical association of people who consume outrageous amounts of computer time in order to produce a few simple pictures of glass balls with intricate ray-tracing techniques. Caltech professor James Kajiya is said to have been the founder. Compare [*Knights of the Lambda Calculus*](../K/Knights-of-the-Lambda-Calculus.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tera- 
+Home
+ terminak
+
+
+---
+
+
+
+terminak
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**terminak**: /ter´mi·nak\`/, n.
+
+\[Caltech, ca. 1979\] Any malfunctioning computer terminal. A common failure mode of Lear-Siegler ADM 3a terminals caused the ‘L’ key to produce the ‘K’ code instead; complaints about this tended to look like “Terminak \#3 has a bad keyboard. Pkease fix.” Compare [*dread high-bit disease*](../D/dread-high-bit-disease.html), [*frogging*](../F/frogging.html); see also [*sun-stools*](../S/sun-stools.html), [*HP-SUX*](../H/HP-SUX.html), [*Slowlaris*](../S/Slowlaris.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+teraflop club 
+Home
+ terminal brain death
+
+
+---
+
+
+
+terminal brain death
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**terminal brain death**: n.
+
+The extreme form of [*terminal illness*](terminal-illness.html) (sense 1). What someone who has obviously been hacking continuously for far too long is said to be suffering from.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+terminak 
+Home
+ terminal illness
+
+
+---
+
+
+
+terminal illness
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**terminal illness**: n.
+
+1\. Syn. [*raster burn*](../R/raster-burn.html).
+
+2\. The ‘burn-in’ condition your CRT tends to get if you don't have a screen saver.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+terminal brain death 
+Home
+ terminal junkie
+
+
+---
+
+
+
+terminal junkie
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**terminal junkie**: n.
+
+\[UK\] A [*wannabee*](../W/wannabee.html) or early [*larval stage*](../L/larval-stage.html) hacker who spends most of his or her time wandering the directory tree and writing [*noddy*](../N/noddy.html) programs just to get a fix of computer time. Variants include terminal jockey, console junkie, and [*console jockey*](../C/console-jockey.html). The term console jockey seems to imply more expertise than the other three (possibly because of the exalted status of the [*console*](../C/console.html) relative to an ordinary terminal). See also [*twink*](twink.html), [*read-only user*](../R/read-only-user.html). Appropriately, this term was used in the works of William S. Burroughs to describe a heroin addict with an unlimited supply.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+terminal illness 
+Home
+ test
+
+
+---
+
+
+
+test
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**test**: n.
+
+1\. Real users bashing on a prototype long enough to get thoroughly acquainted with it, with careful monitoring and followup of the results.
+
+2\. Some bored random user trying a couple of the simpler features with a developer looking over his or her shoulder, ready to pounce on mistakes.
+
+Judging by the quality of most software, the second definition is far more prevalent. See also [*demo*](../D/demo.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+terminal junkie 
+Home
+ TeX
+
+
+---
+
+
+
+TeX
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**TeX**: /tekh/, n.
+
+An extremely powerful [*macro*](../M/macro.html)-based text formatter written by Donald E. [*Knuth*](../K/Knuth.html), very popular in the computer-science community (it is good enough to have displaced Unix [*troff*](troff.html), the other favored formatter, even at many Unix installations). TeX fans insist on the correct (guttural) pronunciation, and the correct spelling (all caps, squished together, with the E depressed below the baseline; the mixed-case ‘TeX’ is considered an acceptable kluge on ASCII-only devices). Fans like to proliferate names from the word ‘TeX’ — such as TeXnician (TeX user), TeXhacker (TeX programmer), TeXmaster (competent TeX programmer), TeXhax, and TeXnique. See also [*CrApTeX*](../C/CrApTeX.html).
+
+Knuth began TeX because he had become annoyed at the declining quality of the typesetting in volumes I--III of his monumental *Art of Computer Programming* (see [*Knuth*](../K/Knuth.html), also [*bible*](../B/bible.html)). In a manifestation of the typical hackish urge to solve the problem at hand once and for all, he began to design his own typesetting language. He thought he would finish it on his sabbatical in 1978; he was wrong by only about 8 years. The language was finally frozen around 1985, but volume IV of *The Art of Computer Programming* is not expected to appear until 2007. The impact and influence of TeX's design has been such that nobody minds this very much. Many grand hackish projects have started as a bit of [*toolsmith*](toolsmith.html)ing on the way to something else; Knuth's diversion was simply on a grander scale than most.
+
+TeX has also been a noteworthy example of free, shared, but high-quality software. Knuth offers a monetary award to anyone who found and reported bugs dating from before the 1989 code freeze; as the years wore on and the few remaining bugs were fixed (and new ones even harder to find), the bribe went up. Though well-written, TeX is so large (and so full of cutting edge technique) that it is said to have unearthed at least one bug in every Pascal system it has been compiled with.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+test 
+Home
+ text
+
+
+---
+
+
+
+text
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**text**: n.
+
+1\. \[techspeak\] Executable code, esp. a pure code portion shared between multiple instances of a program running in a multitasking OS. Compare [*English*](../E/English.html).
+
+2\. Textual material in the mainstream sense; data in ordinary [*ASCII*](../A/ASCII.html) or [*EBCDIC*](../E/EBCDIC.html) representation (see [*flat-ASCII*](../F/flat-ASCII.html)). “Those are text files; you can review them using the editor.”
+
+These two contradictory senses confuse hackers, too.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+TeX 
+Home
+ thanks in advance
+
+
+---
+
+
+
+thanks in advance
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**thanks in advance**
+
+\[Usenet\] Conventional net.politeness ending a posted request for information or assistance. Sometimes written ‘advTHANKSance’ or ‘aTdHvAaNnKcSe’ or abbreviated ‘TIA’. See [*net.-*](../N/net--.html), [*netiquette*](../N/netiquette.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+text 
+Home
+ That's not a bug, that's a feature!
+
+
+---
+
+
+
+That's not a bug, that's a feature!
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**That's not a bug, that's a feature!**
+
+The [*canonical*](../C/canonical.html) first parry in a debate about a purported bug. The complainant, if unconvinced, is likely to retort that the bug is then at best a [*misfeature*](../M/misfeature.html). See also [*feature*](../F/feature.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+thanks in advance 
+Home
+ the literature
+
+
+---
+
+
+
+the literature
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**the literature**: n.
+
+Computer-science journals and other publications, vaguely gestured at to answer a question that the speaker believes is [*trivial*](trivial.html). Thus, one might answer an annoying question by saying “It's in the literature.” Oppose [*Knuth*](../K/Knuth.html), which has no connotation of triviality.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+That's not a bug, that's a feature! 
+Home
+ the network
+
+
+---
+
+
+
+the network
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**the network**: n.
+
+1\. Historically, the union of all the major noncommercial, academic, and hacker-oriented networks, such as Internet, the pre-1990 ARPANET, NSFnet, BITNET, and the virtual UUCP and [*Usenet*](../U/Usenet.html) ‘networks’, plus the corporate in-house networks and commercial timesharing services (such as CompuServe, GEnie and AOL) that gateway to them. A site is generally considered on the network if it can be reached through some combination of Internet-style (@-sign) and UUCP (bang-path) addresses. See [*Internet*](../I/Internet.html), [*bang path*](../B/bang-path.html), [*network address*](../N/network-address.html).
+
+2\. Following the mass-culture discovery of the Internet in 1994 and subsequent proliferation of cheap TCP/IP connections, “the network” is increasingly synonymous with the Internet itself (as it was before the second wave of wide-area computer networking began around 1980).
+
+3\. A fictional conspiracy of libertarian hacker-subversives and anti-authoritarian monkeywrenchers described in Robert Anton Wilson's novel *Schrödinger's Cat*, to which many hackers have subsequently decided they belong (this is an example of [*ha ha only serious*](../H/ha-ha-only-serious.html)).
+
+In sense 1, the network is often abbreviated to the net. “Are you on the net?” is a frequent question when hackers first meet face to face, and “See you on the net!” is a frequent goodbye.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+the literature 
+Home
+ the X that can be Y is not the true X
+
+
+---
+
+
+
+the X that can be Y is not the true X
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**the X that can be Y is not the true X**
+
+Yet another instance of hackerdom's peculiar attraction to mystical references — a common humorous way of making exclusive statements about a class of things. The template is from the *Tao te Ching*: “The Tao which can be spoken of is not the true Tao.” The implication is often that the X is a mystery accessible only to the enlightened. See the [*trampoline*](trampoline.html) entry for an example, and compare [*has the X nature*](../H/has-the-X-nature.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+the network 
+Home
+ theology
+
+
+---
+
+
+
+theology
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**theology**: n.
+
+1\. Ironically or humorously used to refer to [*religious issues*](../R/religious-issues.html).
+
+2\. Technical fine points of an abstruse nature, esp. those where the resolution is of theoretical interest but is relatively [*marginal*](../M/marginal.html) with respect to actual use of a design or system. Used esp. around software issues with a heavy AI or language-design component, such as the smart-data vs. smart-programs dispute in AI.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+the X that can be Y is not the true X 
+Home
+ theory
+
+
+---
+
+
+
+theory
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**theory**: n.
+
+The consensus, idea, plan, story, or set of rules that is currently being used to inform a behavior. This usage is a generalization and (deliberate) abuse of the technical meaning. “What's the theory on fixing this TECO loss?” “What's the theory on dinner tonight?” (“Chinatown, I guess.”) “What's the current theory on letting lusers on during the day?” “The theory behind this change is to fix the following well-known screw....”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+theology 
+Home
+ thinko
+
+
+---
+
+
+
+thinko
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**thinko**: /thing´koh/, n.
+
+\[by analogy with ‘typo’\] A momentary, correctable glitch in mental processing, especially one involving recall of information learned by rote; a bubble in the stream of consciousness. Syn. [*braino*](../B/braino.html); see also [*brain fart*](../B/brain-fart.html). Compare [*mouso*](../M/mouso.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+theory 
+Home
+ This can't happen
+
+
+---
+
+
+
+This can't happen
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**This can't happen**
+
+Less clipped variant of [*can't happen*](../C/can-t-happen.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+thinko 
+Home
+ This time, for sure!
+
+
+---
+
+
+
+This time, for sure!
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**This time, for sure!**: excl.
+
+Ritual affirmation frequently uttered during protracted debugging sessions involving numerous small obstacles (e.g., attempts to bring up a UUCP connection). For the proper effect, this must be uttered in a fruity imitation of Bullwinkle J. Moose. Also heard: “Hey, Rocky! Watch me pull a rabbit out of my hat!” The [*canonical*](../C/canonical.html) response is, of course, “But that trick *never* works!” See [*hacker humor*](../H/hacker-humor.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+This can't happen 
+Home
+ thrash
+
+
+---
+
+
+
+thrash
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**thrash**: vi.
+
+To move wildly or violently, without accomplishing anything useful. Paging or swapping systems that are overloaded waste most of their time moving data into and out of core (rather than performing useful computation) and are therefore said to thrash. Someone who keeps changing his mind (esp. about what to work on next) is said to be thrashing. A person frantically trying to execute too many tasks at once (and not spending enough time on any single task) may also be described as thrashing. Compare [*multitask*](../M/multitask.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+This time, for sure! 
+Home
+ thread
+
+
+---
+
+
+
+thread
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**thread**: n.
+
+\[Usenet, GEnie, CompuServe\] Common abbreviation of topic thread, a more or less continuous chain of postings on a single topic. To follow a thread is to read a series of Usenet postings sharing a common subject or (more correctly) which are connected by Reference headers. The better newsreaders can present news in thread order automatically. Not to be confused with the techspeak sense of ‘thread’, e.g. a lightweight process.
+
+Interestingly, this is far from a neologism. The OED says: “That which connects the successive points in anything, esp. a narrative, train of thought, or the like; the sequence of events or ideas continuing throughout the whole course of anything;” Citations are given going back to 1642!
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+thrash 
+Home
+ three-finger salute
+
+
+---
+
+
+
+three-finger salute
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**three-finger salute**: n.
+
+Syn. [*Vulcan nerve pinch*](../V/Vulcan-nerve-pinch.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+thread 
+Home
+ throwaway account
+
+
+---
+
+
+
+throwaway account
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**throwaway account**: n.
+
+1\. An inexpensive Internet account purchased on a legitimate [*ISP*](../I/ISP.html) for the sole purpose of spewing [*spam*](../S/spam.html).
+
+2\. An inexpensive Internet account obtained for the sole purpose of doing something which requires a valid email address but being able to ignore spam since the user will not look at the account again.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+three-finger salute 
+Home
+ thud
+
+
+---
+
+
+
+thud
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**thud**: n.
+
+1\. Yet another [*metasyntactic variable*](../M/metasyntactic-variable.html) (see [*foo*](../F/foo.html)). It is reported that at CMU from the mid-1970s the canonical series of these was ‘foo’, ‘bar’, ‘thud’, ‘blat’.
+
+2\. Rare term for the hash character, ‘#’ (ASCII 0100011). See [*ASCII*](../A/ASCII.html) for other synonyms.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+throwaway account 
+Home
+ thumb
+
+
+---
+
+
+
+thumb
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**thumb**: n.
+
+The slider on a window-system scrollbar. So called because moving it allows you to browse through the contents of a text window in a way analogous to thumbing through a book.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+thud 
+Home
+ thundering herd problem
+
+
+---
+
+
+
+thundering herd problem
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**thundering herd problem**
+
+Scheduler thrashing. This can happen under Unix when you have a number of processes that are waiting on a single event. When that event (a connection to the web server, say) happens, every process which could possibly handle the event is awakened. In the end, only one of those processes will actually be able to do the work, but, in the meantime, all the others wake up and contend for CPU time before being put back to sleep. Thus the system thrashes briefly while a herd of processes thunders through. If this starts to happen many times per second, the performance impact can be significant.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+thumb 
+Home
+ thunk
+
+
+---
+
+
+
+thunk
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**thunk**: /thuhnk/, n.
+
+1\. \[obs.\]“A piece of coding which provides an address:”, according to P. Z. Ingerman, who invented thunks in 1961 as a way of binding actual parameters to their formal definitions in Algol-60 procedure calls. If a procedure is called with an expression in the place of a formal parameter, the compiler generates a thunk which computes the expression and leaves the address of the result in some standard location.
+
+2\. Later generalized into: an expression, frozen together with its environment, for later evaluation if and when needed (similar to what in techspeak is called a closure). The process of unfreezing these thunks is called forcing.
+
+3\. A [*stubroutine*](../S/stubroutine.html), in an overlay programming environment, that loads and jumps to the correct overlay. Compare [*trampoline*](trampoline.html).
+
+4\. Microsoft and IBM have both defined, in their Intel-based systems, a “16-bit environment” (with bletcherous segment registers and 64K address limits) and a “32-bit environment” (with flat addressing and semi-real memory management). The two environments can both be running on the same computer and OS (thanks to what is called, in the Microsoft world, WOW which stands for Windows On Windows). MS and IBM have both decided that the process of getting from 16- to 32-bit and vice versa is called a “thunk”; for Windows 95, there is even a tool THUNK.EXE called a “thunk compiler”.
+
+5\. A person or activity scheduled in a thunklike manner. “It occurred to me the other day that I am rather accurately modeled by a thunk — I frequently need to be forced to completion.:” — paraphrased from a [*plan file*](../P/plan-file.html).
+
+Historical note: There are a couple of onomatopoeic myths circulating about the origin of this term. The most common is that it is the sound made by data hitting the stack; another holds that the sound is that of the data hitting an accumulator. Yet another suggests that it is the sound of the expression being unfrozen at argument-evaluation time. In fact, according to the inventors, it was coined after they realized (in the wee hours after hours of discussion) that the type of an argument in Algol-60 could be figured out in advance with a little compile-time thought, simplifying the evaluation machinery. In other words, it had ‘already been thought of’; thus it was christened a thunk, which is “the past tense of ‘think’ at two in the morning”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+thundering herd problem 
+Home
+ tick
+
+
+---
+
+
+
+tick
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tick**: n.
+
+1\. A [*jiffy*](../J/jiffy.html) (sense 1).
+
+2\. In simulations, the discrete unit of time that passes between iterations of the simulation mechanism. In AI applications, this amount of time is often left unspecified, since the only constraint of interest is the ordering of events. This sort of AI simulation is often pejoratively referred to as tick-tick-tick simulation, especially when the issue of simultaneity of events with long, independent chains of causes is [*handwave*](../H/handwave.html)d.
+
+3\. In the FORTH language, a single quote character.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+thunk 
+Home
+ tick-list features
+
+
+---
+
+
+
+tick-list features
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tick-list features**: n.
+
+\[Acorn Computers\] Features in software or hardware that customers insist on but never use (calculators in desktop TSRs and that sort of thing). The American equivalent would be checklist features, but this jargon sense of the phrase has not been reported.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tick 
+Home
+ tickle a bug
+
+
+---
+
+
+
+tickle a bug
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tickle a bug**: vt.
+
+To cause a normally hidden bug to manifest itself through some known series of inputs or operations. “You can tickle the bug in the Paradise VGA card's highlight handling by trying to set bright yellow reverse video.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tick-list features 
+Home
+ tiger team
+
+
+---
+
+
+
+tiger team
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tiger team**: n.
+
+\[U.S. military jargon\]
+
+1\. Originally, a team (of [*sneaker*](../S/sneaker.html)s) whose purpose is to penetrate security, and thus test security measures. These people are paid professionals who do hacker-type tricks, e.g., leave cardboard signs saying “bomb” in critical defense installations, hand-lettered notes saying “Your codebooks have been stolen” (they usually haven't been) inside safes, etc. After a successful penetration, some high-ranking security type shows up the next morning for a ‘security review’ and finds the sign, note, etc., and all hell breaks loose. Serious successes of tiger teams sometimes lead to early retirement for base commanders and security officers (see the [*patch*](../P/patch.html) entry for an example).
+
+2\. Recently, and more generally, any official inspection team or special [*firefighting*](../F/firefighting.html) group called in to look at a problem.
+
+A subset of tiger teams are professional [*cracker*](../C/cracker.html)s, testing the security of military computer installations by attempting remote attacks via networks or supposedly ‘secure’ comm channels. Some of their escapades, if declassified, would probably rank among the greatest hacks of all times. The term has been adopted in commercial computer-security circles in this more specific sense.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tickle a bug 
+Home
+ time bomb
+
+
+---
+
+
+
+time bomb
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**time bomb**: n.
+
+A subspecies of [*logic bomb*](../L/logic-bomb.html) that is triggered by reaching some preset time, either once or periodically. There are numerous legends about time bombs set up by programmers in their employers' machines, to go off if the programmer is fired or laid off and is not present to perform the appropriate suppressing action periodically.
+
+Interestingly, the only such incident for which we have been pointed to documentary evidence took place in the Soviet Union in 1986! A disgruntled programmer at the Volga Automobile Plant (where the Fiat clones called Ladas were manufactured) planted a time bomb which, a week after he'd left on vacation, stopped the entire main assembly line for a day. The case attracted lots of attention in the Soviet Union because it was the first cracking case to make it to court there. The perpetrator got a suspended sentence of 3 years in jail and was barred from future work as a programmer.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tiger team 
+Home
+ time sink
+
+
+---
+
+
+
+time sink
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**time sink**: n.
+
+\[poss.: by analogy with heat sink or current sink\] A project that consumes unbounded amounts of time.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+time bomb 
+Home
+ time T
+
+
+---
+
+
+
+time T
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**time T**: /ti:m T/, n.
+
+1\. An unspecified but usually well-understood time, often used in conjunction with a later time `T+1`. “We'll meet on campus at time `T` or at Louie's at time `T+1`” means, in the context of going out for dinner: “We can meet on campus and go to Louie's, or we can meet at Louie's itself a bit later.” (Louie's was a Chinese restaurant in Palo Alto that was a favorite with hackers.) Had the number 30 been used instead of the number 1, it would have implied that the travel time from campus to Louie's is 30 minutes; whatever time `T` is (and that hasn't been decided on yet), you can meet half an hour later at Louie's than you could on campus and end up eating at the same time. See also [*since time T equals minus infinity*](../S/since-time-T-equals-minus-infinity.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+time sink 
+Home
+ times-or-divided-by
+
+
+---
+
+
+
+times-or-divided-by
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**times-or-divided-by**: quant.
+
+\[by analogy with ‘plus-or-minus’\] Term occasionally used when describing the uncertainty associated with a scheduling estimate, for either humorous or brutally honest effect. For a software project, the scheduling uncertainty factor is usually at least 2.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+time T 
+Home
+ timesharing
+
+
+---
+
+
+
+timesharing
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**timesharing**
+
+\[now primarily historical\] Timesharing is the technique of scheduling a computer's time so that they are shared across multiple tasks and multiple users, with each user having the illusion that his or her computation is going on continuously. John McCarthy, the inventor of [*LISP*](../L/LISP.html), first imagined this technique in the late 1950s. The first timesharing operating systems, BBN's "Little Hospital" and [*CTSS*](../C/CTSS.html), were deplayed in 1962-63. The early hacker culture of the 1960s and 1970s grew up around the first generation of relatively cheap timesharing computers, notably the [*DEC*](../D/DEC.html) 10, 11, and [*VAX*](../V/VAX.html) lines. But these were only cheap in a relative sense; though quite a bit less powerful than today's personal computers, they had to be shared by dozens or even hundreds of people each. The early hacker comunities nucleated around places where it was relatively easy to get access to a timesharing account.
+
+Nowadays, communications bandwidth is usually the most important constraint on what you can do with your computer. Not so back then; timesharing machines were often loaded to capacity, and it was not uncommon for everyone's work to grind to a halt while the machine scheduler thrashed, trying to figure out what to do next. Early hacker slang was replete with terms like cycle crunch and cycle drought for describing the consequences of too few instructions-per-second spread among too many users. As GLS has noted, this sort of problem influenced the tendency of many hackers to work odd schedules.
+
+One reason this is worth noting here is to make the point that the earliest hacker communities were physical, not distributed via networks; they consisted of hackers who shared a machine and therefore had to deal with many of the same problems with respect to it. A system crash could idle dozens of eager programmers, all sitting in the same terminal room and with little to do but talk with each other until normal operation resumed.
+
+Timesharing moved from being the luxury of a few large universities runing semi-experimental operating systems to being more generally available about 1975-76. Hackers in search of more cycles and more control over their programming environment began to migrate off timesharing machines and onto what are now called workstations around 1983. It took another ten years, the development of powerful 32-bit personal micros, the [*Great Internet Explosion*](../G/Great-Internet-Explosion.html) before the migration was complete. It is no coincidence that the last stages of this migration coincided with the development of the first open-source operating systems.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+times-or-divided-by 
+Home
+ TINC
+
+
+---
+
+
+
+TINC
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**TINC**: //
+
+\[Usenet\] Abbreviation: “There Is No Cabal”. See [*backbone cabal*](../B/backbone-cabal.html) and [*NANA*](../N/NANA.html), but note that this abbreviation did not enter use until long after the dispersal of the backbone cabal.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+timesharing 
+Home
+ Tinkerbell program
+
+
+---
+
+
+
+Tinkerbell program
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**Tinkerbell program**: n.
+
+\[Great Britain\] A monitoring program used to scan incoming network calls and generate alerts when calls are received from particular sites, or when logins are attempted using certain IDs. Named after ‘Project Tinkerbell’, an experimental phone-tapping program developed by British Telecom in the early 1980s.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+TINC 
+Home
+ TINLC
+
+
+---
+
+
+
+TINLC
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**TINLC**: //
+
+Abbreviation: “There Is No Lumber Cartel”. See [*Lumber Cartel*](../L/Lumber-Cartel.html). TINLC is a takeoff on [*TINC*](TINC.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Tinkerbell program 
+Home
+ tip of the ice-cube
+
+
+---
+
+
+
+tip of the ice-cube
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tip of the ice-cube**: n., //
+
+\[IBM\] The visible part of something small and insignificant. Used as an ironic comment in situations where ‘tip of the iceberg’ might be appropriate if the subject were at all important.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+TINLC 
+Home
+ tired iron
+
+
+---
+
+
+
+tired iron
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tired iron**: n.
+
+\[IBM\] Hardware that is perfectly functional but far enough behind the state of the art to have been superseded by new products, presumably with sufficient improvement in bang-per-buck that the old stuff is starting to look a bit like a [*dinosaur*](../D/dinosaur.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tip of the ice-cube 
+Home
+ tits on a keyboard
+
+
+---
+
+
+
+tits on a keyboard
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tits on a keyboard**: n.
+
+Small bumps on certain keycaps to keep touch-typists registered. Usually on the `5` of a numeric keypad, and on the `F` and `J` of a [*QWERTY*](../Q/QWERTY.html) keyboard; but older Macs (like pre-PC electric typewriters) had them on the `D` and `K` keys (this changed in 1999).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tired iron 
+Home
+ TLA
+
+
+---
+
+
+
+TLA
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**TLA**: /T·L·A/, n.
+
+\[Three-Letter Acronym\]
+
+1\. Self-describing abbreviation for a species with which computing terminology is infested.
+
+2\. Any confusing acronym. Examples include MCA, FTP, SNA, CPU, MMU, SCCS, DMU, FPU, NNTP, TLA. People who like this looser usage argue that not all TLAs have three letters, just as not all four-letter words have four letters. One also hears of ‘ETLA’ (Extended Three-Letter Acronym, pronounced /ee tee el ay/) being used to describe four-letter acronyms; the terms ‘SFLA’ (Stupid Four-Letter Acronym), ‘LFLA’ (Longer Four Letter Acronym), and VLFLA (Very Long Five Letter Acronym) have also been reported. See also [*YABA*](../Y/YABA.html).
+
+The self-effacing phrase “TDM TLA” (Too Damn Many...) is often used to bemoan the plethora of TLAs in use. In 1989, a random of the journalistic persuasion asked hacker Paul Boutin “What do you think will be the biggest problem in computing in the 90s?” Paul's straight-faced response: “There are only 17,000 three-letter acronyms.” (To be exact, there are `26^3 = 17,576`.) There is probably some karmic justice in the fact that Paul Boutin subsequently became a journalist.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tits on a keyboard 
+Home
+ TMRC
+
+
+---
+
+
+
+TMRC
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**TMRC**: /tmerk´/, n.
+
+The Tech Model Railroad Club at MIT, one of the wellsprings of hacker culture. The 1959 *Dictionary of the TMRC Language* compiled by Peter Samson included several terms that became basics of the hackish vocabulary (see esp. [*foo*](../F/foo.html), [*mung*](../M/mung.html), and [*frob*](../F/frob.html)).
+
+By 1962, TMRC's legendary layout was already a marvel of complexity and has grown in the years since. All the features described here were still present when the old layout was decommissioned in 1998 just before the demolition of MIT Building 20, and will almost certainly be retained when the old layout is rebuilt (expected in 2003). The control system alone featured about 1200 relays. There were [*scram switch*](../S/scram-switch.html)es located at numerous places around the room that could be thwacked if something undesirable was about to occur, such as a train going full-bore at an obstruction. Another feature of the system was a digital clock on the dispatch board, which was itself something of a wonder in those bygone days before cheap LEDs and seven-segment displays. When someone hit a scram switch the clock stopped and the display was replaced with the word ‘FOO’; at TMRC the scram switches are therefore called foo switches.
+
+Steven Levy, in his book *Hackers* (see the [Bibliography](../pt03.html#bibliography "Bibliography") in Appendix C), gives a stimulating account of those early years. TMRC's Signals and Power Committee included many of the early PDP-1 hackers and the people who later became the core of the MIT AI Lab staff. Thirty years later that connection is still very much alive, and this lexicon accordingly includes a number of entries from a recent revision of the TMRC dictionary.
+
+TMRC has a web page at http://tmrc-www.mit.edu/. The TMRC Dictionary is available there, at http://tmrc-www.mit.edu/dictionary.html.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+TLA 
+Home
+ TMRCie
+
+
+---
+
+
+
+TMRCie
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**TMRCie**: /tmerk´ee/, n.
+
+\[MIT\] A denizen of [*TMRC*](TMRC.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+TMRC 
+Home
+ TMTOWTDI
+
+
+---
+
+
+
+TMTOWTDI
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**TMTOWTDI**: /tim·toh'·dee/, abbrev.
+
+There's More Than One Way To Do It. This abbreviation of the official motto of [*Perl*](../P/Perl.html) is frequently used on newsgroups and mailing lists related to that language.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+TMRCie 
+Home
+ to a first approximation
+
+
+---
+
+
+
+to a first approximation
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**to a first approximation**: adj.
+
+1\. \[techspeak\] When one is doing certain numerical computations, an approximate solution may be computed by any of several heuristic methods, then refined to a final value. By using the starting point of a first approximation of the answer, one can write an algorithm that converges more quickly to the correct result.
+
+2\. In jargon, a preface to any comment that indicates that the comment is only approximately true. The remark “To a first approximation, I feel good” might indicate that deeper questioning would reveal that not all is perfect (e.g., a nagging cough still remains after an illness).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+TMTOWTDI 
+Home
+ to a zeroth approximation
+
+
+---
+
+
+
+to a zeroth approximation
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**to a zeroth approximation**
+
+\[from to a first approximation\] A **really** sloppy approximation; a wild guess. Compare [*social science number*](../S/social-science-number.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+to a first approximation 
+Home
+ toad
+
+
+---
+
+
+
+toad
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**toad**: vt.
+
+1\. Notionally, to change a [*MUD*](../M/MUD.html) player into a toad.
+
+2\. To permanently and totally exile a player from the MUD. A very serious action, which can only be done by a MUD [*wizard*](../W/wizard.html); often involves a lot of debate among the other characters first. See also [*frog*](../F/frog.html), [*FOD*](../F/FOD.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+to a zeroth approximation 
+Home
+ toast
+
+
+---
+
+
+
+toast
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**toast**
+
+1\. n.Any completely inoperable system or component, esp. one that has just crashed and burned: “Uh, oh ... I think the serial board is toast.” (This sense went mainstream around 1993.)
+
+2\. vt. To cause a system to crash accidentally, especially in a manner that requires manual rebooting. “Rick just toasted the [*firewall machine*](../F/firewall-machine.html) again.” Compare [*fried*](../F/fried.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+toad 
+Home
+ toaster
+
+
+---
+
+
+
+toaster
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**toaster**: n.
+
+1\. The archetypal really stupid application for an embedded microprocessor controller; often used in comments that imply that a scheme is inappropriate technology (but see [*elevator controller*](../E/elevator-controller.html)). “[*DWIM*](../D/DWIM.html) for an assembler? That'd be as silly as running Unix on your toaster!”
+
+2\. A very, very dumb computer. “You could run this program on any dumb toaster.” See [*bitty box*](../B/bitty-box.html), [*Get a real computer!*](../G/Get-a-real-computer-.html), [*toy*](toy.html), [*beige toaster*](../B/beige-toaster.html).
+
+3\. A Macintosh, esp. a Mac in the original unitary case. Some hold that this is implied by sense 2.
+
+4\. A peripheral device. “I bought my box without toasters, but since then I've added two boards and a second disk drive.”
+
+5\. A specialized computer used as an appliance. See [*web toaster*](../W/web-toaster.html), [*video toaster*](../V/video-toaster.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+toast 
+Home
+ toeprint
+
+
+---
+
+
+
+toeprint
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**toeprint**: n.
+
+A [*footprint*](../F/footprint.html) of especially small size.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+toaster 
+Home
+ TOFU
+
+
+---
+
+
+
+TOFU
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**TOFU**
+
+Text Over, Fullquote Under; see [*top-post*](top-post.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+toeprint 
+Home
+ toggle
+
+
+---
+
+
+
+toggle
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**toggle**: vt.
+
+To change a [*bit*](../B/bit.html) from whatever state it is in to the other state; to change from 1 to 0 or from 0 to
+
+1\. This comes from ‘toggle switches’, such as standard light switches, though the word toggle actually refers to the mechanism that keeps the switch in the position to which it is flipped rather than to the fact that the switch has two positions. There are four things you can do to a bit: set it (force it to be 1), clear (or zero) it, leave it alone, or toggle it. (Mathematically, one would say that there are four distinct boolean-valued functions of one boolean argument, but saying that is much less fun than talking about toggling bits.)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+TOFU 
+Home
+ tool
+
+
+---
+
+
+
+tool
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tool**
+
+1\. n.A program used primarily to create, manipulate, modify, or analyze other programs, such as a compiler or an editor or a cross-referencing program. Oppose [*app*](../A/app.html), [*operating system*](../O/operating-system.html); see also [*toolchain*](toolchain.html).
+
+2\. \[Unix\] An application program with a simple, ‘transparent’ (typically text-stream) interface designed specifically to be used in programmed combination with other tools (see [*filter*](../F/filter.html), [*plumbing*](../P/plumbing.html)).
+
+3\. \[MIT: general to students there\] vi. To work; to study (connotes tedium). The TMRC Dictionary defined this as “to set one's brain to the grindstone”. See [*hack*](../H/hack.html).
+
+4\. n. \[MIT\] A student who studies too much and hacks too little. (MIT's student humor magazine rejoices in the name *Tool and Die*.)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+toggle 
+Home
+ toolchain
+
+
+---
+
+
+
+toolchain
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**toolchain**
+
+A collection of tools used to develop for a particular hardware target, or to work with a particular data format (thus ‘the Crusoe development toolchain’, or the ‘DocBook toolchain’). Often used in the context of building software on one system which will be installed or run on some other device; in that case the chain of tools usually consists of such items as a particular version of a compiler, libraries, special headers, etc. May also be used of text-formatting, page layout, or multimedia tools which render from some markup to a variety of production formats. Differs from ‘toolkit’ in that the former implies a collection of semi-independent tools with complementary functions, while ‘toolchain’ implies that each of the parts is a serial stage in a rather tightly bound pipeline. Seems to have become current in early 1999 and 2000; now common.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tool 
+Home
+ toolsmith
+
+
+---
+
+
+
+toolsmith
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**toolsmith**: n.
+
+The software equivalent of a tool-and-die specialist; one who specializes in making the [*tool*](tool.html)s with which other programmers create applications. Many hackers consider this more fun than applications per se; to understand why, see [*uninteresting*](../U/uninteresting.html). Jon Bentley, in the “Bumper-Sticker Computer Science” chapter of his book *More Programming Pearls*, quotes Dick Sites from [*DEC*](../D/DEC.html) as saying “I'd rather write programs to write programs than write programs”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+toolchain 
+Home
+ toor
+
+
+---
+
+
+
+toor
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**toor**: n.
+
+The Bourne-Again Super-user. An alternate account with UID of 0, created on Unix machines where the root user has an inconvenient choice of shell. Compare [*avatar*](../A/avatar.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+toolsmith 
+Home
+ top-post
+
+
+---
+
+
+
+top-post
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**top-post**: n., v.
+
+\[common\] To put the newly-added portion of an email or Usenet response before the quoted part, as opposed to the more logical sequence of quoted portion first with original following. The problem with this practice is neatly summed up by the following FAQ entry:
+
+A: No.
+Q: Should I include quotations after my reply?
+
+This term is generally used pejoratively with the implication that the offending person is a [*newbie*](../N/newbie.html), a Microsoft addict (Microsoft mail tools produce a similar format by default), or simply a common-and-garden-variety idiot.
+
+One major problem with top-posting is that people who do it all too frequently quote the *entire* parent message rather than trimming it down to those portions relevent to their reply — this makes threads bulky and unnecessarily difficult to read and arouses the righteous ire of experienced Internet residents (this style is called “TOFU” for “text over, fullquote under”, or sometimes “jeopardy-style quoting”). Another problem is that top-posters often word their replies on the assumption that you just read the previous message, even though their perversity has put it further down the page than you have yet read. Oppose [*bottom-post*](../B/bottom-post.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+toor 
+Home
+ topic drift
+
+
+---
+
+
+
+topic drift
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**topic drift**: n.
+
+Term used on GEnie, Usenet and other electronic fora to describe the tendency of a [*thread*](thread.html) to drift away from the original subject of discussion (and thus, from the Subject header of the originating message), or the results of that tendency. The header in each post can be changed to keep current with the posts, but usually isn't due to forgetfulness or laziness. A single post may often result in several posts each responding to a different point in the original. Some subthreads will actually be in response to some off-the-cuff side comment, possibly degenerating into a [*flame war*](../F/flame-war.html), or just as often evolving into a separate discussion. Hence, discussions aren't really so much threads as they are trees. Except that they don't really have leaves, or multiple branching roots; usually some lines of discussion will just sort of die off after everyone gets tired of them. This could take anywhere from hours to weeks, or even longer.
+
+The term ‘topic drift’ is often used in gentle reminders that the discussion has strayed off any useful track. “I think we started with a question about Niven's last book, but we've ended up discussing the sexual habits of the common marmoset. Now *that's* topic drift!”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+top-post 
+Home
+ topic group
+
+
+---
+
+
+
+topic group
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**topic group**: n.
+
+Syn. [*forum*](../F/forum.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+topic drift 
+Home
+ TOPS-10
+
+
+---
+
+
+
+TOPS-10
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**TOPS-10**: /tops·ten/, n.
+
+[*DEC*](../D/DEC.html)'s proprietary OS for the fabled [*PDP-10*](../P/PDP-10.html) machines, long a favorite of hackers but now long extinct. A fountain of hacker folklore; see Appendix A. See also [*ITS*](../I/ITS.html), [*TOPS-20*](TOPS-20.html), [*TWENEX*](TWENEX.html), [*VMS*](../V/VMS.html), [*operating system*](../O/operating-system.html). TOPS-10 was sometimes called BOTS-10 (from ‘bottoms-ten’) as a comment on the inappropriateness of describing it as the top of anything.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+topic group 
+Home
+ TOPS-20
+
+
+---
+
+
+
+TOPS-20
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**TOPS-20**: /tops·twen´tee/, n.
+
+See [*TWENEX*](TWENEX.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+TOPS-10 
+Home
+ TOS
+
+
+---
+
+
+
+TOS
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**TOS**: vt.
+
+\[from the acronym for ‘Terms Of Service’ playing on the verb “toss”\]
+
+1\. The act of terminating an Internet access account because the owner breached the terms of service (e.g. by spamming).
+
+2\. To successfully complain to the ISP for that reason so that they then close the account.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+TOPS-20 
+Home
+ tourist
+
+
+---
+
+
+
+tourist
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tourist**: n.
+
+1\. \[ITS\] A guest on the system, especially one who generally logs in over a network from a remote location for [*comm mode*](../C/comm-mode.html), email, games, and other trivial purposes. One step below [*luser*](../L/luser.html). ITS hackers often used to spell this [*turist*](turist.html), perhaps by some sort of tenuous analogy with [*luser*](../L/luser.html) (this usage may also have expressed the ITS culture's penchant for six-letterisms, and/or been some sort of tribute to Alan Turing). Compare [*twink*](twink.html), [*lurker*](../L/lurker.html), [*read-only user*](../R/read-only-user.html).
+
+2\. \[IRC\] An [*IRC*](../I/IRC.html) user who goes from channel to channel without saying anything; see [*channel hopping*](../C/channel-hopping.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+TOS 
+Home
+ tourist information
+
+
+---
+
+
+
+tourist information
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tourist information**: n.
+
+Information in an on-line display that is not immediately useful, but contributes to a viewer's gestalt of what's going on with the software or hardware behind it. Whether a given piece of info falls in this category depends partly on what the user is looking for at any given time. The ‘bytes free’ information at the bottom of an MS-DOS or Windows **dir** display is tourist information; so (most of the time) is the TIME information in a Unix ps(1) display.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tourist 
+Home
+ touristic
+
+
+---
+
+
+
+touristic
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**touristic**: adj.
+
+Having the quality of a [*tourist*](tourist.html). Often used as a pejorative, as in ‘losing touristic scum’. Often spelled ‘turistic’ or ‘turistik’, so that phrase might be more properly rendered ‘lusing turistic scum’.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tourist information 
+Home
+ toy
+
+
+---
+
+
+
+toy
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**toy**: n.
+
+A computer system; always used with qualifiers.
+
+1\. nice toy: One that supports the speaker's hacking style adequately.
+
+2\. just a toy: A machine that yields insufficient [*computron*](../C/computron.html)s for the speaker's preferred uses. This is not condemnatory, as is [*bitty box*](../B/bitty-box.html); toys can at least be fun. It is also strongly conditioned by one's expectations; Cray XMP users sometimes consider the Cray-1 a toy, and certainly all RISC boxes and mainframes are toys by their standards. See also [*Get a real computer!*](../G/Get-a-real-computer-.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+touristic 
+Home
+ toy language
+
+
+---
+
+
+
+toy language
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**toy language**: n.
+
+A language useful for instructional purposes or as a proof-of-concept for some aspect of computer-science theory, but inadequate for general-purpose programming. [*Bad Thing*](../B/Bad-Thing.html)s can result when a toy language is promoted as a general purpose solution for programming (see [*bondage-and-discipline language*](../B/bondage-and-discipline-language.html)); the classic example is [*Pascal*](../P/Pascal.html). Several moderately well-known formalisms for conceptual tasks such as programming Turing machines also qualify as toy languages in a less negative sense. See also [*MFTL*](../M/MFTL.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+toy 
+Home
+ toy problem
+
+
+---
+
+
+
+toy problem
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**toy problem**: n.
+
+\[AI\] A deliberately oversimplified case of a challenging problem used to investigate, prototype, or test algorithms for a real problem. Sometimes used pejoratively. See also [*gedanken*](../G/gedanken.html), [*toy program*](toy-program.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+toy language 
+Home
+ toy program
+
+
+---
+
+
+
+toy program
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**toy program**: n.
+
+1\. One that can be readily comprehended; hence, a trivial program (compare [*noddy*](../N/noddy.html)).
+
+2\. One for which the effort of initial coding dominates the costs through its life cycle. See also [*noddy*](../N/noddy.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+toy problem 
+Home
+ trampoline
+
+
+---
+
+
+
+trampoline
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**trampoline**: n.
+
+An incredibly [*hairy*](../H/hairy.html) technique, found in some [*HLL*](../H/HLL.html) and program-overlay implementations (e.g., on the Macintosh), that involves on-the-fly generation of small executable (and, likely as not, self-modifying) code objects to do indirection between code sections. Under BSD and possibly in other Unixes, trampoline code is used to transfer control from the kernel back to user mode when a signal (which has had a handler installed) is sent to a process. These pieces of [*live data*](../L/live-data.html) are called trampolines. Trampolines are notoriously difficult to understand in action; in fact, it is said by those who use this term that the trampoline that doesn't bend your brain is not the true trampoline. See also [*snap*](../S/snap.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+toy program 
+Home
+ trap
+
+
+---
+
+
+
+trap
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**trap**
+
+1\. n. A program interrupt, usually an interrupt caused by some exceptional situation in the user program. In most cases, the OS performs some action, then returns control to the program.
+
+2\. vi. To cause a trap. “These instructions trap to the monitor.” Also used transitively to indicate the cause of the trap. “The monitor traps all input/output instructions.”
+
+This term is associated with assembler programming (interrupt or exception is more common among [*HLL*](../H/HLL.html) programmers) and appears to be fading into history among programmers as the role of assembler continues to shrink. However, it is still important to computer architects and systems hackers (see [*system*](../S/system.html), sense 1), who use it to distinguish deterministically repeatable exceptions from timing-dependent ones (such as I/O interrupts).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+trampoline 
+Home
+ trap door
+
+
+---
+
+
+
+trap door
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**trap door**: n.
+
+(alt.: trapdoor)
+
+1\. Syn. [*back door*](../B/back-door.html) — a [*Bad Thing*](../B/Bad-Thing.html).
+
+2\. \[techspeak\] A trap-door function is one which is easy to compute but very difficult to compute the inverse of. Such functions are [*Good Thing*](../G/Good-Thing.html)s with important applications in cryptography, specifically in the construction of public-key cryptosystems.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+trap 
+Home
+ trash
+
+
+---
+
+
+
+trash
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**trash**: vt.
+
+To destroy the contents of (said of a data structure). The most common of the family of near-synonyms including [*mung*](../M/mung.html), [*mangle*](../M/mangle.html), [*scribble*](../S/scribble.html), and [*roach*](../R/roach.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+trap door 
+Home
+ trawl
+
+
+---
+
+
+
+trawl
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**trawl**: v.
+
+To sift through large volumes of data (e.g., Usenet postings, FTP archives, or the Jargon File) looking for something of interest.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+trash 
+Home
+ tree-killer
+
+
+---
+
+
+
+tree-killer
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tree-killer**: n.
+
+\[Sun\]
+
+1\. A printer.
+
+2\. A person who wastes paper. This epithet should be interpreted in a broad sense; ‘wasting paper’ includes the production of [*spiffy*](../S/spiffy.html) but [*content-free*](../C/content-free.html) documents. Thus, most [*suit*](../S/suit.html)s are tree-killers.
+
+It is likely that both senses derive their flavor from the epithet ‘tree-killer’ applied by Treebeard the Ent to the Orcs in J.R.R. Tolkien's *Lord of the Rings*. See also [*elvish*](../E/elvish.html), [*elder days*](../E/elder-days.html), and especially [*dead-tree version*](../D/dead-tree-version.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+trawl 
+Home
+ treeware
+
+
+---
+
+
+
+treeware
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**treeware**: /tree´weir/, n.
+
+Printouts, books, and other information media made from pulped dead trees. Compare [*tree-killer*](tree-killer.html), see [*documentation*](../D/documentation.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tree-killer 
+Home
+ trit
+
+
+---
+
+
+
+trit
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**trit**: /trit/, n.
+
+\[by analogy with bit\] One base-3 digit; the amount of information conveyed by a selection among one of three equally likely outcomes (see also [*bit*](../B/bit.html)). Trits arise, for example, in the context of a [*flag*](../F/flag.html) that should actually be able to assume *three* values — such as yes, no, or unknown. Trits are sometimes jokingly called 3-state bits. A trit may be semi-seriously referred to as a bit and a half, although it is linearly equivalent to 1.5849625 bits (that is, log\_{2$(3)} bits).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+treeware 
+Home
+ trivial
+
+
+---
+
+
+
+trivial
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**trivial**: adj.
+
+1\. Too simple to bother detailing.
+
+2\. Not worth the speaker's time.
+
+3\. Complex, but solvable by methods so well known that anyone not utterly [*cretinous*](../C/cretinous.html) would have thought of them already.
+
+4\. Any problem one has already solved (some claim that hackish trivial usually evaluates to “I've seen it before”). Hackers' notions of triviality may be quite at variance with those of non-hackers. See [*nontrivial*](../N/nontrivial.html), [*uninteresting*](../U/uninteresting.html).
+
+The physicist Richard Feynman, who had the hacker nature to an amazing degree (see his essay “Los Alamos From Below” in *Surely You're Joking, Mr. Feynman!*), defined trivial theorem as “one that has already been proved”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+trit 
+Home
+ troff
+
+
+---
+
+
+
+troff
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**troff**: /T´rof/, /trof/, n.
+
+\[Unix\] The gray eminence of Unix text processing; a formatting and phototypesetting program, written originally in [*PDP-11*](../P/PDP-11.html) assembler and then in barely-structured early C by the late Joseph Ossanna, modeled after the earlier ROFF which was in turn modeled after the [*Multics*](../M/Multics.html) and [*CTSS*](../C/CTSS.html) program RUNOFF by Jerome Saltzer (*that* name came from the expression “to run off a copy”). A companion program, nroff, formats output for terminals and line printers.
+
+In 1979, Brian Kernighan modified troff so that it could drive phototypesetters other than the Graphic Systems CAT. His paper describing that work (“A Typesetter-independent troff,” AT&T CSTR \#97) explains troff's durability. After discussing the program's “obvious deficiencies — a rebarbative input syntax, mysterious and undocumented properties in some areas, and a voracious appetite for computer resources” and noting the ugliness and extreme hairiness of the code and internals, Kernighan concludes:
+
+> None of these remarks should be taken as denigrating Ossanna's accomplishment with TROFF. It has proven a remarkably robust tool, taking unbelievable abuse from a variety of preprocessors and being forced into uses that were never conceived of in the original design, all with considerable grace under fire.
+
+The success of [*TeX*](TeX.html) and desktop publishing systems have reduced **troff**'s relative importance, but this tribute perfectly captures the strengths that secured **troff** a place in hacker folklore; indeed, it could be taken more generally as an indication of those qualities of good programs that, in the long run, hackers most admire.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+trivial 
+Home
+ troglodyte
+
+
+---
+
+
+
+troglodyte
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**troglodyte**: n.
+
+\[Commodore\]
+
+1\. A hacker who never leaves his cubicle. The term gnoll (from Dungeons & Dragons) is also reported.
+
+2\. A curmudgeon attached to an obsolescent computing environment. The combination ITS troglodyte was flung around some during the Usenet and email wringle-wrangle attending the 2.x.x revision of the Jargon File; at least one of the people it was intended to describe adopted it with pride.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+troff 
+Home
+ troglodyte mode
+
+
+---
+
+
+
+troglodyte mode
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**troglodyte mode**: n.
+
+\[Rice University\] Programming with the lights turned off, sunglasses on, and the terminal inverted (black on white) because you've been up for so many days straight that your eyes hurt (see [*raster burn*](../R/raster-burn.html)). Loud music blaring from a stereo stacked in the corner is optional but recommended. See [*larval stage*](../L/larval-stage.html), [*hack mode*](../H/hack-mode.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+troglodyte 
+Home
+ Trojan horse
+
+
+---
+
+
+
+Trojan horse
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**Trojan horse**: n.
+
+\[coined by MIT-hacker-turned-NSA-spook Dan Edwards\] A malicious security-breaking program that is disguised as something benign, such as a directory lister, archiver, game, or (in one notorious 1990 case on the Mac) a program to find and destroy viruses! See [*back door*](../B/back-door.html), [*virus*](../V/virus.html), [*worm*](../W/worm.html), [*phage*](../P/phage.html), [*mockingbird*](../M/mockingbird.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+troglodyte mode 
+Home
+ troll
+
+
+---
+
+
+
+troll
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**troll**
+
+1\. v.,n. \[From the Usenet group `alt.folklore.urban`\] To utter a posting on [*Usenet*](../U/Usenet.html) designed to attract predictable responses or [*flame*](../F/flame.html)s; or, the post itself. Derives from the phrase “trolling for [*newbie*](../N/newbie.html)s” which in turn comes from mainstream “trolling”, a style of fishing in which one trails bait through a likely spot hoping for a bite. The well-constructed troll is a post that induces lots of newbies and flamers to make themselves look even more clueless than they already do, while subtly conveying to the more savvy and experienced that it is in fact a deliberate troll. If you don't fall for the joke, you get to be in on it. See also [*YHBT*](../Y/YHBT.html).
+
+2\. n. An individual who chronically trolls in sense 1; regularly posts specious arguments, flames or personal attacks to a newsgroup, discussion list, or in email for no other purpose than to annoy someone or disrupt a discussion. Trolls are recognizable by the fact that they have no real interest in learning about the topic at hand - they simply want to utter flame bait. Like the ugly creatures they are named after, they exhibit no redeeming characteristics, and as such, they are recognized as a lower form of life on the net, as in, “Oh, ignore him, he's just a troll.” Compare [*kook*](../K/kook.html).
+
+3\. n. \[Berkeley\] Computer lab monitor. A popular campus job for CS students. Duties include helping newbies and ensuring that lab policies are followed. Probably so-called because it involves lurking in dark cavelike corners.
+
+Some people claim that the troll (sense 1) is properly a narrower category than [*flame bait*](../F/flame-bait.html), that a troll is categorized by containing some assertion that is wrong but not overtly controversial. See also [*Troll-O-Meter*](Troll-O-Meter.html).
+
+The use of ‘troll’ in any of these senses is a live metaphor that readily produces elaborations and combining forms. For example, one not infrequently sees the warning “Do not feed the troll” as part of a followup to troll postings.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Trojan horse 
+Home
+ Troll-O-Meter
+
+
+---
+
+
+
+Troll-O-Meter
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**Troll-O-Meter**: n.
+
+Common Usenet jargon for a notional instrument used to measure the provocation level of a Usenet [*troll*](troll.html). “Come on, everyone! If the above doesn't set off the Troll-O-Meter, we're going to have to get him to run around with a big blinking sign saying ‘I am a troll, I’m only in it for the controversy and flames', and shooting random gobs of Jell-O(tm) at us before the point is proven.” Mentions of the Troll-O-Meter are often accompanied by an ASCII picture of an arrow pointing at a numeric scale. Compare [*bogometer*](../B/bogometer.html), [*Indent-o-Meter*](../I/Indent-o-Meter.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+troll 
+Home
+ tron
+
+
+---
+
+
+
+tron
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tron**: v.
+
+\[NRL, CMU; prob. fr. the movie *Tron*\] To become inaccessible except via email or talk(1), especially when one is normally available via telephone or in person. Frequently used in the past tense, as in: “Ran seems to have tronned on us this week” or “Gee, Ran, glad you were able to un-tron yourself”. One may also speak of tron mode; compare [*spod*](../S/spod.html).
+
+Note that many dialects of BASIC have a TRON/TROFF command pair that enables/disables line number tracing; this has no obvious relationship to the slang usage.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Troll-O-Meter 
+Home
+ troughie
+
+
+---
+
+
+
+troughie
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**troughie**: /traw´fee/, n.
+
+\[British BBS scene\] Synonym for [*leech*](../L/leech.html), sense 1. The implied metaphor is that of a pig at a trough.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tron 
+Home
+ true-hacker
+
+
+---
+
+
+
+true-hacker
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**true-hacker**: n.
+
+\[analogy with ‘trufan’ from SF fandom\] One who exemplifies the primary values of hacker culture, esp. competence and helpfulness to other hackers. A high compliment. “He spent 6 hours helping me bring up UUCP and netnews on my FOOBAR 4000 last week — manifestly the act of a true-hacker.” Compare [*demigod*](../D/demigod.html), oppose [*munchkin*](../M/munchkin.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+troughie 
+Home
+ tty
+
+
+---
+
+
+
+tty
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tty**: /T·T·Y/, /tit´ee/, n.
+
+The latter pronunciation was primarily ITS, but some Unix people say it this way as well; this pronunciation is *not* considered to have sexual undertones.
+
+1\. A terminal of the teletype variety, characterized by a noisy mechanical printer, a very limited character set, and poor print quality. Usage: antiquated (like the TTYs themselves). See also [*bit-paired keyboard*](../B/bit-paired-keyboard.html).
+
+2\. \[especially Unix\] Any terminal at all; sometimes used to refer to the particular terminal controlling a given job.
+
+3\. \[Unix\] Any serial port, whether or not the device connected to it is a terminal; so called because under Unix such devices have names of the form tty\*. Ambiguity between senses 2 and 3 is common but seldom bothersome.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+true-hacker 
+Home
+ tube
+
+
+---
+
+
+
+tube
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tube**
+
+1\. n. A CRT terminal. Never used in the mainstream sense of TV; real hackers don't watch TV, except for Looney Toons, Rocky & Bullwinkle, Trek Classic, the Simpsons, Babylon 5, and the occasional cheesy old swashbuckler movie.
+
+2\. \[IBM\] To send a copy of something to someone else's terminal. “Tube me that note?”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tty 
+Home
+ tube time
+
+
+---
+
+
+
+tube time
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tube time**: n.
+
+Time spent at a terminal or console. More inclusive than hacking time; commonly used in discussions of what parts of one's environment one uses most heavily. “I find I'm spending too much of my tube time reading mail since I started this revision.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tube 
+Home
+ tumbler
+
+
+---
+
+
+
+tumbler
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tumbler**: n.
+
+1\. \[Originally from the Xanadu hypertext project\] A tumbler is a [*magic cookie*](../M/magic-cookie.html) generated as part of a record or message to give it a unique identity. Usually a tumbler includes an encoded form of its creation date, but if a software system has more than one concurrent process that could generate tumblers it must also include an encoding of the process ID. If tumblers will be shared across multiple network hosts, they must also include the host name or network address. Tumblers often include a hash of the rest of the message or record content so that it is possible to verify the correctness of the data the tumbler is attached to.
+
+2\. Variant text added to spam instances (often in the Subject line) to make them unique. This kind of tumbler is used to defeat schemes that check an exact hash of an incoming message against known spam signatures; it also compromises some kinds of statistical spam recognition.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tube time 
+Home
+ tunafish
+
+
+---
+
+
+
+tunafish
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tunafish**: n.
+
+In hackish lore, refers to the mutated punchline of an age-old joke to be found at the bottom of the manual pages of tunefs(8) in the original [*BSD*](../B/BSD.html) 4.2 distribution. The joke was removed in later releases once commercial sites started using 4.2, but apparently restored on the 4.4BSD tape and in {Net,Free,Open}BSD. Tunefs relates to the tuning of file-system parameters for optimum performance, and at the bottom of a few pages of wizardly inscriptions was a ‘BUGS’ section consisting of the line “You can tune a file system, but you can't tunafish”. Variants of this can be seen in other BSD versions, though it has been excised from some versions by humorless management [*droid*](../D/droid.html)s. The \[nt\]roff source for SunOS 4.1.1 contains a comment apparently designed to prevent this: “Take this out and a Unix Demon will dog your steps from now until the **time_t**'s wrap around.”
+
+\[It has since been pointed out that indeed you can tunafish. Usually at a canning factory... —ESR\]
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tumbler 
+Home
+ tune
+
+
+---
+
+
+
+tune
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tune**: vt.
+
+\[from automotive or musical usage\] To optimize a program or system for a particular environment, esp. by adjusting numerical parameters designed as [*hook*](../H/hook.html)s for tuning, e.g., by changing **\#define** lines in C. One may tune for time (fastest execution), tune for space (least memory use), or tune for configuration (most efficient use of hardware). See [*hot spot*](../H/hot-spot.html), [*hand-hacking*](../H/hand-hacking.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tunafish 
+Home
+ turbo nerd
+
+
+---
+
+
+
+turbo nerd
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**turbo nerd**: n.
+
+See [*geek*](../G/geek.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tune 
+Home
+ Turing tar-pit
+
+
+---
+
+
+
+Turing tar-pit
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**Turing tar-pit**: n.
+
+1\. A place where anything is possible but nothing of interest is practical. Alan Turing helped lay the foundations of computer science by showing that all machines and languages capable of expressing a certain very primitive set of operations are logically equivalent in the kinds of computations they can carry out, and in principle have capabilities that differ only in speed from those of the most powerful and elegantly designed computers. However, no machine or language exactly matching Turing's primitive set has ever been built (other than possibly as a classroom exercise), because it would be horribly slow and far too painful to use. A Turing tar-pit is any computer language or other tool that shares this property. That is, it's theoretically universal — but in practice, the harder you struggle to get any real work done, the deeper its inadequacies suck you in. Compare [*bondage-and-discipline language*](../B/bondage-and-discipline-language.html).
+
+2\. The perennial [*holy wars*](../H/holy-wars.html) over whether language A or B is the “most powerful”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+turbo nerd 
+Home
+ turist
+
+
+---
+
+
+
+turist
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**turist**: /too´rist/, n.
+
+Var. sp. of [*tourist*](tourist.html), q.v. Also in adjectival form, ‘turistic’. Poss. influenced by [*luser*](../L/luser.html) and ‘Turing’.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Turing tar-pit 
+Home
+ Tux
+
+
+---
+
+
+
+Tux
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**Tux**
+
+Tux the Penguin is the official emblem of [*Linux*](../L/Linux.html), This eventuated after a logo contest in 1996, during which Linus Torvalds endorsed the idea of a penguin logo in a couple of famously funny postings. Linus explained that he was once bitten by a killer penguin in Australia and has felt a special affinity for the species ever since. (Linus has since admitted that he was also thinking of Feathers McGraw, the evil-genius penguin jewel thief who appeared in a Wallace & Grommit feature cartoon, *The Wrong Trousers*.)
+
+Larry Ewing designed the official Tux logo. It has proved a wise choice, amenable to hundreds of recognizable variations used as emblems of Linux-related projects, products, and user groups. In fact, Tux has spawned an entire mythology, of which the Gospel According to Tux and the mock-epic poem *Tuxowolf* are among the best-known examples.
+
+There is a ‘real’ Tux — a black-footed penguin resident at the Bristol Zoo. Several friends of Linux bought a zoo sponsorship for Linus as a birthday present in 1996.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+turist 
+Home
+ tweak
+
+
+---
+
+
+
+tweak
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tweak**: vt.
+
+1\. To change slightly, usually in reference to a value. Also used synonymously with [*twiddle*](twiddle.html). If a program is almost correct, rather than figure out the precise problem you might just keep tweaking it until it works. See [*frobnicate*](../F/frobnicate.html) and [*fudge factor*](../F/fudge-factor.html); also see [*shotgun debugging*](../S/shotgun-debugging.html).
+
+2\. To [*tune*](tune.html) a program; preferred usage in the U.K.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Tux 
+Home
+ TWENEX
+
+
+---
+
+
+
+TWENEX
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**TWENEX**: /twe´neks/, n.
+
+The TOPS-20 operating system by [*DEC*](../D/DEC.html) — the second proprietary OS for the PDP-10 — preferred by most PDP-10 hackers over TOPS-10 (that is, by those who were not [*ITS*](../I/ITS.html) or [*WAITS*](../W/WAITS.html) partisans). TOPS-20 began in 1969 as Bolt, Beranek & Newman's TENEX operating system using special paging hardware. By the early 1970s, almost all of the systems on the ARPANET ran TENEX. DEC purchased the rights to TENEX from BBN and began work to make it their own. The first in-house code name for the operating system was VIROS (VIRtual memory Operating System); when customers started asking questions, the name was changed to SNARK so DEC could truthfully deny that there was any project called VIROS. When the name SNARK became known, the name was briefly reversed to become KRANS; this was quickly abandoned when someone objected that krans meant ‘funeral wreath’ in Swedish (though some Swedish speakers have since said it means simply ‘wreath’; this part of the story may be apocryphal). Ultimately DEC picked TOPS-20 as the name of the operating system, and it was as TOPS-20 that it was marketed. The hacker community, mindful of its origins, quickly dubbed it TWENEX (a contraction of ‘twenty TENEX’), even though by this point very little of the original TENEX code remained (analogously to the differences between AT&T V6 Unix and BSD). DEC people cringed when they heard “TWENEX”, but the term caught on nevertheless (the written abbreviation ‘20x’ was also used). TWENEX was successful and very popular; in fact, there was a period in the early 1980s when it commanded as fervent a culture of partisans as Unix or ITS — but DEC's decision to scrap all the internal rivals to the [*VAX*](../V/VAX.html) architecture and its relatively stodgy VMS OS killed the DEC-20 and put a sad end to TWENEX's brief day in the sun. DEC attempted to convince TOPS-20 users to convert to [*VMS*](../V/VMS.html), but instead, by the late 1980s, most of the TOPS-20 hackers had migrated to Unix. There is a TOPS-20 home page.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+tweak 
+Home
+ twiddle
+
+
+---
+
+
+
+twiddle
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**twiddle**: n.
+
+1\. Tilde (ASCII 1111110, `~`). Also called squiggle, sqiggle (sic — pronounced /skig´l/), and twaddle, but twiddle is the most common term.
+
+2\. A small and insignificant change to a program. Usually fixes one bug and generates several new ones (see also [*shotgun debugging*](../S/shotgun-debugging.html)).
+
+3\. vt. To change something in a small way. Bits, for example, are often twiddled. Twiddling a switch or [*knobs*](../K/knobs.html) implies much less sense of purpose than toggling or tweaking it; see [*frobnicate*](../F/frobnicate.html). To speak of twiddling a bit connotes aimlessness, and at best doesn't specify what you're doing to the bit; ‘toggling a bit’ has a more specific meaning (see [*bit twiddling*](../B/bit-twiddling.html), [*toggle*](toggle.html)). 4. Uncommon name for the [*twirling baton*](twirling-baton.html) prompt.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+TWENEX 
+Home
+ twilight zone
+
+
+---
+
+
+
+twilight zone
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**twilight zone**: n., //
+
+\[IRC\] Notionally, the area of cyberspace where [*IRC*](../I/IRC.html) operators live. An [*op*](../O/op.html) is said to have a “connection to the twilight zone”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+twiddle 
+Home
+ twink
+
+
+---
+
+
+
+twink
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**twink**: /twink/, n.
+
+1\. \[Berkeley\] A clue-repellant user; the next step beyond a clueless one.
+
+2\. \[UCSC\] A [*read-only user*](../R/read-only-user.html). Also reported on the Usenet group `soc.motss`; may derive from gay slang for a cute young thing with nothing upstairs (compare mainstream ‘chick’).
+
+3\. On MU\* systems that specialize in role-playing, refers to behavior of a (usually inexperienced) player that either ignores rules or social convention, or disrupts the natural flow of a scene to show off super powers.
+
+We are informed that in Indian country, the term twink generally refers to blondes into generic ‘Native American spirituality’. Signs include Indian jewelry with MADE IN THAILAND stamped on it, crystals, Clairol black hair, wearing swimsuits to powwows, Cherokee princess grandmas, a love of *Dances with Wolves*, and a fear of AIM and the NCAI. The twink nature is everywhere.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+twilight zone 
+Home
+ twirling baton
+
+
+---
+
+
+
+twirling baton
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**twirling baton**: n.
+
+\[PLATO\] The overstrike sequence -/|\\/|\\ which produces an animated twirling baton. If you output it with a single backspace between characters, the baton spins in place. If you output the sequence BS SP between characters, the baton spins from left to right. If you output BS SP BS BS between characters, the baton spins from right to left. This is also occasionally called a twiddle prompt.
+
+The twirling baton was a popular component of animated signature files on the pioneering PLATO educational timesharing system. The **archie** Internet service is perhaps the best-known baton program today; it uses the twirling baton as an idler indicating that the program is working on a query. The twirling baton is also used as a boot progress indicator on several BSD variants of Unix; if it stops, you're probably going to have a long and trying day.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+twink 
+Home
+ two pi
+
+
+---
+
+
+
+two pi
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**two pi**: quant.
+
+The number of years it takes to finish one's thesis. Occurs in stories in the following form: “He started on his thesis; 2 pi years later...”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+twirling baton 
+Home
+ two-to-the-N
+
+
+---
+
+
+
+two-to-the-N
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**two-to-the-N**: quant.
+
+An amount much larger than [*N*](../N/N.html) but smaller than [*infinity*](../I/infinity.html). “I have 2-to-the-`N` things to do before I can go out for lunch” means you probably won't show up.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+two pi 
+Home
+ tyop
+
+
+---
+
+
+
+tyop
+
+Prev 
+T
+ Next
+
+------------------------------------------------------------------------
+
+**tyop**: n.
+
+\[USENET\] A deliberate typo for ‘typo’. Used in satirical reference. “There's a tyop in your posting”. Compare [*grilf*](../G/grilf.html), [*hing*](../H/hing.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+two-to-the-N 
+Home
+ U
+
+
+---
+
+
+## U
+
+
+
+u-
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**u-**: pref.
+
+Written shorthand for [*micro-*](../M/micro-.html); techspeak when applied to metric units, jargon when used otherwise. Derived from the Greek letter µ the first letter of “micro” (and which letter looks a lot like the English letter “u”).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+U 
+Home
+ UBD
+
+
+---
+
+
+
+UBD
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**UBD**: /U·B·D/, n.
+
+\[abbreviation for ‘User Brain Damage’\] An abbreviation used to close out trouble reports obviously due to utter cluelessness on the user's part. Compare [*pilot error*](../P/pilot-error.html), [*PEBKAC*](../P/PEBKAC.html), [*ID10T*](../I/idiot.html); oppose [*PBD*](../P/PBD.html); see also [*brain-damaged*](../B/brain-damaged.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+u- 
+Home
+ UBE
+
+
+---
+
+
+
+UBE
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**UBE**: //, n.
+
+\[abbrev., Unsolicited Bulk Email\] A widespread, more formal term for email [*spam*](../S/spam.html). Compare [*UCE*](UCE.html). The UBE term recognizes that spam is uttered by nonprofit and advocacy groups whose motives are not commercial.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+UBD 
+Home
+ ubergeek
+
+
+---
+
+
+
+ubergeek
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**ubergeek**: n., /oo´ber·geek/
+
+\[common; often spelled with initial ü; from German über + [*geek*](../G/geek.html)\] Almost synonymous with [*demigod*](../D/demigod.html); used as a compliment of someone regarded as a paragon of [*geek*](../G/geek.html) achievement and virtue. Has partially replaced earlier [*demigod*](../D/demigod.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+UBE 
+Home
+ UCE
+
+
+---
+
+
+
+UCE
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**UCE**: n.
+
+\[abbrev., Unsolicited Commercial Email\] A widespread, more formal term for email [*spam*](../S/spam.html). Compare [*UBE*](UBE.html), which may be superseding it.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+ubergeek 
+Home
+ UDP
+
+
+---
+
+
+
+UDP
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**UDP**: /U·D·P/, v.,n.
+
+\[Usenet\] Abbreviation for [*Usenet Death Penalty*](Usenet-Death-Penalty.html). Common (probably now more so than the full form), and frequently verbed. Compare [*IDP*](../I/IDP.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+UCE 
+Home
+ UN*X
+
+
+---
+
+
+
+UN*X
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**UN\*X**: n.
+
+Used to refer to the Unix operating system (a trademark of AT&T, then of Novell, then of Unix Systems Laboratories, then of the Open Group; the source code parted company with it after Novell and was owned by SCO, which was acquired by Caldera) in writing, but avoiding the need for the ugly ™ typography (see also [*(TM)*](../0/TM.html)). Also used to refer to any or all varieties of Unixoid operating systems. Ironically, lawyers now say that the requirement for the trademark postfix has no legal force, but the asterisk usage is entrenched anyhow. It has been suggested that there may be a psychological connection to practice in certain religions (especially Judaism) in which the name of the deity is never written out in full, e.g., ‘YHWH’ or ‘G--d’ is used. See also [*glob*](../G/glob.html) and [*splat out*](../S/splat-out.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+UDP 
+Home
+ undefined external reference
+
+
+---
+
+
+
+undefined external reference
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**undefined external reference**: excl.
+
+\[Unix\] A message from Unix's linker. Used in speech to flag loose ends or dangling references in an argument or discussion.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+UN*X 
+Home
+ under the hood
+
+
+---
+
+
+
+under the hood
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**under the hood**: adj.
+
+\[hot-rodder talk\]
+
+1\. Used to introduce the underlying implementation of a product (hardware, software, or idea). Implies that the implementation is not intuitively obvious from the appearance, but the speaker is about to enable the listener to [*grok*](../G/grok.html) it. “Let's now look under the hood to see how ....”
+
+2\. Can also imply that the implementation is much simpler than the appearance would indicate: “Under the hood, we are just fork/execing the shell.”
+
+3\. Inside a chassis, as in “Under the hood, this baby has a 40MHz 68030!”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+undefined external reference 
+Home
+ undocumented feature
+
+
+---
+
+
+
+undocumented feature
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**undocumented feature**: n.
+
+See [*feature*](../F/feature.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+under the hood 
+Home
+ uninteresting
+
+
+---
+
+
+
+uninteresting
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**uninteresting**: adj.
+
+1\. Said of a problem that, although [*nontrivial*](../N/nontrivial.html), can be solved simply by throwing sufficient resources at it.
+
+2\. Also said of problems for which a solution would neither advance the state of the art nor be fun to design and code.
+
+Hackers regard uninteresting problems as intolerable wastes of time, to be solved (if at all) by lesser mortals. *Real* hackers (see [*toolsmith*](../T/toolsmith.html)) generalize uninteresting problems enough to make them interesting and solve them — thus solving the original problem as a special case (and, it must be admitted, occasionally turning a molehill into a mountain, or a mountain into a tectonic plate). See [*WOMBAT*](../W/WOMBAT.html), [*SMOP*](../S/SMOP.html); compare [*toy problem*](../T/toy-problem.html), oppose [*interesting*](../I/interesting.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+undocumented feature 
+Home
+ Unix
+
+
+---
+
+
+
+Unix
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**Unix**: /yoo´niks/, n.
+
+\[In the authors' words, “A weak pun on Multics”; very early on it was “UNICS”\] (also “UNIX”) An interactive timesharing system invented in 1969 by Ken Thompson after Bell Labs left the Multics project, originally so he could play games on his scavenged PDP-7. Dennis Ritchie, the inventor of C, is considered a co-author of the system. The turning point in Unix's history came when it was reimplemented almost entirely in C during 1972—1974, making it the first source-portable OS. Unix subsequently underwent mutations and expansions at the hands of many different people, resulting in a uniquely flexible and developer-friendly environment. By 1991, Unix had become the most widely used multiuser general-purpose operating system in the world — and since 1996 the variant called [*Linux*](../L/Linux.html) has been at the cutting edge of the [*open source*](../O/open-source.html) movement. Many people consider the success of Unix the most important victory yet of hackerdom over industry opposition (but see [*Unix weenie*](Unix-weenie.html) and [*Unix conspiracy*](Unix-conspiracy.html) for an opposing point of view). See [*Version 7*](../V/Version-7.html), [*BSD*](../B/BSD.html), [*Linux*](../L/Linux.html).
+
+![](../graphics/richiethompson.jpg)
+
+Archetypal hackers ken (left) and dmr (right).
+
+Some people are confused over whether this word is appropriately ‘UNIX’ or ‘Unix’; both forms are common, and used interchangeably. Dennis Ritchie says that the ‘UNIX’ spelling originally happened in CACM's 1974 paper *The UNIX Time-Sharing System* because “we had a new typesetter and [*troff*](../T/troff.html) had just been invented and we were intoxicated by being able to produce small caps.” Later, dmr tried to get the spelling changed to ‘Unix’ in a couple of Bell Labs papers, on the grounds that the word is not acronymic. He failed, and eventually (his words) “wimped out” on the issue. So, while the trademark today is ‘UNIX’, both capitalizations are grounded in ancient usage; the Jargon File uses ‘Unix’ in deference to dmr's wishes.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+uninteresting 
+Home
+ Unix brain damage
+
+
+---
+
+
+
+Unix brain damage
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**Unix brain damage**: n.
+
+Something that has to be done to break a network program (typically a mailer) on a non-Unix system so that it will interoperate with Unix systems. The hack may qualify as Unix brain damage if the program conforms to published standards and the Unix program in question does not. Unix brain damage happens because it is much easier for other (minority) systems to change their ways to match non-conforming behavior than it is to change all the hundreds of thousands of Unix systems out there.
+
+An example of Unix brain damage is a [*kluge*](../K/kluge.html) in a mail server to recognize bare line feed (the Unix newline) as an equivalent form to the Internet standard newline, which is a carriage return followed by a line feed. Such things can make even a hardened [*jock*](../J/jock.html) weep.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Unix 
+Home
+ Unix conspiracy
+
+
+---
+
+
+
+Unix conspiracy
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**Unix conspiracy**: n.
+
+\[ITS\] According to a conspiracy theory long popular among [*ITS*](../I/ITS.html) and [*TOPS-20*](../T/TOPS-20.html) fans, Unix's growth is the result of a plot, hatched during the 1970s at Bell Labs, whose intent was to hobble AT&T's competitors by making them dependent upon a system whose future evolution was to be under AT&T's control. This would be accomplished by disseminating an operating system that is apparently inexpensive and easily portable, but also relatively unreliable and insecure (so as to require continuing upgrades from AT&T). This theory was lent a substantial impetus in 1984 by the paper referenced in the [*back door*](../B/back-door.html) entry.
+
+In this view, Unix was designed to be one of the first computer viruses (see [*virus*](../V/virus.html)) — but a virus spread to computers indirectly by people and market forces, rather than directly through disks and networks. Adherents of this ‘Unix virus’ theory like to cite the fact that the well-known quotation “Unix is snake oil” was uttered by [*DEC*](../D/DEC.html) president Kenneth Olsen shortly before DEC began actively promoting its own family of Unix workstations. (Olsen now claims to have been misquoted.)
+
+If there was ever such a conspiracy, it got thoroughly out of the plotters' control after 1990. AT&T sold its Unix operation to Novell around the same time [*Linux*](../L/Linux.html) and other free-Unix distributions were beginning to make noise.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Unix brain damage 
+Home
+ Unix weenie
+
+
+---
+
+
+
+Unix weenie
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**Unix weenie**: n.
+
+\[ITS\]
+
+1\. A derogatory play on ‘Unix wizard’, common among hackers who use Unix by necessity but would prefer alternatives. The implication is that although the person in question may consider mastery of Unix arcana to be a wizardly skill, the only real skill involved is the ability to tolerate (and the bad taste to wallow in) the incoherence and needless complexity that is alleged to infest many Unix programs. “This shell script tries to parse its arguments in 69 bletcherous ways. It must have been written by a real Unix weenie.”
+
+2\. A derogatory term for anyone who engages in uncritical praise of Unix. Often appearing in the context “stupid Unix weenie”. See [*Weenix*](../W/Weenix.html), [*Unix conspiracy*](Unix-conspiracy.html). See also [*weenie*](../W/weenie.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Unix conspiracy 
+Home
+ unixism
+
+
+---
+
+
+
+unixism
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**unixism**: n.
+
+A piece of code or a coding technique that depends on the protected multi-tasking environment with relatively low process-spawn overhead that exists on virtual-memory Unix systems. Common [*unixism*](unixism.html)s include: gratuitous use of fork(2); the assumption that certain undocumented but well-known features of Unix libraries such as stdio(3) are supported elsewhere; reliance on [*obscure*](../O/obscure.html) side-effects of system calls (use of sleep(2) with a 0 argument to clue the scheduler that you're willing to give up your time-slice, for example); the assumption that freshly allocated memory is zeroed; and the assumption that fragmentation problems won't arise from never free()ing memory. Compare [*vaxocentrism*](../V/vaxocentrism.html); see also [*New Jersey*](../N/New-Jersey.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Unix weenie 
+Home
+ unswizzle
+
+
+---
+
+
+
+unswizzle
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**unswizzle**: v.
+
+See [*swizzle*](../S/swizzle.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+unixism 
+Home
+ unwind the stack
+
+
+---
+
+
+
+unwind the stack
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**unwind the stack**: vi.
+
+1\. \[techspeak\] During the execution of a procedural language, one is said to unwind the stack from a called procedure up to a caller when one discards the stack frame and any number of frames above it, popping back up to the level of the given caller. In C this is done with **longjmp**/**setjmp**, in LISP or C++ with **throw/catch**. See also [*smash the stack*](../S/smash-the-stack.html).
+
+2\. People can unwind the stack as well, by quickly dealing with a bunch of problems: “Oh heck, let's do lunch. Just a second while I unwind my stack.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+unswizzle 
+Home
+ unwind-protect
+
+
+---
+
+
+
+unwind-protect
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**unwind-protect**: n.
+
+\[MIT: from the name of a LISP operator\] A task you must remember to perform before you leave a place or finish a project. “I have an unwind-protect to call my advisor.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+unwind the stack 
+Home
+ up
+
+
+---
+
+
+
+up
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**up**: adj.
+
+1\. Working, in order. “The down escalator is up.” Oppose [*down*](../D/down.html).
+
+2\. bring up: vt. To create a working version and start it. “They brought up a down system.”
+
+3\. come up vi. To become ready for production use.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+unwind-protect 
+Home
+ upload
+
+
+---
+
+
+
+upload
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**upload**: /uhp´lohd/, v.
+
+1\. \[techspeak\] To transfer programs or data over a digital communications link from a system near you (especially a smaller or peripheral client system) to one further away from you (especially a larger or central host system). A transfer in the other direction is, of course, called a [*download*](../D/download.html)
+
+2\. \[speculatively\] To move the essential patterns and algorithms that make up one's mind from one's brain into a computer. Those who are convinced that such patterns and algorithms capture the complete essence of the self view this prospect with pleasant anticipation.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+up 
+Home
+ upstream
+
+
+---
+
+
+
+upstream
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**upstream**: adj.
+
+\[common\] Towards the original author(s) or maintainer(s) of a project. Used in connection with software that is distributed both in its original source form and in derived, adapted versions through a distribution (like the Debian version of Linux or one of the BSD ports) that has component maintainers for each of their parts. When a component maintainer receives a bug report or patch, he may choose to retain the patch as a porting tweak to the distribution's derivative of the project, or to pass it upstream to the project's maintainer. The antonym downstream is rare.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+upload 
+Home
+ upthread
+
+
+---
+
+
+
+upthread
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**upthread**: adv.
+
+Earlier in the discussion (see [*thread*](../T/thread.html)), i.e., ‘above’. “As Joe pointed out upthread, ...” See also [*followup*](../F/followup.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+upstream 
+Home
+ uptime
+
+
+---
+
+
+
+uptime
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**uptime**: n.
+
+Technically, a machine's time since last reboot; jargonically, how long a hacker has gone without sleep. “What's your uptime?” “Oh, about 28 hours so far, but I think I can probably do another 12.” This is, of course, a reference to the uptime command and the pride with which most Unix types note how long their computers go without reboots. Uptime is a testament to the stability of the OS and the stamina of the hacker.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+upthread 
+Home
+ urchin
+
+
+---
+
+
+
+urchin
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**urchin**: n.
+
+See [*munchkin*](../M/munchkin.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+uptime 
+Home
+ URL
+
+
+---
+
+
+
+URL
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**URL**: /U·R·L/, /erl/, n.
+
+Uniform Resource Locator, an address widget that identifies a document or resource on the World Wide Web. This entry is here primarily to record the fact that the term is commonly pronounced both /erl/, and /U-R-L/ (the latter predominates in more formal contexts).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+urchin 
+Home
+ Usenet
+
+
+---
+
+
+
+Usenet
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**Usenet**: /yoos´net/, /yooz´net/, n.
+
+\[from ‘Users' Network’; the original spelling was USENET, but the mixed-case form is now widely preferred\] A distributed [*bboard*](../B/bboard.html) (bulletin board) system supported mainly by Unix machines. Originally implemented in 1979--1980 by Steve Bellovin, Jim Ellis, Tom Truscott, and Steve Daniel at Duke University and the University of North Carolina, it has swiftly grown to become international in scope and is now probably the largest decentralized information utility in existence. As of late 2002, it hosts over 100,000 [*newsgroup*](../N/newsgroup.html)s and an unguessably huge volume of new technical articles, news, discussion, chatter, and [*flamage*](../F/flamage.html) every day (and that leaves out the graphics...).
+
+By the year the Internet hit the mainstream (1994) the original UUCP transport for Usenet was fading out of use — almost all Usenet connections were over Internet links. A lot of newbies and journalists began to refer to “Internet newsgroups” as though Usenet was and always had been just another Internet service. This ignorance greatly annoys experienced Usenetters.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+URL 
+Home
+ Usenet Death Penalty
+
+
+---
+
+
+
+Usenet Death Penalty
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**Usenet Death Penalty**
+
+\[Usenet\] A sanction against sites that habitually spew Usenet [*spam*](../S/spam.html). This can be either passive or active. A passive UDP refers to the dropping of all postings by a particular domain so as to inhibit propagation. An active UDP refers to third-party cancellation of all postings by the UDPed domain. A partial UDP is one which applies only to certain newsgroups or hierarchies in Usenet. Compare [*Internet Death Penalty*](../I/Internet-Death-Penalty.html), with which this term is sometimes confused.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Usenet 
+Home
+ user
+
+
+---
+
+
+
+user
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**user**: n.
+
+1\. Someone doing ‘real work’ with the computer, using it as a means rather than an end. Someone who pays to use a computer. See [*real user*](../R/real-user.html).
+
+2\. A programmer who will believe anything you tell him. One who asks silly questions. \[GLS observes: This is slightly unfair. It is true that users ask questions (of necessity). Sometimes they are thoughtful or deep. Very often they are annoying or downright stupid, apparently because the user failed to think for two seconds or look in the documentation before bothering the maintainer.\] See [*luser*](../L/luser.html).
+
+3\. Someone who uses a program from the outside, however skillfully, without getting into the internals of the program. One who reports bugs instead of just going ahead and fixing them.
+
+The general theory behind this term is that there are two classes of people who work with a program: there are implementors (hackers) and [*luser*](../L/luser.html)s. The users are looked down on by hackers to some extent because they don't understand the full ramifications of the system in all its glory. (The few users who do are known as real winners.) The term is a relative one: a skilled hacker may be a user with respect to some program he himself does not hack. A LISP hacker might be one who maintains LISP or one who uses LISP (but with the skill of a hacker). A LISP user is one who uses LISP, whether skillfully or not. Thus there is some overlap between the two terms; the subtle distinctions must be resolved by context.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Usenet Death Penalty 
+Home
+ user-friendly
+
+
+---
+
+
+
+user-friendly
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**user-friendly**: adj.
+
+Programmer-hostile. Generally used by hackers in a critical tone, to describe systems that hold the user's hand so obsessively that they make it painful for the more experienced and knowledgeable to get any work done. See [*menuitis*](../M/menuitis.html), [*drool-proof paper*](../D/drool-proof-paper.html), [*Macintrash*](../M/Macintrash.html), [*user-obsequious*](user-obsequious.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+user 
+Home
+ user-obsequious
+
+
+---
+
+
+
+user-obsequious
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**user-obsequious**: adj.
+
+Emphatic form of [*user-friendly*](user-friendly.html). Connotes a system so verbose, inflexible, and determinedly simple-minded that it is nearly unusable. “Design a system any fool can use and only a fool will want to use it.” See [*WIMP environment*](../W/WIMP-environment.html), [*Macintrash*](../M/Macintrash.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+user-friendly 
+Home
+ userland
+
+
+---
+
+
+
+userland
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**userland**: n.
+
+Anywhere outside the kernel. “That code belongs in userland.” This term has been in common use among Unix kernel hackers since at least 1985, and may have have originated in that community. The earliest sighting was reported from the usenet group net.unix-wizards.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+user-obsequious 
+Home
+ Utah teapot, the
+
+
+---
+
+
+
+Utah teapot, the
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**Utah teapot, the**
+
+This object is historically one of the first complex 3D models to be rendered in computer graphics. It consisted of about 110 vertices, and was generated by Martin Newell in 1974 using hand-drawn Bezier curves, based on a real teapot that he and his wife had bought. This model served as a basis for comparing various 3D rendering methodologies for lighting, textures, bump-mapping, etc. By the standards of 2002, the model is trivial to render and thus is often not suited to demonstrate the complexity of modern research. Despite this, the tea pot still appears, now and then, in recent papers. More on the teapot's history lives at The History Of The Teapot. Compare [*lenna*](../L/lenna.html), [*Stanford Bunny*](../S/Stanford-Bunny.html)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+userland 
+Home
+ UTSL
+
+
+---
+
+
+
+UTSL
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**UTSL**: //, n.
+
+\[Unix\] On-line acronym for ‘Use the Source, Luke’ (a pun on Obi-Wan Kenobi's “Use the Force, Luke!” in *Star Wars*) — analogous to [*RTFS*](../R/RTFS.html) (sense 1), but more polite. This is a common way of suggesting that someone would be better off reading the source code that supports whatever feature is causing confusion, rather than making yet another futile pass through the manuals, or broadcasting questions on Usenet that haven't attracted [*wizard*](../W/wizard.html)s to answer them.
+
+Once upon a time in [*elder days*](../E/elder-days.html), everyone running Unix had source. After 1978, AT&T's policy tightened up, so this objurgation was in theory appropriately directed only at associates of some outfit with a Unix source license. In practice, bootlegs of Unix source code (made precisely for reference purposes) were so ubiquitous that one could utter it at almost anyone on the network without concern.
+
+Nowadays, free Unix clones have become widely enough distributed that anyone can read source legally. The most widely distributed is certainly Linux, with variants of the NET/2 and 4.4BSD distributions running second. Cheap commercial Unixes with source such as BSD/OS are accelerating this trend.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Utah teapot, the 
+Home
+ UUOC
+
+
+---
+
+
+
+UUOC
+
+Prev 
+U
+ Next
+
+------------------------------------------------------------------------
+
+**UUOC**
+
+\[from the comp.unix.shell group on Usenet\] Stands for Useless Use of [*cat*](../C/cat.html); the reference is to the Unix command cat(1), not the feline animal. As received wisdom on comp.unix.shell observes, “The purpose of cat is to concatenate (or ‘catenate’) files. If it's only one file, concatenating it with nothing at all is a waste of time, and costs you a process.” Nevertheless one sees people doing
+
+  
+cat file | some_command and its args ...  
+
+instead of the equivalent and cheaper
+
+  
+\
+
+or (equivalently and more classically)
+
+  
+some_command and its args ... \
+
+Since 1995, occasional awards for UUOC have been given out, usually by Perl luminary Randal L. Schwartz. There is a web page devoted to this and other similar awards.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+UTSL 
+Home
+ V
+
+
+---
+
+
+## V
+
+
+
+V7
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**V7**: /V´sev´en/, n.
+
+See [*Version 7*](Version-7.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+V 
+Home
+ vadding
+
+
+---
+
+
+
+vadding
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**vadding**: /vad´ing/, n.
+
+\[from VAD, a permutation of ADV (i.e., [*ADVENT*](../A/ADVENT.html)), used to avoid a particular [*admin*](../A/admin.html)'s continual search-and-destroy sweeps for the game\] A leisure-time activity of certain hackers involving the covert exploration of the ‘secret’ parts of large buildings — basements, roofs, freight elevators, maintenance crawlways, steam tunnels, and the like. A few go so far as to learn locksmithing in order to synthesize vadding keys. The verb is to vad (compare [*phreaking*](../P/phreaking.html); see also [*hack*](../H/hack.html), sense 9). This term dates from the late 1970s, before which such activity was simply called ‘hacking’; the older usage is still prevalent at MIT.
+
+The most extreme and dangerous form of vadding is elevator rodeo, a.k.a. elevator surfing, a sport played by wrasslin' down a thousand-pound elevator car with a 3-foot piece of string, and then exploiting this mastery in various stimulating ways (such as elevator hopping, shaft exploration, rat-racing, and the ever-popular drop experiments). Kids, don't try this at home!
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+V7 
+Home
+ vanilla
+
+
+---
+
+
+
+vanilla
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**vanilla**: adj.
+
+\[from the default flavor of ice cream in the U.S.\] Ordinary [*flavor*](../F/flavor.html), standard. When used of food, very often does not mean that the food is flavored with vanilla extract! For example, vanilla wonton soup means ordinary wonton soup, as opposed to hot-and-sour wonton soup. Applied to hardware and software, as in “Vanilla Version 7 Unix can't run on a vanilla 11/34.” Also used to orthogonalize chip nomenclature; for instance, a 74V00 means what TI calls a 7400, as distinct from a 74LS00, etc. This word differs from [*canonical*](../C/canonical.html) in that the latter means ‘default’, whereas vanilla simply means ‘ordinary’. For example, when hackers go on a [*great-wall*](../G/great-wall.html), hot-and-sour soup is the [*canonical*](../C/canonical.html) soup to get (because that is what most of them usually order) even though it isn't the vanilla (wonton) soup.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+vadding 
+Home
+ vanity domain
+
+
+---
+
+
+
+vanity domain
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**vanity domain**: n.
+
+\[common; from ‘vanity plate’ as in car license plate\] An Internet domain, particularly in the .com or .org top-level domains, apparently created for no reason other than boosting the creator's ego.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+vanilla 
+Home
+ vannevar
+
+
+---
+
+
+
+vannevar
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**vannevar**: /van'@·var/, n.
+
+A bogus technological prediction or a foredoomed engineering concept, esp. one that fails by implicitly assuming that technologies develop linearly, incrementally, and in isolation from one another when in fact the learning curve tends to be highly nonlinear, revolutions are common, and competition is the rule. The prototype was Vannevar Bush's prediction of ‘electronic brains’ the size of the Empire State Building with a Niagara-Falls-equivalent cooling system for their tubes and relays, a prediction made at a time when the semiconductor effect had already been demonstrated. Other famous vannevars have included magnetic-bubble memory, LISP machines, [*videotex*](videotex.html), and a paper from the late 1970s that computed a purported ultimate limit on areal density for ICs that was in fact less than the routine densities of 5 years later.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+vanity domain 
+Home
+ vaporware
+
+
+---
+
+
+
+vaporware
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**vaporware**: /vay´pr·weir/, n.
+
+Products announced far in advance of any release (which may or may not actually take place).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+vannevar 
+Home
+ var
+
+
+---
+
+
+
+var
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**var**: /veir/, /var/, n.
+
+Short for variable. Compare [*arg*](../A/arg.html), [*param*](../P/param.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+vaporware 
+Home
+ vaston
+
+
+---
+
+
+
+vaston
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**vaston**: n.
+
+\[Durham, UK\] The unit of ‘load average’. A measure of how much work a computer is doing. A meter displaying this as a function of time is known as a vastometer. First used during a computing practical in December 1996.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+var 
+Home
+ VAX
+
+
+---
+
+
+
+VAX
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**VAX**: /vaks/, n.
+
+1\. \[from Virtual Address eXtension\] The most successful minicomputer design in industry history, possibly excepting its immediate ancestor, the [*PDP-11*](../P/PDP-11.html). Between its release in 1978 and its eclipse by [*killer micro*](../K/killer-micro.html)s after about 1986, the VAX was probably the hacker's favorite machine of them all, esp. after the 1982 release of 4.2 BSD Unix (see [*BSD*](../B/BSD.html)). Especially noted for its large, assembler-programmer-friendly instruction set — an asset that became a liability after the RISC revolution.
+
+It is worth noting that the standard plural of VAX was ‘vaxen’ and that VAX system operators were sometimes referred to as ‘vaxherds’
+
+2\. A major brand of vacuum cleaner in Britain. Cited here because its sales pitch, “Nothing sucks like a VAX!” became a sort of battle-cry of RISC partisans. It is even sometimes claimed that DEC actually entered a cross-licensing deal with the vacuum-Vax people that allowed them to market VAX computers in the U.K. in return for not challenging the vacuum cleaner trademark in the U.S.
+
+A rival brand actually pioneered the slogan: its original form was “Nothing sucks like Electrolux”. It has apparently become a classic example (used in advertising textbooks) of the perils of not knowing the local idiom. But in 1996, the press manager of Electrolux AB, while confirming that the company used this slogan in the late 1960s, also tells us that their marketing people were fully aware of the possible double entendre and intended it to gain attention.
+
+And gain attention it did — the VAX-vacuum-cleaner people thought the slogan a sufficiently good idea to copy it. Several British hackers report that VAX's promotions used it in 1986--1987, and we have one report from a New Zealander that the infamous slogan surfaced there in TV ads for the product in 1992.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+vaston 
+Home
+ VAXen
+
+
+---
+
+
+
+VAXen
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**VAXen**: /vak´sn/, n.
+
+\[from ‘oxen’, perhaps influenced by ‘vixen’\] (alt.: vaxen) The plural canonically used among hackers for the [*DEC*](../D/DEC.html) VAX computers. “Our installation has four PDP-10s and twenty vaxen.” See [*boxen*](../B/boxen.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+VAX 
+Home
+ vaxocentrism
+
+
+---
+
+
+
+vaxocentrism
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**vaxocentrism**: /vak\`soh·sen´trizm/, n.
+
+\[analogy with ‘ethnocentrism’\] A notional disease said to afflict C programmers who persist in coding according to certain assumptions that are valid (esp. under Unix) on [*VAXen*](VAXen.html) but false elsewhere. Among these are:
+
+1.  The assumption that dereferencing a null pointer is safe because it is all bits 0, and location 0 is readable and 0. Problem: this may instead cause an illegal-address trap on non-VAXen, and even on VAXen under OSes other than BSD Unix. Usually this is an implicit assumption of sloppy code (forgetting to check the pointer before using it), rather than deliberate exploitation of a misfeature.
+
+2.  The assumption that characters are signed.
+
+3.  The assumption that a pointer to any one type can freely be cast into a pointer to any other type. A stronger form of this is the assumption that all pointers are the same size and format, which means you don't have to worry about getting the casts or types correct in calls. Problem: this fails on word-oriented machines or others with multiple pointer formats.
+
+4.  The assumption that the parameters of a routine are stored in memory, on a stack, contiguously, and in strictly ascending or descending order. Problem: this fails on many RISC architectures.
+
+5.  The assumption that pointer and integer types are the same size, and that pointers can be stuffed into integer variables (and vice-versa) and drawn back out without being truncated or mangled. Problem: this fails on segmented architectures or word-oriented machines with funny pointer formats.
+
+6.  The assumption that a data type of any size may begin at any byte address in memory (for example, that you can freely construct and dereference a pointer to a word- or greater-sized object at an odd char address). Problem: this fails on many (esp. RISC) architectures better optimized for [*HLL*](../H/HLL.html) execution speed, and can cause an illegal address fault or bus error.
+
+7.  The (related) assumption that there is no padding at the end of types and that in an array you can thus step right from the last byte of a previous component to the first byte of the next one. This is not only machine- but compiler-dependent.
+
+8.  The assumption that memory address space is globally flat and that the array reference **foo\[-1\]** is necessarily valid. Problem: this fails at 0, or other places on segment-addressed machines like Intel chips (yes, segmentation is universally considered a [*brain-damaged*](../B/brain-damaged.html) way to design machines (see [*moby*](../M/moby.html)), but that is a separate issue).
+
+9.  The assumption that objects can be arbitrarily large with no special considerations. Problem: this fails on segmented architectures and under non-virtual-addressing environments.
+
+10. The assumption that the stack can be as large as memory. Problem: this fails on segmented architectures or almost anything else without virtual addressing and a paged stack.
+
+11. The assumption that bits and addressable units within an object are ordered in the same way and that this order is a constant of nature. Problem: this fails on [*big-endian*](../B/big-endian.html) machines.
+
+12. The assumption that it is meaningful to compare pointers to different objects not located within the same array, or to objects of different types. Problem: the former fails on segmented architectures, the latter on word-oriented machines or others with multiple pointer formats.
+
+13. The assumption that an int is 32 bits, or (nearly equivalently) the assumption that **sizeof(int) == sizeof(long)**. Problem: this fails on [*PDP-11*](../P/PDP-11.html)s, 286-based systems and even on 386 and 68000 systems under some compilers (and on 64-bit systems like the Alpha, of course).
+
+14. The assumption that **argv\[\]** is writable. Problem: this fails in many embedded-systems C environments and even under a few flavors of Unix.
+
+Note that a programmer can validly be accused of vaxocentrism even if he or she has never seen a [*VAX*](VAX.html). Some of these assumptions (esp. 2--5) were valid on the [*PDP-11*](../P/PDP-11.html), the original C machine, and became endemic years before the VAX. The terms vaxocentricity and all-the-world's-a-VAX syndrome have been used synonymously.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+VAXen 
+Home
+ vdiff
+
+
+---
+
+
+
+vdiff
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**vdiff**: /vee´dif/, v.,n.
+
+Visual diff. The operation of finding differences between two files by [*eyeball search*](../E/eyeball-search.html). The term optical diff has also been reported, and is sometimes more specifically used for the act of superimposing two nearly identical printouts on one another and holding them up to a light to spot differences. Though this method is poor for detecting omissions in the ‘rear’ file, it can also be used with printouts of graphics, a claim few if any diff programs can make. See [*diff*](../D/diff.html).
+
+An interesting variant of the vdiff technique usable by anyone who has sufficient control over the parallax of their eyeballs (e.g. those who can easily view random-dot stereograms), is to hold up two paper printouts and go cross-eyed to superimpose them. This invokes deep, fast, built-in image comparison wetware (the same machinery responsible for depth perception) and differences stand out almost immediately. This technique is good for finding edits in graphical images, or for comparing an image with a compressed version to spot artifacts.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+vaxocentrism 
+Home
+ veeblefester
+
+
+---
+
+
+
+veeblefester
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**veeblefester**: /vee´b@l·fes\`tr/, n.
+
+\[from the *Born Loser* comix via Commodore; prob.: originally from *Mad* Magazine's ‘Veeblefetzer’ parodies beginning in \#15, 1954\] Any obnoxious person engaged in the (alleged) professions of marketing or management. Antonym of [*hacker*](../H/hacker.html). Compare [*suit*](../S/suit.html), [*marketroid*](../M/marketroid.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+vdiff 
+Home
+ velveeta
+
+
+---
+
+
+
+velveeta
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**velveeta**: n.
+
+\[Usenet: by analogy with [*spam*](../S/spam.html). The trade name Velveeta is attached in the U.S. to a particularly nasty processed-cheese spread.\] Also knows as [*ECP*](../E/ECP.html); a message that is excessively cross-posted, as opposed to [*spam*](../S/spam.html) which is too frequently posted. This term is widely recognized but not commonly used; most people refer to both kinds of abuse as spam. Compare [*jello*](../J/jello.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+veeblefester 
+Home
+ Venus flytrap
+
+
+---
+
+
+
+Venus flytrap
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**Venus flytrap**: n.
+
+\[after the insect-eating plant\] See [*firewall machine*](../F/firewall-machine.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+velveeta 
+Home
+ verbage
+
+
+---
+
+
+
+verbage
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**verbage**: /ver´b@j/, n.
+
+A deliberate misspelling and mispronunciation of [*verbiage*](verbiage.html) that assimilates it to the word ‘garbage’. Compare [*content-free*](../C/content-free.html). More pejorative than ‘verbiage’.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Venus flytrap 
+Home
+ verbiage
+
+
+---
+
+
+
+verbiage
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**verbiage**: n.
+
+When the context involves a software or hardware system, this refers to [*documentation*](../D/documentation.html). This term borrows the connotations of mainstream ‘verbiage’ to suggest that the documentation is of marginal utility and that the motives behind its production have little to do with the ostensible subject.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+verbage 
+Home
+ Version 7
+
+
+---
+
+
+
+Version 7
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**Version 7**: /vee´ se´vn/, n.
+
+The first widely distributed version of [*Unix*](../U/Unix.html), released unsupported by Bell Labs in 1978. The term is used adjectivally to describe Unix features and programs that date from that release, and are thus guaranteed to be present and portable in all Unix versions (this was the standard gauge of portability before the POSIX and IEEE 1003 standards). Note that this usage does *not* derive from the release being the “seventh version of [*Unix*](../U/Unix.html)”; research [*Unix*](../U/Unix.html) at Bell Labs has traditionally been numbered according to the edition of the associated documentation. Indeed, only the widely-distributed Sixth and Seventh Editions are widely known as V\[67\]; the OS that might today be known as ‘V10’ is instead known in full as “Tenth Edition Research Unix” or just “Tenth Edition” for short. For this reason, “V7” is often read by cognoscenti as “Seventh Edition”. See [*BSD*](../B/BSD.html), [*Unix*](../U/Unix.html). Some old-timers impatient with commercialization and kernel bloat still maintain that V7 was the Last True Unix.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+verbiage 
+Home
+ vgrep
+
+
+---
+
+
+
+vgrep
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**vgrep**: /vee´grep/, v.,n.
+
+Visual grep. The operation of finding patterns in a file optically rather than digitally (also called an optical grep). See [*grep*](../G/grep.html); compare [*vdiff*](vdiff.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Version 7 
+Home
+ vi
+
+
+---
+
+
+
+vi
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**vi**: /V·I/, *not*, /vi:/, *never*, /siks/, n.
+
+\[from ‘Visual Interface’\] A screen editor crufted together by Bill Joy for an early [*BSD*](../B/BSD.html) release. Became the de facto standard Unix editor and a nearly undisputed hacker favorite outside of MIT until the rise of [*EMACS*](../E/EMACS.html) after about 1984. Tends to frustrate new users no end, as it will neither take commands while expecting input text nor vice versa, and the default setup on older versions provides no indication of which mode the editor is in (years ago, a correspondent reported that he has often heard the editor's name pronounced /vi:l/; there is now a vi clone named vile). Nevertheless vi (and variants such as vim and elvis) is still widely used (about half the respondents in a 1991 Usenet poll preferred it), and even EMACS fans often resort to it as a mail editor and for small editing jobs (mainly because it starts up faster than the bulkier versions of EMACS). See [*holy wars*](../H/holy-wars.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+vgrep 
+Home
+ video toaster
+
+
+---
+
+
+
+video toaster
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**video toaster**: n.
+
+Historically, an Amiga fitted with a particular line of special video effects hardware from NewTek — long a popular platform at special-effects and video production houses. More generally, any computer system designed specifically for video production and manipulation. Compare [*web toaster*](../W/web-toaster.html) and see [*toaster*](../T/toaster.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+vi 
+Home
+ videotex
+
+
+---
+
+
+
+videotex
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**videotex**: n. obs.
+
+An electronic service offering people the privilege of paying to read the weather on their television screens instead of having somebody read it to them for free while they brush their teeth. The idea bombed everywhere it wasn't government-subsidized, because by the time videotex was practical the installed base of personal computers could hook up to timesharing services and do the things for which videotex might have been worthwhile better and cheaper. Videotex planners badly overestimated both the appeal of getting information from a computer and the cost of local intelligence at the user's end. Like the [*gorilla arm*](../G/gorilla-arm.html) effect, this has been a cautionary tale to hackers ever since. See also [*vannevar*](vannevar.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+video toaster 
+Home
+ virgin
+
+
+---
+
+
+
+virgin
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**virgin**: adj.
+
+Unused; pristine; in a known initial state. “Let's bring up a virgin system and see if it crashes again.” (Esp.: useful after contracting a [*virus*](virus.html) through [*SEX*](../S/SEX.html).) Also, by extension, buffers and the like within a program that have not yet been used.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+videotex 
+Home
+ virtual
+
+
+---
+
+
+
+virtual
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**virtual**: adj.
+
+\[via the technical term virtual memory, prob.: from the term virtual image in optics\]
+
+1\. Common alternative to [*logical*](../L/logical.html); often used to refer to the artificial objects (like addressable virtual memory larger than physical memory) simulated by a computer system as a convenient way to manage access to shared resources.
+
+2\. Simulated; performing the functions of something that isn't really there. An imaginative child's doll may be a virtual playmate. Oppose [*real*](../R/real.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+virgin 
+Home
+ virtual beer
+
+
+---
+
+
+
+virtual beer
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**virtual beer**: n.
+
+Praise or thanks. Used universally in the Linux community. Originally this term signified cash, after a famous incident in which some Britishers who wanted to buy Linus a beer sent him money to Finland to do so.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+virtual 
+Home
+ virtual Friday
+
+
+---
+
+
+
+virtual Friday
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**virtual Friday**: n.
+
+(also logical Friday) The last day before an extended weekend, if that day is not a ‘real’ Friday. For example, the U.S. holiday Thanksgiving is always on a Thursday. The next day is often also a holiday or taken as an extra day off, in which case Wednesday of that week is a virtual Friday (and Thursday is a virtual Saturday, as is Friday). There are also virtual Mondays that are actually Tuesdays, after the three-day weekends associated with many national holidays in the U.S.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+virtual beer 
+Home
+ virtual reality
+
+
+---
+
+
+
+virtual reality
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**virtual reality**: n.
+
+1\. Computer simulations that use 3-D graphics and devices such as the Dataglove to allow the user to interact with the simulation. See [*cyberspace*](../C/cyberspace.html).
+
+2\. A form of network interaction incorporating aspects of role-playing games, interactive theater, improvisational comedy, and ‘true confessions’ magazines. In a virtual reality forum (such as Usenet's `alt.callahans` newsgroup or the [*MUD*](../M/MUD.html) experiments on Internet), interaction between the participants is written like a shared novel complete with scenery, foreground characters that may be personae utterly unlike the people who write them, and common background characters manipulable by all parties. The one iron law is that you may not write irreversible changes to a character without the consent of the person who ‘owns’ it. Otherwise anything goes. See [*bamf*](../B/bamf.html), [*cyberspace*](../C/cyberspace.html), [*teledildonics*](../T/teledildonics.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+virtual Friday 
+Home
+ virtual shredder
+
+
+---
+
+
+
+virtual shredder
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**virtual shredder**: n.
+
+The jargonic equivalent of the [*bit bucket*](../B/bit-bucket.html) at shops using IBM's VM/CMS operating system. VM/CMS officially supports a whole bestiary of virtual card readers, virtual printers, and other phantom devices; these are used to supply some of the same capabilities Unix gets from pipes and I/O redirection.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+virtual reality 
+Home
+ virus
+
+
+---
+
+
+
+virus
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**virus**: n.
+
+\[from the obvious analogy with biological viruses, via SF\] A cracker program that searches out other programs and ‘infects’ them by embedding a copy of itself in them, so that they become [*Trojan horse*](../T/Trojan-horse.html)s. When these programs are executed, the embedded virus is executed too, thus propagating the ‘infection’. This normally happens invisibly to the user. Unlike a [*worm*](../W/worm.html), a virus cannot infect other computers without assistance. It is propagated by vectors such as humans trading programs with their friends (see [*SEX*](../S/SEX.html)). The virus may do nothing but propagate itself and then allow the program to run normally. Usually, however, after propagating silently for a while, it starts doing things like writing cute messages on the terminal or playing strange tricks with the display (some viruses include nice [*display hack*](../D/display-hack.html)s). Many nasty viruses, written by particularly perversely minded [*cracker*](../C/cracker.html)s, do irreversible damage, like nuking all the user's files.
+
+In the 1990s, viruses became a serious problem, especially among Windows users; the lack of security on these machines enables viruses to spread easily, even infecting the operating system (Unix machines, by contrast, are immune to such attacks). The production of special anti-virus software has become an industry, and a number of exaggerated media reports have caused outbreaks of near hysteria among users; many [*luser*](../L/luser.html)s tend to blame *everything* that doesn't work as they had expected on virus attacks. Accordingly, this sense of virus has passed not only into techspeak but into also popular usage (where it is often incorrectly used to denote a [*worm*](../W/worm.html) or even a [*Trojan horse*](../T/Trojan-horse.html)). See [*phage*](../P/phage.html); compare [*back door*](../B/back-door.html); see also [*Unix conspiracy*](../U/Unix-conspiracy.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+virtual shredder 
+Home
+ visionary
+
+
+---
+
+
+
+visionary
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**visionary**: n.
+
+1\. One who hacks vision, in the sense of an Artificial Intelligence researcher working on the problem of getting computers to ‘see’ things using TV cameras. (There isn't any problem in sending information from a TV camera to a computer. The problem is, how can the computer be programmed to make use of the camera information? See [*SMOP*](../S/SMOP.html), [*AI-complete*](../A/AI-complete.html).)
+
+2\. \[IBM\] One who reads the outside literature. At IBM, apparently, such a penchant is viewed with awe and wonder.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+virus 
+Home
+ Visual Fred
+
+
+---
+
+
+
+Visual Fred
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**Visual Fred**: n.
+
+Pejorative hackerism for VB.NET (Visual Basic for the .NET framework). VB.NET has been marketed by Microsoft as an updated version of the previous Visual Basic on its .NET framework, but VB.NET is really just C# with a slightly different syntax and fewer libraries. Migrating existing code from Visual Basic to VB.NET is generally impractical because VB.NET has a large number of unnecessary incompatibilities with Visual Basic. Since VB.NET has essentially nothing to do with Visual Basic, a well-known ex-Microserf suggested that VB.NET should have a completely different name — Visual Fred. This rapidly caught on.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+visionary 
+Home
+ VMS
+
+
+---
+
+
+
+VMS
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**VMS**: /V·M·S/, n.
+
+[*DEC*](../D/DEC.html)'s proprietary operating system for its [*VAX*](VAX.html) minicomputer; one of the seven or so environments that loom largest in hacker folklore. Many Unix fans generously concede that VMS would probably be the hacker's favorite commercial OS if Unix didn't exist; though true, this makes VMS fans furious. One major hacker gripe with VMS concerns its slowness — thus the following limerick:
+
+  
+   There once was a system called VMS  
+   Of cycles by no means abstemious.  
+        It's chock-full of hacks  
+        And runs on a VAX  
+   And makes my poor stomach all squeamious.  
+                                    — The Great Quux  
+
+See also [*VAX*](VAX.html), [*TOPS-10*](../T/TOPS-10.html), [*TOPS-20*](../T/TOPS-20.html), [*Unix*](../U/Unix.html), [*runic*](../R/runic.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Visual Fred 
+Home
+ voice
+
+
+---
+
+
+
+voice
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**voice**: vt.
+
+To phone someone, as opposed to emailing them or connecting in [*talk mode*](../T/talk-mode.html). “I'm busy now; I'll voice you later.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+VMS 
+Home
+ voice-net
+
+
+---
+
+
+
+voice-net
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**voice-net**: n.
+
+Hackish way of referring to the telephone system, analogizing it to a digital network. Usenet [*sig block*](../S/sig-block.html)s not uncommonly include the sender's phone next to a “Voice:” or “Voice-Net:” header; common variants of this are “Voicenet” and “V-Net”. Compare [*paper-net*](../P/paper-net.html), [*snail-mail*](../S/snail-mail.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+voice 
+Home
+ voodoo programming
+
+
+---
+
+
+
+voodoo programming
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**voodoo programming**: n.
+
+\[from George Bush Sr.'s “voodoo economics”\]
+
+1\. The use by guess or cookbook of an [*obscure*](../O/obscure.html) or [*hairy*](../H/hairy.html) system, feature, or algorithm that one does not truly understand. The implication is that the technique may not work, and if it doesn't, one will never know why. Almost synonymous with [*black magic*](../B/black-magic.html), except that black magic typically isn't documented and *nobody* understands it. Compare [*magic*](../M/magic.html), [*deep magic*](../D/deep-magic.html), [*heavy wizardry*](../H/heavy-wizardry.html), [*rain dance*](../R/rain-dance.html), [*cargo cult programming*](../C/cargo-cult-programming.html), [*wave a dead chicken*](../W/wave-a-dead-chicken.html), [*SCSI voodoo*](../S/SCSI-voodoo.html).
+
+2\. Things programmers do that they know shouldn't work but they try anyway, and which sometimes actually work, such as recompiling everything.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+voice-net 
+Home
+ VR
+
+
+---
+
+
+
+VR
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**VR**: //, n.
+
+On-line abbrev for [*virtual reality*](virtual-reality.html), as opposed to [*RL*](../R/RL.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+voodoo programming 
+Home
+ Vulcan nerve pinch
+
+
+---
+
+
+
+Vulcan nerve pinch
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**Vulcan nerve pinch**: n.
+
+\[from the old *Star Trek* TV series via Commodore Amiga hackers\] The keyboard combination that forces a soft-boot or jump to ROM monitor (on machines that support such a feature). On Amigas this is \-\-\; on PC clones this is Ctrl-Alt-Del; on Suns, L1-A; on Macintoshes, it is \-\ or \-\-\! On IRIX, \\\\, which kills and restarts the X server, is sometimes called a vulcan nerve pinch. Also called [*three-finger salute*](../T/three-finger-salute.html) and Vulcan death grip. At shops with a lot of Microsoft Windows machines, this is often called the Microsoft Maneuver because of the distressing frequency with which Microsoft's unreliable software requires it. Compare [*quadruple bucky*](../Q/quadruple-bucky.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+VR 
+Home
+ vulture capitalist
+
+
+---
+
+
+
+vulture capitalist
+
+Prev 
+V
+ Next
+
+------------------------------------------------------------------------
+
+**vulture capitalist**: n.
+
+Pejorative hackerism for ‘venture capitalist’, deriving from the common practice of pushing contracts that deprive inventors of control over their own innovations and most of the money they ought to have made from them.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Vulcan nerve pinch 
+Home
+ W
+
+
+---
+
+
+## W
+
+
+
+w00t
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**w00t**
+
+An interjection similar to “Yay!”, as in: “w00t!!! I just got a raise!” Often used for small victories the speaker dies not expect to be of special interest to anyone else. Some claim this is a bastardization of “root”, the highest level of access to a system (particularly UNIX), originated by script kiddies as a 133tspeak equivalent of “root”, and said as an exclamation upon gaining root access. Others claim it originated in the Everquest multiplayer game as an abbreviation of “wonderful loot”. Still other claim it on originated on IRC as the “Ewok victory cheer”\] Adj. w00table has the sense of “cool” or “nifty”. This is one of the few leet-speak coinages to have crossed over into non-ironic use among hackers.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+W 
+Home
+ wabbit
+
+
+---
+
+
+
+wabbit
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wabbit**: /wab´it/, n.
+
+\[almost certainly from Elmer Fudd's immortal line “You wascawwy wabbit!”\]
+
+1\. A legendary early hack reported on a System/360 at RPI and elsewhere around 1978; this may have descended (if only by inspiration) from a hack called RABBITS reported from 1969 on a Burroughs 5500 at the University of Washington Computer Center. The program would make two copies of itself every time it was run, eventually crashing the system.
+
+2\. By extension, any hack that includes infinite self-replication but is not a [*virus*](../V/virus.html) or [*worm*](worm.html). See [*fork bomb*](../F/fork-bomb.html) and [*rabbit job*](../R/rabbit-job.html), see also [*cookie monster*](../C/cookie-monster.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+w00t 
+Home
+ WAITS
+
+
+---
+
+
+
+WAITS
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**WAITS**: /wayts/, n.
+
+The mutant cousin of [*TOPS-10*](../T/TOPS-10.html) used on a handful of systems at [*SAIL*](../S/SAIL.html) up to 1990. There was never an ‘official’ expansion of WAITS (the name itself having been arrived at by a rather sideways process), but it was frequently glossed as ‘West-coast Alternative to ITS’. Though WAITS was less visible than ITS, there was frequent exchange of people and ideas between the two communities, and innovations pioneered at WAITS exerted enormous indirect influence. The early screen modes of [*EMACS*](../E/EMACS.html), for example, were directly inspired by WAITS's ‘E’ editor — one of a family of editors that were the first to do ‘real-time editing’, in which the editing commands were invisible and where one typed text at the point of insertion/overwriting. The modern style of multi-region windowing is said to have originated there, and WAITS alumni at XEROX PARC and elsewhere played major roles in the developments that led to the XEROX Star, the Macintosh, and the Sun workstations. Also invented there were [*bucky bits*](../B/bucky-bits.html) — thus, the ALT key on every IBM PC is a WAITS legacy. One WAITS feature very notable in pre-Web days was a news-wire interface that allowed WAITS hackers to read, store, and filter AP and UPI dispatches from their terminals; the system also featured a still-unusual level of support for what is now called multimedia computing, allowing analog audio and video signals to be switched to programming terminals.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wabbit 
+Home
+ waldo
+
+
+---
+
+
+
+waldo
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**waldo**: /wol´doh/, n.
+
+\[From Robert A. Heinlein's story *Waldo*\]
+
+1\. A mechanical agent, such as a gripper arm, controlled by a human limb. When these were developed for the nuclear industry in the mid-1940s they were named after the invention described by Heinlein in the story, which he wrote in 1942. Now known by the more generic term telefactoring, this technology is of intense interest to NASA for tasks like space station maintenance.
+
+2\. At Harvard (particularly by Tom Cheatham and students), this is used instead of [*foobar*](../F/foobar.html) as a metasyntactic variable and general nonsense word. See [*foo*](../F/foo.html), [*bar*](../B/bar.html), [*foobar*](../F/foobar.html), [*quux*](../Q/quux.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+WAITS 
+Home
+ walk
+
+
+---
+
+
+
+walk
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**walk**: n.,vt.
+
+Traversal of a data structure, especially an array or linked-list data structure in [*core*](../C/core.html). See also [*codewalker*](../C/codewalker.html), [*silly walk*](../S/silly-walk.html), [*clobber*](../C/clobber.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+waldo 
+Home
+ walk off the end of
+
+
+---
+
+
+
+walk off the end of
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**walk off the end of**: vt.
+
+To run past the end of an array, list, or medium after stepping through it — a good way to land in trouble. Often the result of an [*off-by-one error*](../O/off-by-one-error.html). Compare [*clobber*](../C/clobber.html), [*roach*](../R/roach.html), [*smash the stack*](../S/smash-the-stack.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+walk 
+Home
+ walking drives
+
+
+---
+
+
+
+walking drives
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**walking drives**: n.
+
+An occasional failure mode of magnetic-disk drives back in the days when they were huge, clunky [*washing machine*](washing-machine.html)s. Those old [*dinosaur*](../D/dinosaur.html) parts carried terrific angular momentum; the combination of a misaligned spindle or worn bearings and stick-slip interactions with the floor could cause them to ‘walk’ across a room, lurching alternate corners forward a couple of millimeters at a time. There is a legend about a drive that walked over to the only door to the computer room and jammed it shut; the staff had to cut a hole in the wall in order to get at it! Walking could also be induced by certain patterns of drive access (a fast seek across the whole width of the disk, followed by a slow seek in the other direction). Some bands of old-time hackers figured out how to induce disk-accessing patterns that would do this to particular drive models and held disk-drive races.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+walk off the end of 
+Home
+ wall
+
+
+---
+
+
+
+wall
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wall**: interj.
+
+\[WPI\]
+
+1\. An indication of confusion, usually spoken with a quizzical tone: “Wall??”
+
+2\. A request for further explication. Compare [*octal forty*](../O/octal-forty.html).
+
+3\. \[Unix, from ‘write all’\] v. To send a message to everyone currently logged in, esp. with the wall(8) utility.
+
+It is said that sense 1 came from the idiom ‘like talking to a blank wall’. It was originally used in situations where, after you had carefully answered a question, the questioner stared at you blankly, clearly having understood nothing that was explained. You would then throw out a “Hello, wall?” to elicit some sort of response from the questioner. Later, confused questioners began voicing “Wall?” themselves.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+walking drives 
+Home
+ wall follower
+
+
+---
+
+
+
+wall follower
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wall follower**: n.
+
+A person or algorithm that compensates for lack of sophistication or native stupidity by efficiently following some simple procedure shown to have been effective in the past. Used of an algorithm, this is not necessarily pejorative; it recalls ‘Harvey Wallbanger’, the winning robot in an early AI contest (named, of course, after the cocktail). Harvey successfully solved mazes by keeping a ‘finger’ on one wall and running till it came out the other end. This was inelegant, but it was mathematically guaranteed to work on simply-connected mazes — and, in fact, Harvey outperformed more sophisticated robots that tried to ‘learn’ each maze by building an internal representation of it. Used of humans, the term *is* pejorative and implies an uncreative, bureaucratic, by-the-book mentality. See also [*code grinder*](../C/code-grinder.html); compare [*droid*](../D/droid.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wall 
+Home
+ wall time
+
+
+---
+
+
+
+wall time
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wall time**: n.
+
+(also wall clock time)
+
+1\. ‘Real world’ time (what the clock on the wall shows), as opposed to the system clock's idea of time.
+
+2\. The real running time of a program, as opposed to the number of [*tick*](../T/tick.html)s required to execute it (on a timesharing system these always differ, as no one program gets all the ticks, and on multiprocessor systems with good thread support one may get more processor time than real time).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wall follower 
+Home
+ wall wart
+
+
+---
+
+
+
+wall wart
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wall wart**: n.
+
+A small power-supply brick with integral male plug, designed to plug directly into a wall outlet; called a ‘wart’ because when installed on a power strip it tends to block up at least one more socket than it uses. These are frequently associated with modems and other small electronic devices which would become unacceptably bulky or hot if they had power supplies on board (there are other reasons as well having to do with the cost of UL certification).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wall time 
+Home
+ wallhack
+
+
+---
+
+
+
+wallhack
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wallhack**
+
+A form of game cheat especially associated with first-person shooters like Quake, in which the walls in the simulated maze or dungeon are rendered transparent to the cheater. This gives the cheater normally hidden information about the whereabouts of other players. Beyond gaming, a wallhack is the paradigm case of a whole class of security problems that stem from the fact that a server cannot trust client software, and server authors must assume that all computation farmed out to a client is exposed to and can be interfered with by the user.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wall wart 
+Home
+ wango
+
+
+---
+
+
+
+wango
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wango**: /wang´goh/, n.
+
+Random bit-level [*grovel*](../G/grovel.html)ling going on in a system during some unspecified operation. Often used in combination with [*mumble*](../M/mumble.html). For example: “You start with the ‘.o’ file, run it through this postprocessor that does mumble-wango — and it comes out a snazzy object-oriented executable.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wallhack 
+Home
+ wank
+
+
+---
+
+
+
+wank
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wank**: /wangk/, n.,v.,adj.
+
+\[Columbia University: prob.: by mutation from Commonwealth slang v. wank, to masturbate\] Used much as [*hack*](../H/hack.html) is elsewhere, as a noun denoting a clever technique or person or the result of such cleverness. May describe (negatively) the act of hacking for hacking's sake (“Quit wanking, let's go get supper!”) or (more positively) a [*wizard*](wizard.html). Adj. wanky describes something particularly clever (a person, program, or algorithm). Conversations can also get wanky when there are too many wanks involved. This excess wankiness is signalled by an overload of the wankometer (compare [*bogometer*](../B/bogometer.html)). When the wankometer overloads, the conversation's subject must be changed, or all non-wanks will leave. Compare neep-neeping (under [*neep-neep*](../N/neep-neep.html)). Usage: U.S. only. In Britain and the Commonwealth this word is *extremely* rude and is best avoided unless one intends to give offense. Adjectival wanky is less offensive and simply means ‘stupid’ or ‘broken’ (this is mainstream in Great Britain).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wango 
+Home
+ wannabee
+
+
+---
+
+
+
+wannabee
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wannabee**: /won'@·bee/, n.
+
+(also, more plausibly, spelled wannabe) \[from a term recently used to describe Madonna fans who dress, talk, and act like their idol; prob.: originally from biker slang\] A would-be [*hacker*](../H/hacker.html). The connotations of this term differ sharply depending on the age and exposure of the subject. Used of a person who is in or might be entering [*larval stage*](../L/larval-stage.html), it is semi-approving; such wannabees can be annoying but most hackers remember that they, too, were once such creatures. When used of any professional programmer, CS academic, writer, or [*suit*](../S/suit.html), it is derogatory, implying that said person is trying to cuddle up to the hacker mystique but doesn't, fundamentally, have a prayer of understanding what it is all about. Overuse of terms from this lexicon is often an indication of the [*wannabee*](wannabee.html) nature. Compare [*newbie*](../N/newbie.html).
+
+Historical note: The wannabee phenomenon has a slightly different flavor now (1993) than it did ten or fifteen years ago. When the people who are now hackerdom's tribal elders were in [*larval stage*](../L/larval-stage.html), the process of becoming a hacker was largely unconscious and unaffected by models known in popular culture — communities formed spontaneously around people who, *as individuals*, felt irresistibly drawn to do hackerly things, and what wannabees experienced was a fairly pure, skill-focused desire to become similarly wizardly. Those days of innocence are gone forever; society's adaptation to the advent of the microcomputer after 1980 included the elevation of the hacker as a new kind of folk hero, and the result is that some people semi-consciously set out to *be hackers* and borrow hackish prestige by fitting the popular image of hackers. Fortunately, to do this really well, one has to actually become a wizard. Nevertheless, old-time hackers tend to share a poorly articulated disquiet about the change; among other things, it gives them mixed feelings about the effects of public compendia of lore like this one.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wank 
+Home
+ war dialer
+
+
+---
+
+
+
+war dialer
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**war dialer**: n.
+
+\[originally from ‘wargames dialer’, a reference to the movie *War Games*\] A cracking tool, a program that calls a given list or range of phone numbers and records those which answer with handshake tones (and so might be entry points to computer or telecommunications systems). Some of these programs have become quite sophisticated, and can now detect modem, fax, or PBX tones and log each one separately. The war dialer is one of the most important tools in the [*phreaker*](../P/phreaker.html)'s kit. These programs evolved from early [*demon dialer*](../D/demon-dialer.html)s.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wannabee 
+Home
+ war-driving
+
+
+---
+
+
+
+war-driving
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**war-driving**
+
+\[play on [*war dialer*](war-dialer.html); also as single word wardriving\] Driving around looking for unsecured wireless Internet access points to connect to. More at the War Driving home page. Compare [*war-chalking*](war-chalking.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+war dialer 
+Home
+ war-chalking
+
+
+---
+
+
+
+war-chalking
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**war-chalking**
+
+\[play on [*war-driving*](war-driving.html); the first syllable has since been reinterpreted as an acronym for “wireless access revolution”\] The practice of using chalk marks similar to hobo signs to indicate the nearby presence of a wireless Internet access point, a boon to strolling hackers with laptops. The concept was first floated in early 2002 and was instantly seized upon with cries of glee by hackers all over the portions of the world urbanized enough to have sidewalks and access points. The process rather recalls the explosive spread of heraldry in the medieval Europe of the 1120s. There is a site that explains the symbology;.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+war-driving 
+Home
+ -ware
+
+
+---
+
+
+
+-ware
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**-ware**: suff.
+
+\[from ‘software’\] Commonly used to form jargon terms for classes of software. For examples, see [*annoyware*](../A/annoyware.html), [*careware*](../C/careware.html), [*crippleware*](../C/crippleware.html), [*crudware*](../C/crudware.html), [*freeware*](../F/freeware.html), [*fritterware*](../F/fritterware.html), [*guiltware*](../G/guiltware.html), [*liveware*](../L/liveware.html), [*meatware*](../M/meatware.html), [*payware*](../P/payware.html), [*psychedelicware*](../P/psychedelicware.html), [*shareware*](../S/shareware.html), [*shelfware*](../S/shelfware.html), [*vaporware*](../V/vaporware.html), [*wetware*](wetware.html), [*spyware*](../S/spyware.html), [*adware*](../A/adware.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+war-chalking 
+Home
+ warez
+
+
+---
+
+
+
+warez
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**warez**: /weirz/, n.
+
+Widely used in [*cracker*](../C/cracker.html) subcultures to denote cracked version of commercial software, that is versions from which copy-protection has been stripped. Hackers recognize this term but don't use it themselves. See [*warez d00dz*](warez-d00dz.html), [*courier*](../C/courier.html), [*leech*](../L/leech.html), [*elite*](../E/elite.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+-ware 
+Home
+ warez d00dz
+
+
+---
+
+
+
+warez d00dz
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**warez d00dz**: /weirz doodz/, n.
+
+A substantial subculture of [*cracker*](../C/cracker.html)s refer to themselves as warez d00dz; there is evidently some connection with [*B1FF*](../B/B1FF.html) here. As ‘Ozone Pilot’, one former warez d00d, wrote:
+
+> Warez d00dz get illegal copies of copyrighted software. If it has copy protection on it, they break the protection so the software can be copied. Then they distribute it around the world via several gateways. Warez d00dz form badass group names like RAZOR and the like. They put up boards that distribute the latest ware, or pirate program. The whole point of the Warez sub-culture is to get the pirate program released and distributed before any other group. I know, I know. But don't ask, and it won't hurt as much. This is how they prove their poweress \[sic\]. It gives them the right to say, “I released King's Quest IVXIX before you so obviously my testicles are larger.” Again don't ask...
+
+The studly thing to do if one is a warez d00d, it appears, is emit 0-day warez, that is copies of commercial software copied and cracked on the same day as its retail release. Warez d00ds also hoard software in a big way, collecting untold megabytes of arcade-style games, pornographic JPGs, and applications they'll never use onto their hard disks. As Ozone Pilot acutely observes:
+
+> \[BELONG\] is the only word you will need to know. Warez d00dz want to belong. They have been shunned by everyone, and thus turn to cyberspace for acceptance. That is why they always start groups like TGW, FLT, USA and the like. Structure makes them happy. \[...\] Warez d00dz will never have a handle like “Pink Daisy” because warez d00dz are insecure. Only someone who is very secure with a good dose of self-esteem can stand up to the cries of fag and girlie-man. More likely you will find warez d00dz with handles like: Doctor Death, Deranged Lunatic, Hellraiser, Mad Prince, Dreamdevil, The Unknown, Renegade Chemist, Terminator, and Twin Turbo. They like to sound badass when they can hide behind their terminals. More likely, if you were given a sample of 100 people, the person whose handle is Hellraiser is the last person you'd associate with the name.
+
+The contrast with Internet hackers is stark and instructive. See [*cracker*](../C/cracker.html), [*wannabee*](wannabee.html), [*handle*](../H/handle.html), [*elite*](../E/elite.html), [*courier*](../C/courier.html), [*leech*](../L/leech.html); compare [*weenie*](weenie.html), [*spod*](../S/spod.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+warez 
+Home
+ warez kiddies
+
+
+---
+
+
+
+warez kiddies
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**warez kiddies**: n.
+
+Even more derogatory way of referring to [*warez d00dz*](warez-d00dz.html); refers to the fact that most warez d00dz are around the age of puberty. Compare [*script kiddies*](../S/script-kiddies.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+warez d00dz 
+Home
+ warlording
+
+
+---
+
+
+
+warlording
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**warlording**: v.
+
+\[from the Usenet group `alt.fan.warlord`\] The act of excoriating a bloated, ugly, or derivative [*sig block*](../S/sig-block.html). Common grounds for warlording include the presence of a signature rendered in a [*BUAF*](../B/BUAF.html), over-used or cliched [*sig quote*](../S/sig-quote.html)s, ugly [*ASCII art*](../A/ASCII-art.html), or simply excessive size. The original ‘Warlord’ was a [*B1FF*](../B/B1FF.html)-like [*newbie*](../N/newbie.html) c.1991 who featured in his sig a particularly large and obnoxious ASCII graphic resembling the sword of Conan the Barbarian in the 1981 John Milius movie; the group name `alt.fan.warlord` was sarcasm, and the characteristic mode of warlording is devastatingly sarcastic praise. See also [*McQuary limit*](../M/McQuary-limit.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+warez kiddies 
+Home
+ warm boot
+
+
+---
+
+
+
+warm boot
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**warm boot**: n.
+
+See [*boot*](../B/boot.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+warlording 
+Home
+ wart
+
+
+---
+
+
+
+wart
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wart**: n.
+
+A small, [*crock*](../C/crock.html)y [*feature*](../F/feature.html) that sticks out of an otherwise [*clean*](../C/clean.html) design. Something conspicuous for localized ugliness, especially a special-case exception to a general rule. For example, in some versions of csh(1), single quotes literalize every character inside them except `!`. In ANSI C, the `??` syntax used for obtaining ASCII characters in a foreign environment is a wart. See also [*miswart*](../M/miswart.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+warm boot 
+Home
+ washing machine
+
+
+---
+
+
+
+washing machine
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**washing machine**: n.
+
+1\. Old-style 14-inch hard disks in floor-standing cabinets. So called because of the size of the cabinet and the ‘top-loading’ access to the media packs — and, of course, they were always set on ‘spin cycle’. The washing-machine idiom transcends language barriers; it is even used in Russian hacker jargon. See also [*walking drives*](walking-drives.html). The thick channel cables connecting these were called bit hoses (see [*hose*](../H/hose.html), sense 3).
+
+![](../graphics/76-02-14.png)
+
+(The next cartoon in the Crunchly saga is [76-02-20:2](../B/batch.html#crunchly-2). The previous cartoon was [75-10-04](../B/bit-bucket.html#crunchly75-10-04).)
+
+2\. \[CMU\] A machine used exclusively for [*washing software*](washing-software.html). CMU has clusters of these.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wart 
+Home
+ washing software
+
+
+---
+
+
+
+washing software
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**washing software**: n.
+
+The process of recompiling a software distribution (used more often when the recompilation is occuring from scratch) to pick up and merge together all of the various changes that have been made to the source.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+washing machine 
+Home
+ water MIPS
+
+
+---
+
+
+
+water MIPS
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**water MIPS**: n.
+
+(see [*MIPS*](../M/MIPS.html), sense 2) Large, water-cooled machines of either today's ECL-supercomputer flavor or yesterday's traditional [*mainframe*](../M/mainframe.html) type.
+
+![](../graphics/74-08-18.png)
+
+A really unusual kind of [*water MIPS*](water-MIPS.html).
+
+(The next cartoon in the Crunchly saga is [74-12-25](../N/number-crunching.html#crunchly74-12-25). The previous cartoon was [73-10-31](../A/ad-hockery.html#crunchly73-10-31).)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+washing software 
+Home
+ wave a dead chicken
+
+
+---
+
+
+
+wave a dead chicken
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wave a dead chicken**: v.
+
+To perform a ritual in the direction of crashed software or hardware that one believes to be futile but is nevertheless necessary so that others are satisfied that an appropriate degree of effort has been expended. “I'll wave a dead chicken over the source code, but I really think we've run into an OS bug.” Compare [*voodoo programming*](../V/voodoo-programming.html), [*rain dance*](../R/rain-dance.html); see also [*casting the runes*](../C/casting-the-runes.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+water MIPS 
+Home
+ weasel
+
+
+---
+
+
+
+weasel
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**weasel**: n.
+
+\[Cambridge\] A naive user, one who deliberately or accidentally does things that are stupid or ill-advised. Roughly synonymous with [*loser*](../L/loser.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wave a dead chicken 
+Home
+ web pointer
+
+
+---
+
+
+
+web pointer
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**web pointer**: n.
+
+A World Wide Web [*URL*](../U/URL.html). See also [*hotlink*](../H/hotlink.html), which has slightly different connotations.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+weasel 
+Home
+ web ring
+
+
+---
+
+
+
+web ring
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**web ring**: n.
+
+Two or more web sites connected by prominent links between sites sharing a common interest or theme. Usually such cliques have the topology of a ring, in order to make it easy for visitors to navigate through all of them.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+web pointer 
+Home
+ web toaster
+
+
+---
+
+
+
+web toaster
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**web toaster**: n.
+
+A small specialized computer, shipped with no monitor or keyboard or any other external peripherals, pre-configured to be controlled through an Ethernet port and function as a WWW server. Products of this kind (for example the Cobalt Qube) are often about the size of a toaster. See [*toaster*](../T/toaster.html); compare [*video toaster*](../V/video-toaster.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+web ring 
+Home
+ webify
+
+
+---
+
+
+
+webify
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**webify**: n.
+
+To put a piece of (possibly already existing) material on the WWW. Frequently used for papers (“Why don't you webify all your publications?”) or for demos (“They webified their 6.866 final project”). This term seems to have been (rather logically) independently invented multiple times in the early 1990s.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+web toaster 
+Home
+ webmaster
+
+
+---
+
+
+
+webmaster
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**webmaster**: n.
+
+\[WWW: from [*postmaster*](../P/postmaster.html)\] The person at a site providing World Wide Web information who is responsible for maintaining the public pages and keeping the Web server running and properly configured.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+webify 
+Home
+ wedged
+
+
+---
+
+
+
+wedged
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wedged**: adj.
+
+1\. To be stuck, incapable of proceeding without help. This is different from having crashed. If the system has crashed, it has become totally non-functioning. If the system is wedged, it is trying to do something but cannot make progress; it may be capable of doing a few things, but not be fully operational. For example, a process may become wedged if it [*deadlock*](../D/deadlock.html)s with another (but not all instances of wedging are deadlocks). See also [*gronk*](../G/gronk.html), [*locked up*](../L/locked-up.html), [*hosed*](../H/hosed.html), [*hung*](../H/hung.html) (wedged is more severe than [*hung*](../H/hung.html)).
+
+2\. Often refers to humans suffering misconceptions. “He's totally wedged — he's convinced that he can levitate through meditation.”
+
+3\. \[Unix\] Specifically used to describe the state of a TTY left in a losing state by abort of a screen-oriented program or one that has messed with the line discipline in some obscure way.
+
+There is some dispute over the origin of this term. It is usually thought to derive from a common description of recto-cranial inversion; however, it may actually have originated with older ‘hot-press’ printing technology in which physical type elements were locked into type frames with wedges driven in by mallets. Once this had been done, no changes in the typesetting for that page could be made.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+webmaster 
+Home
+ wedgie
+
+
+---
+
+
+
+wedgie
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wedgie**: n.
+
+\[Fairchild\] A bug. Prob. related to [*wedged*](wedged.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wedged 
+Home
+ wedgitude
+
+
+---
+
+
+
+wedgitude
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wedgitude**: /wedj´i·t\[y\]ood/, n.
+
+The quality or state of being [*wedged*](wedged.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wedgie 
+Home
+ weeble
+
+
+---
+
+
+
+weeble
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**weeble**: /weeb´l/, interj.
+
+\[Cambridge\] Used to denote frustration, usually at amazing stupidity. “I stuck the disk in upside down.” “Weeble....”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wedgitude 
+Home
+ weeds
+
+
+---
+
+
+
+weeds
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**weeds**: n.
+
+1\. Refers to development projects or algorithms that have no possible relevance or practical application. Comes from ‘off in the weeds’. Used in phrases like “lexical analysis for microcode is serious weeds....”
+
+2\. At CDC/ETA before its demise, the phrase go off in the weeds was equivalent mainstream hackerdom's [*jump off into never-never land*](../J/jump-off-into-never-never-land.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+weeble 
+Home
+ weenie
+
+
+---
+
+
+
+weenie
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**weenie**: n.
+
+1\. \[on BBSes\] Any of a species of luser resembling a less amusing version of [*B1FF*](../B/B1FF.html) that infests many [*BBS*](../B/BBS.html) systems. The typical weenie is a teenage boy with poor social skills travelling under a grandiose [*handle*](../H/handle.html) derived from fantasy or heavy-metal rock lyrics. Among sysops, the weenie problem refers to the marginally literate and profanity-laden [*flamage*](../F/flamage.html) weenies tend to spew all over a newly-discovered BBS. Compare [*spod*](../S/spod.html), [*geek*](../G/geek.html), [*terminal junkie*](../T/terminal-junkie.html), [*warez d00dz*](warez-d00dz.html).
+
+2\. \[among hackers\] When used with a qualifier (for example, as in [*Unix weenie*](../U/Unix-weenie.html), VMS weenie, IBM weenie) this can be either an insult or a term of praise, depending on context, tone of voice, and whether or not it is applied by a person who considers him or herself to be the same sort of weenie. Implies that the weenie has put a major investment of time, effort, and concentration into the area indicated; whether this is good or bad depends on the hearer's judgment of how the speaker feels about that area. See also [*bigot*](../B/bigot.html).
+
+3\. The semicolon character, `;` (ASCII 0111011).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+weeds 
+Home
+ Weenix
+
+
+---
+
+
+
+Weenix
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**Weenix**: /wee´niks/, n.
+
+1\. \[ITS\] A derogatory term for [*Unix*](../U/Unix.html), derived from [*Unix weenie*](../U/Unix-weenie.html). According to one noted ex-ITSer, it is “the operating system preferred by Unix Weenies: typified by poor modularity, poor reliability, hard file deletion, no file version numbers, case sensitivity everywhere, and users who believe that these are all advantages”. (Some ITS fans behave as though they believe Unix stole a future that rightfully belonged to them. See [*ITS*](../I/ITS.html), sense 2.)
+
+2\. \[Brown University\] A Unix-like OS developed for tutorial purposes at Brown University. See http://www.cs.brown.edu/courses/cs167/weenix.html. Named independently of the ITS usage.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+weenie 
+Home
+ well-behaved
+
+
+---
+
+
+
+well-behaved
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**well-behaved**: adj.
+
+1\. Software that does its job quietly and without counterintuitive effects. Esp.: said of software having an interface spec sufficiently simple and well-defined that it can be used as a [*tool*](../T/tool.html) by other software. See [*cat*](../C/cat.html).
+
+2\. Said of an algorithm that doesn't [*crash*](../C/crash.html) or [*blow up*](../B/blow-up.html), even when given [*pathological*](../P/pathological.html) input. Implies that the stability of the algorithm is intrinsic, which makes this somewhat different from [*bulletproof*](../B/bulletproof.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Weenix 
+Home
+ well-connected
+
+
+---
+
+
+
+well-connected
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**well-connected**: adj.
+
+Said of a computer installation, asserts that it has reliable email links with the network and/or that it relays a large fraction of available [*Usenet*](../U/Usenet.html) newsgroups. Well-known can be almost synonymous, but also implies that the site's name is familiar to many (due perhaps to an archive service or active Usenet users).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+well-behaved 
+Home
+ wetware
+
+
+---
+
+
+
+wetware
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wetware**: /wet´weir/, n.
+
+\[prob.: from the novels of Rudy Rucker\]
+
+1\. The human nervous system, as opposed to computer hardware or software. “Wetware has 7 plus or minus 2 temporary registers.”
+
+2\. Human beings (programmers, operators, administrators) attached to a computer system, as opposed to the system's hardware or software. See [*liveware*](../L/liveware.html), [*meatware*](../M/meatware.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+well-connected 
+Home
+ whack
+
+
+---
+
+
+
+whack
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**whack**: v.
+
+According to arch-hacker James Gosling (designer of [*NeWS*](../N/NeWS.html), [*GOSMACS*](../G/GOSMACS.html) and Java), to “...modify a program with no idea whatsoever how it works.” (See [*whacker*](whacker.html).) It is actually possible to do this in nontrivial circumstances if the change is small and well-defined and you are very good at [*glark*](../G/glark.html)ing things from context. As a trivial example, it is relatively easy to change all **stderr** writes to **stdout** writes in a piece of C filter code which remains otherwise mysterious.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wetware 
+Home
+ whack-a-mole
+
+
+---
+
+
+
+whack-a-mole
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**whack-a-mole**: n.
+
+\[from the carnival game which involves quickly and repeatedly hitting the heads of mechanical moles with a mallet as they pop up from their holes.\]
+
+1\. The practice of repeatedly causing spammers' [*throwaway account*](../T/throwaway-account.html)s and drop boxes to be terminated.
+
+2\. After sense 1 became established in the mid-1990s the term passed into more generalized use, and now is commonly found in such combinations as whack-a-mole windows; the obnoxious pop-up advertisement windows spawned in flocks when you surf to sites like Angelfire or Lycos.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+whack 
+Home
+ whacker
+
+
+---
+
+
+
+whacker
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**whacker**: n.
+
+\[University of Maryland: from [*hacker*](../H/hacker.html)\]
+
+1\. A person, similar to a [*hacker*](../H/hacker.html), who enjoys exploring the details of programmable systems and how to stretch their capabilities. Whereas a hacker tends to produce great hacks, a whacker only ends up whacking the system or program in question. Whackers are often quite egotistical and eager to claim [*wizard*](wizard.html) status, regardless of the views of their peers.
+
+2\. A person who is good at programming quickly, though rather poorly and ineptly.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+whack-a-mole 
+Home
+ whales
+
+
+---
+
+
+
+whales
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**whales**: n.
+
+See [*like kicking dead whales down the beach*](../L/like-kicking-dead-whales-down-the-beach.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+whacker 
+Home
+ What's a spline?
+
+
+---
+
+
+
+What's a spline?
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**What's a spline?**
+
+\[XEROX PARC\] This phrase expands to: “You have just used a term that I've heard for a year and a half, and I feel I should know, but don't. My curiosity has finally overcome my guilt.” The PARC lexicon adds “Moral: don't hesitate to ask questions, even if they seem obvious.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+whales 
+Home
+ wheel
+
+
+---
+
+
+
+wheel
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wheel**: n.
+
+\[from slang ‘big wheel’ for a powerful person\] A person who has an active [*wheel bit*](wheel-bit.html). “We need to find a wheel to unwedge the hung tape drives.” (See [*wedged*](wedged.html), sense 1.) The traditional name of security group zero in [*BSD*](../B/BSD.html) (to which the major system-internal users like [*root*](../R/root.html) belong) is ‘wheel’. Some vendors have expanded on this usage, modifying Unix so that only members of group ‘wheel’ can [*go root*](../G/go-root.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+What's a spline? 
+Home
+ wheel bit
+
+
+---
+
+
+
+wheel bit
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wheel bit**: n.
+
+A privilege bit that allows the possessor to perform some restricted operation on a timesharing system, such as read or write any file on the system regardless of protections, change or look at any address in the running monitor, crash or reload the system, and kill or create jobs and user accounts. The term was invented on the TENEX operating system, and carried over to TOPS-20, XEROX-IFS, and others. The state of being in a privileged logon is sometimes called wheel mode. This term entered the Unix culture from TWENEX in the mid-1980s and has been gaining popularity there (esp. at university sites). See also [*root*](../R/root.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wheel 
+Home
+ wheel of reincarnation
+
+
+---
+
+
+
+wheel of reincarnation
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wheel of reincarnation**
+
+\[coined in a paper by T.H. Myer and I.E. Sutherland *On the Design of Display Processors*, Comm. ACM, Vol. 11, no. 6, June 1968)\] Term used to refer to a well-known effect whereby function in a computing system family is migrated out to special-purpose peripheral hardware for speed, then the peripheral evolves toward more computing power as it does its job, then somebody notices that it is inefficient to support two asymmetrical processors in the architecture and folds the function back into the main CPU, at which point the cycle begins again.
+
+Several iterations of this cycle have been observed in graphics-processor design, and at least one or two in communications and floating-point processors. Also known as the Wheel of Life, the Wheel of Samsara, and other variations of the basic Hindu/Buddhist theological idea. See also [*blitter*](../B/blitter.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wheel bit 
+Home
+ wheel wars
+
+
+---
+
+
+
+wheel wars
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wheel wars**: n.
+
+\[Stanford University\] A period in [*larval stage*](../L/larval-stage.html) during which student hackers hassle each other by attempting to log each other out of the system, delete each other's files, and otherwise wreak havoc, usually at the expense of the lesser users.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wheel of reincarnation 
+Home
+ white hat
+
+
+---
+
+
+
+white hat
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**white hat**
+
+See [*black hat*](../B/black-hat.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wheel wars 
+Home
+ whitelist
+
+
+---
+
+
+
+whitelist
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**whitelist**: n.
+
+The opposite of a blacklist. That is, instead of being an explicit list of people who are banned, it's an explicit list of people who are to be admitted. Hackers use this especially of lists of email addresses that are explicitly enabled to get past strict anti-spam filters.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+white hat 
+Home
+ whizzy
+
+
+---
+
+
+
+whizzy
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**whizzy**: adj.
+
+(alt.: wizzy) \[Sun\] Describes a [*cuspy*](../C/cuspy.html) program; one that is feature-rich and well presented.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+whitelist 
+Home
+ Whorfian mind-lock
+
+
+---
+
+
+
+Whorfian mind-lock
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**Whorfian mind-lock**
+
+\[from the Lojban-language list\] Software designs are often restricted in unavoidable ways by the capacities of the operating system or hardware they have to work with. Sometimes they are restricted in avoidable ways by mental habits a developer has picked up from a particular language or environment (perhaps a now-obsolete one) and never discarded. When a design develops complications that are the result of a mental habit that is no longer adaptive, the developer has succumbed to Whorfian mind-lock. The design itself has been ‘whorfed’.
+
+For example, some Unix designs are whorfed by the assumption that directory searches are linear and expensive for large directories; therefore directories must be kept small. Another common way to succumb to Whorfian mind-lock is to do serial processing with a small working set rather than slurping an entire file or data structure into memory; the hidden assumption here is that not much core is available and virtual memory works poorly if at all. Detecting Whorfian mind-lock is important, because it tends to introduce unnecessary complexity and bugs.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+whizzy 
+Home
+ wibble
+
+
+---
+
+
+
+wibble
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wibble**
+
+\[UK, perh. originally from the first *Roger Irrelevant* strip in *VIZ* comics, spread via *Your Sinclair magazine in the 1980s and early 1990s*\]
+
+1\. n.,v. Commonly used to describe chatter, content-free remarks or other essentially meaningless contributions to threads in newsgroups. “Oh, rspence is wibbling again”.
+
+2\. \[UK IRC\] An explicit on-line no-op.
+
+3\. One of the preferred [*metasyntactic variable*](../M/metasyntactic-variable.html)s in the UK, forming a series with **wobble**, **wubble**, and **flob** (attributed to the hilarious historical comedy *Blackadder*).
+
+4\. A pronunciation of the letters “www”, as seen in URLs; i.e., www.[*foo*](../F/foo.html).com may be pronounced “wibble dot foo dot com” (compare [*dub dub dub*](../D/dub-dub-dub.html)).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Whorfian mind-lock 
+Home
+ WIBNI
+
+
+---
+
+
+
+WIBNI
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**WIBNI**: //, n.
+
+\[Bell Labs: Wouldn't It Be Nice If\] What most requirements documents and specifications consist entirely of. Compare [*IWBNI*](../I/IWBNI.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wibble 
+Home
+ widget
+
+
+---
+
+
+
+widget
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**widget**: n.
+
+1\. A meta-thing. Used to stand for a real object in didactic examples (especially database tutorials). Legend has it that the original widgets were holders for buggy whips. “But suppose the parts list for a widget has 52 entries....”
+
+2\. \[poss.: evoking ‘window gadget’\] A user interface object in [*X*](../X/X.html) graphical user interfaces.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+WIBNI 
+Home
+ wiggles
+
+
+---
+
+
+
+wiggles
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wiggles**: n.
+
+\[scientific computation\] In solving partial differential equations by finite difference and similar methods, wiggles are sawtooth (up-down-up-down) oscillations at the shortest wavelength representable on the grid. If an algorithm is unstable, this is often the most unstable waveform, so it grows to dominate the solution. Alternatively, stable (though inaccurate) wiggles can be generated near a discontinuity by a Gibbs phenomenon.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+widget 
+Home
+ wild side
+
+
+---
+
+
+
+wild side
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wild side**
+
+The public or uncontrolled side of a [*firewall machine*](../F/firewall-machine.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wiggles 
+Home
+ WIMP environment
+
+
+---
+
+
+
+WIMP environment
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**WIMP environment**: n.
+
+\[acronym: ‘Window, Icon, Menu, Pointing device (or Pull-down menu)’\] A graphical-user-interface environment such as [*X*](../X/X.html) or the Macintosh interface, esp. as described by a hacker who prefers command-line interfaces for their superior flexibility and extensibility. However, it is also used without negative connotations; one must pay attention to voice tone and other signals to interpret correctly. See [*menuitis*](../M/menuitis.html), [*user-obsequious*](../U/user-obsequious.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wild side 
+Home
+ win
+
+
+---
+
+
+
+win
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**win**
+
+\[MIT; now common everywhere\]
+
+1\. vi. To succeed. A program wins if no unexpected conditions arise, or (especially) if it is sufficiently [*robust*](../R/robust.html) to take exceptions in stride.
+
+2\. n. Success, or a specific instance thereof. A pleasing outcome. “So it turned out I could use a [*lexer*](../L/lexer.html) generator instead of hand-coding my own pattern recognizer. What a win!” Emphatic forms: moby win, super win, hyper-win (often used interjectively as a reply). For some reason suitable win is also common at MIT, usually in reference to a satisfactory solution to a problem. Oppose [*lose*](../L/lose.html); see also [*big win*](../B/big-win.html), which isn't quite just an intensification of win.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+WIMP environment 
+Home
+ win big
+
+
+---
+
+
+
+win big
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**win big**: vi.
+
+To experience serendipity. “I went shopping and won big; there was a 2-for-1 sale.” See [*big win*](../B/big-win.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+win 
+Home
+ win win
+
+
+---
+
+
+
+win win
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**win win**: excl.
+
+Expresses pleasure at a [*win*](win.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+win big 
+Home
+ Winchester
+
+
+---
+
+
+
+Winchester
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**Winchester**: n.
+
+Informal generic term for sealed-enclosure magnetic-disk drives in which the read-write head planes over the disk surface on an air cushion. There is a legend that the name arose because the original 1973 engineering prototype for what later became the IBM 3340 featured two 30-megabyte volumes; 30--30 became ‘Winchester’ when somebody noticed the similarity to the common term for a famous Winchester rifle (in the latter, the first 30 referred to caliber and the second to the grain weight of the charge). (It is sometimes incorrectly claimed that Winchester was the laboratory in which the technology was developed.)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+win win 
+Home
+ windoid
+
+
+---
+
+
+
+windoid
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**windoid**: n.
+
+In the Macintosh world, a style of window with much less adornment (smaller or missing title bar, zoom box, etc.) than a standard window.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Winchester 
+Home
+ window shopping
+
+
+---
+
+
+
+window shopping
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**window shopping**: n.
+
+\[US Geological Survey\] Among users of [*WIMP environment*](WIMP-environment.html)s like [*X*](../X/X.html) or the Macintosh, extended experimentation with new window colors, fonts, and icon shapes. This activity can take up hours of what might otherwise have been productive working time. “I spent the afternoon window shopping until I found the coolest shade of green for my active window borders — now they perfectly match my medium slate blue background.” Serious window shoppers will spend their days with bitmap editors, creating new and different icons and background patterns for all to see. Also: window dressing, the act of applying new fonts, colors, etc. See [*fritterware*](../F/fritterware.html), compare [*macdink*](../M/macdink.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+windoid 
+Home
+ Windowsitis
+
+
+---
+
+
+
+Windowsitis
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**Windowsitis**
+
+1\. As a disease of people: the tendency of inexperienced (or Windows-experienced) Web developers have to use backslashes in URLs, rather than the correct forward slashes.
+
+2\. As a disease of programs: to be a rigid, clunky, bug-prone monstrosity, all glossy surface with a hollow interior.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+window shopping 
+Home
+ Windoze
+
+
+---
+
+
+
+Windoze
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**Windoze**: /win´dohz/, n.
+
+See [*Microsloth Windows*](../M/Microsloth-Windows.html). (Also Losedoze.)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Windowsitis 
+Home
+ winged comments
+
+
+---
+
+
+
+winged comments
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**winged comments**: n.
+
+Comments set on the same line as code, as opposed to [*boxed comments*](../B/boxed-comments.html). In C, for example:
+
+  
+d = sqrt(x\*x + y\*y);  /\* distance from origin \*/  
+
+Generally these refer only to the action(s) taken on that line.
+
+![](../graphics/74-12-29.png)
+
+(The next cartoon in the Crunchly saga is [75-10-04](../B/bit-bucket.html#crunchly75-10-04). The previous cartoon was [74-12-25](../N/number-crunching.html#crunchly74-12-25).)
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Windoze 
+Home
+ winkey
+
+
+---
+
+
+
+winkey
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**winkey**: n.
+
+(alt.: winkey face) See [*emoticon*](../E/emoticon.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+winged comments 
+Home
+ winnage
+
+
+---
+
+
+
+winnage
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**winnage**: /win'@j/, n.
+
+The situation when a lossage is corrected, or when something is winning.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+winkey 
+Home
+ winner
+
+
+---
+
+
+
+winner
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**winner**
+
+1\. n. An unexpectedly good situation, program, programmer, or person.
+
+2\. real winner: Often sarcastic, but also used as high praise (see also the note under [*user*](../U/user.html)). “He's a real winner — never reports a bug till he can duplicate it and send in an example.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+winnage 
+Home
+ winnitude
+
+
+---
+
+
+
+winnitude
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**winnitude**: /win'@·t\[y\]ood/, n.
+
+The quality of winning (as opposed to [*winnage*](winnage.html), which is the result of winning). “Guess what? They tweaked the microcode and now the LISP interpreter runs twice as fast as it used to.” “That's really great! Boy, what winnitude!” “Yup. I'll probably get a half-hour's winnage on the next run of my program.” Perhaps curiously, the obvious antonym ‘lossitude’ is rare.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+winner 
+Home
+ Wintel
+
+
+---
+
+
+
+Wintel
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**Wintel**: n.
+
+Microsoft Windows plus Intel — the tacit alliance that dominated desktop computing in the 1990s. After 1999 it began to break up under pressure from [*Linux*](../L/Linux.html); see [*Lintel*](../L/Lintel.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+winnitude 
+Home
+ Wintendo
+
+
+---
+
+
+
+Wintendo
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**Wintendo**: /win·ten´doh/, n.
+
+\[Play on “Nintendo”\] A PC running the Windows operating system kept primarily for the purpose of viewing multimedia and playing games. The implication is that the speaker uses a Linux or \*BSD box for everything else.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Wintel 
+Home
+ wired
+
+
+---
+
+
+
+wired
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wired**: n.
+
+See [*hardwired*](../H/hardwired.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Wintendo 
+Home
+ wirehead
+
+
+---
+
+
+
+wirehead
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wirehead**: /wi:r´hed/, n.
+
+\[prob.: from SF slang for an electrical-brain-stimulation addict\]
+
+1\. A hardware hacker, especially one who concentrates on communications hardware.
+
+2\. An expert in local-area networks. A wirehead can be a network software wizard too, but will always have the ability to deal with network hardware, down to the smallest component. Wireheads are known for their ability to lash up an Ethernet terminator from spare resistors, for example.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wired 
+Home
+ wirewater
+
+
+---
+
+
+
+wirewater
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wirewater**: n.
+
+Syn. [*programming fluid*](../P/programming-fluid.html). This melds the mainstream slang adjective ‘wired’ (stimulated, up, hyperactive) with ‘firewater’; however, it refers to caffeinacious rather than alcoholic beverages.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wirehead 
+Home
+ wish list
+
+
+---
+
+
+
+wish list
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wish list**: n.
+
+A list of desired features or bug fixes that probably won't get done for a long time, usually because the person responsible for the code is too busy or can't think of a clean way to do it. “OK, I'll add automatic filename completion to the wish list for the new interface.” Compare [*tick-list features*](../T/tick-list-features.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wirewater 
+Home
+ within delta of
+
+
+---
+
+
+
+within delta of
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**within delta of**: adj.
+
+See [*delta*](../D/delta.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wish list 
+Home
+ within epsilon of
+
+
+---
+
+
+
+within epsilon of
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**within epsilon of**: adj.
+
+See [*epsilon*](../E/epsilon.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+within delta of 
+Home
+ wizard
+
+
+---
+
+
+
+wizard
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wizard**: n.
+
+1\. Transitively, a person who knows how a complex piece of software or hardware works (that is, who [*grok*](../G/grok.html)s it); esp. someone who can find and fix bugs quickly in an emergency. Someone is a [*hacker*](../H/hacker.html) if he or she has general hacking ability, but is a wizard with respect to something only if he or she has specific detailed knowledge of that thing. A good hacker could become a wizard for something given the time to study it.
+
+2\. The term ‘wizard’ is also used intransitively of someone who has extremely high-level hacking or problem-solving ability.
+
+3\. A person who is permitted to do things forbidden to ordinary people; one who has [*wheel*](wheel.html) privileges on a system.
+
+4\. A Unix expert, esp. a Unix systems programmer. This usage is well enough established that ‘Unix Wizard’ is a recognized job title at some corporations and to most headhunters.
+
+See [*guru*](../G/guru.html), [*lord high fixer*](../L/lord-high-fixer.html). See also [*deep magic*](../D/deep-magic.html), [*heavy wizardry*](../H/heavy-wizardry.html), [*incantation*](../I/incantation.html), [*magic*](../M/magic.html), [*mutter*](../M/mutter.html), [*rain dance*](../R/rain-dance.html), [*voodoo programming*](../V/voodoo-programming.html), [*wave a dead chicken*](wave-a-dead-chicken.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+within epsilon of 
+Home
+ Wizard Book
+
+
+---
+
+
+
+Wizard Book
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**Wizard Book**: n.
+
+*Structure and Interpretation of Computer Programs* (Hal Abelson, Jerry Sussman and Julie Sussman; MIT Press, 1984, 1996; ISBN 0-262-01153-0), an excellent computer science text used in introductory courses at MIT. So called because of the wizard on the jacket. One of the [*bible*](../B/bible.html)s of the LISP/Scheme world. Also, less commonly, known as the [*Purple Book*](../P/Purple-Book.html). Now available on the http://mitpress.mit.edu/sicp/
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wizard 
+Home
+ wizard hat
+
+
+---
+
+
+
+wizard hat
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wizard hat**: n.
+
+\[also, after Terry Pratchett, pointy hat\] Notional headgear worn by whoever is the [*wizard*](wizard.html) in a particular context. The implication is that it's a transferable role. “Talk to Alice, she's wearing the TCP/IP wizard hat while Bob is on vacation.” This metaphor is sufficiently live that one may actually see hackers miming the act of putting on, taking off, or transferring a phantom hat. See also [*pointy hat*](../P/pointy-hat.html), compare [*patch pumpkin*](../P/patch-pumpkin.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Wizard Book 
+Home
+ wizard mode
+
+
+---
+
+
+
+wizard mode
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wizard mode**: n.
+
+\[from [*rogue*](../R/rogue.html)\] A special access mode of a program or system, usually passworded, that permits some users godlike privileges. Generally not used for operating systems themselves (root mode or wheel mode would be used instead). This term is often used with respect to games that have editable state.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wizard hat 
+Home
+ wizardly
+
+
+---
+
+
+
+wizardly
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wizardly**: adj.
+
+Pertaining to wizards. A wizardly [*feature*](../F/feature.html) is one that only a wizard could understand or use properly.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wizard mode 
+Home
+ wok-on-the-wall
+
+
+---
+
+
+
+wok-on-the-wall
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wok-on-the-wall**: n.
+
+A small microwave dish antenna used for cross-campus private network circuits, from the obvious resemblance between a microwave dish and the Chinese culinary utensil.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wizardly 
+Home
+ womb box
+
+
+---
+
+
+
+womb box
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**womb box**: n.
+
+1\. \[TMRC\] Storage space for equipment.
+
+2\. \[proposed\] A variety of hard-shell equipment case with heavy interior padding and/or shaped carrier cutouts in a foam-rubber matrix; mundanely called a flight case. Used for delicate test equipment, electronics, and musical instruments.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wok-on-the-wall 
+Home
+ WOMBAT
+
+
+---
+
+
+
+WOMBAT
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**WOMBAT**: /wom´bat/, adj.
+
+\[acronym: Waste Of Money, Brains, And Time\] Applied to problems which are both profoundly [*uninteresting*](../U/uninteresting.html) in themselves and unlikely to benefit anyone interesting even if solved. Often used in fanciful constructions such as wrestling with a wombat. See also [*crawling horror*](../C/crawling-horror.html), [*SMOP*](../S/SMOP.html). Also note the rather different usage as a metasyntactic variable in [*Commonwealth Hackish*](../C/Commonwealth-Hackish.html).
+
+Users of the [*PDP-11*](../P/PDP-11.html) database program DATATRIEVE adopted the wombat as their notional mascot; the program's help file responded to “HELP WOMBAT” with factual information about Real World wombats.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+womb box 
+Home
+ womble
+
+
+---
+
+
+
+womble
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**womble**: n.
+
+\[Unisys UK: from British puppet-show characters\] A user who has great difficulty in communicating their requirements and/or in using the resulting software. Extreme case of [*luser*](../L/luser.html). An especially senior or high-ranking womble is referred to as Great-Uncle Bulgaria. Compare [*Aunt Tillie*](../A/Aunt-Tillie.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+WOMBAT 
+Home
+ wonky
+
+
+---
+
+
+
+wonky
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wonky**: /wong´kee/, adj.
+
+\[from Australian slang\] Yet another approximate synonym for [*broken*](../B/broken.html). Specifically connotes a malfunction that produces behavior seen as crazy, humorous, or amusingly perverse. “That was the day the printer's font logic went wonky and everybody's listings came out in Tengwar.” Also in wonked out. See [*funky*](../F/funky.html), [*demented*](../D/demented.html), [*bozotic*](../B/bozotic.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+womble 
+Home
+ workaround
+
+
+---
+
+
+
+workaround
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**workaround**: n.
+
+1\. A temporary [*kluge*](../K/kluge.html) used to bypass, mask, or otherwise avoid a [*bug*](../B/bug.html) or [*misfeature*](../M/misfeature.html) in some system. Theoretically, workarounds are always replaced by [*fix*](../F/fix.html)es; in practice, customers often find themselves living with workarounds for long periods of time. “The code died on NUL characters in the input, so I fixed it to interpret them as spaces.” “That's not a fix, that's a workaround!”
+
+2\. A procedure to be employed by the user in order to do what some currently non-working feature should do. Hypothetical example: “Using META-F7 [*crash*](../C/crash.html)es the 4.43 build of Weemax, but as a workaround you can type CTRL-R, then SHIFT-F5, and delete the remaining [*cruft*](../C/cruft.html) by hand.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wonky 
+Home
+ working as designed
+
+
+---
+
+
+
+working as designed
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**working as designed**: adj.
+
+\[IBM\]
+
+1\. In conformance to a wrong or inappropriate specification; useful, but misdesigned.
+
+2\. Frequently used as a sardonic comment on a program's utility.
+
+3\. Unfortunately also used as a bogus reason for not accepting a criticism or suggestion. At [*IBM*](../I/IBM.html), this sense is used in official documents! See [*BAD*](../B/BAD.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+workaround 
+Home
+ worm
+
+
+---
+
+
+
+worm
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**worm**: n.
+
+\[from tapeworm in John Brunner's novel *The Shockwave Rider*, via XEROX PARC\] A program that propagates itself over a network, reproducing itself as it goes. Compare [*virus*](../V/virus.html). Nowadays the term has negative connotations, as it is assumed that only [*cracker*](../C/cracker.html)s write worms. Perhaps the best-known example was Robert T. Morris's [*Great Worm*](../G/Great-Worm.html) of 1988, a ‘benign’ one that got out of control and hogged hundreds of Suns and VAXen across the U.S. See also [*cracker*](../C/cracker.html), [*RTM*](../R/RTM.html), [*Trojan horse*](../T/Trojan-horse.html), [*ice*](../I/ice.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+working as designed 
+Home
+ wormhole
+
+
+---
+
+
+
+wormhole
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wormhole**: /werm´hohl/, n.
+
+\[from the wormhole singularities hypothesized in some versions of General Relativity theory\]
+
+1\. \[n.,obs.\] A location in a monitor which contains the address of a routine, with the specific intent of making it easy to substitute a different routine. This term is now obsolescent; modern operating systems use clusters of wormholes extensively (for modularization of I/O handling in particular, as in the Unix device-driver organization) but the preferred techspeak for these clusters is ‘device tables’, ‘jump tables’ or ‘capability tables’.
+
+2\. \[Amateur Packet Radio\] A network path using a commercial satellite link to join two or more amateur VHF networks. So called because traffic routed through a wormhole leaves and re-enters the amateur network over great distances with usually little clue in the message routing header as to how it got from one relay to the other. Compare [*gopher hole*](../G/gopher-hole.html) (sense 2).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+worm 
+Home
+ wound around the axle
+
+
+---
+
+
+
+wound around the axle
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wound around the axle**: adj.
+
+In an infinite loop. Often used by older computer types.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wormhole 
+Home
+ wrap around
+
+
+---
+
+
+
+wrap around
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wrap around**: vi.
+
+(also n. wraparound and v. shorthand wrap)
+
+1\. \[techspeak\] The action of a counter that starts over at zero or at minus infinity (see [*infinity*](../I/infinity.html)) after its maximum value has been reached, and continues incrementing, either because it is programmed to do so or because of an overflow (as when a car's odometer starts over at 0).
+
+2\. To change [*phase*](../P/phase.html) gradually and continuously by maintaining a steady wake-sleep cycle somewhat longer than 24 hours, e.g., living six long (28-hour) days in a week (or, equivalently, sleeping at the rate of 10 microhertz). This sense is also called [*phase-wrapping*](../P/phase-wrapping.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wound around the axle 
+Home
+ write-only code
+
+
+---
+
+
+
+write-only code
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**write-only code**: n.
+
+\[a play on read-only memory\] Code so arcane, complex, or ill-structured that it cannot be modified or even comprehended by anyone but its author, and possibly not even by him/her. A [*Bad Thing*](../B/Bad-Thing.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wrap around 
+Home
+ write-only language
+
+
+---
+
+
+
+write-only language
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**write-only language**: n.
+
+A language with syntax (or semantics) sufficiently dense and bizarre that any routine of significant size is automatically [*write-only code*](write-only-code.html). A sobriquet applied occasionally to C and often to APL, though [*INTERCAL*](../I/INTERCAL.html) and [*TECO*](../T/TECO.html) certainly deserve it more. See also [*Befunge*](../B/Befunge.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+write-only code 
+Home
+ write-only memory
+
+
+---
+
+
+
+write-only memory
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**write-only memory**: n.
+
+The obvious antonym to read-only memory. Out of frustration with the long and seemingly useless chain of approvals required of component specifications, during which no actual checking seemed to occur, an engineer at Signetics once created a specification for a write-only memory and included it with a bunch of other specifications to be approved. This inclusion came to the attention of Signetics [*management*](../M/management.html) only when regular customers started calling and asking for pricing information. Signetics published a corrected edition of the data book and requested the return of the ‘erroneous’ ones. Later, in 1972, Signetics bought a double-page spread in *Electronics* magazine's April issue and used the spec as an April Fools' Day joke. Instead of the more conventional characteristic curves, the 25120 “fully encoded, 9046 x N, Random Access, write-only-memory” data sheet included diagrams of “bit capacity vs.: Temp.”, “Iff vs. Vff”, “Number of pins remaining vs.: number of socket insertions”, and “AQL vs.: selling price”. The 25120 required a 6.3 VAC VFF supply, a +10V VCC, and VDD of 0V, `±2%`.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+write-only language 
+Home
+ Wrong Thing
+
+
+---
+
+
+
+Wrong Thing
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**Wrong Thing**: n.
+
+A design, action, or decision that is clearly incorrect or inappropriate. Often capitalized; always emphasized in speech as if capitalized. The opposite of the [*Right Thing*](../R/Right-Thing.html); more generally, anything that is not the Right Thing. In cases where ‘the good is the enemy of the best’, the merely good — although good — is nevertheless the Wrong Thing. “In C, the default is for module-level declarations to be visible everywhere, rather than just within the module. This is clearly the Wrong Thing.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+write-only memory 
+Home
+ wugga wugga
+
+
+---
+
+
+
+wugga wugga
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wugga wugga**: /wuh´g@ wuh´g@/, n.
+
+Imaginary sound that a computer program makes as it labors with a tedious or difficult task.[*grind*](../G/grind.html) (sense 4).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Wrong Thing 
+Home
+ wumpus
+
+
+---
+
+
+
+wumpus
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**wumpus**: /wuhm´p@s/, n.
+
+The central monster (and, in many versions, the name) of a famous family of very early computer games called *Hunt The Wumpus*. The original was invented in 1970 (several years before [*ADVENT*](../A/ADVENT.html)) by Gregory Yob. The wumpus lived somewhere in a cave with the topology of an dodecahedron's edge/vertex graph (later versions supported other topologies, including an icosahedron and Möbius strip). The player started somewhere at random in the cave with five ‘crooked arrows’; these could be shot through up to three connected rooms, and would kill the wumpus on a hit (later versions introduced the wounded wumpus, which got very angry). Unfortunately for players, the movement necessary to map the maze was made hazardous not merely by the wumpus (which would eat you if you stepped on him) but also by bottomless pits and colonies of super bats that would pick you up and drop you at a random location (later versions added ‘anaerobic termites’ that ate arrows, bat migrations, and earthquakes that randomly changed pit locations).
+
+This game appears to have been the first to use a non-random graph-structured map (as opposed to a rectangular grid like the even older Star Trek games). In this respect, as in the dungeon-like setting and its terse, amusing messages, it prefigured [*ADVENT*](../A/ADVENT.html) and [*Zork*](../Z/Zork.html) and was directly ancestral to the latter (Zork acknowledged this heritage by including a super-bat colony). A C emulation of the original Basic game is available at the Retrocomputing Museum, http://www.catb.org/retro/.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wugga wugga 
+Home
+ WYSIAYG
+
+
+---
+
+
+
+WYSIAYG
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**WYSIAYG**: /wiz´ee·ayg/, adj.
+
+Describes a user interface under which “What You See Is *All* You Get”; an unhappy variant of [*WYSIWYG*](WYSIWYG.html). Visual, ‘point-and-shoot’-style interfaces tend to have easy initial learning curves, but also to lack depth; they often frustrate advanced users who would be better served by a command-style interface. When this happens, the frustrated user has a WYSIAYG problem. This term is most often used of editors, word processors, and document formatting programs. WYSIWYG ‘desktop publishing’ programs, for example, are a clear win for creating small documents with lots of fonts and graphics in them, especially things like newsletters and presentation slides. When typesetting book-length manuscripts, on the other hand, scale changes the nature of the task; one quickly runs into WYSIAYG limitations, and the increased power and flexibility of a command-driven formatter like [*TeX*](../T/TeX.html) or Unix's [*troff*](../T/troff.html) becomes not just desirable but a necessity. Compare [*YAFIYGI*](../Y/YAFIYGI.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+wumpus 
+Home
+ WYSIWYG
+
+
+---
+
+
+
+WYSIWYG
+
+Prev 
+W
+ Next
+
+------------------------------------------------------------------------
+
+**WYSIWYG**: /wiz´ee·wig/, /wiss´ee·wig/, adj.
+
+\[Traced to Flip Wilson's “Geraldine” character c.1970\] Describes a user interface under which “What You See Is What You Get”, as opposed to one that uses more-or-less obscure commands that do not result in immediate visual feedback. True WYSIWYG in environments supporting multiple fonts or graphics is a rarely-attained ideal; there are variants of this term to express real-world manifestations including WYSIAWYG (What You See Is *Almost* What You Get) and WYSIMOLWYG (What You See Is More or Less What You Get). All these can be mildly derogatory, as they are often used to refer to dumbed-down [*user-friendly*](../U/user-friendly.html) interfaces targeted at non-programmers; a hacker has no fear of obscure commands (compare [*WYSIAYG*](WYSIAYG.html)). On the other hand, [*EMACS*](../E/EMACS.html) was one of the very first WYSIWYG editors, replacing (actually, at first overlaying) the extremely obscure, command-based [*TECO*](../T/TECO.html). See also [*WIMP environment*](WIMP-environment.html). \[Oddly enough, WYSIWYG made it into the 1986 supplement to the OED, in lower case yet. —ESR\]
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+WYSIAYG 
+Home
+ X
+
+
+---
+
+
+## X
+
+
+
+X
+
+Prev 
+X
+ Next
+
+------------------------------------------------------------------------
+
+**X**: /X/, n.
+
+1\. Used in various speech and writing contexts (also in lowercase) in roughly its algebraic sense of ‘unknown within a set defined by context’ (compare [*N*](../N/N.html)). Thus, the abbreviation 680x0 stands for 68000, 68010, 68020, 68030, or 68040, and 80x86 stands for 80186, 80286, 80386, 80486, 80586 or 80686 (note that a Unix hacker might write these as 680\[0-6\]0 and 80\[1-6\]86 or 680?0 and 80?86 respectively; see [*glob*](../G/glob.html)).
+
+2\. \[after the name of an earlier window system called ‘W’\] An over-sized, over-featured, over-engineered and incredibly over-complicated window system developed at MIT and widely used on Unix systems.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+X 
+Home
+ XEROX PARC
+
+
+---
+
+
+
+XEROX PARC
+
+Prev 
+X
+ Next
+
+------------------------------------------------------------------------
+
+**XEROX PARC**: /zee´roks park´/, n.
+
+The famed Palo Alto Research Center. For more than a decade, from the early 1970s into the mid-1980s, PARC yielded an astonishing volume of groundbreaking hardware and software innovations. The modern mice, windows, and icons style of software interface was invented there. So was the laser printer and the local-area network; and PARC's series of D machines anticipated the powerful personal computers of the 1980s by a decade. Sadly, the prophets at PARC were without honor in their own company, so much so that it became a standard joke to describe PARC as a place that specialized in developing brilliant ideas for everyone else.
+
+The stunning shortsightedness and obtusity of XEROX's top-level [*suit*](../S/suit.html)s has been well anatomized in *Fumbling The Future: How XEROX Invented, Then Ignored, the First Personal Computer* by Douglas K. Smith and Robert C. Alexander (William Morrow & Co., 1988, ISBN 0-688-09511-9).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+X 
+Home
+ XOFF
+
+
+---
+
+
+
+XOFF
+
+Prev 
+X
+ Next
+
+------------------------------------------------------------------------
+
+**XOFF**: /X·of/, n.
+
+Syn. [*control-S*](../C/control-S.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+XEROX PARC 
+Home
+ XON
+
+
+---
+
+
+
+XON
+
+Prev 
+X
+ Next
+
+------------------------------------------------------------------------
+
+**XON**: /X·on/, n.
+
+Syn. [*control-Q*](../C/control-Q.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+XOFF 
+Home
+ xor
+
+
+---
+
+
+
+xor
+
+Prev 
+X
+ Next
+
+------------------------------------------------------------------------
+
+**xor**: /X´or/, /kzor/, conj.
+
+Exclusive or. ‘A xor B’ means ‘A or B, but not both’. “I want to get cherry pie xor a banana split.” This derives from the technical use of the term as a function on truth-values that is true if exactly one of its two arguments is true.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+XON 
+Home
+ xref
+
+
+---
+
+
+
+xref
+
+Prev 
+X
+ Next
+
+------------------------------------------------------------------------
+
+**xref**: /X´ref/, v.,n.
+
+Hackish standard abbreviation for cross-reference.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+xor 
+Home
+ XXX
+
+
+---
+
+
+
+XXX
+
+Prev 
+X
+ Next
+
+------------------------------------------------------------------------
+
+**XXX**: /X·X·X/, n.
+
+A marker that attention is needed. Commonly used in program comments to indicate areas that are kluged up or need to be. Some hackers liken ‘XXX’ to the notional heavy-porn movie rating. Compare [*FIXME*](../F/FIXME.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+xref 
+Home
+ xyzzy
+
+
+---
+
+
+
+xyzzy
+
+Prev 
+X
+ Next
+
+------------------------------------------------------------------------
+
+**xyzzy**: /X·Y·Z·Z·Y/, /X·Y·ziz´ee/, /ziz´ee/, /ik·ziz´ee/, adj.
+
+\[from the ADVENT game\] The [*canonical*](../C/canonical.html) ‘magic word’. This comes from [*ADVENT*](../A/ADVENT.html), in which the idea is to explore an underground cave with many rooms and to collect the treasures you find there. If you type xyzzy at the appropriate time, you can move instantly between two otherwise distant points. If, therefore, you encounter some bit of [*magic*](../M/magic.html), you might remark on this quite succinctly by saying simply “Xyzzy!” “Ordinarily you can't look at someone else's screen if he has protected it, but if you type quadruple-bucky-clear the system will let you do it anyway.” “Xyzzy!” It's traditional for xyzzy to be an [*Easter egg*](../E/Easter-egg.html) in games with text interfaces.
+
+Xyzzy has actually been implemented as an undocumented no-op command on several OSes; in Data General's AOS/VS, for example, it would typically respond “Nothing happens”, just as [*ADVENT*](../A/ADVENT.html) did if the magic was invoked at the wrong spot or before a player had performed the action that enabled the word. In more recent 32-bit versions, by the way, AOS/VS responds “Twice as much happens”.
+
+Early versions of the popular ‘minesweeper’ game under Microsoft Windows had a cheat mode triggered by the command ‘xyzzy\\’ that turns the top-left pixel of the screen different colors depending on whether or not the cursor is over a bomb. This feature temporarily disappeared in Windows 98, but reappeared in Windows 2000.
+
+The following passage from *The Wonderful Wizard of Oz* by L. Frank Baum, suggesting a possible pre-ADVENT origin, has recently come to light: “Ziz-zy, zuz-zy, zik!” said Dorothy, who was now standing on both feet. This ended the saying of the charm, and they heard a great chattering and flapping of wings, as the band of Winged Monkeys flew up to them.
+
+The text can be viewed at Project Gutenberg.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+XXX 
+Home
+ Y
+
+
+---
+
+
+## Y
+
+
+
+YA-
+
+Prev 
+Y
+ Next
+
+------------------------------------------------------------------------
+
+**YA-**: abbrev.
+
+\[Yet Another\] In hackish acronyms this almost invariably expands to [*Yet Another*](Yet-Another.html), following the precedent set by Unix yacc(1) (Yet Another Compiler-Compiler). See [*YABA*](YABA.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Y 
+Home
+ YABA
+
+
+---
+
+
+
+YABA
+
+Prev 
+Y
+ Next
+
+------------------------------------------------------------------------
+
+**YABA**: /ya´b@/, n.
+
+\[Cambridge\] Yet Another Bloody Acronym. Whenever some program is being named, someone invariably suggests that it be given a name that is acronymic. The response from those with a trace of originality is to remark ironically that the proposed name would then be ‘YABA-compatible’. Also used in response to questions like “What is WYSIWYG?” See also [*TLA*](../T/TLA.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+YA- 
+Home
+ YAFIYGI
+
+
+---
+
+
+
+YAFIYGI
+
+Prev 
+Y
+ Next
+
+------------------------------------------------------------------------
+
+**YAFIYGI**: /yaf´ee·y@·gee/, adj.
+
+\[coined in response to WYSIWYG\] Describes the command-oriented ed/vi/nroff/TeX style of word processing or other user interface, the opposite of [*WYSIWYG*](../W/WYSIWYG.html). Stands for “You asked for it, you got it”, because what you actually asked for is often not apparent until long after it is too late to do anything about it. Used to denote perversity (“Real Programmers use YAFIYGI tools...and *like* it!”) or, less often, a necessary tradeoff (“Only a YAFIYGI tool can have full programmable flexibility in its interface.”).
+
+This precise sense of “You asked for it, you got it” seems to have first appeared in Ed Post's classic parody *Real Programmers don't use Pascal* (see [*Real Programmer*](../R/Real-Programmer.html)s); the acronym is a more recent invention.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+YABA 
+Home
+ yak shaving
+
+
+---
+
+
+
+yak shaving
+
+Prev 
+Y
+ Next
+
+------------------------------------------------------------------------
+
+**yak shaving**
+
+\[MIT AI Lab, after 2000: orig. probably from a *Ren & Stimpy episode.*\] Any seemingly pointless activity which is actually necessary to solve a problem which solves a problem which, several levels of recursion later, solves the real problem you're working on.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+YAFIYGI 
+Home
+ YAUN
+
+
+---
+
+
+
+YAUN
+
+Prev 
+Y
+ Next
+
+------------------------------------------------------------------------
+
+**YAUN**: /yawn/, n.
+
+\[Acronym for ‘Yet Another Unix Nerd’\] Reported from the San Diego Computer Society (predominantly a microcomputer users' group) as a good-natured punning insult aimed at Unix zealots.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+yak shaving 
+Home
+ yellow card
+
+
+---
+
+
+
+yellow card
+
+Prev 
+Y
+ Next
+
+------------------------------------------------------------------------
+
+**yellow card**: n.
+
+See [*green card*](../G/green-card.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+YAUN 
+Home
+ yellow wire
+
+
+---
+
+
+
+yellow wire
+
+Prev 
+Y
+ Next
+
+------------------------------------------------------------------------
+
+**yellow wire**: n.
+
+\[IBM\] Repair wires used when connectors (especially ribbon connectors) got broken due to some schlemiel pinching them, or to reconnect cut traces after the FE mistakenly cut one. Compare [*blue wire*](../B/blue-wire.html), [*purple wire*](../P/purple-wire.html), [*red wire*](../R/red-wire.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+yellow card 
+Home
+ Yet Another
+
+
+---
+
+
+
+Yet Another
+
+Prev 
+Y
+ Next
+
+------------------------------------------------------------------------
+
+**Yet Another**: adj.
+
+\[From Unix's yacc(1), ‘Yet Another Compiler-Compiler’, a LALR parser generator\]
+
+1\. Of your own work: A humorous allusion often used in titles to acknowledge that the topic is not original, though the content is. As in ‘Yet Another AI Group’ or ‘Yet Another Simulated Annealing Algorithm’.
+
+2\. Of others' work: Describes something of which there are already far too many. See also [*YA-*](YA-.html), [*YABA*](YABA.html), [*YAUN*](YAUN.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+yellow wire 
+Home
+ YHBT
+
+
+---
+
+
+
+YHBT
+
+Prev 
+Y
+ Next
+
+------------------------------------------------------------------------
+
+**YHBT**: //
+
+\[Usenet: very common\] Abbreviation: You Have Been Trolled (see [*troll*](../T/troll.html), sense 1). Especially used in “YHBT. YHL. HAND.”, which is widely understood to expand to “You Have Been Trolled. You Have Lost. Have A Nice Day”. You are quite likely to see this if you respond incautiously to a flame-provoking post that was obviously floated as sucker bait.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Yet Another 
+Home
+ YKYBHTLW
+
+
+---
+
+
+
+YKYBHTLW
+
+Prev 
+Y
+ Next
+
+------------------------------------------------------------------------
+
+**YKYBHTLW**: //, abbrev.
+
+Abbreviation of ‘You know you've been hacking too long when...’, which became established on the Usenet group `alt.folklore.computers` during extended discussion of the indicated entry in the Jargon File.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+YHBT 
+Home
+ YMMV
+
+
+---
+
+
+
+YMMV
+
+Prev 
+Y
+ Next
+
+------------------------------------------------------------------------
+
+**YMMV**: //, cav.
+
+Abbreviation for [*Your mileage may vary*](Your-mileage-may-vary.html) common on Usenet.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+YKYBHTLW 
+Home
+ You are not expected to understand this
+
+
+---
+
+
+
+You are not expected to understand this
+
+Prev 
+Y
+ Next
+
+------------------------------------------------------------------------
+
+**You are not expected to understand this**: cav.
+
+\[Unix\] The canonical comment describing something [*magic*](../M/magic.html) or too complicated to bother explaining properly. From an infamous comment in the context-switching code of the V6 Unix kernel. Dennis Ritchie has explained this in detail.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+YMMV 
+Home
+ You know you've been hacking too long when
+
+
+---
+
+
+
+You know you've been hacking too long when
+
+Prev 
+Y
+ Next
+
+------------------------------------------------------------------------
+
+**You know you've been hacking too long when**
+
+The set-up line for a genre of one-liners told by hackers about themselves. These include the following:
+
+- not only do you check your email more often than your paper mail, but you remember your [*network address*](../N/network-address.html) faster than your postal one.
+
+- your [*SO*](../S/SO.html) kisses you on the neck and the first thing you think is “Uh, oh, [*priority interrupt*](../P/priority-interrupt.html).”
+
+- you go to balance your checkbook and discover that you're doing it in octal.
+
+- your computers have a higher street value than your car.
+
+- in your universe, ‘round numbers’ are powers of 2, not 10.
+
+- more than once, you have woken up recalling a dream in some programming language.
+
+- you see the word “Oxford” and mentally trip over the fact that ‘r’ is not a hex digit.
+
+- you realize you have never seen half of your best friends.
+
+A list of these can be found by searching for this phrase on the web.
+
+\[An early version of this entry said “All but one of these have been reliably reported as hacker traits (some of them quite often). Even hackers may have trouble spotting the ringer.” The ringer was balancing one's checkbook in octal, which I made up out of whole cloth. Although more respondents picked that one out as fiction than any of the others, I also received multiple independent reports of its actually happening, most famously to Grace Hopper while she was working with BINAC in 1949. —ESR\]
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+You are not expected to understand this 
+Home
+ Your mileage may vary
+
+
+---
+
+
+
+Your mileage may vary
+
+Prev 
+Y
+ Next
+
+------------------------------------------------------------------------
+
+**Your mileage may vary**: cav.
+
+\[from the standard disclaimer attached to EPA mileage ratings by American car manufacturers\]
+
+1\. A ritual warning often found in Unix freeware distributions. Translates roughly as “Hey, I tried to write this portably, but who *knows* what'll happen on your system?”
+
+2\. More generally, a qualifier attached to advice. “I find that sending flowers works well, but your mileage may vary.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+You know you've been hacking too long when 
+Home
+ Yow!
+
+
+---
+
+
+
+Yow!
+
+Prev 
+Y
+ Next
+
+------------------------------------------------------------------------
+
+**Yow!**: /yow/, interj.
+
+\[from “Zippy the Pinhead” comix\] A favored hacker expression of humorous surprise or emphasis. “Yow! Check out what happens when you twiddle the foo option on this display hack!”.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Your mileage may vary 
+Home
+ yoyo mode
+
+
+---
+
+
+
+yoyo mode
+
+Prev 
+Y
+ Next
+
+------------------------------------------------------------------------
+
+**yoyo mode**: n.
+
+The state in which the system is said to be when it rapidly alternates several times between being up and being down. Interestingly (and perhaps not by coincidence), many hardware vendors give out free yoyos at Usenix exhibits.
+
+Sun Microsystems gave out logoized yoyos at SIGPLAN '88. Tourists staying at one of Atlanta's most respectable hotels were subsequently treated to the sight of 200 of the country's top computer scientists testing yo-yo algorithms in the lobby.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Yow! 
+Home
+ Yu-Shiang Whole Fish
+
+
+---
+
+
+
+Yu-Shiang Whole Fish
+
+Prev 
+Y
+ Next
+
+------------------------------------------------------------------------
+
+**Yu-Shiang Whole Fish**: /yoo·shyang hohl fish/, n. obs.
+
+The character gamma (extended SAIL ASCII 0001001), which with a loop in its tail looks like a little fish swimming down the page. The term is actually the name of a Chinese dish in which a fish is cooked whole (not [*parse*](../P/parse.html)d) and covered with Yu-Shiang (or Yu-Hsiang, or in modern Pinyin transliteration yuxiang) sauce. Usage: primarily by people on the MIT LISP Machine, which could display this character on the screen. Tends to elicit incredulity from people who hear about it second-hand.
+
+Yu Shiang Whole Fish is alive and well in Unicode as U+0263 LATIN SMALL LETTER GAMMA (as opposed to the actual Greek letter at U+03B3, which usually has a loopless glyph; the form of U+0263 is consistently loopy). This symbol is included in Unicode as a Latin letter because it is used in the International Phonetic Alphabet. In the IPA, gamma represents a voiced velar fricative, the sound commonly transcribed “gh” in Arabic or Klingon.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+yoyo mode 
+Home
+ Z
+
+
+---
+
+
+## Z
+
+
+
+zap
+
+Prev 
+Z
+ Next
+
+------------------------------------------------------------------------
+
+**zap**
+
+1\. n. Spiciness.
+
+2\. vt. To make food spicy.
+
+3\. vt. To make someone ‘suffer’ by making his food spicy. (Most hackers love spicy food. Hot-and-sour soup is considered wimpy unless it makes you wipe your nose for the rest of the meal.) See [*zapped*](zapped.html).
+
+4\. vt. To modify, usually to correct; esp. used when the action is performed with a debugger or binary patching tool. Also implies surgical precision. “Zap the debug level to 6 and run it again.” In the IBM mainframe world, binary patches are applied to programs or to the OS with a program called ‘superzap’, whose file name is ‘IMASPZAP’ (possibly contrived from I M A SuPerZAP).
+
+5\. vt. To erase or reset.
+
+6\. To [*fry*](../F/fry.html) a chip with static electricity. “Uh oh — I think that lightning strike may have zapped the disk controller.”
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Z 
+Home
+ zapped
+
+
+---
+
+
+
+zapped
+
+Prev 
+Z
+ Next
+
+------------------------------------------------------------------------
+
+**zapped**: adj.
+
+Spicy. This term is used to distinguish between food that is hot (in temperature) and food that is *spicy*-hot. For example, the Chinese appetizer Bon Bon Chicken is a kind of chicken salad that is cold but zapped; by contrast, [*vanilla*](../V/vanilla.html) wonton soup is hot but not zapped. See also [*oriental food*](../O/oriental-food.html), [*laser chicken*](../L/laser-chicken.html). See [*zap*](zap.html), senses 1 and 2.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+zap 
+Home
+ Zawinski's Law
+
+
+---
+
+
+
+Zawinski's Law
+
+Prev 
+Z
+ Next
+
+------------------------------------------------------------------------
+
+**Zawinski's Law**
+
+“Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can.” Coined by Jamie Zawinski (who called it the “Law of Software Envelopment”) to express his belief that all truly useful programs experience pressure to evolve into toolkits and application platforms (the mailer thing, he says, is just a side effect of that). It is commonly cited, though with widely varying degrees of accuracy.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+zapped 
+Home
+ zbeba
+
+
+---
+
+
+
+zbeba
+
+Prev 
+Z
+ Next
+
+------------------------------------------------------------------------
+
+**zbeba**: n.
+
+\[USENET\] The word ‘moron’ in [*rot13*](../R/rot13.html). Used to describe newbies who are behaving with especial cluelessness.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Zawinski's Law 
+Home
+ zen
+
+
+---
+
+
+
+zen
+
+Prev 
+Z
+ Next
+
+------------------------------------------------------------------------
+
+**zen**: vt.
+
+To figure out something by meditation or by a sudden flash of enlightenment. Originally applied to bugs, but occasionally applied to problems of life in general. “How'd you figure out the buffer allocation problem?” “Oh, I zenned it.” Contrast [*grok*](../G/grok.html), which connotes a time-extended version of zenning a system. Compare [*hack mode*](../H/hack-mode.html). See also [*guru*](../G/guru.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+zbeba 
+Home
+ zero
+
+
+---
+
+
+
+zero
+
+Prev 
+Z
+ Next
+
+------------------------------------------------------------------------
+
+**zero**: vt.
+
+1\. To set to 0. Usually said of small pieces of data, such as bits or words (esp. in the construction zero out).
+
+2\. To erase; to discard all data from. Said of disks and directories, where ‘zeroing’ need not involve actually writing zeroes throughout the area being zeroed. One may speak of something being logically zeroed rather than being physically zeroed. See [*scribble*](../S/scribble.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+zen 
+Home
+ zero-content
+
+
+---
+
+
+
+zero-content
+
+Prev 
+Z
+ Next
+
+------------------------------------------------------------------------
+
+**zero-content**: adj.
+
+Syn. [*content-free*](../C/content-free.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+zero 
+Home
+ Zero-One-Infinity Rule
+
+
+---
+
+
+
+Zero-One-Infinity Rule
+
+Prev 
+Z
+ Next
+
+------------------------------------------------------------------------
+
+**Zero-One-Infinity Rule**: prov.
+
+“Allow none of [*foo*](../F/foo.html), one of [*foo*](../F/foo.html), or any number of [*foo*](../F/foo.html).” A rule of thumb for software design, which instructs one to not place [*random*](../R/random.html) limits on the number of instances of a given entity (such as: windows in a window system, letters in an OS's filenames, etc.). Specifically, one should either disallow the entity entirely, allow exactly one instance (an “exception”), or allow as many as the user wants — address space and memory permitting.
+
+The logic behind this rule is that there are often situations where it makes clear sense to allow one of something instead of none. However, if one decides to go further and allow N (for N \> 1), then why not N+1? And if N+1, then why not N+2, and so on? Once above 1, there's no excuse not to allow any N; hence, [*infinity*](../I/infinity.html).
+
+Many hackers recall in this connection Isaac Asimov's SF novel *The Gods Themselves* in which a character announces that the number 2 is impossible — if you're going to believe in more than one universe, you might as well believe in an infinite number of them.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+zero-content 
+Home
+ zeroth
+
+
+---
+
+
+
+zeroth
+
+Prev 
+Z
+ Next
+
+------------------------------------------------------------------------
+
+**zeroth**: /zee´rohth/, adj.
+
+First. Among software designers, comes from C's and LISP's 0-based indexing of arrays. Hardware people also tend to start counting at 0 instead of 1; this is natural since, e.g., the 256 states of 8 bits correspond to the binary numbers 0, 1, ..., 255 and the digital devices known as counters count in this way.
+
+Hackers and computer scientists often like to call the first chapter of a publication ‘Chapter 0’, especially if it is of an introductory nature (one of the classic instances was in the First Edition of [*K&R*](../K/K-ampersand-R.html)). In recent years this trait has also been observed among many pure mathematicians (who have an independent tradition of numbering from 0). Zero-based numbering tends to reduce [*fencepost error*](../F/fencepost-error.html)s, though it cannot eliminate them entirely.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Zero-One-Infinity Rule 
+Home
+ zigamorph
+
+
+---
+
+
+
+zigamorph
+
+Prev 
+Z
+ Next
+
+------------------------------------------------------------------------
+
+**zigamorph**: /zig'@·morf/, n.
+
+1\. Hex FF (11111111) when used as a delimiter or [*fence*](../F/fence.html) character. Usage: primarily at IBM shops.
+
+2\. \[proposed\] n. The Unicode non-character U+FFFF (1111111111111111), a character code which is not assigned to any character, and so is usable as end-of-string. (Unicode is a 16-bit character code intended to cover all of the world's writing systems, including Latin, Greek, Cyrillic, Chinese, hiragana, katakana, Devanagari, Thai, Laotian and many other scripts — support for [*elvish*](../E/elvish.html) is planned for a future release).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+zeroth 
+Home
+ zip
+
+
+---
+
+
+
+zip
+
+Prev 
+Z
+ Next
+
+------------------------------------------------------------------------
+
+**zip**: vt.
+
+\[primarily MS-DOS/Windows\] To create a compressed archive from a group of files using PKWare's PKZIP or a compatible archiver. Its use is spreading now that portable implementations of the algorithm have been written. Commonly used as follows: “I'll zip it up and send it to you.” See [*tar and feather*](../T/tar-and-feather.html).
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+zigamorph 
+Home
+ zipperhead
+
+
+---
+
+
+
+zipperhead
+
+Prev 
+Z
+ Next
+
+------------------------------------------------------------------------
+
+**zipperhead**: n.
+
+\[IBM\] A person with a closed mind.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+zip 
+Home
+ zombie
+
+
+---
+
+
+
+zombie
+
+Prev 
+Z
+ Next
+
+------------------------------------------------------------------------
+
+**zombie**: n.
+
+1\. \[Unix\] A process that has died but has not yet relinquished its process table slot (because the parent process hasn't executed a wait(2) for it yet). These can be seen in ps(1) listings occasionally. Compare [*orphan*](../O/orphan.html).
+
+2\. A machine, especially someone's [*home box*](../H/home-box.html), that has been cracked and is being used as part of a second-stage attack by miscreants trying to mask their home IP address. Especially used of machines being exploited in large gangs for a mechanized denial-of-service attack like Tribe Flood Network; the image that goes with this is of a veritable army of zombies mindlessly doing the bidding of a necromancer.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+zipperhead 
+Home
+ zorch
+
+
+---
+
+
+
+zorch
+
+Prev 
+Z
+ Next
+
+------------------------------------------------------------------------
+
+**zorch**: /zorch/
+
+1\. \[TMRC\] v. To attack with an inverse heat sink.
+
+2\. \[TMRC\] v. To travel, with `v` approaching `c` \[that is, with velocity approaching lightspeed —ESR\].
+
+3\. \[MIT\] v. To propel something very quickly. “The new comm software is very fast; it really zorches files through the network.”
+
+4\. \[MIT\] n. Influence. Brownie points. Good karma. The intangible and fuzzy currency in which favors are measured. “I'd rather not ask him for that just yet; I think I've used up my quota of zorch with him for the week.”
+
+5\. \[MIT\] n. Energy, drive, or ability. “I think I'll [*punt*](../P/punt.html) that change for now; I've been up for 30 hours and I've run out of zorch.”
+
+6\. \[MIT\] v. To flunk an exam or course.
+
+A track called *Zorch* was the B-side of a single called *Captain Hideous*, released by novelty artist Nervous Norvous in 1955. Norvous was heavily influemced by a radio comedian named Red Blanchard; the word “zorch” appears to have been coined on Blanchard's show in the early 1950s. The word itself had no meaning, but there where compounds using it that did — “zorch cow”, for example, was a variant of the Chicago-area slang “black cow” for a root beer float.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+zombie 
+Home
+ Zork
+
+
+---
+
+
+
+Zork
+
+Prev 
+Z
+ Next
+
+------------------------------------------------------------------------
+
+**Zork**: /zork/, n.
+
+The second of the great early experiments in computer fantasy gaming; see [*ADVENT*](../A/ADVENT.html). Originally written on MIT-DM during 1977-1979, later distributed with BSD Unix (as a patched, sourceless RT-11 FORTRAN binary; see [*retrocomputing*](../R/retrocomputing.html)) and commercialized as ‘The Zork Trilogy’ by [*Infocom*](../I/Infocom.html). The FORTRAN source was later rewritten for portability and released to Usenet under the name “Dungeon”. Both FORTRAN “Dungeon” and translated C versions are available at many FTP sites; the commercial Zork trilogy is available at http://www.ifarchive.org/. See also [*grue*](../G/grue.html). You can play Zork via a Java Applet.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+zorch 
+Home
+ zorkmid
+
+
+---
+
+
+
+zorkmid
+
+Prev 
+Z
+ Next
+
+------------------------------------------------------------------------
+
+**zorkmid**: /zork´mid/, n.
+
+The canonical unit of currency in hacker-written games. This originated in [*Zork*](Zork.html) but has spread to [*nethack*](../N/nethack.html) and is referred to in several other games.
+
+------------------------------------------------------------------------
+
+Prev 
+Up
+ Next
+
+Zork 
+Home
+ Part III. Appendices
+
+
+---
+
