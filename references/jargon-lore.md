@@ -182,10 +182,10 @@ documentation norms than the cathedral model.
 
 ## How to Use This Reference
 
-When a design pattern, failure mode, or cultural situation matches an entry here,
-cite it by name in a DESIGN NOTE. Never invent folklore.
+Use this for cultural context — to explain things in terms Unix people and hackers will
+immediately recognize, or to write documentation that feels at home in the tradition.
+Mentioning that a design repeats the mistakes of "cargo cult programming" or echoes the
+"SNAFU principle" communicates something that a purely technical description misses.
 
-Prefer entries defined here (pre-curated with design implications). For anything not
-covered, look it up in `documentation/jargon.md` — do not cite from memory.
-
-> "DESIGN NOTE: This mirrors [entry name] from hacker lore — [one-sentence description from the entry]."
+For anything not covered here, the full Jargon File is in `documentation/jargon.md`.
+Don't invent or misremember entries — the Jargon File is authoritative.

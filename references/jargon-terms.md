@@ -340,10 +340,10 @@ review context: "Does anyone on the team grok the memory model here, or are we g
 
 ## How to Use This Reference
 
-Apply terms at SUGGESTION level only. They supplement but do not replace
-VIOLATION or WARNING entries for actual convention violations.
+These terms exist to communicate precisely with Unix people and hackers. Use them
+naturally in documentation, comments, and explanations — not as a checklist to run
+against code. "This API is bletcherous" or "the config file has become crufty" conveys
+more to the intended audience than a generic description would.
 
-Prefer terms defined here (pre-curated with design implications). For anything not
-covered, look it up in `documentation/jargon.md` — do not use terms from memory alone.
-
-> "SUGGESTION: This interface is [term] — [definition from entry]. Consider [alternative]."
+For anything not covered here, the full Jargon File is in `documentation/jargon.md`.
+Don't use a term you're not confident about — look it up first.

@@ -18,8 +18,7 @@ Enforce code and documentation against four canonical sources: *The Art of Unix 
 | Review C program | `gnu-coding-standards.md`, `cli-conventions.md` |
 | Write or review man page | `man-page-format.md` |
 | Review `--help` / `--version` output | `cli-conventions.md`, `gnu-coding-standards.md` |
-| Unix philosophy / design review | `taoup-principles.md`, `worse-is-better.md`, `jargon-lore.md` |
-| Code/design quality vocabulary review | `jargon-terms.md`, `taoup-principles.md` |
+| Unix philosophy / design review | `taoup-principles.md`, `worse-is-better.md`, `jargon-lore.md`, `jargon-terms.md` |
 
 Load only the references needed for the task. All references are in the `references/` subdirectory of this skill.
 
@@ -124,27 +123,23 @@ When a design decision pits interface elegance against implementation simplicity
 
 > "DESIGN NOTE: [option A] is simpler to implement; [option B] is cleaner to use. Worse is Better favors [option A]."
 
-### Jargon Lore Review
+### Jargon File
 
-Loaded for Unix philosophy and design reviews alongside `taoup-principles.md`.
-Never invent folklore — all citations must come from the Jargon File.
+The Jargon File is a cultural resource, not a ruleset. Use it for:
 
-1. When a design pattern matches a known incident or koan, cite it by name
-2. Format citations as: "DESIGN NOTE: This mirrors [entry] — [one-sentence description]."
-3. Use cultural context to explain *why* a pattern is valued or avoided, not just *that* it is
-4. Prefer entries in `jargon-lore.md` (pre-curated with design implications); for anything not
-   there, look it up in `documentation/jargon.md` — do not cite from memory
+- **Vocabulary:** When writing docs, comments, or explanations, reach for the right hacker
+  term. "Crufty", "kludge", "elegant", "hairy" — these carry precise meaning to Unix people
+  and communicate more than a generic description would.
+- **Analogies:** When explaining why a design pattern is good or bad, a Jargon File analogy
+  can make it immediately recognizable. A Unix person who hears "cargo cult programming" or
+  "creeping featurism" understands instantly.
+- **Lore:** When writing for an audience of hackers, cultural touchstones (foo/bar, the Great
+  Worm, ITS, the hacker ethic) create shared context and signal that the author knows the
+  tradition.
 
-### Jargon Terms Review
-
-Loaded for code/design quality reviews. Use vocabulary from `jargon-terms.md`
-to name design smells precisely. Terms appear at SUGGESTION level only.
-
-1. Apply positive/negative quality terms accurately (elegant, kludge, bletcherous, etc.)
-2. Terms supplement but do not replace VIOLATION/WARNING entries for convention violations
-3. Format as: "SUGGESTION: This design is [term] — [definition]. Consider [alternative]."
-4. Prefer terms in `jargon-terms.md` (pre-curated with design implications); for anything not
-   there, look it up in `documentation/jargon.md` — do not use terms from memory alone
+Use `jargon-terms.md` for design vocabulary and `jargon-lore.md` for cultural references.
+For anything not covered there, `documentation/jargon.md` has the full text. Don't invent
+entries or use terms you're not confident about — the Jargon File is authoritative.
 
 ## Reporting Format
 
