@@ -34,11 +34,53 @@ log() { [[ "$VERBOSE" -eq 1 ]] && printf 'fetch-jargon: %s\n' "$*" >&2 || true; 
 
 LETTERS=(0 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z)
 APPENDICES=(
+    # Introduction and conventions
+    online-preface.html
+    introduction.html
+    lexicon.html
+    conventions.html
+    pronunciation.html
+    # Word construction and speech patterns
+    construction.html
+    overgeneralization.html
+    verb-doubling.html
+    p-convention.html
+    comparatives.html
+    soundalike-slang.html
+    inarticulations.html
+    # Communication style
+    speech-style.html
+    writing-style.html
+    email-style.html
+    communication_style.html
+    international-style.html
+    # Appendix A: Hacker Folklore
     appendixa.html
     story-of-mel.html
     os-and-jedgar.html
     meaning-of-hack.html
+    koans.html
+    magic-story.html
+    # Appendix B: Portrait of J. Random Hacker
     appendixb.html
+    demographics.html
+    personality.html
+    dress.html
+    appearance.html
+    physical.html
+    education.html
+    reading_habits.html
+    other-interests.html
+    food.html
+    politics.html
+    religion.html
+    sex.html
+    anthropomorphization.html
+    weaknesses.html
+    hates.html
+    miscellaneous.html
+    crackers.html
+    distinctions.html
 )
 
 > "$OUT"
