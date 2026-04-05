@@ -56,7 +56,8 @@ for letter in $LETTERS; do
         entry_file="$_TMPDIR/$(echo "$entry_rel" | tr '/' '_')"
         log "  fetching $entry_rel..."
         if wget -q -O "$entry_file" "$entry_url" 2>/dev/null; then
-            pandoc -f html -t commonmark --wrap=none "$entry_file" \
+            perl -0777 -pe 's/<div class="nav(?:header|footer)">.*?<\/div>//gs' "$entry_file" \
+                | pandoc -f html -t commonmark --wrap=none \
                 | perl -0777 -pe 's/<[^>]+>//g; s/\n{3,}/\n\n/g' >> "$OUT"
             printf '\n---\n\n' >> "$OUT"
         else
