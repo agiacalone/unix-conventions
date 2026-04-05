@@ -1,7 +1,6 @@
 #!/bin/bash
 set -euo pipefail
 
-_TMPDIR=$(mktemp -d)
 OUT="taoup.md"
 BASE_URL="http://catb.org/esr/writings/taoup/html"
 VERBOSE=0
@@ -13,6 +12,8 @@ usage() {
     printf '  -o FILE    write output to FILE (default: taoup.md)\n'
     printf '  -v         verbose output\n'
     printf '  -h         display this help and exit\n'
+    printf '\n'
+    printf 'Report bugs to: https://github.com/agiacalone/unix-conventions/issues\n'
     exit 0
 }
 
@@ -25,12 +26,13 @@ while getopts 'o:vh' opt; do
     esac
 done
 
-log() { [[ "$VERBOSE" -eq 1 ]] && printf 'fetch-taoup: %s\n' "$*" >&2 || true; }
-
+_TMPDIR=$(mktemp -d)
 cleanup() {
     rm -rf "$_TMPDIR"
 }
 trap cleanup EXIT
+
+log() { [[ "$VERBOSE" -eq 1 ]] && printf 'fetch-taoup: %s\n' "$*" >&2 || true; }
 
 log "downloading TAOUP HTML..."
 wget -q -r -l1 -nd -A "*.html" "$BASE_URL/" -P "$_TMPDIR"

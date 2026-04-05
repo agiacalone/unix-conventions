@@ -1,17 +1,18 @@
 # unix-conventions
 
-A Claude Code skill for reviewing and writing code and documentation against Unix conventions.
+A Claude Code skill for honoring Unix tradition in CLI tools, shell scripts, C programs, and documentation.
 
 ## Description
 
-`unix-conventions` provides checklists, reference documents, and reporting conventions drawn from three canonical sources:
+`unix-conventions` provides checklists, reference documents, and reporting conventions drawn from five canonical sources:
 
 - *The Art of Unix Programming* (ESR) — the 17 Rules and Unix philosophy
 - POSIX (IEEE Std 1003.1) — option syntax, exit codes, standard streams, filter pattern
 - GNU Coding Standards — error format, standard options, shell scripting rules, C style
 - "Worse is Better" (R.P. Gabriel, 1989) — implementation simplicity as a design priority
+- The Jargon File (Community Edition) — hacker vocabulary, lore, and the accumulated wisdom of the tradition
 
-The skill applies to CLI tools, shell scripts, C programs, man pages, and `--help`/`--version` output.
+The skill applies to CLI tools, shell scripts, C programs, man pages, `--help`/`--version` output, and anything where writing for hackers matters.
 
 ## Installation
 
@@ -37,8 +38,11 @@ references/
   gnu-coding-standards.md  GNU error format, standard options, shell scripting, C style
   man-page-format.md       man page sections, macros, writing style
   worse-is-better.md       Gabriel's four properties and when to apply them
+  jargon-lore.md           curated hacker lore: koans, incidents, cultural touchstones
+  jargon-terms.md          curated vocabulary: design quality signals and hacker terminology
 documentation/
   taoup.md                 The Art of Unix Programming (full text, Markdown)
+  jargon.md                The Jargon File, Community Edition (full text, Markdown)
   taoup.pdf                The Art of Unix Programming (PDF)
   posix-conventions.txt    POSIX utility conventions summary (original)
   gnu-coding-standards.txt GNU Coding Standards (fetched from gnu.org)
@@ -75,6 +79,20 @@ Usage: fetch-gnu-standards [-v] [-o FILE]
 ```
 
 Requires `wget`.
+
+## fetch-jargon.sh
+
+Fetches the Jargon File (Community Edition) from GitHub Pages and converts it to Markdown.
+
+```
+Usage: fetch-jargon [-v] [-o FILE]
+
+  -o FILE    write output to FILE (default: documentation/jargon.md)
+  -v         verbose output
+  -h         display this help and exit
+```
+
+Requires `wget` and `pandoc`.
 
 ## documentation/posix-conventions.txt
 
