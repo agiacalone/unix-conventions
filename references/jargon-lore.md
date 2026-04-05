@@ -120,6 +120,42 @@ it as the first syllable of the Tibetan chant "FOO MANE PADME HUM." See also *ba
 **Reach for it when:** You need throwaway example names in specs and docs.
 Using domain-specific names implies meaning where none is intended.
 
+### bar / baz / foobar / quux
+
+**bar** /bar/: The second metasyntactic variable, after *foo* and before *baz*. "Suppose we
+have two functions: FOO and BAR. FOO calls BAR...."
+
+**baz** /baz/: The third metasyntactic variable. Also used as a mild interjection of
+annoyance, sometimes drawn out (/baaaaaaz/) for effect.
+
+**foobar** /foo´bar/: [very common] Another widely used metasyntactic variable; the
+combination of *foo* and *bar*. Propagated early through DEC manuals. Hackers do not
+generally use this to mean FUBAR.
+
+**quux** /kwuhks/: The fourth metasyntactic variable, after foo/bar/baz. Invented by Guy
+Steele. Also used as a mild interjection.
+
+The canonical sequence is foo → bar → baz → quux → foobar. Use them in that order for
+throwaway names; mixing in domain-specific terms for the first few examples muddies what
+is and isn't meaningful.
+
+### RTFM
+
+/R·T·F·M/, imp. [Unix] "Read The Fucking Manual."
+
+1. Used by gurus to brush off questions they consider trivial or annoying — the implication
+   being that the answer is already written down somewhere the asker hasn't bothered to look.
+
+2. Used (politely) when *reporting* a problem to signal that you have already done your
+   homework: "I can't get this to link, and yes, I have RTFM."
+
+Variants: RTFS ("Read The Fucking Source") when the manual doesn't exist or doesn't help;
+RTFB ("Read The Fucking Book") for published references.
+
+**Reach for it when:** Writing about the expectation that users or contributors will do
+basic research before escalating — "RTFM culture" is a recognizable shorthand for a
+community that values self-sufficiency.
+
 ### hacker ethic
 
 1. The belief that information-sharing is a powerful positive good, and that it is an

@@ -34,6 +34,20 @@ to the touch, often with encrusted junk. 3. Generally unpleasant.
 **Reach for it when:** Code has accumulated patches, dead branches, or superseded
 structures — "This module is crufty" communicates the flavor instantly to a Unix person.
 
+### lose / lossage
+
+**lose** /looz/, vi. [very common] To fail. A program loses when it encounters an
+exceptional condition or fails to work in the expected manner. Also used as a noun: "That's
+a lose." The antonym is *win*.
+
+**lossage** /los´@j/, n. [very common] The result of a bug or malfunction; a mass noun.
+"What lossage!" implies a continuing lose of which the speaker is currently a victim. A
+temporary hardware failure is a loss; bugs in a critical tool (like a compiler) are serious
+lossage.
+
+**Reach for it when:** Something has failed or is actively broken — *lose* as verb or noun
+for a specific failure; *lossage* for the accumulated badness of an ongoing problem.
+
 ### bletcherous
 
 /blech'@·r@s/, adj. Disgusting in design or function; esthetically unappealing. Applies
@@ -54,6 +68,17 @@ crippled demo software.
 **Reach for it when:** A design decision has no plausible rationale — harder than
 *bletcherous* (aesthetic) or *losing* (failing); *brain-damaged* implies the designer
 actively chose wrong.
+
+### bikeshedding
+
+/bike´shed·ing/, n. [originally BSD, now common] Technical disputes over minor, marginal
+issues conducted while more important ones are being overlooked. The implied image is of
+people arguing over what color to paint the bicycle shed while the house is not yet
+finished.
+
+**Reach for it when:** A discussion has drifted to low-stakes stylistic details while a
+harder, more consequential question goes unaddressed — "we're bikeshedding the variable
+names" is a precise diagnosis.
 
 ### creeping featurism
 
@@ -91,6 +116,17 @@ specific wart by its behavior — "The `--no-verify` flag is a wart; it breaks t
 clean pipeline model" lands harder than a generic complaint.
 
 ## Design Quality — Positive
+
+### win
+
+/win/, vi./n. [MIT; now common everywhere] To succeed. A program wins if no unexpected
+conditions arise, or if it is robust enough to take exceptions in stride. As a noun: a
+pleasing outcome. "So it turned out I could use a lexer generator instead of hand-coding
+my own pattern recognizer. What a win!" Emphatic forms: *moby win*, *super win*,
+*hyper-win*. The antonym is *lose*.
+
+**Reach for it when:** Something worked out well, especially unexpectedly so — "what a
+win" communicates both the outcome and the pleasure precisely.
 
 ### elegant
 
@@ -137,6 +173,18 @@ never know."
 user problem.
 
 ## Complexity Signals
+
+### bit rot
+
+n. [common] Also *bit decay*. The hypothetical disease deduced from the observation that
+unused programs or features will stop working after sufficient time has passed, even if
+"nothing has changed." The theory: bits decay as if radioactive. The practical cause is
+that everything around the code changes — OS interfaces, compilers, dependencies — while
+the code itself stays frozen. *Software rot* is nearly synonymous: software rot is the
+effect, bit rot the notional cause.
+
+**Reach for it when:** Code or a feature has stopped working not because it was changed,
+but because the world around it moved on — bit rot names the phenomenon memorably.
 
 ### magic
 
@@ -250,6 +298,28 @@ be specific about *why* it's harmful and under what conditions, not just that it
 bad reputation.
 
 ## Humor and Sarcasm
+
+### Real Soon Now / RSN
+
+adv. [orig. from SF fanzine community] 1. Supposedly available (or fixed, or cheap, or
+whatever) according to somebody, but the speaker is quite skeptical. 2. When the speaker's
+gods, fates, or commitments permit them to get to it — i.e., don't hold your breath. Often
+abbreviated RSN.
+
+**Reach for it when:** A deadline or delivery is promised but the speaker has no confidence
+in it — "that feature is Real Soon Now" communicates appropriate skepticism without
+requiring a full argument.
+
+### TANSTAAFL
+
+/tan´stah·fl/, n./interj. [from Robert Heinlein's *The Moon is a Harsh Mistress*]
+"There Ain't No Such Thing As A Free Lunch." Invoked when someone is balking at the
+complexity, cost, or quality of something as if a better deal were available — "Well,
+TANSTAAFL, you know." Popular in hackerdom partly due to its Heinlein provenance and the
+high concentration of SF fans and libertarians in the community.
+
+**Reach for it when:** Someone wants the benefits of a design decision without the costs —
+TANSTAAFL makes the tradeoff explicit in a way that's instantly recognizable.
 
 ### bogosity
 
