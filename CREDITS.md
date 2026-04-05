@@ -41,6 +41,15 @@ the terms of the GNU FDL. Error message format, standard options (`--help`,
 Section ordering, macro usage, and writing style in `references/man-page-format.md`
 follow the conventions established by these sources and the Linux man-pages project.
 
+## The Jargon File (Community Edition)
+- **Maintainer:** Anthony Giacalone — [agiacalone/jargonfile](https://github.com/agiacalone/jargonfile)
+- **Original author:** Eric S. Raymond
+- **Online:** https://agiacalone.github.io/jargonfile/
+- **License:** see repository
+
+The curated entries in `references/jargon-lore.md` and `references/jargon-terms.md`
+are drawn from this source. The full text is reproduced in `documentation/jargon.md`.
+
 ---
 
 This skill was assembled to codify these traditions in a form usable by AI-assisted
