@@ -1,7 +1,6 @@
 #!/bin/bash
 set -euo pipefail
 
-_TMPDIR=$(mktemp -d)
 OUT="documentation/jargon.md"
 BASE_URL="https://agiacalone.github.io/jargonfile/html"
 VERBOSE=0
@@ -13,6 +12,8 @@ usage() {
     printf '  -o FILE    write output to FILE (default: documentation/jargon.md)\n'
     printf '  -v         verbose output\n'
     printf '  -h         display this help and exit\n'
+    printf '\n'
+    printf 'Report bugs to: https://github.com/agiacalone/unix-conventions/issues\n'
     exit 0
 }
 
@@ -25,15 +26,16 @@ while getopts 'o:vh' opt; do
     esac
 done
 
-log() { [[ "$VERBOSE" -eq 1 ]] && printf 'fetch-jargon: %s\n' "$*" >&2 || true; }
-
+_TMPDIR=$(mktemp -d)
 cleanup() { rm -rf "$_TMPDIR"; }
 trap cleanup EXIT
 
-LETTERS="0 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
+log() { [[ "$VERBOSE" -eq 1 ]] && printf 'fetch-jargon: %s\n' "$*" >&2 || true; }
+
+LETTERS=(0 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z)
 
 > "$OUT"
-for letter in $LETTERS; do
+for letter in "${LETTERS[@]}"; do
     index_url="$BASE_URL/$letter.html"
     index_file="$_TMPDIR/${letter}_index.html"
     log "downloading index: $letter.html..."
@@ -53,7 +55,7 @@ for letter in $LETTERS; do
     printf '\n## %s\n\n' "$letter" >> "$OUT"
     while IFS= read -r entry_rel; do
         entry_url="$BASE_URL/$entry_rel"
-        entry_file="$_TMPDIR/$(echo "$entry_rel" | tr '/' '_')"
+        entry_file="$_TMPDIR/${entry_rel//\//_}"
         log "  fetching $entry_rel..."
         if wget -q -O "$entry_file" "$entry_url" 2>/dev/null; then
             perl -0777 -pe 's/<div class="nav(?:header|footer)">.*?<\/div>//gs' "$entry_file" \

@@ -12,6 +12,8 @@ usage() {
     printf '  -o FILE    write output to FILE (default: %s)\n' "$OUT"
     printf '  -v         verbose output\n'
     printf '  -h         display this help and exit\n'
+    printf '\n'
+    printf 'Report bugs to: https://github.com/agiacalone/unix-conventions/issues\n'
     exit 0
 }
 
