@@ -7,7 +7,7 @@ description: Use when reviewing or writing CLI tools, shell scripts, C programs,
 
 ## Overview
 
-Keep code and documentation honest to Unix tradition. Five canonical sources:
+Honor Unix tradition in code, documentation, and design. Five canonical sources:
 
 - *The Art of Unix Programming* (ESR) — the 17 Rules; the philosophy behind why Unix works
 - POSIX — option syntax, exit codes, streams; the portable baseline every Unix tool must meet

@@ -1,6 +1,6 @@
 # unix-conventions
 
-A Claude Code skill for keeping CLI tools, shell scripts, C programs, and documentation honest to Unix tradition.
+A Claude Code skill for honoring Unix tradition in CLI tools, shell scripts, C programs, and documentation.
 
 ## Description
 
