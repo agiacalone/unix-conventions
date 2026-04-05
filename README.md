@@ -10,7 +10,7 @@ A Claude Code skill for honoring Unix tradition in CLI tools, shell scripts, C p
 - POSIX (IEEE Std 1003.1) — option syntax, exit codes, standard streams, filter pattern
 - GNU Coding Standards — error format, standard options, shell scripting rules, C style
 - "Worse is Better" (R.P. Gabriel, 1989) — implementation simplicity as a design priority
-- The Jargon File (Community Edition) — hacker vocabulary, lore, and the accumulated wisdom of the tradition
+- The Jargon File (Community Edition) — hacker vocabulary and lore; how to write for an audience that groks the tradition
 
 The skill applies to CLI tools, shell scripts, C programs, man pages, `--help`/`--version` output, and anything where writing for hackers matters.
 
@@ -82,7 +82,7 @@ Requires `wget`.
 
 ## fetch-jargon.sh
 
-Fetches the Jargon File (Community Edition) from GitHub Pages and converts it to Markdown.
+Fetches the Jargon File (Community Edition) from GitHub Pages and converts it to Markdown. Includes all letter entries, linguistic conventions, speech/writing/email style chapters, and appendices (Story of Mel, AI Koans, J. Random Hacker portrait).
 
 ```
 Usage: fetch-jargon [-v] [-o FILE]
